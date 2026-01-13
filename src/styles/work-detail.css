@@ -1,0 +1,572 @@
+/* Work Detail Page - Self-contained styles */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* CSS Variables */
+:root {
+  --pink: #ec4899;
+  --purple: #a855f7;
+  --cyan: #06b6d4;
+  --yellow: #eab308;
+  --orange: #f97316;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.work-detail-page {
+  font-family: 'Inter', sans-serif;
+  background: #fff;
+  color: #000;
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+/* Override global section styles - ensure normal scroll behavior */
+.work-detail-page section {
+  height: auto;
+  overflow: visible;
+  overflow-y: visible;
+  overflow-x: visible;
+  display: block;
+}
+
+/* Ensure body can scroll on work-detail page */
+body.is-work-detail-page {
+  overflow: auto !important;
+  overflow-y: auto !important;
+}
+
+/* Navigation uses common.css styles */
+
+/* ========================================
+   FLOATING BACKGROUND SHAPES
+   ======================================== */
+
+.work-detail-page .bg-shapes {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.work-detail-page .bg-shape {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(80px);
+  opacity: 0.4;
+  transition: transform 0.1s ease-out, opacity 0.5s ease, filter 0.5s ease;
+  will-change: transform;
+}
+
+.work-detail-page .shape-1 {
+  width: 500px;
+  height: 500px;
+  background: linear-gradient(135deg, var(--pink) 0%, var(--purple) 100%);
+  top: -100px;
+  right: -100px;
+}
+
+.work-detail-page .shape-2 {
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(135deg, var(--cyan) 0%, var(--purple) 100%);
+  bottom: 20%;
+  left: -150px;
+}
+
+.work-detail-page .shape-3 {
+  width: 300px;
+  height: 300px;
+  background: linear-gradient(135deg, var(--yellow) 0%, var(--orange) 100%);
+  top: 50%;
+  right: 10%;
+}
+
+/* Shape states based on scroll position */
+.work-detail-page .bg-shape.blur-more {
+  filter: blur(120px);
+  opacity: 0.3;
+}
+
+.work-detail-page .bg-shape.blur-less {
+  filter: blur(50px);
+  opacity: 0.5;
+}
+
+.work-detail-page .bg-shape.scale-up {
+  transform: scale(1.3);
+}
+
+.work-detail-page .bg-shape.scale-down {
+  transform: scale(0.7);
+}
+
+/* ========================================
+   MAIN CONTENT
+   ======================================== */
+
+.work-detail-page .detail-content {
+  padding-top: 0;
+  position: relative;
+  z-index: 1;
+}
+
+/* Detail Hero */
+.work-detail-page .detail-hero {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 12rem 2rem 5rem;
+  background-color: #1a1a1a;
+  text-align: center;
+  margin-bottom: 1em;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Animated gradient background */
+.work-detail-page .detail-hero::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(236, 72, 153, 0.15) 0%, transparent 50%),
+              radial-gradient(circle at 80% 20%, rgba(168, 85, 247, 0.1) 0%, transparent 40%),
+              radial-gradient(circle at 20% 80%, rgba(6, 182, 212, 0.1) 0%, transparent 40%);
+  animation: heroGradientMove 15s ease-in-out infinite;
+  z-index: 0;
+}
+
+/* Subtle particle/dot effect */
+.work-detail-page .detail-hero::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px);
+  background-size: 50px 50px;
+  opacity: 0.5;
+  z-index: 0;
+}
+
+@keyframes heroGradientMove {
+  0%, 100% {
+    transform: translate(0, 0) rotate(0deg);
+  }
+  25% {
+    transform: translate(2%, 2%) rotate(1deg);
+  }
+  50% {
+    transform: translate(-1%, 3%) rotate(-1deg);
+  }
+  75% {
+    transform: translate(-2%, -1%) rotate(0.5deg);
+  }
+}
+
+.work-detail-page .detail-title {
+  font-family: 'Inter', sans-serif;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 600;
+  color: #ffffff;
+  line-height: 1.3;
+  position: relative;
+  z-index: 1;
+  text-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+  margin: 0;
+}
+
+/* Enhanced fade-up animation for hero title */
+.work-detail-page .detail-hero .fade-up {
+  opacity: 0;
+  transform: translateY(40px);
+  animation: heroFadeUp 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation-delay: 0.3s;
+}
+
+@keyframes heroFadeUp {
+  0% {
+    opacity: 0;
+    transform: translateY(40px) scale(0.95);
+    filter: blur(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+}
+
+/* Back Button - Floating */
+.work-detail-page .back-btn {
+  position: fixed;
+  top: 50%;
+  left: 1.5rem;
+  transform: translateY(-50%);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.8rem 1.2rem;
+  background: rgba(0, 0, 0, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 50px;
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+  z-index: 1000;
+  opacity: 0;
+  animation: backBtnFadeIn 0.6s ease forwards;
+  animation-delay: 0.8s;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.work-detail-page .back-btn:hover {
+  background: rgba(0, 0, 0, 0.85);
+  border-color: var(--pink);
+  color: #fff;
+  padding-left: 1rem;
+  box-shadow: 0 4px 25px rgba(236, 72, 153, 0.3);
+}
+
+.work-detail-page .back-btn svg {
+  transition: transform 0.3s ease;
+}
+
+.work-detail-page .back-btn:hover svg {
+  transform: translateX(-3px);
+}
+
+@keyframes backBtnFadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+/* Glowing underline effect on title */
+.work-detail-page .detail-title::after {
+  content: '';
+  position: absolute;
+  bottom: -15px;
+  left: 50%;
+  transform: translateX(-50%) scaleX(0);
+  width: 80px;
+  height: 3px;
+  background: linear-gradient(90deg, var(--pink), var(--purple));
+  border-radius: 2px;
+  animation: underlineExpand 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation-delay: 1s;
+  box-shadow: 0 0 20px var(--pink);
+}
+
+/* ========================================
+   CONTENT SECTIONS
+   ======================================== */
+
+.work-detail-page .content-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+  opacity: 0;
+  transform: translateY(60px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.work-detail-page .content-section.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.work-detail-page .content-section.full-width {
+  max-width: 100%;
+  padding: 1rem 0;
+}
+
+/* Section Header */
+.work-detail-page .section-header {
+  margin-bottom: 1rem;
+}
+
+.work-detail-page .section-tag {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: #999;
+  text-transform: uppercase;
+}
+
+.work-detail-page .section-tag.highlight {
+  color: var(--pink);
+}
+
+/* Overview Section */
+.work-detail-page .overview-desc {
+  font-size: 1rem;
+  color: #666;
+  line-height: 1.8;
+}
+
+/* Challenge Section */
+.work-detail-page .challenge-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.work-detail-page .challenge-item {
+  padding: 1.5rem;
+  background: #f8f9fa;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.work-detail-page .challenge-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.work-detail-page .challenge-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #000;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.work-detail-page .challenge-desc {
+  font-size: 0.85rem;
+  color: #666;
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* Detail Image Section */
+.work-detail-page .detail-image-wrapper {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.work-detail-page .detail-image-wrapper img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 12px;
+}
+
+/* Dark Section */
+.work-detail-page .dark-section {
+  background: #1a1a1a;
+  color: #fff;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  padding: 6rem calc(50vw - 50%);
+  max-width: 100vw;
+}
+
+.work-detail-page .customer-voice {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.work-detail-page .voice-tag {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: var(--pink);
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.work-detail-page .voice-title {
+  font-family: 'Inter', sans-serif;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 1.5rem;
+}
+
+.work-detail-page .voice-desc {
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.8;
+  margin: 0;
+}
+
+/* ========================================
+   ANIMATIONS
+   ======================================== */
+
+.work-detail-page .fade-up {
+  opacity: 0;
+  transform: translateY(60px);
+  animation: fadeUp 1s forwards cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes fadeUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.work-detail-page .scale-up {
+  opacity: 0;
+  transform: scale(0.9);
+  animation: scaleUp 1s forwards cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes scaleUp {
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.work-detail-page .fade-in {
+  opacity: 0;
+  animation: fadeIn 1.2s forwards ease;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes underlineExpand {
+  0% {
+    transform: translateX(-50%) scaleX(0);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(-50%) scaleX(1);
+    opacity: 1;
+  }
+}
+
+.work-detail-page .stagger-1 { animation-delay: 0.1s; }
+.work-detail-page .stagger-2 { animation-delay: 0.2s; }
+.work-detail-page .stagger-3 { animation-delay: 0.3s; }
+.work-detail-page .stagger-4 { animation-delay: 0.4s; }
+.work-detail-page .stagger-5 { animation-delay: 0.5s; }
+
+/* Scroll Fade Animation Class */
+.work-detail-page .scroll-fade {
+  opacity: 0;
+  transform: translateY(60px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.work-detail-page .scroll-fade.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Footer uses common.css styles */
+
+/* ========================================
+   RESPONSIVE
+   ======================================== */
+
+@media (max-width: 992px) {
+  .work-detail-page .challenge-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  /* Smaller background shapes on mobile */
+  .work-detail-page .shape-1 {
+    width: 300px;
+    height: 300px;
+    top: -50px;
+    right: -80px;
+  }
+
+  .work-detail-page .shape-2 {
+    width: 250px;
+    height: 250px;
+    left: -100px;
+  }
+
+  .work-detail-page .shape-3 {
+    width: 200px;
+    height: 200px;
+  }
+
+  .work-detail-page .detail-hero {
+    padding: 9rem 1.5rem 3rem;
+  }
+
+  .work-detail-page .back-btn {
+    top: auto;
+    bottom: 2rem;
+    left: 1rem;
+    padding: 0.6rem 1rem;
+    font-size: 0.7rem;
+    transform: none;
+  }
+
+  .work-detail-page .detail-title {
+    font-size: 1.8rem;
+  }
+
+  .work-detail-page .content-section {
+    padding: 1.5rem 1.5rem;
+  }
+
+  .work-detail-page .challenge-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .work-detail-page .detail-image-wrapper {
+    padding: 0 1rem;
+  }
+
+  .work-detail-page .dark-section {
+    padding: 4rem 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .work-detail-page .detail-hero {
+    padding: 7rem 1rem 3rem;
+  }
+
+  .work-detail-page .back-btn {
+    bottom: 1.5rem;
+    left: 1rem;
+    padding: 0.5rem 0.8rem;
+    font-size: 0.65rem;
+    gap: 0.3rem;
+  }
+
+  .work-detail-page .back-btn svg {
+    width: 16px;
+    height: 16px;
+  }
+
+  .work-detail-page .back-btn span {
+    display: none;
+  }
+
+  .work-detail-page .detail-title {
+    font-size: 1.5rem;
+  }
+}

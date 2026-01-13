@@ -1,0 +1,1268 @@
+/* Main page specific body styles are applied via JavaScript in MainPage.jsx */
+
+/* Custom Cursor */
+.cursor {
+  width: 20px;
+  height: 20px;
+  border: 2px solid var(--yellow);
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none;
+  z-index: 10000;
+  transition: transform 0.15s ease;
+  mix-blend-mode: difference;
+}
+
+.cursor-follower {
+  width: 40px;
+  height: 40px;
+  border: 1px solid rgba(251, 191, 36, 0.3);
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none;
+  z-index: 9999;
+  transition: all 0.3s ease;
+}
+
+/* Main Page Navigation Override - Dark Theme by Default */
+nav.dark-mode {
+  background: transparent;
+  box-shadow: none;
+}
+
+nav.dark-mode .logo {
+  color: #fff;
+}
+
+nav.dark-mode .nav-links a {
+  color: #fff;
+}
+
+nav.dark-mode .nav-links a:hover {
+  color: var(--yellow);
+}
+
+nav.dark-mode .nav-btn {
+  border-color: #fff;
+  color: #fff;
+}
+
+nav.dark-mode .nav-btn:hover {
+  background: #fff;
+  color: #000;
+}
+
+nav.dark-mode .nav-btn.primary {
+  background: #fff;
+  color: #000;
+}
+
+nav.dark-mode .nav-btn.primary:hover {
+  background: var(--yellow);
+  border-color: var(--yellow);
+}
+
+/* Main Page Hamburger Override - White by Default */
+.hamburger.dark-mode span {
+  background: #fff;
+}
+
+/* Section Container */
+.container {
+  height: 100vh;
+  transition: transform 1.2s cubic-bezier(0.76, 0, 0.24, 1);
+}
+
+section {
+  height: 100vh;
+  position: relative;
+  overflow: hidden !important;
+  overflow-y: hidden !important;
+  overflow-x: hidden !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Footer는 스크롤 허용 */
+section#footer {
+  overflow-y: auto !important;
+}
+
+/* Animated Background Shapes */
+.shape {
+  position: absolute;
+  border-radius: 20px;
+  animation: float 20s infinite ease-in-out;
+}
+
+@keyframes float {
+  0%, 100% { transform: translate(0, 0) rotate(0deg); }
+  25% { transform: translate(100px, -100px) rotate(90deg); }
+  50% { transform: translate(-50px, 100px) rotate(180deg); }
+  75% { transform: translate(-150px, -50px) rotate(270deg); }
+}
+
+@keyframes float-reverse {
+  0%, 100% { transform: translate(0, 0) rotate(0deg); }
+  25% { transform: translate(-100px, 100px) rotate(-90deg); }
+  50% { transform: translate(50px, -100px) rotate(-180deg); }
+  75% { transform: translate(150px, 50px) rotate(-270deg); }
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.1); opacity: 1; }
+}
+
+/* Section 1: Hero (Main Page Only) */
+.main-hero {
+  background: #886CC7 !important;
+}
+
+.main-hero .shape-1 {
+  width: 400px;
+  height: 400px;
+  background: var(--yellow);
+  top: 10%;
+  right: 10%;
+  animation: float 15s infinite ease-in-out;
+}
+
+.main-hero .shape-2 {
+  width: 300px;
+  height: 500px;
+  background: var(--pink);
+  bottom: 5%;
+  left: 20%;
+  animation: float-reverse 18s infinite ease-in-out;
+}
+
+.main-hero .shape-3 {
+  width: 350px;
+  height: 250px;
+  background: var(--lime);
+  top: 40%;
+  left: 5%;
+  animation: float 20s infinite ease-in-out;
+}
+
+.main-hero .shape-4 {
+  width: 200px;
+  height: 200px;
+  background: var(--orange);
+  top: 5%;
+  right: 40%;
+  border-radius: 50%;
+  animation: float-reverse 12s infinite ease-in-out;
+}
+
+/* Triangle shapes */
+.triangle {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  position: absolute;
+  animation: float-triangle 15s infinite ease-in-out;
+}
+
+@keyframes float-triangle {
+  0%, 100% { transform: translate(0, 0) rotate(0deg); }
+  25% { transform: translate(80px, -80px) rotate(120deg); }
+  50% { transform: translate(-60px, 80px) rotate(240deg); }
+  75% { transform: translate(-100px, -60px) rotate(360deg); }
+}
+
+.main-hero .triangle-1 {
+  border-width: 0 100px 170px 100px;
+  border-color: transparent transparent var(--cyan) transparent;
+  top: 20%;
+  left: 25%;
+  animation-delay: 0.5s;
+}
+
+.main-hero .triangle-2 {
+  border-width: 120px 0 120px 200px;
+  border-color: transparent transparent transparent rgba(168, 85, 247, 0.8);
+  bottom: 20%;
+  right: 20%;
+  animation: float-triangle 18s infinite ease-in-out reverse;
+}
+
+.main-hero .hero-content {
+  text-align: center;
+  z-index: 10;
+  position: relative;
+}
+
+.main-hero .hero-title {
+  font-family: 'Bebas Neue', sans-serif !important;
+  font-size: clamp(3rem, 10vw, 8rem) !important;
+  line-height: 0.9 !important;
+  color: #000 !important;
+  margin-bottom: 2rem;
+  text-shadow: 2px 2px 0 rgba(255,255,255,0.3);
+  letter-spacing: -0.02em !important;
+}
+
+.main-hero .hero-title span {
+  display: block !important;
+  animation: slideIn 1s ease-out backwards;
+  letter-spacing: 0.02em !important;
+}
+
+.main-hero .hero-title .highlight {
+  position: relative;
+  display: inline-block !important;
+  text-shadow: 3px 3px 0 rgba(255,255,255,0.5);
+  transform: scale(1.05);
+  letter-spacing: 0.02em !important;
+}
+
+.main-hero .hero-title .highlight-fever {
+  color: var(--yellow) !important;
+}
+
+.main-hero .hero-title .highlight-bliss {
+  color: var(--cyan) !important;
+}
+
+.main-hero .hero-title .highlight-faith {
+  color: var(--purple) !important;
+}
+
+.main-hero .hero-title span:nth-child(1) { animation-delay: 0.2s; }
+.main-hero .hero-title span:nth-child(2) { animation-delay: 0.4s; }
+.main-hero .hero-title span:nth-child(3) { animation-delay: 0.6s; }
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(100px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Main Hero Scroll Down Icon */
+.main-hero .scroll-down-icon {
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.8rem;
+  cursor: pointer;
+  z-index: 10;
+  animation: bounce-down 2s ease-in-out infinite;
+}
+
+.main-hero .scroll-down-icon span {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: #fff;
+}
+
+.main-hero .scroll-down-icon .scroll-mouse {
+  width: 28px;
+  height: 45px;
+  border: 3px solid #fff;
+  border-radius: 20px;
+  position: relative;
+}
+
+.main-hero .scroll-down-icon .scroll-mouse::before {
+  content: '';
+  position: absolute;
+  top: 8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 4px;
+  height: 10px;
+  background: #fff;
+  border-radius: 2px;
+  animation: scroll-wheel 1.5s ease-in-out infinite;
+}
+
+@keyframes bounce-down {
+  0%, 100% { transform: translateX(-50%) translateY(0); }
+  50% { transform: translateX(-50%) translateY(10px); }
+}
+
+@keyframes scroll-wheel {
+  0% { opacity: 1; transform: translateX(-50%) translateY(0); }
+  100% { opacity: 0; transform: translateX(-50%) translateY(15px); }
+}
+
+/* Section 2: Fever */
+#fever {
+  background: #0a0a0a;
+}
+
+.particle {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 50%;
+  animation: explode 4s infinite ease-out;
+}
+
+@keyframes explode {
+  0% {
+    transform: translate(0, 0) scale(0);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate(var(--x), var(--y)) scale(1);
+    opacity: 0;
+  }
+}
+
+/* Fever Floating Triangles */
+.fever-float-triangle {
+  position: absolute;
+  clip-path: polygon(50% 0%, 100% 100%, 0% 100%);
+  background: var(--yellow);
+  opacity: 0.2;
+  animation: float-triangle-fever 20s infinite ease-in-out;
+}
+
+@keyframes float-triangle-fever {
+  0%, 100% {
+    transform: translate(0, 0) rotate(0deg);
+    opacity: 0.2;
+  }
+  25% {
+    transform: translate(150px, -100px) rotate(60deg);
+    opacity: 0.4;
+  }
+  50% {
+    transform: translate(-80px, 120px) rotate(120deg);
+    opacity: 0.3;
+  }
+  75% {
+    transform: translate(-180px, -80px) rotate(180deg);
+    opacity: 0.35;
+  }
+}
+
+#fever .fever-float-triangle-1 {
+  width: 200px;
+  height: 173px;
+  top: 15%;
+  left: 10%;
+  background: var(--yellow);
+  animation-delay: 0s;
+}
+
+#fever .fever-float-triangle-2 {
+  width: 150px;
+  height: 130px;
+  top: 60%;
+  left: 15%;
+  background: var(--orange);
+  animation-delay: 2s;
+  animation-duration: 18s;
+}
+
+#fever .fever-float-triangle-3 {
+  width: 250px;
+  height: 217px;
+  top: 20%;
+  right: 15%;
+  background: rgba(251, 191, 36, 0.3);
+  animation-delay: 1s;
+  animation-duration: 22s;
+}
+
+#fever .fever-float-triangle-4 {
+  width: 180px;
+  height: 156px;
+  bottom: 20%;
+  right: 20%;
+  background: var(--orange-light);
+  animation-delay: 3s;
+  animation-duration: 19s;
+}
+
+#fever .fever-float-triangle-5 {
+  width: 120px;
+  height: 104px;
+  top: 40%;
+  left: 30%;
+  background: var(--yellow-bright);
+  opacity: 0.3;
+  animation-delay: 1.5s;
+}
+
+#fever .fever-float-triangle-6 {
+  width: 220px;
+  height: 191px;
+  bottom: 15%;
+  left: 40%;
+  background: rgba(249, 115, 22, 0.25);
+  animation-delay: 4s;
+  animation-duration: 25s;
+}
+
+/* Fever Orbital Triangles */
+.fever-orbit {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: rotate-orbit 30s infinite linear;
+}
+
+.fever-orbit-2 {
+  width: 700px;
+  height: 700px;
+  animation: rotate-orbit 40s infinite linear reverse;
+}
+
+.fever-orbit-dot {
+  position: absolute;
+  width: 30px;
+  height: 26px;
+  clip-path: polygon(50% 0%, 100% 100%, 0% 100%);
+  background: var(--yellow);
+  box-shadow: 0 0 20px var(--yellow);
+}
+
+.fever-orbit-dot-1 {
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.fever-orbit-dot-2 {
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%) rotate(90deg);
+}
+
+.fever-orbit-dot-3 {
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%) rotate(180deg);
+}
+
+.fever-orbit-dot-4 {
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%) rotate(270deg);
+}
+
+/* Fever Expanding Triangle Borders */
+.fever-border {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: expand-tri-border-svg 4s infinite ease-out;
+}
+
+.fever-border svg {
+  width: 100px;
+  height: 87px;
+  display: block;
+}
+
+@keyframes expand-tri-border-svg {
+  0% {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(8);
+    opacity: 0;
+  }
+}
+
+#fever .fever-border-1 {
+  animation-delay: 0s;
+}
+
+#fever .fever-border-2 {
+  animation-delay: 1s;
+}
+
+#fever .fever-border-3 {
+  animation-delay: 2s;
+}
+
+#fever .fever-border-4 {
+  animation-delay: 3s;
+}
+
+.section-content {
+  text-align: center;
+  z-index: 10;
+  position: relative;
+}
+
+.section-icon {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-icon svg {
+  width: 100%;
+  height: 100%;
+}
+
+#fever .section-title,
+#bliss .section-title,
+#faith .section-title {
+  font-family: 'Bebas Neue', sans-serif !important;
+  font-size: clamp(4rem, 15vw, 12rem) !important;
+  color: #fff !important;
+  margin-bottom: 1rem;
+  letter-spacing: 0.02em !important;
+  -webkit-text-fill-color: #fff !important;
+  position: relative;
+  display: inline-block;
+}
+
+#fever .section-title::after,
+#bliss .section-title::after,
+#faith .section-title::after {
+  content: '';
+  position: absolute;
+  bottom: -0.2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  height: 3px;
+  border-radius: 2px;
+}
+
+#fever .section-title::after {
+  background: linear-gradient(90deg, transparent, var(--yellow), var(--orange), var(--yellow), transparent);
+}
+
+#bliss .section-title::after {
+  background: linear-gradient(90deg, transparent, var(--cyan), var(--cyan-light), var(--cyan), transparent);
+}
+
+#faith .section-title::after {
+  background: linear-gradient(90deg, transparent, var(--purple), var(--purple-light), var(--purple), transparent);
+}
+
+#fever .section-subtitle,
+#bliss .section-subtitle,
+#faith .section-subtitle {
+  font-size: 1.2rem !important;
+  color: rgba(255,255,255,0.7) !important;
+  margin-bottom: 3rem;
+  font-weight: 300 !important;
+  letter-spacing: 0.02em !important;
+}
+
+.section-stat {
+  font-family: 'Bebas Neue', sans-serif !important;
+  font-size: clamp(4rem, 12vw, 10rem) !important;
+  font-weight: bold !important;
+  background: linear-gradient(135deg, var(--yellow), var(--orange)) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  animation: glow 2s ease-in-out infinite;
+  letter-spacing: -0.02em !important;
+}
+
+@keyframes glow {
+  0%, 100% { filter: brightness(1); }
+  50% { filter: brightness(1.3); }
+}
+
+/* Section 3: Bliss */
+#bliss {
+  background: #050505;
+}
+
+#bliss .particle {
+  background: var(--cyan);
+}
+
+#fever .particle {
+  background: var(--yellow);
+}
+
+#faith .particle {
+  background: var(--purple);
+}
+
+#bliss .section-stat {
+  background: linear-gradient(135deg, var(--cyan), var(--cyan-light)) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+}
+
+#bliss .shape-circle {
+  border-color: var(--cyan);
+}
+
+/* Bliss Floating Circles */
+.bliss-circle {
+  position: absolute;
+  border-radius: 50%;
+  background: var(--cyan);
+  opacity: 0.2;
+  animation: float-circle 20s infinite ease-in-out;
+}
+
+@keyframes float-circle {
+  0%, 100% {
+    transform: translate(0, 0) scale(1);
+    opacity: 0.2;
+  }
+  25% {
+    transform: translate(150px, -100px) scale(1.3);
+    opacity: 0.4;
+  }
+  50% {
+    transform: translate(-80px, 120px) scale(0.8);
+    opacity: 0.3;
+  }
+  75% {
+    transform: translate(-180px, -80px) scale(1.1);
+    opacity: 0.35;
+  }
+}
+
+#bliss .bliss-circle-1 {
+  width: 200px;
+  height: 200px;
+  top: 15%;
+  left: 10%;
+  background: var(--cyan);
+  animation-delay: 0s;
+}
+
+#bliss .bliss-circle-2 {
+  width: 150px;
+  height: 150px;
+  top: 60%;
+  left: 15%;
+  background: var(--cyan-light);
+  animation-delay: 2s;
+  animation-duration: 18s;
+}
+
+#bliss .bliss-circle-3 {
+  width: 250px;
+  height: 250px;
+  top: 20%;
+  right: 15%;
+  background: rgba(6, 182, 212, 0.3);
+  animation-delay: 1s;
+  animation-duration: 22s;
+}
+
+#bliss .bliss-circle-4 {
+  width: 180px;
+  height: 180px;
+  bottom: 20%;
+  right: 20%;
+  background: var(--cyan);
+  animation-delay: 3s;
+  animation-duration: 19s;
+}
+
+#bliss .bliss-circle-5 {
+  width: 120px;
+  height: 120px;
+  top: 40%;
+  left: 30%;
+  background: var(--cyan-light);
+  opacity: 0.3;
+  animation-delay: 1.5s;
+}
+
+#bliss .bliss-circle-6 {
+  width: 220px;
+  height: 220px;
+  bottom: 15%;
+  left: 40%;
+  background: rgba(34, 211, 238, 0.25);
+  animation-delay: 4s;
+  animation-duration: 25s;
+}
+
+/* Bliss Orbital Circles */
+.bliss-orbit {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: rotate-orbit 30s infinite linear;
+}
+
+.bliss-orbit-2 {
+  width: 700px;
+  height: 700px;
+  animation: rotate-orbit 40s infinite linear reverse;
+}
+
+@keyframes rotate-orbit {
+  from { transform: translate(-50%, -50%) rotate(0deg); }
+  to { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+.orbit-dot {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background: var(--cyan);
+  border-radius: 50%;
+  box-shadow: 0 0 20px var(--cyan);
+}
+
+.orbit-dot-1 {
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.orbit-dot-2 {
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+
+.orbit-dot-3 {
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.orbit-dot-4 {
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+/* Bliss Ring Animation */
+.bliss-ring {
+  position: absolute;
+  border: 3px solid var(--cyan);
+  border-radius: 50%;
+  animation: expand-ring 4s infinite ease-out;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@keyframes expand-ring {
+  0% {
+    width: 100px;
+    height: 100px;
+    opacity: 1;
+  }
+  100% {
+    width: 800px;
+    height: 800px;
+    opacity: 0;
+  }
+}
+
+#bliss .bliss-ring-1 {
+  animation-delay: 0s;
+}
+
+#bliss .bliss-ring-2 {
+  animation-delay: 1s;
+  border-color: var(--cyan-light);
+}
+
+#bliss .bliss-ring-3 {
+  animation-delay: 2s;
+}
+
+#bliss .bliss-ring-4 {
+  animation-delay: 3s;
+  border-color: var(--cyan-light);
+}
+
+/* Section 4: Faith */
+#faith {
+  background: #000 !important;
+}
+
+.wireframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.wireframe-line {
+  position: absolute;
+  background: rgba(168, 85, 247, 0.2);
+  animation: scan 8s infinite ease-in-out;
+}
+
+@keyframes scan {
+  0%, 100% { opacity: 0.2; }
+  50% { opacity: 0.8; }
+}
+
+#faith .section-stat {
+  background: linear-gradient(135deg, var(--purple), var(--purple-light)) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+}
+
+/* Faith Floating Squares */
+.faith-float-square {
+  position: absolute;
+  background: var(--purple);
+  opacity: 0.2;
+  animation: float-square-faith 20s infinite ease-in-out;
+}
+
+@keyframes float-square-faith {
+  0%, 100% {
+    transform: translate(0, 0) rotate(0deg);
+    opacity: 0.2;
+  }
+  25% {
+    transform: translate(150px, -100px) rotate(45deg);
+    opacity: 0.4;
+  }
+  50% {
+    transform: translate(-80px, 120px) rotate(90deg);
+    opacity: 0.3;
+  }
+  75% {
+    transform: translate(-180px, -80px) rotate(135deg);
+    opacity: 0.35;
+  }
+}
+
+#faith .faith-float-square-1 {
+  width: 200px;
+  height: 200px;
+  top: 15%;
+  left: 10%;
+  background: var(--purple);
+  animation-delay: 0s;
+}
+
+#faith .faith-float-square-2 {
+  width: 150px;
+  height: 150px;
+  top: 60%;
+  left: 15%;
+  background: var(--purple-light);
+  animation-delay: 2s;
+  animation-duration: 18s;
+}
+
+#faith .faith-float-square-3 {
+  width: 250px;
+  height: 250px;
+  top: 20%;
+  right: 15%;
+  background: rgba(168, 85, 247, 0.3);
+  animation-delay: 1s;
+  animation-duration: 22s;
+}
+
+#faith .faith-float-square-4 {
+  width: 180px;
+  height: 180px;
+  bottom: 20%;
+  right: 20%;
+  background: var(--purple);
+  animation-delay: 3s;
+  animation-duration: 19s;
+}
+
+#faith .faith-float-square-5 {
+  width: 120px;
+  height: 120px;
+  top: 40%;
+  left: 30%;
+  background: var(--purple-light);
+  opacity: 0.3;
+  animation-delay: 1.5s;
+}
+
+#faith .faith-float-square-6 {
+  width: 220px;
+  height: 220px;
+  bottom: 15%;
+  left: 40%;
+  background: rgba(192, 132, 252, 0.25);
+  animation-delay: 4s;
+  animation-duration: 25s;
+}
+
+/* Faith Orbital Squares */
+.faith-orbit {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: rotate-orbit 30s infinite linear;
+}
+
+.faith-orbit-2 {
+  width: 700px;
+  height: 700px;
+  animation: rotate-orbit 40s infinite linear reverse;
+}
+
+.faith-orbit-dot {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background: var(--purple);
+  box-shadow: 0 0 20px var(--purple);
+}
+
+.faith-orbit-dot-1 {
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.faith-orbit-dot-2 {
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+
+.faith-orbit-dot-3 {
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.faith-orbit-dot-4 {
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+/* Faith Expanding Square Borders */
+.faith-border {
+  position: absolute;
+  border: 3px solid var(--purple);
+  animation: expand-square-border 4s infinite ease-out;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@keyframes expand-square-border {
+  0% {
+    width: 100px;
+    height: 100px;
+    opacity: 1;
+  }
+  100% {
+    width: 800px;
+    height: 800px;
+    opacity: 0;
+  }
+}
+
+#faith .faith-border-1 {
+  animation-delay: 0s;
+}
+
+#faith .faith-border-2 {
+  animation-delay: 1s;
+  border-color: var(--purple-light);
+}
+
+#faith .faith-border-3 {
+  animation-delay: 2s;
+}
+
+#faith .faith-border-4 {
+  animation-delay: 3s;
+  border-color: var(--purple-light);
+}
+
+/* Section 5: Footer (Contact) - Main Page Specific */
+#footer {
+  padding: 12rem 2rem 4rem !important;
+  height: 100vh !important;
+  min-height: 100vh !important;
+  overflow-y: auto !important;
+  background: #f9f9f9 !important;
+  display: flex !important;
+  align-items: flex-start !important;
+  justify-content: center !important;
+}
+
+#footer .footer-content-main {
+  text-align: center !important;
+  z-index: 10 !important;
+  position: relative !important;
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+  padding: 2rem 0 0 !important;
+}
+
+#footer .footer-headline {
+  font-family: 'Poppins', sans-serif !important;
+  font-size: clamp(1.8rem, 4vw, 2.5rem) !important;
+  color: #000 !important;
+  margin-bottom: 0.5rem !important;
+  line-height: 1.3 !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.02em !important;
+  -webkit-text-fill-color: #000 !important;
+}
+
+#footer .footer-subheadline {
+  font-size: 1rem !important;
+  color: #666 !important;
+  margin-bottom: 3rem !important;
+  font-weight: 400 !important;
+  letter-spacing: -0.02em !important;
+}
+
+#footer .map-container {
+  width: 100% !important;
+  max-width: 900px !important;
+  margin: 0 auto 3rem !important;
+  height: 400px !important;
+  border-radius: 0 !important;
+  overflow: hidden !important;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1) !important;
+}
+
+#footer .contact-info {
+  max-width: 900px !important;
+  margin: 0 auto 3rem !important;
+  text-align: left !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 1rem !important;
+}
+
+#footer .contact-item {
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: 0.5rem !important;
+  font-size: 0.95rem !important;
+}
+
+#footer .contact-label {
+  font-weight: 700 !important;
+  color: #000 !important;
+  min-width: 80px !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em !important;
+}
+
+#footer .contact-value {
+  font-family: 'Inter', sans-serif !important;
+  color: #333 !important;
+  line-height: 1.6 !important;
+  letter-spacing: -0.02em !important;
+}
+
+#footer .footer-bottom {
+  text-align: center !important;
+  padding-top: 2rem !important;
+  border-top: 1px solid #ddd !important;
+  max-width: 900px !important;
+  margin: 0 auto !important;
+}
+
+#footer .copyright {
+  font-size: 0.85rem !important;
+  color: #999 !important;
+  letter-spacing: 0.05em !important;
+  font-weight: 400 !important;
+}
+
+/* Scroll Indicator */
+.scroll-indicator {
+  position: fixed;
+  right: 3rem;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.scroll-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.2);
+  border: 2px solid rgba(255,255,255,0.5);
+  cursor: pointer;
+  transition: all 0.3s;
+  box-shadow: 0 0 8px rgba(0,0,0,0.3);
+}
+
+.scroll-dot:hover {
+  background: rgba(255,255,255,0.4);
+  border-color: rgba(255,255,255,0.8);
+}
+
+.scroll-dot.active {
+  transform: scale(1.3);
+}
+
+/* Section-specific scroll dot colors */
+.scroll-indicator[data-current-section="hero"] .scroll-dot.active,
+.scroll-indicator[data-current-section="fever"] .scroll-dot.active {
+  background: var(--yellow);
+  border-color: var(--yellow);
+  box-shadow: 0 0 12px rgba(251, 191, 36, 0.6);
+}
+
+.scroll-indicator[data-current-section="bliss"] .scroll-dot.active {
+  background: var(--cyan);
+  border-color: var(--cyan);
+  box-shadow: 0 0 12px rgba(34, 211, 238, 0.6);
+}
+
+.scroll-indicator[data-current-section="faith"] .scroll-dot.active {
+  background: var(--purple);
+  border-color: var(--purple);
+  box-shadow: 0 0 12px rgba(168, 85, 247, 0.6);
+}
+
+.scroll-indicator[data-current-section="footer"] .scroll-dot.active {
+  background: var(--yellow);
+  border-color: var(--yellow);
+  box-shadow: 0 0 12px rgba(251, 191, 36, 0.6);
+}
+
+/* Micro-interactions */
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+.bounce {
+  animation: bounce 2s infinite ease-in-out;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  #footer {
+    padding: 10rem 1.5rem 3rem !important;
+    min-height: auto !important;
+  }
+
+  #footer .footer-content-main {
+    padding: 1rem 0 0 !important;
+  }
+
+  #footer .footer-headline {
+    font-size: 1.5rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+
+  #footer .footer-subheadline {
+    font-size: 0.9rem !important;
+    margin-bottom: 2rem !important;
+  }
+
+  #footer .contact-info {
+    padding: 0 0.5rem !important;
+    gap: 1.5rem !important;
+  }
+
+  #footer .contact-item {
+    flex-direction: column !important;
+    gap: 0.3rem !important;
+  }
+
+  #footer .contact-label {
+    min-width: auto !important;
+    font-size: 0.75rem !important;
+  }
+
+  #footer .contact-value {
+    font-size: 0.9rem !important;
+  }
+
+  #footer .map-container {
+    height: 250px !important;
+    margin-bottom: 2rem !important;
+  }
+
+  #footer .footer-bottom {
+    padding-top: 1.5rem !important;
+    margin-top: 1rem !important;
+  }
+
+  #footer .copyright {
+    font-size: 0.75rem !important;
+  }
+
+  .scroll-indicator {
+    right: 1rem;
+  }
+
+  .main-hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .main-hero .hero-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+  }
+}
+
+@media (max-width: 480px) {
+  #footer {
+    padding: 6rem 1rem 2rem !important;
+  }
+
+  #footer .footer-headline {
+    font-size: 1.3rem !important;
+  }
+
+  #footer .contact-info {
+    gap: 1.2rem !important;
+  }
+
+  #footer .map-container {
+    height: 200px !important;
+  }
+}

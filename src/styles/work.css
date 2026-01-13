@@ -1,0 +1,947 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Mono:wght@400;700&family=Poppins:wght@400;600&family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --yellow: #FBBF24;
+  --yellow-bright: #FCD34D;
+  --orange: #F97316;
+  --orange-light: #FB923C;
+  --pink: #EC4899;
+  --pink-light: #F472B6;
+  --cyan: #06B6D4;
+  --cyan-light: #22D3EE;
+  --purple: #A855F7;
+  --purple-light: #C084FC;
+  --lime: #84CC16;
+}
+
+/* ========================================
+   WORK PAGE BASE
+   ======================================== */
+
+.work-page {
+  font-family: 'Inter', sans-serif;
+  background: #000;
+  color: #000;
+  overflow-x: hidden;
+  min-height: 100vh;
+  position: relative;
+}
+
+/* Override global section styles from about.css - only when work-page exists */
+.work-page section {
+  height: auto;
+  overflow: visible;
+  overflow-y: visible;
+  overflow-x: visible;
+  display: block;
+  padding: 0;
+}
+
+/* Ensure body can scroll when not locked - only for work page */
+body.is-work-page:not(.scroll-locked) {
+  overflow: auto !important;
+  overflow-y: auto !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Scroll lock class for body */
+body.scroll-locked {
+  overflow: hidden;
+}
+
+/* ========================================
+   NAVIGATION
+   ======================================== */
+
+.work-page nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 2rem 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1003;
+  background: transparent;
+  transition: all 0.3s ease;
+}
+
+.work-page nav.dark-mode .logo,
+.work-page nav.dark-mode .nav-links a {
+  color: #fff;
+}
+
+.work-page nav.dark-mode .nav-btn {
+  border-color: #fff;
+  color: #fff;
+}
+
+.work-page nav.dark-mode .nav-btn.primary {
+  background: #fff;
+  color: #000;
+}
+
+.work-page nav.light-mode {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+}
+
+.work-page nav.light-mode .logo,
+.work-page nav.light-mode .nav-links a {
+  color: #000;
+}
+
+.work-page nav.light-mode .nav-btn {
+  border-color: #000;
+  color: #000;
+}
+
+.work-page nav.light-mode .nav-btn.primary {
+  background: #000;
+  color: #fff;
+}
+
+.work-page .nav-right {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.work-page .logo {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 2rem;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.work-page .nav-links {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.work-page .nav-links a {
+  text-decoration: none;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: all 0.3s;
+}
+
+.work-page .nav-links a:hover {
+  color: var(--pink);
+  transform: translateY(-2px);
+}
+
+.work-page .nav-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.work-page .nav-btn {
+  padding: 0.5rem 1rem;
+  border: 1px solid;
+  border-radius: 2px;
+  text-decoration: none;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: all 0.3s;
+  white-space: nowrap;
+}
+
+.work-page .nav-btn:hover {
+  background: var(--pink);
+  border-color: var(--pink);
+  color: #fff;
+}
+
+/* Hamburger Menu */
+.work-page .hamburger {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  cursor: pointer;
+  z-index: 1005;
+  position: fixed;
+  top: 2rem;
+  right: 3rem;
+}
+
+.work-page .hamburger span {
+  width: 30px;
+  height: 3px;
+  transition: all 0.3s ease;
+}
+
+.work-page .hamburger.dark-mode span {
+  background: #fff;
+}
+
+.work-page .hamburger.light-mode span {
+  background: #000;
+}
+
+.work-page .hamburger.active span {
+  background: #fff;
+}
+
+.work-page .hamburger.active span:nth-child(1) {
+  transform: rotate(45deg) translate(8px, 8px);
+}
+
+.work-page .hamburger.active span:nth-child(2) {
+  opacity: 0;
+}
+
+.work-page .hamburger.active span:nth-child(3) {
+  transform: rotate(-45deg) translate(7px, -7px);
+}
+
+/* Mobile Menu */
+.work-page .mobile-menu {
+  position: fixed;
+  top: 0;
+  right: -100%;
+  width: 70%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.95);
+  backdrop-filter: blur(20px);
+  padding: 6rem 2rem;
+  transition: right 0.4s ease;
+  z-index: 1004;
+}
+
+.work-page .mobile-menu.active {
+  right: 0;
+}
+
+.work-page .mobile-menu ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+.work-page .mobile-menu a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: all 0.3s;
+}
+
+.work-page .mobile-menu a:hover {
+  color: var(--pink);
+  padding-left: 1rem;
+}
+
+.work-page .mobile-menu .mobile-btn {
+  display: inline-block;
+  padding: 0.8rem 1.5rem;
+  border: 1px solid #fff;
+  border-radius: 2px;
+  font-size: 1rem;
+  margin-top: 1rem;
+}
+
+.work-page .mobile-menu .mobile-btn.primary {
+  background: #fff;
+  color: #000;
+}
+
+.work-page .mobile-menu .mobile-btn:hover {
+  background: var(--pink);
+  border-color: var(--pink);
+  color: #fff;
+  padding-left: 1.5rem;
+}
+
+/* ========================================
+   HERO SECTION - FULLSCREEN PROJECT SLIDES
+   ======================================== */
+
+.work-page .hero-section {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: 1;
+  overflow: hidden;
+  padding: 0;
+}
+
+.work-page .hero-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+/* Project Slides Container */
+.work-page .project-slides {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+/* Individual Slide */
+.work-page .project-slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  visibility: hidden;
+  z-index: 0;
+  transform: translateY(100%);
+}
+
+.work-page .project-slide.active {
+  opacity: 1;
+  visibility: visible;
+  z-index: 1;
+  transform: translateY(0);
+}
+
+/* Current slide stays in place (becomes background) */
+.work-page .project-slide.slide-stay {
+  visibility: visible;
+  z-index: 1;
+  transform: translateY(0);
+}
+
+/* Next slide covers current from bottom */
+.work-page .project-slide.slide-cover-up {
+  visibility: visible;
+  z-index: 2;
+  transform: translateY(0);
+  transition: transform 1s cubic-bezier(0.76, 0, 0.24, 1);
+}
+
+/* When going backwards - current uncovers by sliding down */
+.work-page .project-slide.slide-uncover-down {
+  visibility: visible;
+  z-index: 2;
+  transform: translateY(100%);
+  transition: transform 1s cubic-bezier(0.76, 0, 0.24, 1);
+}
+
+/* Previous slide revealed underneath */
+.work-page .project-slide.slide-reveal {
+  visibility: visible;
+  z-index: 1;
+  transform: translateY(0);
+}
+
+/* Slide Background */
+.work-page .project-slide-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  transform: scale(1);
+}
+
+/* Active slide Ken Burns effect */
+.work-page .project-slide.active .project-slide-bg {
+  animation: kenBurns 10s ease-out forwards;
+}
+
+@keyframes kenBurns {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.05);
+  }
+}
+
+/* Dark Overlay */
+.work-page .project-slide::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.3) 0%,
+    rgba(0, 0, 0, 0.4) 50%,
+    rgba(0, 0, 0, 0.6) 100%
+  );
+  z-index: 1;
+}
+
+/* Slide Content */
+.work-page .project-slide-content {
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  transform: translateY(-50%) translateY(60px);
+  z-index: 2;
+  color: #fff;
+  width: 90%;
+  text-align: left;
+  opacity: 0;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.work-page .project-slide.active .project-slide-content {
+  opacity: 1;
+  transform: translateY(-50%) translateY(0);
+}
+
+/* Content animation on slide transition */
+.work-page .project-slide.slide-stay .project-slide-content {
+  opacity: 0;
+  transform: translateY(-50%) translateY(-20px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.work-page .project-slide.slide-uncover-down .project-slide-content {
+  opacity: 0;
+  transform: translateY(-50%);
+  transition: opacity 0.3s ease;
+}
+
+.work-page .project-title {
+  font-family: 'Inter', sans-serif;
+  font-size: clamp(3.75rem, 7.5vw, 5rem);
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+  letter-spacing: -0.05em;
+  word-break: keep-all;
+}
+
+.work-page .project-desc {
+  font-size: 1rem;
+  line-height: 1.8;
+  opacity: 0.8;
+  margin-bottom: 2rem;
+  word-break: keep-all;
+}
+
+.work-page .project-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 1rem 2rem;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50px;
+  transition: all 0.3s ease;
+}
+
+.work-page .project-link:hover {
+  background: #fff;
+  color: #000;
+  border-color: #fff;
+}
+
+.work-page .project-link svg {
+  transition: transform 0.3s ease;
+}
+
+.work-page .project-link:hover svg {
+  transform: translateX(5px);
+}
+
+/* Project Counter */
+.work-page .project-counter {
+  position: absolute;
+  bottom: 15%;
+  right: 5%;
+  z-index: 10;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+}
+
+.work-page .counter-current {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.work-page .counter-divider {
+  font-size: 1.5rem;
+  opacity: 0.5;
+}
+
+.work-page .counter-total {
+  font-size: 1.5rem;
+  opacity: 0.5;
+}
+
+/* Navigation Arrows */
+.work-page .project-nav {
+  position: absolute;
+  right: 5%;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  z-index: 10;
+}
+
+.work-page .project-nav-btn {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+}
+
+.work-page .project-nav-btn:hover {
+  background: #fff;
+  color: #000;
+  border-color: #fff;
+}
+
+/* ========================================
+   PROJECT HISTORY SECTION
+   ======================================== */
+
+.work-page .project-history-section {
+  position: relative;
+  z-index: 10;
+  background: #fff;
+  margin-top: 100vh;
+  border-radius: 40px 40px 0 0;
+  transform: translateY(0);
+  transition: transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow: visible;
+  height: auto;
+}
+
+.work-page .section-inner {
+  padding: 6rem 3rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* Section Label */
+.work-page .section-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: #000;
+  margin: 0 0 3rem;
+  text-transform: uppercase;
+}
+
+.work-page .project-history-list {
+  border-top: 1px solid #e5e5e5;
+}
+
+.work-page .history-item {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.work-page .history-header {
+  width: 100%;
+  padding: 2.5rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.3s ease;
+}
+
+.work-page .history-header:hover {
+  padding-left: 1rem;
+}
+
+.work-page .history-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+  color: #000;
+  margin: 0;
+  transition: color 0.3s ease;
+  letter-spacing: -0.05em;
+}
+
+.work-page .history-header:hover .history-title {
+  color: var(--cyan);
+}
+
+.work-page .history-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s ease;
+  color: #999;
+}
+
+.work-page .history-item.active .history-toggle {
+  transform: rotate(180deg);
+  color: var(--cyan);
+}
+
+.work-page .history-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease, padding 0.4s ease;
+  padding: 0 0 0 1rem;
+}
+
+.work-page .history-item.active .history-content {
+  max-height: 300px;
+  padding: 0 0 1.5rem 1rem;
+}
+
+.work-page .history-desc {
+  font-size: 0.95rem;
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  letter-spacing: -0.1em;
+}
+
+.work-page .history-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.work-page .meta-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.work-page .meta-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: #999;
+  text-transform: uppercase;
+}
+
+.work-page .meta-value {
+  font-size: 0.9rem;
+  color: #333;
+}
+
+.work-page .meta-link {
+  font-size: 0.85rem;
+  color: var(--cyan);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.work-page .meta-link:hover {
+  color: var(--pink);
+  text-decoration: underline;
+}
+
+/* More Button */
+.work-page .more-button-wrapper {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.work-page .more-btn {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: #000;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 1rem 2rem;
+  transition: all 0.3s ease;
+}
+
+.work-page .more-btn:hover {
+  color: var(--cyan);
+}
+
+/* ========================================
+   FOOTER SECTION
+   ======================================== */
+
+.work-page #footer {
+  position: relative;
+  z-index: 10;
+  background: #f5f5f5;
+  overflow: visible !important;
+  height: auto !important;
+  min-height: auto !important;
+}
+
+.work-page .footer-content-main {
+  padding: 6rem 3rem 1.5rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.work-page .footer-headline {
+  font-family: 'Inter', sans-serif;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 700;
+  color: #000;
+  margin-bottom: 1rem;
+  letter-spacing: -0.02em;
+}
+
+.work-page .footer-subheadline {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 3rem;
+}
+
+.work-page .map-container {
+  width: 100%;
+  height: 300px;
+  border-radius: 20px;
+  overflow: hidden;
+  margin-bottom: 3rem;
+}
+
+.work-page .map-container iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.work-page .contact-info {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+  margin-bottom: 3rem;
+}
+
+.work-page .contact-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.work-page .contact-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: #999;
+  text-transform: uppercase;
+}
+
+.work-page .contact-value {
+  font-size: 1rem;
+  color: #333;
+}
+
+.work-page .footer-bottom {
+  padding-top: 2rem;
+  border-top: 1px solid #ddd;
+}
+
+.work-page .copyright {
+  font-size: 0.8rem;
+  color: #999;
+  letter-spacing: 0.05em;
+}
+
+/* ========================================
+   RESPONSIVE
+   ======================================== */
+
+@media (max-width: 992px) {
+  .work-page .project-slide-content {
+    max-width: 600px;
+  }
+
+  .work-page .project-title {
+    font-size: 3.75rem;
+  }
+
+  .work-page .project-counter {
+    right: 3rem;
+    bottom: 12%;
+  }
+
+  .work-page .counter-current {
+    font-size: 3rem;
+  }
+
+  .work-page .project-nav {
+    right: 3rem;
+  }
+
+  .work-page .section-inner {
+    padding: 5rem 2rem;
+  }
+
+  .work-page .footer-content-main {
+    padding: 5rem 2rem 1.25rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .work-page .nav-right {
+    display: none;
+  }
+
+  .work-page .hamburger {
+    display: flex;
+  }
+
+  .work-page nav {
+    padding: 1.5rem 2rem;
+  }
+
+  .work-page .project-history-section {
+    border-radius: 30px 30px 0 0;
+  }
+
+  .work-page .project-slide-content {
+    max-width: none;
+    width: 85%;
+  }
+
+  .work-page .project-title {
+    font-size: 2.7rem;
+  }
+
+  .work-page .project-desc {
+    font-size: 0.9rem;
+  }
+
+  .work-page .project-link {
+    padding: 0.8rem 1.5rem;
+    font-size: 0.8rem;
+  }
+
+  .work-page .project-counter {
+    left: 1.5rem;
+    right: auto;
+    bottom: 5%;
+  }
+
+  .work-page .counter-current {
+    font-size: 2.5rem;
+  }
+
+  .work-page .counter-divider,
+  .work-page .counter-total {
+    font-size: 1rem;
+  }
+
+  .work-page .project-nav {
+    right: 1.5rem;
+    left: auto;
+    top: auto;
+    bottom: 5%;
+    flex-direction: row;
+    transform: none;
+  }
+
+  .work-page .project-nav-btn {
+    width: 40px;
+    height: 40px;
+  }
+
+  .work-page .section-inner {
+    padding: 4rem 1.5rem;
+  }
+
+  .work-page .section-label {
+    font-size: 0.75rem;
+    margin-bottom: 2rem;
+  }
+
+  .work-page .history-title {
+    font-size: 1.3rem;
+  }
+
+  .work-page .history-meta {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .work-page .footer-content-main {
+    padding: 4rem 1.5rem 1rem;
+  }
+
+  .work-page .contact-info {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .work-page nav {
+    padding: 1rem 1.5rem;
+  }
+
+  .work-page .hamburger {
+    top: 1.5rem;
+    right: 1.5rem;
+  }
+
+  .work-page .project-history-section {
+    border-radius: 20px 20px 0 0;
+  }
+
+  .work-page .section-inner {
+    padding: 3rem 1rem;
+  }
+
+  .work-page .history-header {
+    padding: 1.5rem 0;
+  }
+
+  .work-page .history-title {
+    font-size: 1.1rem;
+  }
+
+  .work-page .footer-content-main {
+    padding: 3rem 1rem 0.75rem;
+  }
+
+  .work-page .footer-headline {
+    font-size: 1.8rem;
+  }
+}

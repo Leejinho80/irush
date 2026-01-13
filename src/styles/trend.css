@@ -1,0 +1,648 @@
+/* ========================================
+   TREND DESK PAGE STYLES
+   ======================================== */
+
+/* Base overrides */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #000;
+  color: #fff;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+/* Ensure body can scroll on trend page */
+body.is-trend-page {
+  overflow: auto !important;
+  overflow-y: auto !important;
+}
+
+/* ========================================
+   TREND SECTION
+   ======================================== */
+
+.trend-section {
+  position: relative;
+  height: 100%;
+  padding-top: 120px;
+  background: #000;
+  overflow: hidden;
+}
+
+/* Faith-inspired Floating Squares */
+.trend-float-square {
+  position: absolute;
+  background: var(--purple);
+  opacity: 0.2;
+  animation: float-square-trend 20s infinite ease-in-out;
+  pointer-events: none;
+}
+
+@keyframes float-square-trend {
+  0%, 100% {
+    transform: translate(0, 0) rotate(0deg);
+    opacity: 0.2;
+  }
+  25% {
+    transform: translate(30px, -30px) rotate(90deg);
+    opacity: 0.3;
+  }
+  50% {
+    transform: translate(0, -50px) rotate(180deg);
+    opacity: 0.15;
+  }
+  75% {
+    transform: translate(-30px, -20px) rotate(270deg);
+    opacity: 0.25;
+  }
+}
+
+.trend-float-square-1 {
+  width: 200px;
+  height: 200px;
+  top: 15%;
+  left: 5%;
+  background: var(--purple);
+  animation-delay: 0s;
+}
+
+.trend-float-square-2 {
+  width: 150px;
+  height: 150px;
+  top: 60%;
+  left: 8%;
+  background: var(--purple-light);
+  animation-delay: -3s;
+}
+
+.trend-float-square-3 {
+  width: 250px;
+  height: 250px;
+  top: 20%;
+  right: 5%;
+  background: rgba(168, 85, 247, 0.3);
+  animation-delay: -6s;
+}
+
+.trend-float-square-4 {
+  width: 180px;
+  height: 180px;
+  bottom: 20%;
+  right: 10%;
+  background: var(--purple);
+  animation-delay: -9s;
+}
+
+.trend-float-square-5 {
+  width: 120px;
+  height: 120px;
+  top: 40%;
+  left: 20%;
+  background: var(--purple-light);
+  animation-delay: -12s;
+}
+
+.trend-float-square-6 {
+  width: 220px;
+  height: 220px;
+  bottom: 15%;
+  left: 30%;
+  background: rgba(192, 132, 252, 0.25);
+  animation-delay: -15s;
+}
+
+/* Orbital Squares */
+.trend-orbit {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: rotate-orbit 30s infinite linear;
+  pointer-events: none;
+}
+
+.trend-orbit-2 {
+  width: 700px;
+  height: 700px;
+  animation: rotate-orbit 40s infinite linear reverse;
+}
+
+@keyframes rotate-orbit {
+  from {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  to {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+.trend-orbit-dot {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background: var(--purple);
+  box-shadow: 0 0 20px var(--purple);
+}
+
+.trend-orbit-dot-1 {
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.trend-orbit-dot-2 {
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+
+.trend-orbit-dot-3 {
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.trend-orbit-dot-4 {
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+/* Expanding Square Borders */
+.trend-border {
+  position: absolute;
+  border: 3px solid var(--purple);
+  animation: expand-square-border 4s infinite ease-out;
+  top: 50%;
+  left: 50%;
+  pointer-events: none;
+}
+
+@keyframes expand-square-border {
+  0% {
+    width: 100px;
+    height: 100px;
+    margin-left: -50px;
+    margin-top: -50px;
+    opacity: 1;
+    transform: rotate(45deg);
+  }
+  100% {
+    width: 800px;
+    height: 800px;
+    margin-left: -400px;
+    margin-top: -400px;
+    opacity: 0;
+    transform: rotate(45deg);
+  }
+}
+
+.trend-border-1 {
+  animation-delay: 0s;
+}
+
+.trend-border-2 {
+  animation-delay: 1s;
+  border-color: var(--purple-light);
+}
+
+.trend-border-3 {
+  animation-delay: 2s;
+}
+
+.trend-border-4 {
+  animation-delay: 3s;
+  border-color: var(--purple-light);
+}
+
+/* Particles */
+#trend-particles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+/* Section Inner */
+.trend-section .section-inner {
+  position: relative;
+  z-index: 10;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 3rem;
+}
+
+.section-label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  color: var(--purple);
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+
+.trend-title {
+  font-family: 'Inter', sans-serif;
+  font-size: clamp(3.6rem, 8vw, 5rem);
+  font-weight: 700;
+  color: #fff;
+  /*margin-bottom: 3rem;*/
+  word-break: keep-all;
+  letter-spacing: -0.05em;
+}
+
+.trend-title #today-date {
+  color: var(--purple-light);
+  font-size: 0.35em;
+}
+
+/* Scroll Fade-in Animation */
+.fade-in {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Trend List */
+.trend-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.trend-item {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.trend-item:first-child {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.trend-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.5rem 0;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.3s ease;
+}
+
+.trend-header:hover {
+  background: rgba(168, 85, 247, 0.05);
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.trend-number {
+  font-family: 'Inter', sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--purple);
+  min-width: 4rem;
+}
+
+.trend-news-title {
+  flex: 1;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #fff;
+  line-height: 1.5;
+  word-break: keep-all;
+  transition: color 0.3s ease;
+}
+
+.trend-header:hover .trend-news-title {
+  color: var(--purple-light);
+}
+
+.trend-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  transition: transform 0.3s ease;
+}
+
+.trend-toggle svg {
+  stroke: rgba(255, 255, 255, 0.5);
+  transition: stroke 0.3s ease;
+}
+
+.trend-header:hover .trend-toggle svg {
+  stroke: var(--purple);
+}
+
+.trend-item.active .trend-toggle {
+  transform: rotate(180deg);
+}
+
+.trend-item.active .trend-toggle svg {
+  stroke: var(--purple);
+}
+
+/* Trend Content (Accordion) */
+.trend-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease, padding 0.4s ease;
+  background: rgba(168, 85, 247, 0.05);
+  border-radius: 0 0 12px 12px;
+}
+
+.trend-item.active .trend-content {
+  max-height: 300px;
+  padding: 1.5rem 2rem 2rem;
+}
+
+.trend-desc {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 1.5rem;
+  word-break: keep-all;
+}
+
+.trend-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.7rem 1.5rem;
+  background: transparent;
+  border: 1px solid var(--purple);
+  border-radius: 25px;
+  color: var(--purple);
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.trend-link:hover {
+  background: var(--purple);
+  color: #fff;
+}
+
+.trend-link svg {
+  transition: transform 0.3s ease;
+}
+
+.trend-link:hover svg {
+  transform: translate(3px, -3px);
+}
+
+/* Trend Notice */
+.trend-notice {
+  margin-top: 3rem;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+}
+
+/* ========================================
+   TREND PAGE NAV OVERRIDE (Dark/Light mode)
+   ======================================== */
+
+/* Dark mode (default for trend section - dark background) */
+nav.dark-mode {
+  background: transparent;
+  box-shadow: none;
+}
+
+nav.dark-mode .logo {
+  color: #fff;
+}
+
+nav.dark-mode .nav-links a {
+  color: #fff;
+}
+
+nav.dark-mode .nav-links a:hover {
+  color: var(--purple);
+}
+
+nav.dark-mode .nav-btn {
+  border-color: #fff;
+  color: #fff;
+}
+
+nav.dark-mode .nav-btn:hover {
+  background: #fff;
+  color: #000;
+}
+
+nav.dark-mode .nav-btn.primary {
+  background: #fff;
+  color: #000;
+}
+
+nav.dark-mode .nav-btn.primary:hover {
+  background: var(--purple);
+  border-color: var(--purple);
+}
+
+/* Dark mode hamburger */
+.hamburger.dark-mode span {
+  background: #fff;
+}
+
+/* Light mode (for footer section - light background) */
+nav.light-mode {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+nav.light-mode .logo {
+  color: #000;
+}
+
+nav.light-mode .nav-links a {
+  color: #000;
+}
+
+nav.light-mode .nav-links a:hover {
+  color: var(--purple);
+}
+
+nav.light-mode .nav-btn {
+  border-color: #000;
+  color: #000;
+}
+
+nav.light-mode .nav-btn:hover {
+  background: #000;
+  color: #fff;
+}
+
+nav.light-mode .nav-btn.primary {
+  background: #000;
+  color: #fff;
+}
+
+nav.light-mode .nav-btn.primary:hover {
+  background: var(--purple);
+  border-color: var(--purple);
+}
+
+/* Light mode hamburger */
+.hamburger.light-mode span {
+  background: #000;
+}
+
+/* ========================================
+   FOOTER OVERRIDE FOR TREND PAGE
+   ======================================== */
+
+#footer {
+  background: #f9f9f9;
+  height: auto !important;
+  min-height: auto !important;
+  overflow: visible !important;
+}
+
+/* ========================================
+   RESPONSIVE
+   ======================================== */
+
+@media (max-width: 992px) {
+  .trend-section .section-inner {
+    padding: 2rem;
+  }
+
+  .trend-title {
+    font-size: 3.6rem;
+  }
+
+  .trend-orbit {
+    width: 400px;
+    height: 400px;
+  }
+
+  .trend-orbit-2 {
+    width: 550px;
+    height: 550px;
+  }
+}
+
+@media (max-width: 768px) {
+  .trend-section {
+    padding-top: 80px;
+  }
+
+  .trend-section .section-inner {
+    padding: 1.5rem;
+  }
+
+  .section-label {
+    font-size: 0.75rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .trend-title {
+    font-size: 3rem;
+    /*margin-bottom: 2rem;*/
+  }
+
+  .trend-header {
+    gap: 1rem;
+    padding: 1.2rem 0;
+  }
+
+  .trend-number {
+    font-size: 2.7rem;
+    min-width: 3.5rem;
+  }
+
+  .trend-news-title {
+    font-size: 1rem;
+  }
+
+  .trend-toggle {
+    width: 32px;
+    height: 32px;
+  }
+
+  .trend-toggle svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  .trend-item.active .trend-content {
+    padding: 1rem 1.5rem 1.5rem;
+  }
+
+  .trend-desc {
+    font-size: 0.9rem;
+  }
+
+  .trend-orbit {
+    width: 300px;
+    height: 300px;
+  }
+
+  .trend-orbit-2 {
+    width: 400px;
+    height: 400px;
+  }
+
+  .trend-orbit-dot {
+    width: 20px;
+    height: 20px;
+  }
+
+  .trend-float-square-1,
+  .trend-float-square-3 {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .trend-section .section-inner {
+    padding: 1rem;
+  }
+
+  .trend-title {
+    font-size: 2.6rem;
+  }
+
+  .trend-header {
+    gap: 0.75rem;
+    padding: 1rem 0;
+  }
+
+  .trend-news-title {
+    font-size: 0.95rem;
+  }
+
+  .trend-item.active .trend-content {
+    padding: 1rem;
+  }
+
+  .trend-link {
+    padding: 0.6rem 1.2rem;
+    font-size: 0.85rem;
+  }
+
+  .trend-notice {
+    font-size: 0.8rem;
+    margin-top: 2rem;
+  }
+}

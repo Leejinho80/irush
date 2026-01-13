@@ -1,0 +1,628 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Mono:wght@400;700&family=Poppins:wght@400;600&family=Inter:wght@400;500;600;700;800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ========================================
+   KOREAN TEXT LETTER-SPACING
+   ======================================== */
+:lang(ko) {
+  letter-spacing: -0.1em;
+}
+
+/* 한글 텍스트가 포함되는 요소에 적용 */
+p, h1, h2, h3, h4, h5, h6, span, li, a, button, label, div {
+  letter-spacing: -0.1em;
+}
+
+/* 영문 전용 요소는 letter-spacing 예외 처리 */
+.section-tag,
+.meta-label,
+.voice-tag,
+.next-label,
+.feature-title,
+.nav-links a,
+.nav-btn,
+.mobile-menu a,
+.copyright {
+  letter-spacing: 0.05em;
+}
+
+/* Bebas Neue 폰트 적용 요소 letter-spacing */
+.logo,
+.hero-title,
+.card-title,
+.process-title,
+.section-title,
+.section-stat {
+  letter-spacing: -0.02em;
+}
+
+:root {
+  --yellow: #FBBF24;
+  --yellow-bright: #FCD34D;
+  --orange: #F97316;
+  --orange-light: #FB923C;
+  --pink: #EC4899;
+  --pink-light: #F472B6;
+  --cyan: #06B6D4;
+  --cyan-light: #22D3EE;
+  --purple: #A855F7;
+  --purple-light: #C084FC;
+  --lime: #84CC16;
+}
+
+/* ========================================
+   COMMON NAVIGATION STYLES
+   ======================================== */
+
+/* Navigation */
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 2rem 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1003;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.logo {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 2rem;
+  color: #000;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+
+.nav-links {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+  align-items: center;
+}
+
+.nav-links a {
+  color: #000;
+  text-decoration: none;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: all 0.3s;
+}
+
+.nav-links a:hover {
+  color: var(--pink);
+  transform: translateY(-2px);
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.nav-btn {
+  padding: 0.5rem 1rem;
+  border: 1px solid #000;
+  border-radius: 2px;
+  color: #000;
+  text-decoration: none;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: all 0.3s;
+  white-space: nowrap;
+}
+
+.nav-btn:hover {
+  background: #000;
+  color: #fff;
+}
+
+.nav-btn.primary {
+  background: #000;
+  color: #fff;
+}
+
+.nav-btn.primary:hover {
+  background: var(--pink);
+  border-color: var(--pink);
+}
+
+/* Dark mode for nav (used on main page dark sections) */
+nav.dark-mode {
+  background: transparent;
+  box-shadow: none;
+}
+
+nav.dark-mode .logo {
+  color: #fff;
+}
+
+nav.dark-mode .nav-links a {
+  color: #fff;
+}
+
+nav.dark-mode .nav-links a:hover {
+  color: var(--yellow);
+}
+
+nav.dark-mode .nav-btn {
+  border-color: #fff;
+  color: #fff;
+}
+
+nav.dark-mode .nav-btn:hover {
+  background: #fff;
+  color: #000;
+}
+
+nav.dark-mode .nav-btn.primary {
+  background: #fff;
+  color: #000;
+}
+
+nav.dark-mode .nav-btn.primary:hover {
+  background: var(--yellow);
+  border-color: var(--yellow);
+}
+
+/* Light mode toggle for dark-mode nav (footer section) */
+nav.light-mode {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+nav.light-mode .logo {
+  color: #000;
+}
+
+nav.light-mode .nav-links a {
+  color: #000;
+}
+
+nav.light-mode .nav-links a:hover {
+  color: var(--pink);
+}
+
+nav.light-mode .nav-btn {
+  border-color: #000;
+  color: #000;
+}
+
+nav.light-mode .nav-btn:hover {
+  background: #000;
+  color: #fff;
+}
+
+nav.light-mode .nav-btn.primary {
+  background: #000;
+  color: #fff;
+}
+
+nav.light-mode .nav-btn.primary:hover {
+  background: var(--pink);
+  border-color: var(--pink);
+}
+
+/* Page-specific nav accent colors */
+/* Main page - Orange */
+body[data-page="main"] nav.dark-mode .nav-links a:hover {
+  color: #f97316;
+}
+body[data-page="main"] nav.dark-mode .nav-btn.primary:hover {
+  background: #f97316;
+  border-color: #f97316;
+}
+body[data-page="main"] nav.light-mode .nav-links a:hover {
+  color: #f97316;
+}
+body[data-page="main"] nav.light-mode .nav-btn.primary:hover {
+  background: #f97316;
+  border-color: #f97316;
+}
+
+/* About page - Orange (same as Main) */
+body[data-page="about"] nav .nav-links a:hover,
+body[data-page="about"] nav.light-mode .nav-links a:hover {
+  color: #f97316;
+}
+body[data-page="about"] nav .nav-btn.primary:hover,
+body[data-page="about"] nav.light-mode .nav-btn.primary:hover {
+  background: #f97316;
+  border-color: #f97316;
+}
+
+/* Work page - Cyan */
+body[data-page="work"] nav.dark-mode .nav-links a:hover {
+  color: var(--cyan);
+}
+body[data-page="work"] nav.dark-mode .nav-btn.primary:hover {
+  background: var(--cyan);
+  border-color: var(--cyan);
+}
+body[data-page="work"] nav.light-mode .nav-links a:hover {
+  color: var(--cyan);
+}
+body[data-page="work"] nav.light-mode .nav-btn.primary:hover {
+  background: var(--cyan);
+  border-color: var(--cyan);
+}
+
+/* Work Detail page - Cyan */
+body[data-page="work-detail"] nav .nav-links a:hover,
+body[data-page="work-detail"] nav.light-mode .nav-links a:hover {
+  color: var(--cyan);
+}
+body[data-page="work-detail"] nav .nav-btn.primary:hover,
+body[data-page="work-detail"] nav.light-mode .nav-btn.primary:hover {
+  background: var(--cyan);
+  border-color: var(--cyan);
+}
+
+/* Trend page - Purple */
+body[data-page="trend"] nav.dark-mode .nav-links a:hover {
+  color: var(--purple);
+}
+body[data-page="trend"] nav.dark-mode .nav-btn.primary:hover {
+  background: var(--purple);
+  border-color: var(--purple);
+}
+body[data-page="trend"] nav.light-mode .nav-links a:hover {
+  color: var(--purple);
+}
+body[data-page="trend"] nav.light-mode .nav-btn.primary:hover {
+  background: var(--purple);
+  border-color: var(--purple);
+}
+
+/* Hamburger Menu */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  cursor: pointer;
+  z-index: 1005;
+  position: fixed;
+  top: 2rem;
+  right: 3rem;
+}
+
+.hamburger span {
+  width: 30px;
+  height: 3px;
+  background: #000;
+  transition: all 0.3s ease;
+}
+
+.hamburger.active span {
+  background: #fff;
+}
+
+.hamburger.active span:nth-child(1) {
+  transform: rotate(45deg) translate(8px, 8px);
+}
+
+.hamburger.active span:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburger.active span:nth-child(3) {
+  transform: rotate(-45deg) translate(7px, -7px);
+}
+
+/* Dark mode hamburger */
+.hamburger.dark-mode span {
+  background: #fff;
+}
+
+.hamburger.dark-mode.active span {
+  background: #fff;
+}
+
+/* Light mode hamburger (when nav switches to light on footer) */
+.hamburger.light-mode span {
+  background: #000;
+}
+
+.hamburger.light-mode.active span {
+  background: #fff;
+}
+
+/* Mobile Menu */
+.mobile-menu {
+  position: fixed;
+  top: 0;
+  right: -100%;
+  width: 70%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.95);
+  backdrop-filter: blur(20px);
+  padding: 6rem 2rem;
+  transition: right 0.4s ease;
+  z-index: 1004;
+}
+
+.mobile-menu.active {
+  right: 0;
+}
+
+.mobile-menu ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.mobile-menu a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: all 0.3s;
+}
+
+.mobile-menu a:hover {
+  color: var(--pink);
+  padding-left: 1rem;
+}
+
+.mobile-menu .mobile-btn {
+  display: inline-block;
+  padding: 0.8rem 1.5rem;
+  border: 1px solid #fff;
+  border-radius: 2px;
+  font-size: 1rem;
+  margin-top: 1rem;
+}
+
+.mobile-menu .mobile-btn.primary {
+  background: #fff;
+  color: #000;
+}
+
+.mobile-menu .mobile-btn:hover {
+  background: var(--pink);
+  border-color: var(--pink);
+  color: #fff;
+  padding-left: 1.5rem;
+}
+
+/* ========================================
+   COMMON FOOTER STYLES
+   ======================================== */
+
+#footer {
+  background: #f9f9f9;
+  padding: 6rem 2rem 4rem;
+  position: relative;
+  z-index: 1;
+}
+
+/* Normal Footer - Work, WorkDetail, Trend 페이지용 (일반 스크롤) */
+footer#footer.normal-footer {
+  height: auto !important;
+  min-height: auto !important;
+  overflow: visible !important;
+  overflow-y: visible !important;
+  display: block !important;
+}
+
+/* Fullpage Footer - Main, About 페이지용 (섹션 내 스크롤) */
+section#footer.fullpage-footer {
+  height: 100vh !important;
+  min-height: 100vh !important;
+  overflow-y: auto !important;
+  display: flex !important;
+  align-items: flex-start !important;
+  justify-content: center !important;
+}
+
+.footer-content-main {
+  text-align: center;
+  z-index: 10;
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 0 0;
+}
+
+.footer-headline {
+  font-family: 'Poppins', sans-serif;
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  color: #000;
+  margin-bottom: 0.5rem;
+  line-height: 1.3;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.footer-subheadline {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 3rem;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+}
+
+.map-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto 3rem;
+  height: 400px;
+  border-radius: 0;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.map-container iframe,
+.map-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.contact-info {
+  max-width: 900px;
+  margin: 0 auto 3rem;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.contact-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.contact-label {
+  font-weight: 700;
+  color: #000;
+  min-width: 80px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.contact-value {
+  font-family: 'Inter', sans-serif;
+  color: #333;
+  line-height: 1.6;
+  letter-spacing: -0.02em;
+}
+
+.footer-bottom {
+  text-align: center;
+  padding-top: 2rem;
+  border-top: 1px solid #ddd;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.copyright {
+  font-size: 0.85rem;
+  color: #999;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+}
+
+/* ========================================
+   COMMON RESPONSIVE STYLES
+   ======================================== */
+
+@media (max-width: 768px) {
+  .nav-right {
+    display: none;
+  }
+
+  .hamburger {
+    display: flex;
+    top: 2.5rem;
+    right: 2rem;
+  }
+
+  nav {
+    padding: 1.5rem 2rem;
+  }
+
+  #footer {
+    padding: 4rem 1.5rem 3rem;
+  }
+
+  .footer-content-main {
+    padding: 1rem 0 0;
+  }
+
+  .footer-headline {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .footer-subheadline {
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+  }
+
+  .contact-info {
+    padding: 0 0.5rem;
+    gap: 1.5rem;
+  }
+
+  .contact-item {
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+
+  .contact-label {
+    min-width: auto;
+    font-size: 0.75rem;
+  }
+
+  .contact-value {
+    font-size: 0.9rem;
+  }
+
+  .map-container {
+    height: 250px;
+    margin-bottom: 2rem;
+  }
+
+  .footer-bottom {
+    padding-top: 1.5rem;
+    margin-top: 1rem;
+  }
+
+  .copyright {
+    font-size: 0.75rem;
+  }
+}
+
+@media (max-width: 480px) {
+  nav {
+    padding: 1rem 1.5rem;
+  }
+
+  .hamburger {
+    top: 1.5rem;
+    right: 1.5rem;
+  }
+
+  #footer {
+    padding: 3rem 1rem 2rem;
+  }
+
+  .footer-headline {
+    font-size: 1.3rem;
+  }
+
+  .contact-info {
+    gap: 1.2rem;
+  }
+
+  .map-container {
+    height: 200px;
+  }
+}
