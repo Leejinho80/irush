@@ -2,6 +2,8 @@ import { useEffect, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/common.css';
 import '../styles/trend.css';
+import brochurePdf from '../assets/(주)아이러시 회사소개서.pdf';
+import CustomCursor from '../components/CustomCursor';
 
 const trendData = [
   { number: '01', title: '중국 딥시크(DeepSeek) R1, 글로벌 AI 시장 판도 뒤흔들다', desc: "중국 스타트업 딥시크가 공개한 AI 모델 'R1'이 GPT-4o와 대등한 성능을 600만 달러 개발비로 구현해 충격을 안겼다. 발표 직후 엔비디아 시가총액 850조 원이 증발하며 '딥시크 쇼크'가 발생했고, 미국 앱스토어에서 ChatGPT를 제치고 1위를 기록했다.", link: 'https://zdnet.co.kr/view/?no=20250205152321' },
@@ -149,6 +151,9 @@ function TrendPage() {
 
   return (
     <>
+      {/* Custom Cursor */}
+      <CustomCursor />
+
       {/* Navigation */}
       <nav className={navMode}>
         <Link to="/" className="logo">iRUSH</Link>
@@ -159,7 +164,7 @@ function TrendPage() {
             <li><Link to="/trend">Trend Desk</Link></li>
           </ul>
           <div className="nav-buttons">
-            <a href="#" className="nav-btn">Company Brochure</a>
+            <a href={brochurePdf} download="아이러시 회사소개서.pdf" className="nav-btn">Company Brochure</a>
             <a href="#footer" className="nav-btn primary" onClick={handleContactClick}>Contact Us</a>
           </div>
         </div>
@@ -178,7 +183,7 @@ function TrendPage() {
           <li><Link to="/about" onClick={() => setIsMenuOpen(false)}>About Us</Link></li>
           <li><Link to="/work" onClick={() => setIsMenuOpen(false)}>Our Work</Link></li>
           <li><Link to="/trend" onClick={() => setIsMenuOpen(false)}>Trend Desk</Link></li>
-          <li><a href="#" className="mobile-btn">Company Brochure</a></li>
+          <li><a href={brochurePdf} download="아이러시 회사소개서.pdf" className="mobile-btn">Company Brochure</a></li>
           <li><a href="#footer" className="mobile-btn primary" onClick={handleContactClick}>Contact Us</a></li>
         </ul>
       </div>
@@ -256,12 +261,12 @@ function TrendPage() {
       {/* Footer Section */}
       <footer id="footer" className="normal-footer">
         <div className="footer-content-main">
-          <h2 className="footer-headline">We are waiting for you to contact us</h2>
-          <p className="footer-subheadline">You can write to us at any time and get an instant response.</p>
+          <h2 className="footer-headline">Contact us anytime</h2>
+          <p className="footer-subheadline">Write to us anytime for an instant response.</p>
 
           <div className="map-container">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1582.4434942359923!2d126.89562207639486!3d37.51548197204086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c9ec78f66e777%3A0x9c6e5c8e6a3b0e1a!2sKnK%EB%94%94%EC%A7%80%ED%84%B8%ED%83%80%EC%9B%8C!5e0!3m2!1sko!2skr!4v1704934800000!5m2!1sko!2skr"
+              src="https://www.google.com/maps?q=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC+%EC%98%81%EC%8B%A0%EB%A1%9C+220+KNK%EB%94%94%EC%A7%80%ED%84%B8%ED%83%80%EC%9B%8C&output=embed"
               width="100%"
               height="100%"
               style={{ border: 0 }}

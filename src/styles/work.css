@@ -24,6 +24,7 @@
   color: #000;
   overflow-x: hidden;
   min-height: 100vh;
+  min-height: 100dvh;
   position: relative;
 }
 
@@ -215,6 +216,7 @@ body.scroll-locked {
   right: -100%;
   width: 70%;
   height: 100vh;
+  height: 100dvh;
   background: rgba(0, 0, 0, 0.95);
   backdrop-filter: blur(20px);
   padding: 6rem 2rem;
@@ -281,6 +283,7 @@ body.scroll-locked {
   left: 0;
   width: 100%;
   height: 100vh;
+  height: 100dvh;
   z-index: 1;
   overflow: hidden;
   padding: 0;
@@ -544,17 +547,142 @@ body.scroll-locked {
   z-index: 10;
   background: #fff;
   margin-top: 100vh;
+  margin-top: 100dvh;
   border-radius: 40px 40px 0 0;
   transform: translateY(0);
   transition: transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
-  overflow: visible;
+  overflow: hidden;
   height: auto;
+}
+
+/* ========================================
+   FLOATING SHAPES (Static - No Animation)
+   ======================================== */
+
+/* Floating Circles - Static */
+.work-page .history-shape {
+  position: absolute;
+  border-radius: 50%;
+  background: var(--cyan);
+  opacity: 0.2;
+  filter: blur(60px);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.work-page .history-circle-1 {
+  width: 400px;
+  height: 400px;
+  top: 5%;
+  right: -100px;
+  background: var(--cyan);
+}
+
+.work-page .history-circle-2 {
+  width: 300px;
+  height: 300px;
+  top: 30%;
+  left: -80px;
+  background: var(--cyan-light);
+}
+
+.work-page .history-circle-3 {
+  width: 350px;
+  height: 350px;
+  top: 55%;
+  right: 10%;
+  background: rgba(6, 182, 212, 0.3);
+}
+
+.work-page .history-circle-4 {
+  width: 250px;
+  height: 250px;
+  bottom: 20%;
+  left: 15%;
+  background: var(--cyan);
+}
+
+.work-page .history-circle-5 {
+  width: 200px;
+  height: 200px;
+  top: 70%;
+  right: -50px;
+  background: var(--cyan-light);
+  opacity: 0.3;
+}
+
+.work-page .history-circle-6 {
+  width: 280px;
+  height: 280px;
+  bottom: 5%;
+  left: 40%;
+  background: rgba(34, 211, 238, 0.25);
+}
+
+/* Orbital Rings - Static */
+.work-page .history-orbit {
+  position: absolute;
+  border: 1px solid rgba(34, 211, 238, 0.2);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.work-page .history-orbit-1 {
+  width: 600px;
+  height: 600px;
+  top: 20%;
+  left: 80%;
+}
+
+.work-page .history-orbit-2 {
+  width: 800px;
+  height: 800px;
+  top: 60%;
+  left: 20%;
+  border-color: rgba(34, 211, 238, 0.15);
+}
+
+.work-page .history-orbit .orbit-dot {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background: var(--cyan);
+  border-radius: 50%;
+  opacity: 0.4;
+}
+
+.work-page .history-orbit .orbit-dot:nth-child(1) {
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.work-page .history-orbit .orbit-dot:nth-child(2) {
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--cyan-light);
+}
+
+.work-page .history-orbit .orbit-dot:nth-child(3) {
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  background: var(--cyan);
+}
+
+/* Expanding Rings - Hidden */
+.work-page .history-ring {
+  display: none;
 }
 
 .work-page .section-inner {
   padding: 6rem 3rem;
   max-width: 1400px;
   margin: 0 auto;
+  position: relative;
+  z-index: 1;
 }
 
 /* Section Label */

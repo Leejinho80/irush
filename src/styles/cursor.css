@@ -1,0 +1,41 @@
+/* Custom Cursor - 모든 페이지 공통 */
+.cursor {
+  width: 20px;
+  height: 20px;
+  border: 2px solid var(--yellow);
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none;
+  z-index: 10000;
+  transition: transform 0.15s ease;
+  mix-blend-mode: difference;
+  transform: translate(-50%, -50%);
+}
+
+.cursor-follower {
+  width: 40px;
+  height: 40px;
+  border: 1px solid rgba(251, 191, 36, 0.3);
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none;
+  z-index: 9999;
+  transition: all 0.3s ease;
+  transform: translate(-50%, -50%);
+}
+
+/* 모바일에서 커서 숨김 */
+@media (max-width: 1024px) {
+  .cursor,
+  .cursor-follower {
+    display: none !important;
+  }
+}
+
+/* 터치 디바이스에서 커서 숨김 */
+@media (hover: none) and (pointer: coarse) {
+  .cursor,
+  .cursor-follower {
+    display: none !important;
+  }
+}

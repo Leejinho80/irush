@@ -6,6 +6,12 @@ import WorkPage from './pages/WorkPage';
 import WorkDetailPage from './pages/WorkDetailPage';
 import TrendPage from './pages/TrendPage';
 
+// 모바일 뷰포트 높이 계산 (dvh 폴백)
+function setVH() {
+  const vh = window.innerHeight * 0.01;
+  document.documentElement.style.setProperty('--vh', `${vh}px`);
+}
+
 // 페이지 전환 시 초기화를 담당하는 컴포넌트
 function PageReset() {
   const location = useLocation();
@@ -17,6 +23,18 @@ function PageReset() {
     document.body.style.overflowY = '';
     window.scrollTo(0, 0);
   }, [location.pathname]);
+
+  // 모바일 뷰포트 높이 설정
+  useEffect(() => {
+    setVH();
+    window.addEventListener('resize', setVH);
+    window.addEventListener('orientationchange', setVH);
+
+    return () => {
+      window.removeEventListener('resize', setVH);
+      window.removeEventListener('orientationchange', setVH);
+    };
+  }, []);
 
   return null;
 }

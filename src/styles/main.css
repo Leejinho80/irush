@@ -70,11 +70,13 @@ nav.dark-mode .nav-btn.primary:hover {
 /* Section Container */
 .container {
   height: 100vh;
+  height: 100dvh;
   transition: transform 1.2s cubic-bezier(0.76, 0, 0.24, 1);
 }
 
 section {
   height: 100vh;
+  height: 100dvh;
   position: relative;
   overflow: hidden !important;
   overflow-y: hidden !important;
@@ -771,18 +773,22 @@ section#footer {
   animation: expand-ring 4s infinite ease-out;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  pointer-events: none;
 }
 
 @keyframes expand-ring {
   0% {
     width: 100px;
     height: 100px;
+    margin-left: -50px;
+    margin-top: -50px;
     opacity: 1;
   }
   100% {
     width: 800px;
     height: 800px;
+    margin-left: -400px;
+    margin-top: -400px;
     opacity: 0;
   }
 }
@@ -1016,7 +1022,9 @@ section#footer {
 #footer {
   padding: 12rem 2rem 4rem !important;
   height: 100vh !important;
+  height: 100dvh !important;
   min-height: 100vh !important;
+  min-height: 100dvh !important;
   overflow-y: auto !important;
   background: #f9f9f9 !important;
   display: flex !important;
@@ -1028,9 +1036,10 @@ section#footer {
   text-align: center !important;
   z-index: 10 !important;
   position: relative !important;
-  max-width: 1200px !important;
+  max-width: 1400px !important;
+  width: 100% !important;
   margin: 0 auto !important;
-  padding: 2rem 0 0 !important;
+  padding: 2rem 3rem 0 !important;
 }
 
 #footer .footer-headline {
@@ -1054,16 +1063,16 @@ section#footer {
 
 #footer .map-container {
   width: 100% !important;
-  max-width: 900px !important;
+  max-width: none !important;
   margin: 0 auto 3rem !important;
   height: 400px !important;
-  border-radius: 0 !important;
+  border-radius: 20px !important;
   overflow: hidden !important;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1) !important;
+  box-shadow: none !important;
 }
 
 #footer .contact-info {
-  max-width: 900px !important;
+  max-width: none !important;
   margin: 0 auto 3rem !important;
   text-align: left !important;
   display: flex !important;
@@ -1097,7 +1106,7 @@ section#footer {
   text-align: center !important;
   padding-top: 2rem !important;
   border-top: 1px solid #ddd !important;
-  max-width: 900px !important;
+  max-width: none !important;
   margin: 0 auto !important;
 }
 
@@ -1264,5 +1273,107 @@ section#footer {
 
   #footer .map-container {
     height: 200px !important;
+  }
+}
+
+/* ========================================
+   모바일 애니메이션 성능 최적화
+   (안드로이드 깜빡임/흔들림 방지)
+   ======================================== */
+
+/* GPU 가속 활성화 */
+.shape,
+.triangle,
+.fever-float-triangle,
+.fever-orbit,
+.fever-border,
+.bliss-circle,
+.bliss-orbit,
+.bliss-ring,
+.faith-float-square,
+.faith-orbit,
+.faith-border,
+.particle,
+.orbit-dot,
+.fever-orbit-dot,
+.faith-orbit-dot {
+  will-change: transform, opacity;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+/* 모바일에서 복잡한 애니메이션 단순화 */
+@media (max-width: 1024px), (hover: none) and (pointer: coarse) {
+  /* Expanding ring/border 애니메이션 비활성화 */
+  .fever-border,
+  .bliss-ring,
+  .faith-border {
+    display: none !important;
+  }
+
+  /* 궤도 회전 애니메이션 단순화 - 속도 늦추기 */
+  .fever-orbit,
+  .bliss-orbit,
+  .faith-orbit {
+    animation-duration: 60s !important;
+  }
+
+  .fever-orbit-2,
+  .bliss-orbit-2,
+  .faith-orbit-2 {
+    animation-duration: 80s !important;
+  }
+
+  /* 부유 도형 애니메이션 단순화 */
+  .shape,
+  .triangle,
+  .fever-float-triangle,
+  .bliss-circle,
+  .faith-float-square {
+    animation-duration: 30s !important;
+  }
+
+  /* box-shadow 제거로 성능 개선 */
+  .orbit-dot,
+  .fever-orbit-dot,
+  .faith-orbit-dot {
+    box-shadow: none !important;
+  }
+
+  /* 파티클 수 줄이기 - opacity로 일부 숨김 */
+  .particle:nth-child(n+40) {
+    display: none !important;
+  }
+
+  /* glow 애니메이션 비활성화 */
+  .section-stat {
+    animation: none !important;
+  }
+}
+
+/* 더 작은 모바일 화면에서 추가 최적화 */
+@media (max-width: 768px) {
+  /* 더 많은 파티클 숨기기 */
+  .particle:nth-child(n+25) {
+    display: none !important;
+  }
+
+  /* 일부 부유 도형 숨기기 */
+  .fever-float-triangle-5,
+  .fever-float-triangle-6,
+  .bliss-circle-5,
+  .bliss-circle-6,
+  .faith-float-square-5,
+  .faith-float-square-6 {
+    display: none !important;
+  }
+
+  /* 두 번째 궤도 숨기기 */
+  .fever-orbit-2,
+  .bliss-orbit-2,
+  .faith-orbit-2 {
+    display: none !important;
   }
 }

@@ -3,8 +3,8 @@ function FullpageFooter() {
   return (
     <section id="footer" className="fullpage-footer">
       <div className="footer-content-main">
-        <h2 className="footer-headline">We are waiting for you to contact us</h2>
-        <p className="footer-subheadline">You can write to us at any time and get an instant response.</p>
+        <h2 className="footer-headline">Contact us anytime</h2>
+        <p className="footer-subheadline">Write to us anytime for an instant response.</p>
 
         <div className="map-container">
           <iframe
