@@ -5,26 +5,50 @@ import '../styles/trend.css';
 import brochurePdf from '../assets/(주)아이러시 회사소개서.pdf';
 import CustomCursor from '../components/CustomCursor';
 
-const trendData = [
-  { number: '01', title: '중국 딥시크(DeepSeek) R1, 글로벌 AI 시장 판도 뒤흔들다', desc: "중국 스타트업 딥시크가 공개한 AI 모델 'R1'이 GPT-4o와 대등한 성능을 600만 달러 개발비로 구현해 충격을 안겼다. 발표 직후 엔비디아 시가총액 850조 원이 증발하며 '딥시크 쇼크'가 발생했고, 미국 앱스토어에서 ChatGPT를 제치고 1위를 기록했다.", link: 'https://zdnet.co.kr/view/?no=20250205152321' },
-  { number: '02', title: '엔비디아, CES 2025서 블랙웰 GPU RTX 50 시리즈 공개', desc: "젠슨 황 CEO가 CES 2025 기조연설에서 차세대 블랙웰 GPU를 공개했다. RTX 5090(1999달러)부터 RTX 5070(549달러)까지 4개 라인업을 발표했으며, RTX 4090 대비 3~4배 성능 향상을 달성했다. 개인용 AI 슈퍼컴퓨터 '프로젝트 디지트'도 함께 공개됐다.", link: 'https://www.etnews.com/20250107000331' },
-  { number: '03', title: '삼성 갤럭시 S25 시리즈, 진정한 AI 스마트폰 시대 개막', desc: "삼성전자가 갤럭시 언팩 2025에서 AI 통합 플랫폼 'One UI 7'을 탑재한 갤럭시 S25 시리즈를 공개했다. 멀티모달 AI와 '나우 브리프' 개인 비서 기능이 탑재되었으며, 스냅드래곤 8 엘리트 칩으로 역대 최강 성능을 구현하면서도 전작과 동일한 가격을 유지했다.", link: 'https://news.samsung.com/kr/삼성전자-갤럭시-s25-시리즈-공개' },
-  { number: '04', title: '오픈AI GPT-5 공개, 통합 AI 모델 시대 열다', desc: '오픈AI가 GPT-5를 공개하며 GPT-4o와 o3 모델을 통합했다. 오류 발생률이 최대 70% 감소했으며, 입력 토큰 비용도 절반으로 낮아졌다. 암젠은 임상데이터 분석에, 우버는 고객지원 자동화에 GPT-5를 적용 중이다.', link: 'https://openai.com/index/introducing-gpt-5-2/' },
-  { number: '05', title: 'SK하이닉스, HBM4 세계 최초 양산 돌입', desc: "SK하이닉스가 세계 최초로 HBM4 샘플을 공급하고 양산에 돌입한다. TSMC와 협력해 12nm 로직 공정을 도입, 대역폭 2배 확대와 전력 효율 40% 개선을 달성했다. 엔비디아 차세대 AI 반도체 '루빈'에 탑재될 예정이며, HBM4 1개 가격은 약 70만 원이다.", link: 'https://www.etnews.com/20251104000298' },
-  { number: '06', title: '애플 인텔리전스, 드디어 한국어 지원 시작', desc: '애플이 iOS 18.4 업데이트를 통해 애플 인텔리전스의 한국어 지원을 시작했다. 글쓰기 도구, 스마트 답장, 사진 클린업 기능 등이 한국어로 사용 가능해졌으며, 비공개 클라우드 컴퓨팅으로 개인정보 보호 수준도 강화됐다.', link: 'https://www.apple.com/kr/newsroom/2025/03/apple-intelligence-features-are-now-available-in-korean/' },
-  { number: '07', title: '테슬라 옵티머스 3세대, 휴머노이드 로봇 양산 초읽기', desc: '테슬라가 옵티머스 3세대 로봇 시제품을 공개 예정이다. 약 9,460억 원 규모의 부품을 발주했으며, 제조 원가는 4,000만 원 수준으로 예상된다. 일론 머스크는 "로봇 슈트를 입은 사람처럼 사실적일 것"이라며 2026년 양산을 목표로 하고 있다.', link: 'https://zdnet.co.kr/view/?no=20251023105843' },
-  { number: '08', title: '한국형 초거대 AI 경쟁 본격화, 5개 컨소시엄 격돌', desc: "네이버클라우드, 업스테이지, SK텔레콤, NC AI, LG AI연구원 등 5개 컨소시엄이 독자 AI 파운데이션 모델 개발에 참여 중이다. SKT는 5,190억 개 파라미터의 'A.X K1' 모델을 예고했으며, 이는 국내 최대 규모다. 소버린 AI 확보를 위한 국가 차원의 경쟁이 본격화됐다.", link: 'https://v.daum.net/v/20251228145923740' },
-  { number: '09', title: 'CES 2025 혁신상, 한국 기업 60% 휩쓸어', desc: 'CES 2025에서 한국 기업들이 혁신상 458건 중 219건(47.8%)을 수상하며 3년 연속 최다 수상국 타이틀을 거머쥐었다. 1,031개사가 참가해 역대 최대 규모를 기록했으며, 대동의 AI 식물 재배기, 셀리코의 시각장애인용 스마트 안경 등이 주목받았다.', link: 'https://www.aitimes.kr/news/articleView.html?idxno=33150' },
-  { number: '10', title: '가트너 선정 2025 전략기술 트렌드, AI 에이전트가 핵심', desc: "가트너가 2025년 10대 전략기술 트렌드를 발표했다. 에이전틱 AI, AI 거버넌스 플랫폼, 양자내성암호, 공간 컴퓨팅, 다기능 로봇 등이 포함됐다. 특히 자율형 AI 에이전트가 핵심으로 부상하며, MS는 '코파일럿 스튜디오'로 기업 맞춤형 에이전트 시장 선점에 나섰다.", link: 'https://www.samsungsds.com/kr/insights/2025-technology-industry-trends-to-watch.html' }
+// 기본 뉴스 데이터 (JSON 로드 실패 시 폴백)
+const defaultTrendData = [
+  { number: '01', title: '중국 딥시크(DeepSeek) R1, 글로벌 AI 시장 판도 뒤흔들다', desc: "중국 스타트업 딥시크가 공개한 AI 모델 'R1'이 GPT-4o와 대등한 성능을 600만 달러 개발비로 구현해 충격을 안겼다.", link: 'https://zdnet.co.kr/view/?no=20250205152321' },
+  { number: '02', title: '엔비디아, CES 2025서 블랙웰 GPU RTX 50 시리즈 공개', desc: "젠슨 황 CEO가 CES 2025 기조연설에서 차세대 블랙웰 GPU를 공개했다.", link: 'https://www.etnews.com/20250107000331' },
+  { number: '03', title: '삼성 갤럭시 S25 시리즈, 진정한 AI 스마트폰 시대 개막', desc: "삼성전자가 갤럭시 언팩 2025에서 AI 통합 플랫폼 'One UI 7'을 탑재한 갤럭시 S25 시리즈를 공개했다.", link: 'https://news.samsung.com/kr/' },
+  { number: '04', title: '오픈AI GPT-5 공개, 통합 AI 모델 시대 열다', desc: '오픈AI가 GPT-5를 공개하며 GPT-4o와 o3 모델을 통합했다.', link: 'https://openai.com/' },
+  { number: '05', title: 'SK하이닉스, HBM4 세계 최초 양산 돌입', desc: "SK하이닉스가 세계 최초로 HBM4 샘플을 공급하고 양산에 돌입한다.", link: 'https://www.etnews.com/' }
 ];
 
 function TrendPage() {
+  const [trendData, setTrendData] = useState(defaultTrendData);
+  const [lastUpdated, setLastUpdated] = useState('');
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [navMode, setNavMode] = useState('dark-mode');
   const [activeTrend, setActiveTrend] = useState(null);
   const [todayDate, setTodayDate] = useState('');
   const [visibleItems, setVisibleItems] = useState(new Set());
   const particlesRef = useRef(null);
+
+  // 뉴스 데이터 로드
+  useEffect(() => {
+    async function loadNews() {
+      try {
+        const response = await fetch('/data/news.json');
+        if (response.ok) {
+          const data = await response.json();
+          if (data.news && data.news.length > 0) {
+            setTrendData(data.news);
+            if (data.lastUpdated) {
+              const date = new Date(data.lastUpdated);
+              setLastUpdated(date.toLocaleDateString('ko-KR', {
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit'
+              }));
+            }
+          }
+        }
+      } catch (error) {
+        console.log('Using default trend data');
+      }
+    }
+    loadNews();
+  }, []);
 
   // body에 trend-page 클래스 추가 (스크롤 활성화)
   useEffect(() => {
@@ -254,7 +278,10 @@ function TrendPage() {
             ))}
           </div>
 
-          <p className="trend-notice">* IT 트렌드는 매일 오전 8시에 자동으로 업데이트됩니다.</p>
+          <p className="trend-notice">
+              * IT 트렌드는 매일 오전 8시에 자동으로 업데이트됩니다.
+              {lastUpdated && <span className="last-updated"> (최근 업데이트: {lastUpdated})</span>}
+            </p>
         </div>
       </section>
 

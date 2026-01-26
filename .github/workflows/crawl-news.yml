@@ -1,0 +1,46 @@
+name: Crawl IT News
+
+on:
+  schedule:
+    # 매일 한국시간 오전 8시 (UTC 23:00)
+    - cron: '0 23 * * *'
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run crawler
+        run: node scripts/crawl-news.cjs
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet public/data/news.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/data/news.json
+          git commit -m "chore: update IT news data $(date +'%Y-%m-%d')"
+          git push

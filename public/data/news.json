@@ -1,0 +1,76 @@
+{
+  "lastUpdated": "2026-01-26T07:37:46.135Z",
+  "totalCount": 10,
+  "news": [
+    {
+      "number": "01",
+      "title": "AI용 칩 생산 집중하는 인텔, 2026년 보급형 PC 공급난·가격 상승 불가피",
+      "desc": "2026년에는 보급형 PC를 구하기가 한층 어려워질 것으로 보인다. 시장에 남아 있는 제품의 가격도 상승할 가능성이 있다.\n\n\n\n이는 인텔이 자사 생산 역량을 기존의 PC용 칩에서 고성능 AI 워크로드를 지원하는 제온 프로세서로 전환하기로 한 결정의 여파다. 인텔...",
+      "link": "https://www.itworld.co.kr/article/4121824/ai%ec%9a%a9-%ec%b9%a9-%ec%83%9d%ec%82%b0-%ec%a7%91%ec%a4%91%ed%95%98%eb%8a%94-%ec%9d%b8%ed%85%94-2026%eb%85%84-%eb%b3%b4%ea%b8%89%ed%98%95-pc-%ea%b3%b5%ea%b8%89%eb%82%9c%c2%b7%ea%b0%80%ea%b2%a9.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "“잊으라고 만든 이름” PC 모니터 제품명이 정말 싫은 이유",
+      "desc": "“MSI MPG 271QR QD-OLED X50은 MSI MAG 272QP QD-OLED X50과 혼동하면 안 되지만, 두 제품은 비슷하다.”\n\n\n\nPCWorld 리뷰에서 이 문장을 읽고 아침에 마시던 음료수를 키보드에 뿜을 뻔했다. 당연히 두 모니터를 헷갈릴 수...",
+      "link": "https://www.itworld.co.kr/article/4121813/%ec%9e%8a%ec%9c%bc%eb%9d%bc%ea%b3%a0-%eb%a7%8c%eb%93%a0-%ec%9d%b4%eb%a6%84-pc-%eb%aa%a8%eb%8b%88%ed%84%b0-%ec%a0%9c%ed%92%88%eb%aa%85%ec%9d%b4-%ec%a0%95%eb%a7%90-%ec%8b%ab%ec%9d%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "아마존, ‘조직 문화’ 이유로 또 대규모 감원…AWS 기술 인력 타격 전망",
+      "desc": "시장 성장세가 둔화되면서 AWS를 포함한 주요 아마존 사업 부문이 또 한 차례의 대규모 구조조정을 준비 중이다. 이번 감원은 특히 기술 인력에 집중될 것으로 예상된다.\n\n\n\n로이터는 “아마존이 다음 주 두 번째 구조조정을 단행할 계획이며, 이는 약 3만 명의 사무...",
+      "link": "https://www.itworld.co.kr/article/4121806/%ec%95%84%eb%a7%88%ec%a1%b4-%ec%a1%b0%ec%a7%81-%eb%ac%b8%ed%99%94-%ec%9d%b4%ec%9c%a0%eb%a1%9c-%eb%98%90-%eb%8c%80%ea%b7%9c%eb%aa%a8-%ea%b0%90%ec%9b%90aws-%ea%b8%b0%ec%88%a0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "“콘텐츠도 원산지 표기” AI 정보 공개가 모두에게 필요한 이유",
+      "desc": "AI 챗봇은 3년 1개월 동안 우리와 함께했다. 적어도 LLM으로 자연스러운 말투의 문장을 만들어 소통하는 종류의 AI 챗봇을 기준으로 그렇다. 이미 일부 직업군에서는 AI를 어떻게 쓰는지 공개하는 것이 표준으로 자리 잡기 시작했다.\n\n\n\n예를 들면 다음과 같다....",
+      "link": "https://www.itworld.co.kr/article/4121801/%ec%bd%98%ed%85%90%ec%b8%a0%eb%8f%84-%ec%9b%90%ec%82%b0%ec%a7%80-%ed%91%9c%ea%b8%b0-ai-%ec%a0%95%eb%b3%b4-%ea%b3%b5%ea%b0%9c%ea%b0%80-%eb%aa%a8%eb%91%90%ec%97%90%ea%b2%8c-%ed%95%84.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
+      "title": "에이전틱 AI가 만드는 새로운 클라우드 운영 기준선",
+      "desc": "지난 10년 동안 클라우드 컴퓨팅은 대체로 도구 문제라고 스스로를 설득해 왔다. 클라우드 서비스 업체를 고르고 랜딩 존(Landing Zone)을 표준화하고 배포를 자동화하면, ‘현대화’를 달성했다고 여기는 서사가 에이전틱 AI 앞에서 무너지고 있다. 에이전틱 A...",
+      "link": "https://www.itworld.co.kr/article/4121798/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%ea%b0%80-%eb%a7%8c%eb%93%9c%eb%8a%94-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%9a%b4%ec%98%81-%ea%b8%b0%ec%a4%80%ec%84%a0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "06",
+      "title": "“식자재 발주부터 AI 리뷰 대응까지 앱 하나로”... 스마트푸드네트웍스, ‘차별화리뷰’ 출시",
+      "desc": "외식업 테크 기업 스마트푸드네트웍스(이하 SFN)가 외식업 사장님을 위한 ‘차별화상회’와 ‘차별화장부’에 이어, 인공지능(AI) 리뷰 관리 서비스 ‘차별화리뷰’를 정식 출시했다. 기존 리뷰 관리 서비스들이 단일 기능에 그쳤던 것과 달리, 차별화리뷰는 SFN의 통합...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38306",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
+      "title": "한컴이노스트림, 한전KPS에 생성형 AI 기반 ‘보일러 지능형 통합관리(BIMS)’ 구축",
+      "desc": "한글과컴퓨터의 인공지능(AI) 전자문서 및 데이터 설루션 자회사 한컴이노스트림은 한전KPS의 발전소 보일러 정비 효율을 극대화하는 ‘보일러 지능형 통합관리시스템(BIMS, Boiler Intelligent Management System)’ 구축을 성공적으로 완료...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38305",
+      "source": "AI Times"
+    },
+    {
+      "number": "08",
+      "title": "로봇팔, 갑자기 무거운 짐 들어도 안 떤다!..UNIST, 적응형 제어 기술 개발",
+      "desc": "갑자기 무거운 짐을 들어도 덜덜 떨지 않는 로봇팔을 만드는 제어 기술이 나왔다. 산업 현장 로봇팔 90%에서 쓰는 제어기의 소프트웨어만 업데이트하면 바로 쓸 수 있는 기술이다.UNIST 기계공학과 강상훈 교수팀은 급격한 부하 변동이나 외부 충격에도 로봇팔이 잘 작...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38304",
+      "source": "AI Times"
+    },
+    {
+      "number": "09",
+      "title": "팀뷰어,  “2026년, 에이전틱 AI로 실질적 비즈니스 가치 창출”",
+      "desc": "디지털 워크플레이스(Digital Workplace) 솔루션 분야 글로벌 선두 기업 팀뷰어(TeamViewer)가 2026년을 기점으로 기업의 인공지능(AI) 활용 초점이 ‘기술적 가능성’에서 ‘일상 업무에서 창출되는 실제 가치’로 본격 전환될 것이라고 전망했다....",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38303",
+      "source": "AI Times"
+    },
+    {
+      "number": "10",
+      "title": "큐비트보다 중요한 질문...김준영 KQC 대표, “기술은 어디에 놓일 것인가”",
+      "desc": "양자컴퓨팅을 이야기할 때 사람들은 흔히 물리학자나 엔지니어를 떠올린다. 극저온 냉각 장치, 오류율, 게이트 연산, 큐비트 숫자 같은 기술적 언어가 먼저 등장한다. 양자는 오랫동안 ‘실험실의 기술’이었고, 그 세계의 주인공 역시 과학자와 엔지니어였다.그러나 부산에서...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38302",
+      "source": "AI Times"
+    }
+  ]
+}
