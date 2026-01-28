@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-01-28T03:57:29.832Z",
+  "lastUpdated": "2026-01-28T23:51:38.796Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "마이크로소프트, 앤트로픽에 건다…오픈AI 의존에서 벗어나나",
+      "desc": "마이크로소프트는 지난해 가을 오픈AI와의 새로운 관계를 확정하는 계약을 체결한 직후, 새로운 AI 파트너를 찾는 데 거의 시간을 낭비하지 않았다. 선택지는 세계에서 두 번째로 기업가치가 높은 AI 신생업체 앤트로픽이었다. 마이크로소프트와 앤트로픽의 관계는 시작된 ...",
+      "link": "https://www.itworld.co.kr/article/4123876/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%ec%97%90-%ea%b1%b4%eb%8b%a4%ec%98%a4%ed%94%88ai-%ec%9d%98%ec%a1%b4%ec%97%90%ec%84%9c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "인텔, 18A 공정 기반 ‘인텔 코어 울트라 시리즈3’ 탑재 AI PC 발표",
+      "desc": "신제품 발표를 맡은 인텔 컨수머 PC 부문 총괄 조쉬 뉴먼은 인텔 18A 공정 기반 첫 플래그십 제품인 인텔 코어 울트라 시리즈3가 강력한 전력 효율성, 게이밍 및 콘텐츠 제작, 생산성 등 모든 워크로드에서 뛰어난 성능, 동급 최고의 그래픽, 개선된 AI 연산 성...",
+      "link": "https://www.itworld.co.kr/article/4123334/%ec%9d%b8%ed%85%94-18a-%ea%b3%b5%ec%a0%95-%ea%b8%b0%eb%b0%98-%ec%9d%b8%ed%85%94-%ec%bd%94%ec%96%b4-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%8b%9c%eb%a6%ac%ec%a6%883-%ed%83%91%ec%9e%ac-ai-pc-%eb%b0%9c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
       "title": "“프라이빗 클라우드가 돌아온다” AI 워크로드가 바꾼 클라우드 방정식",
       "desc": "북미의 한 제조사는 2025년 초까지 혁신 기업이 흔히 선택하는 방식대로 데이터 레이크, 분석, CI/CD, ERP 통합의 상당 부분까지 활용하며 퍼블릭 클라우드 표준화를 공격적으로 추진했다. 이사회는 단순화라는 서사를 좋아했는데, 단순화가 비용 절감처럼 들렸기 ...",
       "link": "https://www.itworld.co.kr/article/4123288/%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b9%97-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ea%b0%80-%eb%8f%8c%ec%95%84%ec%98%a8%eb%8b%a4-ai-%ec%9b%8c%ed%81%ac%eb%a1%9c%eb%93%9c%ea%b0%80-%eb%b0%94.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "04",
       "title": "삼성 갤럭시 북6 울트라 사용기 “팬서 레이크가 판을 바꿨다”",
       "desc": "삼성의 16인치 갤럭시 북6 울트라는 시연이 아닌 실제 사용 환경에서 처음 접한 팬서 레이크 기반 PC다. 인텔 코어 울트라 시리즈 3 CPU와 엔비디아 외장 그래픽 하드웨어를 결합한 갤럭시 북6 울트라는 완성도가 높은 프리미엄 노트북이다. 삼성은 2026년형 갤...",
       "link": "https://www.itworld.co.kr/article/4123273/%ec%82%bc%ec%84%b1-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%eb%b6%816-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%82%ac%ec%9a%a9%ea%b8%b0-%ed%8c%ac%ec%84%9c-%eb%a0%88%ec%9d%b4%ed%81%ac%ea%b0%80-%ed%8c%90%ec%9d%84-%eb%b0%94.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "05",
       "title": "“아태지역 기업 40% AI 에이전트 활용…26년까지 50% 이상 확산 전망” 유아이패스",
       "desc": "유아이패스(UiPath)가 ‘유아이패스 2026 AI 및 에이전틱 자동화 트렌드 보고서(UiPath 2026 AI and Agentic Automation Trends Report)’를 발표하고, 글로벌 AI 지형에서 아시아태평양·일본(APJ) 지역이 담당하게 될...",
       "link": "https://www.itworld.co.kr/article/4123256/%ec%95%84%ed%83%9c%ec%a7%80%ec%97%ad-%ea%b8%b0%ec%97%85-40-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%99%9c%ec%9a%a926%eb%85%84%ea%b9%8c%ec%a7%80-50-%ec%9d%b4%ec%83%81-%ed%99%95.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
-      "title": "CTO를 꿈꾸는 데브옵스 리더를 위한 8가지 실행 전략",
-      "desc": "필자는 20대 후반에 CTO로 승진했다. 오늘날 스타트업에서 젊은 CTO를 보는 일이 흔하지만, 1990년대에는 이례적인 사례였다. 경험은 훨씬 부족했고 비즈니스 감각도 발전 단계에 머물러 있었다. 소프트웨어 개발 역량은 강점이었지만, C레벨 역할로 올라갈 때 결...",
-      "link": "https://www.itworld.co.kr/article/4123233/cto%eb%a5%bc-%ea%bf%88%ea%be%b8%eb%8a%94-%eb%8d%b0%eb%b8%8c%ec%98%b5%ec%8a%a4-%eb%a6%ac%eb%8d%94%eb%a5%bc-%ec%9c%84%ed%95%9c-8%ea%b0%80%ec%a7%80-%ec%8b%a4%ed%96%89-%ec%a0%84%eb%9e%b5.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "‘조용한 위기’ 처한 마이SQL, 문제는 기술이 아니라 방향이다",
-      "desc": "2025년 5월 마이SQL은 출시 30주년을 맞았다. 수십 년간 꾸준히 사용되는 기술 프로젝트는 드물며, 마이SQL은 그중에서도 여전히 높은 활용도를 유지하고 있다. 데이터베이스 엔진 순위를 집계하는 DB-엔진(DB-Engines) 랭킹에서 마이SQL은 2위에 올...",
-      "link": "https://www.itworld.co.kr/article/4123231/%ec%a1%b0%ec%9a%a9%ed%95%9c-%ec%9c%84%ea%b8%b0-%ec%b2%98%ed%95%9c-%eb%a7%88%ec%9d%b4sql-%eb%ac%b8%ec%a0%9c%eb%8a%94-%ea%b8%b0%ec%88%a0%ec%9d%b4-%ec%95%84%eb%8b%88%eb%9d%bc-%eb%b0%a9.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "마이크로칩, 더욱 폭넓은 화면 크기 지원하는 maXTouch® M1 터치스크린 컨트롤러 제품군 확장",
-      "desc": "마이크로컨트롤러, 혼합 신호, 아날로그 반도체 및 플래시-IP 솔루션 분야의 세계적 리더인 마이크로칩테크놀로지(아시아 총괄 및 한국대표: 한병돈)는 보다 넓은 범위의 차량용 디스플레이에 높은 신뢰성과 우수한 보안을 갖춘 터치 감지를 제공하기 위해 maXTouch®...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38352",
+      "title": "'세상에 없던 안경원' 라운즈, 중국 안경원 대표단 방문…  AI 안경원에 주목!",
+      "desc": "아이웨어 전문 인공지능(AI) 서비스 기업 라운즈(대표 김세민·김명섭)는 최근 라운즈 판교점에 중국 안경 업계 방문단이 방문해 AI 기반 안경원 사업 모델을 체험하고, 향후 협력 가능성을 논의했다고 29일 밝혔다. 이번 방문은 중국 안경 시장의 발전을 위해, 한국...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38371",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "퓨리오사AI, \"2세대 AI 칩 ‘RNGD’ 양산 성공, TSMC로부터 4000장 인도 시작\".. 엔터프라이즈 확산 ‘박차'",
-      "desc": "인공지능(AI) 반도체 기업 퓨리오사AI가 2세대 칩 RNGD(레니게이드) 1차 양산물량 4,000장을 인도받기 시작했다. 파운드리 협력사인 TSMC가 제조를 완료한 RNGD 칩이 ASUS의 카드 제조 공정을 거쳐 출고된다. 그동안 다양한 환경에서 성능과 효율을 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38351",
+      "title": "노타, AI 경량화 기술 집약된 ‘ERGO’모델로 ICLR 2026 채택… “고해상도 VLM 추론 속도 3배 혁신”",
+      "desc": "인공지능(AI) 경량화 및 최적화 기술 기업 노타(대표 채명수)는 비전 언어 모델(Vision-Language Models, VLM)의 고해상도 이미지 처리 효율을 획기적으로 높인 연구 성과가 세계 최고 권위의 인공지능 학회인 ‘ICLR 2026’에 채택되며 글로...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38370",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "유아이패스, 2026년 AI·에이전틱 자동화 트렌드 제시…글로벌 AI 지형에서 아태지역 역할 부각",
-      "desc": "에이전틱 자동화 분야의 글로벌 리더인 유아이패스(UiPath)는 유아이패스(UiPath)는 ‘유아이패스 2026 인공지능 및 에이전틱 자동화 트렌드 보고서(UiPath 2026 AI and Agentic Automation Trends Report)’를 발표하고,...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38350",
+      "title": "팀엘리시움, 차세대 AI 체형분석기 ‘바디닷’ 과기정통부 혁신제품 지정...AI 기반 근골격계 체형 분석 기술력 인정",
+      "desc": "MSK 버티컬 인공지능(AI) 전문기업 팀엘리시움(대표 김원진, 박은식)의 차세대 AI 체형분석기 ‘바디닷(Bodydot)®’이 과학기술정보통신부가 주관하는 혁신제품으로 공식 지정됐다고 29일 밝혔다.과기정통부 혁신제품 지정 제도는 기술 혁신성과 공공·산업적 활용...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38369",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "알리바바, 최신 추론 모델 ‘Qwen3-Max-Thinking’ 공개...1조 개 이상의 파라미터로 모델 규모 대폭 확장",
-      "desc": "알리바바그룹(Alibaba Group)이 인공지능(AI) 최신 추론 모델 ‘큐웬3-맥스-씽킹(Qwen3-Max-Thinking)’을 공개했다. 해당 모델은 강화학습(RL)을 위해 1조 개 이상의 파라미터로 모델 규모를 대폭 확장했으며, 이를 통해 사실적 지식 처리...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38349",
+      "title": "상상속 장면, 바르코 사운드로 생생하게...NC AI, 사운드 생성 AI 서비스 ‘VARCO Sound’ 출시",
+      "desc": "멀티모달 AI 전문기업 NC AI가 생성형 AI 기반의 사운드 제작 솔루션 ‘바르코 사운드(VARCO Sound)’의 베타 서비스를 29일 공개했다. 바르코 사운드는 세계 최초로 한 장면에 표현되는 여러 소리를 각각 구분하는 멀티트랙 사운드를 통해 자연스러운 소리...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38368",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "이스트소프트, 대우건설과 아파트 단지 내 ‘실시간 대화형 AI 휴먼’ 도입... ‘페르소 인터랙티브’와 ‘AI 파고라’ 시너지 낸다!",
-      "desc": "인공지능(AI) 서비스 전문 기업 이스트소프트(대표 정상원)는 대우건설과 아파트 단지 내 휴게시설에 실시간 대화형 AI 휴먼 서비스를 적용하기 위한 업무협약(MOU)을 체결했다고 28일 밝혔다. 이번 협약을 통해 이스트소프트는 자사의 실시간 대화형 AI 휴먼 서비...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38348",
+      "title": "SK하이닉스, 美에 AI 솔루션 회사 설립...14조 원 출자, “AI 파트너들과 한발 앞선 고객 가치 창출할 것”",
+      "desc": "SK하이닉스가 AI 산업의 중심지인 미국에 인공지능 솔루션 회사 ‘AI Company(가칭, 이하 AI Co.)’ 설립을 추진한다고 28일 밝혔다. 회사는 총 100억 달러(약 14조 원)를 AI Co.의 자금 요청(Capital Call)에 따라 단계적으로 출자...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38367",
       "source": "AI Times"
     }
   ]
