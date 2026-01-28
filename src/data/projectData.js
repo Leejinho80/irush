@@ -38,14 +38,14 @@ export const projectSlides = [
     id: 5,
     title: 'LG헬로비전 통합 웹사이트 운영',
     desc: 'LG헬로비전 전 서비스 웹사이트 통합 운영 및 지속적 개선',
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1920&h=1080&fit=crop',
+    image: 'https://images.unsplash.com/photo-1593784991095-a205069470b6?w=1920&h=1080&fit=crop',
     link: '/work-detail/5'
   },
   {
     id: 6,
     title: '국내외 기업 SRM 서비스 운영',
     desc: '현대글로비스, 아모레퍼시픽 등 대기업 구매시스템 운영',
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&h=1080&fit=crop',
+    image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1920&h=1080&fit=crop',
     link: '/work-detail/6'
   }
 ];
@@ -155,7 +155,7 @@ export const projectDetails = {
   5: {
     id: 5,
     title: 'LG헬로비전 통합 웹사이트 운영',
-    viewImage: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1920&h=1080&fit=crop',
+    viewImage: 'https://images.unsplash.com/photo-1593784991095-a205069470b6?w=1920&h=1080&fit=crop',
     overview: [
       'LG헬로비전의 모든 서비스(케이블TV, 인터넷, 모바일, 렌탈 등)를 아우르는 통합 웹사이트 운영 프로젝트입니다.',
       '다양한 서비스를 하나의 플랫폼에서 일관된 사용자 경험으로 제공하며, 지속적인 개선과 최적화를 통해 고객 만족도를 높이고 있습니다.'
@@ -180,7 +180,7 @@ export const projectDetails = {
   6: {
     id: 6,
     title: '국내외 기업 SRM 서비스 운영',
-    viewImage: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&h=1080&fit=crop',
+    viewImage: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1920&h=1080&fit=crop',
     overview: [
       '현대글로비스 아태/미주/유럽 구매시스템, 아모레퍼시픽 간접구매시스템 등 대기업 SRM(Supplier Relationship Management) 서비스 운영 프로젝트입니다.',
       '엠로(Emro)와 협력하여 글로벌 기업의 공급망 관리 시스템을 안정적으로 운영하고, 지속적인 기능 개선을 통해 업무 효율성을 높이고 있습니다.'
