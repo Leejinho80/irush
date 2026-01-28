@@ -38,7 +38,7 @@ export const projectSlides = [
     id: 5,
     title: 'LG헬로비전 통합 웹사이트 운영',
     desc: 'LG헬로비전 전 서비스 웹사이트 통합 운영 및 지속적 개선',
-    image: 'https://images.unsplash.com/photo-1593784991095-a205069470b6?w=1920&h=1080&fit=crop',
+    image: 'https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=1920&h=1080&fit=crop',
     link: '/work-detail/5'
   },
   {
@@ -155,7 +155,7 @@ export const projectDetails = {
   5: {
     id: 5,
     title: 'LG헬로비전 통합 웹사이트 운영',
-    viewImage: 'https://images.unsplash.com/photo-1593784991095-a205069470b6?w=1920&h=1080&fit=crop',
+    viewImage: 'https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=1920&h=1080&fit=crop',
     overview: [
       'LG헬로비전의 모든 서비스(케이블TV, 인터넷, 모바일, 렌탈 등)를 아우르는 통합 웹사이트 운영 프로젝트입니다.',
       '다양한 서비스를 하나의 플랫폼에서 일관된 사용자 경험으로 제공하며, 지속적인 개선과 최적화를 통해 고객 만족도를 높이고 있습니다.'
