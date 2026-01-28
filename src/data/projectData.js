@@ -45,7 +45,7 @@ export const projectSlides = [
     id: 6,
     title: '국내외 기업 SRM 서비스 운영',
     desc: '현대글로비스, 아모레퍼시픽 등 대기업 구매시스템 운영',
-    image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1920&h=1080&fit=crop',
+    image: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1920&h=1080&fit=crop',
     link: '/work-detail/6'
   }
 ];
@@ -180,7 +180,7 @@ export const projectDetails = {
   6: {
     id: 6,
     title: '국내외 기업 SRM 서비스 운영',
-    viewImage: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1920&h=1080&fit=crop',
+    viewImage: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1920&h=1080&fit=crop',
     overview: [
       '현대글로비스 아태/미주/유럽 구매시스템, 아모레퍼시픽 간접구매시스템 등 대기업 SRM(Supplier Relationship Management) 서비스 운영 프로젝트입니다.',
       '엠로(Emro)와 협력하여 글로벌 기업의 공급망 관리 시스템을 안정적으로 운영하고, 지속적인 기능 개선을 통해 업무 효율성을 높이고 있습니다.'
