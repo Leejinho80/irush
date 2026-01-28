@@ -1,19 +1,23 @@
 import { useEffect, useRef, useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import '../styles/common.css';
 import '../styles/work-detail.css';
-import helloViewImg from '../assets/images/hello_view.png';
 import brochurePdf from '../assets/(주)아이러시 회사소개서.pdf';
 import CustomCursor from '../components/CustomCursor';
+import { projectDetails } from '../data/projectData';
 
 function WorkDetailPage() {
+  const { id } = useParams();
   const [menuOpen, setMenuOpen] = useState(false);
-  const [navMode, setNavMode] = useState('light'); // work-detail은 light 배경으로 시작
+  const [navMode, setNavMode] = useState('light');
   const shapesRef = useRef([]);
   const scrollYRef = useRef(0);
   const currentScrollYRef = useRef(0);
   const rafIdRef = useRef(null);
   const footerRef = useRef(null);
+
+  // 현재 프로젝트 데이터 가져오기
+  const project = projectDetails[id] || projectDetails[1];
 
   // 메뉴 토글
   const toggleMenu = () => {
@@ -65,7 +69,7 @@ function WorkDetailPage() {
         scrollObserver.unobserve(el);
       });
     };
-  }, []);
+  }, [id]);
 
   // Floating Background Shapes Animation
   useEffect(() => {
@@ -79,33 +83,28 @@ function WorkDetailPage() {
     shapesRef.current = shapes;
 
     const updateShapes = () => {
-      // Smooth interpolation
       currentScrollYRef.current += (scrollYRef.current - currentScrollYRef.current) * 0.1;
 
       const scrollPercent = currentScrollYRef.current / (document.documentElement.scrollHeight - window.innerHeight);
 
-      // Shape 1: moves down and scales
       if (shape1) {
         const y1 = currentScrollYRef.current * 0.3;
         const x1 = Math.sin(scrollPercent * Math.PI * 2) * 50;
         shape1.style.transform = `translate(${x1}px, ${y1}px) scale(${1 + scrollPercent * 0.3})`;
       }
 
-      // Shape 2: moves up and changes blur
       if (shape2) {
         const y2 = -currentScrollYRef.current * 0.2;
         const x2 = Math.cos(scrollPercent * Math.PI * 2) * 80;
         shape2.style.transform = `translate(${x2}px, ${y2}px) scale(${1 - scrollPercent * 0.2})`;
       }
 
-      // Shape 3: diagonal movement
       if (shape3) {
         const y3 = currentScrollYRef.current * 0.15;
         const x3 = -currentScrollYRef.current * 0.1;
         shape3.style.transform = `translate(${x3}px, ${y3}px) rotate(${scrollPercent * 180}deg)`;
       }
 
-      // Update blur and opacity based on scroll position
       shapes.forEach((shape, index) => {
         const blurBase = 80;
         const blurVariation = Math.sin(scrollPercent * Math.PI + index) * 40;
@@ -119,17 +118,14 @@ function WorkDetailPage() {
       rafIdRef.current = requestAnimationFrame(updateShapes);
     };
 
-    // Start animation loop
     updateShapes();
 
-    // Update scroll position
     const handleScroll = () => {
       scrollYRef.current = window.scrollY;
     };
 
     window.addEventListener('scroll', handleScroll, { passive: true });
 
-    // Mouse parallax effect (subtle) - only on desktop
     let mouseX = 0;
     let mouseY = 0;
     let currentMouseX = 0;
@@ -222,7 +218,7 @@ function WorkDetailPage() {
         </ul>
       </div>
 
-      {/* Back Button - Outside main for proper z-index */}
+      {/* Back Button */}
       <Link to="/work" className="back-btn">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <path d="M19 12H5M12 19l-7-7 7-7"/>
@@ -234,7 +230,7 @@ function WorkDetailPage() {
       <main className="detail-content">
         {/* Hero Section */}
         <section className="detail-hero">
-          <h1 className="detail-title fade-up">LG헬로비전 모바일 직영몰 고도화</h1>
+          <h1 className="detail-title fade-up">{project.title}</h1>
         </section>
 
         {/* Project Overview */}
@@ -243,14 +239,9 @@ function WorkDetailPage() {
             <span className="section-tag">Project Overview</span>
           </div>
           <div className="overview-content">
-            <p className="overview-desc">
-              LG헬로비전의 모바일 직영몰 고도화 프로젝트는 기존 모바일 서비스의 사용자 경험을 전면적으로 개선하고,
-              최신 트렌드에 맞는 UI/UX를 적용하여 고객 만족도를 높이는 것을 목표로 진행되었습니다.
-            </p>
-            <p className="overview-desc">
-              특히 모바일 환경에서의 직관적인 네비게이션과 간편한 결제 프로세스를 구현하여,
-              고객이 원하는 상품을 빠르게 찾고 구매할 수 있도록 최적화하였습니다.
-            </p>
+            {project.overview.map((paragraph, index) => (
+              <p key={index} className="overview-desc">{paragraph}</p>
+            ))}
           </div>
         </section>
 
@@ -260,22 +251,12 @@ function WorkDetailPage() {
             <span className="section-tag">Challenge</span>
           </div>
           <div className="challenge-grid">
-            <div className="challenge-item">
-              <h3 className="challenge-title">결제율+수익율<br/>문제+원인</h3>
-              <p className="challenge-desc">기존 결제 프로세스의 복잡성으로 인한 이탈률 증가</p>
-            </div>
-            <div className="challenge-item">
-              <h3 className="challenge-title">필요 정보는<br/>많지만 더보기</h3>
-              <p className="challenge-desc">정보 과다로 인한 사용자 혼란 및 핵심 정보 접근성 저하</p>
-            </div>
-            <div className="challenge-item">
-              <h3 className="challenge-title">선택을 어렵게만드는<br/>복잡한 상품 구성</h3>
-              <p className="challenge-desc">다양한 요금제와 옵션으로 인한 의사결정 지연</p>
-            </div>
-            <div className="challenge-item">
-              <h3 className="challenge-title">기존 고객의<br/>반복성 부족</h3>
-              <p className="challenge-desc">재방문 유도 요소 부재로 인한 고객 유지율 하락</p>
-            </div>
+            {project.challenges.map((challenge, index) => (
+              <div key={index} className="challenge-item">
+                <h3 className="challenge-title" dangerouslySetInnerHTML={{ __html: challenge.title.replace(/\n/g, '<br/>') }} />
+                <p className="challenge-desc">{challenge.desc}</p>
+              </div>
+            ))}
           </div>
         </section>
 
@@ -285,29 +266,19 @@ function WorkDetailPage() {
             <span className="section-tag">Solution</span>
           </div>
           <div className="challenge-grid">
-            <div className="challenge-item">
-              <h3 className="challenge-title">Dual Main</h3>
-              <p className="challenge-desc">고객 니즈에 따라 직관적인 Dual Main 구조로 요금제 탐색과 가입을 동시에 진행</p>
-            </div>
-            <div className="challenge-item">
-              <h3 className="challenge-title">Quick</h3>
-              <p className="challenge-desc">빠른 상단 인터페이스로 핵심 정보에 즉시 접근 가능</p>
-            </div>
-            <div className="challenge-item">
-              <h3 className="challenge-title">Empower</h3>
-              <p className="challenge-desc">고객이 원하는 상품의 최적 옵션을 심플하게 구성</p>
-            </div>
-            <div className="challenge-item">
-              <h3 className="challenge-title">Self-Driven</h3>
-              <p className="challenge-desc">고객 스스로 가입 여정을 완수할 수 있도록 가이드 제공</p>
-            </div>
+            {project.solutions.map((solution, index) => (
+              <div key={index} className="challenge-item">
+                <h3 className="challenge-title">{solution.title}</h3>
+                <p className="challenge-desc">{solution.desc}</p>
+              </div>
+            ))}
           </div>
         </section>
 
         {/* Image Section */}
         <section className="content-section full-width scroll-fade">
           <div className="detail-image-wrapper">
-            <img src={helloViewImg} alt="LG헬로비전 모바일 직영몰 상세" />
+            <img src={project.viewImage} alt={project.title} />
           </div>
         </section>
 
@@ -315,11 +286,8 @@ function WorkDetailPage() {
         <section className="content-section dark-section scroll-fade">
           <div className="customer-voice">
             <span className="voice-tag">Customer Voice</span>
-            <h2 className="voice-title">고객을 만나다.</h2>
-            <p className="voice-desc">
-              실제 사용자들의 피드백을 통해 서비스를 지속적으로 개선하고,<br/>
-              고객 중심의 경험을 제공하기 위해 노력하고 있습니다.
-            </p>
+            <h2 className="voice-title">{project.customerVoice.title}</h2>
+            <p className="voice-desc" dangerouslySetInnerHTML={{ __html: project.customerVoice.desc.replace(/\n/g, '<br/>') }} />
           </div>
         </section>
       </main>

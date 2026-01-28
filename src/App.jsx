@@ -47,7 +47,7 @@ function App() {
         <Route path="/" element={<MainPage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/work" element={<WorkPage />} />
-        <Route path="/work-detail" element={<WorkDetailPage />} />
+        <Route path="/work-detail/:id" element={<WorkDetailPage />} />
         <Route path="/trend" element={<TrendPage />} />
       </Routes>
     </Router>

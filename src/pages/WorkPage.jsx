@@ -3,38 +3,7 @@ import { Link } from 'react-router-dom';
 import '../styles/work.css';
 import brochurePdf from '../assets/(주)아이러시 회사소개서.pdf';
 import CustomCursor from '../components/CustomCursor';
-
-// 프로젝트 슬라이드 데이터
-const projectSlides = [
-  {
-    id: 1,
-    title: 'LG헬로비전 모바일 직영몰 고도화',
-    desc: '기존 모바일 서비스의 사용자 경험을 전면 개선하고 최신 트렌드에 맞는 UI/UX를 적용',
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1920&h=1080&fit=crop',
-    link: '/work-detail'
-  },
-  {
-    id: 2,
-    title: '삼성 리움미술관 온라인 예약시스템',
-    desc: '온라인 예약 및 티켓 발권 시스템 구축으로 방문객 편의성 극대화',
-    image: 'https://images.unsplash.com/photo-1551434678-e076c223a692?w=1920&h=1080&fit=crop',
-    link: '/work-detail'
-  },
-  {
-    id: 3,
-    title: '신한 SOL 캄보디아 UI/UX 컨설팅',
-    desc: '캄보디아 법인 모바일 뱅킹 앱 UI/UX 컨설팅 및 디자인',
-    image: 'https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1920&h=1080&fit=crop',
-    link: '/work-detail'
-  },
-  {
-    id: 4,
-    title: 'LUNA BREWERY HOPPY APP',
-    desc: '수제맥주 주문 및 멤버십 애플리케이션 구축',
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&h=1080&fit=crop',
-    link: '/work-detail'
-  }
-];
+import { projectSlides } from '../data/projectData';
 
 // 프로젝트 히스토리 데이터 (아이러시 포트폴리오 - Notion Database 기준)
 const historyItems = [

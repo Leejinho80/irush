@@ -368,6 +368,12 @@ body.is-work-detail-page {
   border-radius: 12px;
 }
 
+/* 이미지 섹션은 항상 보이도록 (IntersectionObserver 이슈 해결) */
+.work-detail-page .content-section.full-width.scroll-fade {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 /* Dark Section */
 .work-detail-page .dark-section {
   background: #1a1a1a;
