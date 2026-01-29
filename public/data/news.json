@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-01-28T23:51:38.796Z",
+  "lastUpdated": "2026-01-29T23:31:33.067Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "마이크로소프트, 앤트로픽에 건다…오픈AI 의존에서 벗어나나",
-      "desc": "마이크로소프트는 지난해 가을 오픈AI와의 새로운 관계를 확정하는 계약을 체결한 직후, 새로운 AI 파트너를 찾는 데 거의 시간을 낭비하지 않았다. 선택지는 세계에서 두 번째로 기업가치가 높은 AI 신생업체 앤트로픽이었다. 마이크로소프트와 앤트로픽의 관계는 시작된 ...",
-      "link": "https://www.itworld.co.kr/article/4123876/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%ec%97%90-%ea%b1%b4%eb%8b%a4%ec%98%a4%ed%94%88ai-%ec%9d%98%ec%a1%b4%ec%97%90%ec%84%9c.html",
+      "title": "분산되는 AI 에이전트, 호스팅·네트워크·운영의 재설계 필요",
+      "desc": "기업은 AI 자체에는 완전히 확신하지 못하지만 AI 에이전트에는 점점 더 투자하고 있다. 클라우드에 호스팅된 모델이 아니라, 기업이 수십 년 동안 사용해 온 IT 방식에 맞게 들어가는 더 작고 분산된 모델이다. 이런 흐름에서 기업은 실제로 상황이 어떻게 흘러가는지...",
+      "link": "https://www.itworld.co.kr/article/4124033/%eb%b6%84%ec%82%b0%eb%90%98%eb%8a%94-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%98%b8%ec%8a%a4%ed%8c%85%c2%b7%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac%c2%b7%ec%9a%b4%ec%98%81%ec%9d%98-%ec%9e%ac%ec%84%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "인텔, 18A 공정 기반 ‘인텔 코어 울트라 시리즈3’ 탑재 AI PC 발표",
-      "desc": "신제품 발표를 맡은 인텔 컨수머 PC 부문 총괄 조쉬 뉴먼은 인텔 18A 공정 기반 첫 플래그십 제품인 인텔 코어 울트라 시리즈3가 강력한 전력 효율성, 게이밍 및 콘텐츠 제작, 생산성 등 모든 워크로드에서 뛰어난 성능, 동급 최고의 그래픽, 개선된 AI 연산 성...",
-      "link": "https://www.itworld.co.kr/article/4123334/%ec%9d%b8%ed%85%94-18a-%ea%b3%b5%ec%a0%95-%ea%b8%b0%eb%b0%98-%ec%9d%b8%ed%85%94-%ec%bd%94%ec%96%b4-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%8b%9c%eb%a6%ac%ec%a6%883-%ed%83%91%ec%9e%ac-ai-pc-%eb%b0%9c.html",
+      "title": "AI, 데이터베이스를 ‘맥락 엔진’으로 재정의하다",
+      "desc": "개발자는 지난 10여 년 동안 데이터베이스의 존재를 잊으려 노력했다. 물론 데이터베이스를 문자 그대로 배제한 것은 아니다. 여전히 페타바이트 단위의 데이터를 저장하고 있다. 다만 대부분 개발자는 데이터베이스를 점차 구현 세부 사항으로 인식하기 시작했다. 필수적이지...",
+      "link": "https://www.itworld.co.kr/article/4124025/ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b2%a0%ec%9d%b4%ec%8a%a4%eb%a5%bc-%eb%a7%a5%eb%9d%bd-%ec%97%94%ec%a7%84%ec%9c%bc%eb%a1%9c-%ec%9e%ac%ec%a0%95%ec%9d%98%ed%95%98%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "“프라이빗 클라우드가 돌아온다” AI 워크로드가 바꾼 클라우드 방정식",
-      "desc": "북미의 한 제조사는 2025년 초까지 혁신 기업이 흔히 선택하는 방식대로 데이터 레이크, 분석, CI/CD, ERP 통합의 상당 부분까지 활용하며 퍼블릭 클라우드 표준화를 공격적으로 추진했다. 이사회는 단순화라는 서사를 좋아했는데, 단순화가 비용 절감처럼 들렸기 ...",
-      "link": "https://www.itworld.co.kr/article/4123288/%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b9%97-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ea%b0%80-%eb%8f%8c%ec%95%84%ec%98%a8%eb%8b%a4-ai-%ec%9b%8c%ed%81%ac%eb%a1%9c%eb%93%9c%ea%b0%80-%eb%b0%94.html",
+      "title": "AI 시대의 코드, 익숙함이 만든 비효율은 아닐까?",
+      "desc": "자동차가 처음 발명됐을 당시, 많은 사람이 그것을 ‘말 없는 마차(horseless carriage)’라고 불렀다. 실제로 외형도 마차와 크게 다르지 않았다.\n\n\n\n신문사들이 처음 웹사이트를 만들었을 때도 마찬가지였다. 초창기 뉴스 웹사이트는 종이신문의 지면 구성...",
+      "link": "https://www.itworld.co.kr/article/4123994/ai-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%bd%94%eb%93%9c-%ec%9d%b5%ec%88%99%ed%95%a8%ec%9d%b4-%eb%a7%8c%eb%93%a0-%eb%b9%84%ed%9a%a8%ec%9c%a8%ec%9d%80-%ec%95%84%eb%8b%90%ea%b9%8c.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "삼성 갤럭시 북6 울트라 사용기 “팬서 레이크가 판을 바꿨다”",
-      "desc": "삼성의 16인치 갤럭시 북6 울트라는 시연이 아닌 실제 사용 환경에서 처음 접한 팬서 레이크 기반 PC다. 인텔 코어 울트라 시리즈 3 CPU와 엔비디아 외장 그래픽 하드웨어를 결합한 갤럭시 북6 울트라는 완성도가 높은 프리미엄 노트북이다. 삼성은 2026년형 갤...",
-      "link": "https://www.itworld.co.kr/article/4123273/%ec%82%bc%ec%84%b1-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%eb%b6%816-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%82%ac%ec%9a%a9%ea%b8%b0-%ed%8c%ac%ec%84%9c-%eb%a0%88%ec%9d%b4%ed%81%ac%ea%b0%80-%ed%8c%90%ec%9d%84-%eb%b0%94.html",
+      "title": "91%가 최고 권한으로 로그인…‘편의’가 불러온 보안 리스크",
+      "desc": "특권 액세스 관리(Privileged Access Management, PAM)의 기본 목적은 ‘최소 권한 원칙’을 지키는 데 있다. 그러나 기업의 사이버보안 환경이 복잡해지고 시스템 운영 구조가 정교해지면서, 많은 사용자가 실제 업무에 필요하지 않음에도 최고 수...",
+      "link": "https://www.itworld.co.kr/article/4123958/91%ea%b0%80-%ec%b5%9c%ea%b3%a0-%ea%b6%8c%ed%95%9c%ec%9c%bc%eb%a1%9c-%eb%a1%9c%ea%b7%b8%ec%9d%b8%ed%8e%b8%ec%9d%98%ea%b0%80-%eb%b6%88%eb%9f%ac%ec%98%a8-%eb%b3%b4%ec%95%88.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "“아태지역 기업 40% AI 에이전트 활용…26년까지 50% 이상 확산 전망” 유아이패스",
-      "desc": "유아이패스(UiPath)가 ‘유아이패스 2026 AI 및 에이전틱 자동화 트렌드 보고서(UiPath 2026 AI and Agentic Automation Trends Report)’를 발표하고, 글로벌 AI 지형에서 아시아태평양·일본(APJ) 지역이 담당하게 될...",
-      "link": "https://www.itworld.co.kr/article/4123256/%ec%95%84%ed%83%9c%ec%a7%80%ec%97%ad-%ea%b8%b0%ec%97%85-40-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%99%9c%ec%9a%a926%eb%85%84%ea%b9%8c%ec%a7%80-50-%ec%9d%b4%ec%83%81-%ed%99%95.html",
+      "title": "크롬, 에이전트형 AI 도입…”알아서 일하고 결정만 사용자가”",
+      "desc": "구글이 크롬 사용자에게 중대한 변화를 도입한다고 밝혔다. 사용자가 지시한 작업을 대신 수행하며 웹을 “자동 탐색”하는 에이전트형 AI를 대표 기능으로 제공한다는 설명이다. 크롬에는 제미나이를 탑재한 사이드바도 함께 추가됐다.\n\n\n\n자동 탐색 기능은 28일부터 구글...",
+      "link": "https://www.itworld.co.kr/article/4123918/%ed%81%ac%eb%a1%ac-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ed%98%95-ai-%eb%8f%84%ec%9e%85-%ec%95%8c%ec%95%84%ec%84%9c-%ec%9d%bc%ed%95%98%ea%b3%a0-%ea%b2%b0%ec%a0%95%eb%a7%8c-%ec%82%ac%ec%9a%a9.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "'세상에 없던 안경원' 라운즈, 중국 안경원 대표단 방문…  AI 안경원에 주목!",
-      "desc": "아이웨어 전문 인공지능(AI) 서비스 기업 라운즈(대표 김세민·김명섭)는 최근 라운즈 판교점에 중국 안경 업계 방문단이 방문해 AI 기반 안경원 사업 모델을 체험하고, 향후 협력 가능성을 논의했다고 29일 밝혔다. 이번 방문은 중국 안경 시장의 발전을 위해, 한국...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38371",
+      "title": "美, AI 국가전략의 숨은 한계 드러나다… 전력 인프라가 발목, AI 확산 속 전력망 한계 부상",
+      "desc": "미국이 인공지능(AI)을 국가 전략 자산으로 끌어올리는 과정에서, 반도체나 알고리즘보다 훨씬 근본적인 병목이 부상하고 있다는 분석이 나왔다. 문제의 핵심은 ‘칩’이 아니라 ‘전기’이며, 더 정확히는 전력 생산이 아닌 전력망(grid) 인프라라는 지적이다.글로벌 금...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38389",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "노타, AI 경량화 기술 집약된 ‘ERGO’모델로 ICLR 2026 채택… “고해상도 VLM 추론 속도 3배 혁신”",
-      "desc": "인공지능(AI) 경량화 및 최적화 기술 기업 노타(대표 채명수)는 비전 언어 모델(Vision-Language Models, VLM)의 고해상도 이미지 처리 효율을 획기적으로 높인 연구 성과가 세계 최고 권위의 인공지능 학회인 ‘ICLR 2026’에 채택되며 글로...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38370",
+      "title": "호주오픈, 스타트업 프로그램 'AI 중심 혁신 본격화'...AI 기반 스포츠·이벤트 기술 실증 확대",
+      "desc": "호주오픈(Australian Open, AO)이 인공지능(AI) 기반 혁신을 전면에 내세운 스타트업 육성 프로그램 ‘AO StartUps’의 2026년 신규 참여 기업 9곳을 29일(현지시간) 발표했다. 이번 선발은 스포츠와 대형 이벤트 전반에서 AI 기술이 경쟁...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38388",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "팀엘리시움, 차세대 AI 체형분석기 ‘바디닷’ 과기정통부 혁신제품 지정...AI 기반 근골격계 체형 분석 기술력 인정",
-      "desc": "MSK 버티컬 인공지능(AI) 전문기업 팀엘리시움(대표 김원진, 박은식)의 차세대 AI 체형분석기 ‘바디닷(Bodydot)®’이 과학기술정보통신부가 주관하는 혁신제품으로 공식 지정됐다고 29일 밝혔다.과기정통부 혁신제품 지정 제도는 기술 혁신성과 공공·산업적 활용...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38369",
+      "title": "“지오 전문가, 업무 시간 4분의 1을 데이터 관리에 사용\"…AI 의존도는 빠르게 증가",
+      "desc": "벤틀리(Bentley)의 지하·지반 계열사 시퀀트(Seequent)는 제7차 ‘지질·지반 전문가 데이터 관리 보고서(Geoprofessionals Data Management Report)’를 통해, 인공지능(AI)을 도입하고 있는 광업 및 토목 분야 지질·지반(...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38387",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "상상속 장면, 바르코 사운드로 생생하게...NC AI, 사운드 생성 AI 서비스 ‘VARCO Sound’ 출시",
-      "desc": "멀티모달 AI 전문기업 NC AI가 생성형 AI 기반의 사운드 제작 솔루션 ‘바르코 사운드(VARCO Sound)’의 베타 서비스를 29일 공개했다. 바르코 사운드는 세계 최초로 한 장면에 표현되는 여러 소리를 각각 구분하는 멀티트랙 사운드를 통해 자연스러운 소리...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38368",
+      "title": "국내 대표 AI 플랫폼 '업스테이지', \"포털 '다음' 인수 시동?\"...AXZ의 모회사 카카오와 MOU 체결",
+      "desc": "국내 대표 인공지능 기술 기업 업스테이지(대표 김성훈)가 카카오에서 분사한 포털 ‘다음(Daum)’ 운영사인 AXZ(대표이사 양주일)와의 협업을 통한 성장 기회를 모색한다.29일, 업스테이지와 AXZ 모회사인 카카오는 각각 이사회를 개최하고, 주식교환 거래 등을 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38386",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "SK하이닉스, 美에 AI 솔루션 회사 설립...14조 원 출자, “AI 파트너들과 한발 앞선 고객 가치 창출할 것”",
-      "desc": "SK하이닉스가 AI 산업의 중심지인 미국에 인공지능 솔루션 회사 ‘AI Company(가칭, 이하 AI Co.)’ 설립을 추진한다고 28일 밝혔다. 회사는 총 100억 달러(약 14조 원)를 AI Co.의 자금 요청(Capital Call)에 따라 단계적으로 출자...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38367",
+      "title": "메타, “2026년은 AI가 성과를 가속하는 해”… 전 서비스에 AI 수익화 본격화",
+      "desc": "메타(Meta)가 28일(현지시간) 인공지능(AI)이 자사 플랫폼 전반에서 사용자 참여도와 광고·비즈니스 성과를 동시에 끌어올리고 있다고 밝혔다. 메타는 2026년을 AI가 제품 경쟁력과 사업 성과를 직접적으로 견인하는 해로 규정하며, 콘텐츠 추천, 광고 시스템,...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38385",
       "source": "AI Times"
     }
   ]
