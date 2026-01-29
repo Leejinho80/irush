@@ -22,14 +22,14 @@ export const projectSlides = [
   },
   {
     id: 3,
-    title: 'LG헬로비전 방송/인터넷 노후화 개선',
+    title: 'LG헬로비전 방송/인터넷 서비스 개선',
     desc: '케이블TV 시장의 디지털 전환과 고객 중심 UX/UI 혁신',
     image: portfolio03Bg,
     link: '/work-detail/3'
   },
   {
     id: 4,
-    title: '삼성 SDS SCP SingleID 서비스 CX 개선',
+    title: '삼성 SDS SCP SingleID CX 개선',
     desc: 'Samsung Cloud Platform의 통합인증/보안 솔루션 사용자 경험 혁신',
     image: 'https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1920&h=1080&fit=crop',
     link: '/work-detail/4'
@@ -104,7 +104,7 @@ export const projectDetails = {
   },
   3: {
     id: 3,
-    title: 'LG헬로비전 방송/인터넷 노후화 개선',
+    title: 'LG헬로비전 방송/인터넷 서비스 개선',
     viewImage: portfolio03View,
     overview: [
       '온라인으로 더 편리하고 더 빨라지는 세상, 저렴한 인터넷·방송을 온라인으로 가입하는 비율은 고객의 16%에 달합니다.',
@@ -129,7 +129,7 @@ export const projectDetails = {
   },
   4: {
     id: 4,
-    title: '삼성 SDS SCP SingleID 서비스 CX 개선',
+    title: '삼성 SDS SCP SingleID CX 개선',
     viewImage: 'https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1920&h=1080&fit=crop',
     overview: [
       'Samsung Cloud Platform(SCP)의 SaaS 솔루션 중 통합인증/보안 서비스인 SingleID의 고객 경험(CX) 개선 프로젝트입니다.',
