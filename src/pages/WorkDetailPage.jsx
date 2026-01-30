@@ -326,7 +326,7 @@ function WorkDetailPage() {
             </div>
           </div>
 
-          <div className="footer-bottom fade-in">
+          <div className="footer-bottom">
             <p className="copyright">COPYRIGHT 2026. IRUSH. ALL RIGHTS RESERVED.</p>
           </div>
         </div>
