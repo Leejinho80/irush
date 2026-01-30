@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-01-29T23:31:33.067Z",
+  "lastUpdated": "2026-01-30T23:31:14.523Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "분산되는 AI 에이전트, 호스팅·네트워크·운영의 재설계 필요",
-      "desc": "기업은 AI 자체에는 완전히 확신하지 못하지만 AI 에이전트에는 점점 더 투자하고 있다. 클라우드에 호스팅된 모델이 아니라, 기업이 수십 년 동안 사용해 온 IT 방식에 맞게 들어가는 더 작고 분산된 모델이다. 이런 흐름에서 기업은 실제로 상황이 어떻게 흘러가는지...",
-      "link": "https://www.itworld.co.kr/article/4124033/%eb%b6%84%ec%82%b0%eb%90%98%eb%8a%94-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%98%b8%ec%8a%a4%ed%8c%85%c2%b7%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac%c2%b7%ec%9a%b4%ec%98%81%ec%9d%98-%ec%9e%ac%ec%84%a4.html",
+      "title": "“AI 전력 수요 때문?” 미국, 원자력 안전 규정 ‘슬그머니 완화’ 논란",
+      "desc": "미국 원자력 규제 당국이 AI를 가동할 새로운 전력 용량을 빠르게 확보하기 위해 안전 규정을 비공개로 완화했다고 NPR이 보도했다.\n\n\n\n미국 공영 라디오 방송 NPR(National Public Radio)은 미국 에너지부(DoE)가 7월 4일까지 실험용 상용 ...",
+      "link": "https://www.itworld.co.kr/article/4124769/ai-%ec%a0%84%eb%a0%a5-%ec%88%98%ec%9a%94-%eb%95%8c%eb%ac%b8-%eb%af%b8%ea%b5%ad-%ec%9b%90%ec%9e%90%eb%a0%a5-%ec%95%88%ec%a0%84-%ea%b7%9c%ec%a0%95-%ec%8a%ac%ea%b7%b8.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "AI, 데이터베이스를 ‘맥락 엔진’으로 재정의하다",
-      "desc": "개발자는 지난 10여 년 동안 데이터베이스의 존재를 잊으려 노력했다. 물론 데이터베이스를 문자 그대로 배제한 것은 아니다. 여전히 페타바이트 단위의 데이터를 저장하고 있다. 다만 대부분 개발자는 데이터베이스를 점차 구현 세부 사항으로 인식하기 시작했다. 필수적이지...",
-      "link": "https://www.itworld.co.kr/article/4124025/ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b2%a0%ec%9d%b4%ec%8a%a4%eb%a5%bc-%eb%a7%a5%eb%9d%bd-%ec%97%94%ec%a7%84%ec%9c%bc%eb%a1%9c-%ec%9e%ac%ec%a0%95%ec%9d%98%ed%95%98%eb%8b%a4.html",
+      "title": "VDI 이후를 묻다…DaaS는 해답이 될 수 있을까?",
+      "desc": "서비스형 데스크톱(Desktop as a Service, DaaS)은 최근 몇 년 사이 큰 폭의 발전과 개선을 이뤄내며, 가상 데스크톱 인프라(Virtual Desktop Infrastructure, VDI)는 물론 기존 PC 배포·관리 방식에 대한 한층 설득력 ...",
+      "link": "https://www.itworld.co.kr/article/4124754/vdi-%ec%9d%b4%ed%9b%84%eb%a5%bc-%eb%ac%bb%eb%8b%a4daas%eb%8a%94-%ed%95%b4%eb%8b%b5%ec%9d%b4-%eb%90%a0-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "AI 시대의 코드, 익숙함이 만든 비효율은 아닐까?",
-      "desc": "자동차가 처음 발명됐을 당시, 많은 사람이 그것을 ‘말 없는 마차(horseless carriage)’라고 불렀다. 실제로 외형도 마차와 크게 다르지 않았다.\n\n\n\n신문사들이 처음 웹사이트를 만들었을 때도 마찬가지였다. 초창기 뉴스 웹사이트는 종이신문의 지면 구성...",
-      "link": "https://www.itworld.co.kr/article/4123994/ai-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%bd%94%eb%93%9c-%ec%9d%b5%ec%88%99%ed%95%a8%ec%9d%b4-%eb%a7%8c%eb%93%a0-%eb%b9%84%ed%9a%a8%ec%9c%a8%ec%9d%80-%ec%95%84%eb%8b%90%ea%b9%8c.html",
+      "title": "에이수스 젠북 듀오 리뷰 : 거의 완벽에 가까운 생산성 노트북",
+      "desc": "필자는 이동 중에도 생산성을 유지할 수 있는 장시간 사용 노트북을 선호한다. 그 기준에서 보면 듀얼 스크린 에이수스 젠북 듀오는 요구 조건을 대부분 충족한다.\n\n\n\n수년간 개인적으로 제일 잘 쓴 제품은 전문 생산성 노트북인 마이크로소프트 서피스 랩톱 스튜디오 2였...",
+      "link": "https://www.itworld.co.kr/article/4124004/%ec%97%90%ec%9d%b4%ec%88%98%ec%8a%a4-%ec%a0%a0%eb%b6%81-%eb%93%80%ec%98%a4-%eb%a6%ac%eb%b7%b0-%ea%b1%b0%ec%9d%98-%ec%99%84%eb%b2%bd%ec%97%90-%ea%b0%80%ea%b9%8c%ec%9a%b4-%ec%83%9d%ec%82%b0%ec%84%b1.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "91%가 최고 권한으로 로그인…‘편의’가 불러온 보안 리스크",
-      "desc": "특권 액세스 관리(Privileged Access Management, PAM)의 기본 목적은 ‘최소 권한 원칙’을 지키는 데 있다. 그러나 기업의 사이버보안 환경이 복잡해지고 시스템 운영 구조가 정교해지면서, 많은 사용자가 실제 업무에 필요하지 않음에도 최고 수...",
-      "link": "https://www.itworld.co.kr/article/4123958/91%ea%b0%80-%ec%b5%9c%ea%b3%a0-%ea%b6%8c%ed%95%9c%ec%9c%bc%eb%a1%9c-%eb%a1%9c%ea%b7%b8%ec%9d%b8%ed%8e%b8%ec%9d%98%ea%b0%80-%eb%b6%88%eb%9f%ac%ec%98%a8-%eb%b3%b4%ec%95%88.html",
+      "title": "AI·머신러닝의 판을 바꾸는 16가지 오픈소스 프로젝트",
+      "desc": "지난 수십 년 동안 가장 혁신적인 소프트웨어는 항상 오픈소스 소프트웨어 세계에서 등장했다. 머신러닝과 대규모 언어 모델의 경우도 마찬가지다. 이제 오픈소스 코드를 보완하기 위한 오픈소스 모델까지 등장하면서 오픈소스 생태계는 더 풍성해지고, 그만큼 더 복잡해졌다.\n...",
+      "link": "https://www.itworld.co.kr/article/4124123/ai%c2%b7%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d%ec%9d%98-%ed%8c%90%ec%9d%84-%eb%b0%94%ea%be%b8%eb%8a%94-16%ea%b0%80%ec%a7%80-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "크롬, 에이전트형 AI 도입…”알아서 일하고 결정만 사용자가”",
-      "desc": "구글이 크롬 사용자에게 중대한 변화를 도입한다고 밝혔다. 사용자가 지시한 작업을 대신 수행하며 웹을 “자동 탐색”하는 에이전트형 AI를 대표 기능으로 제공한다는 설명이다. 크롬에는 제미나이를 탑재한 사이드바도 함께 추가됐다.\n\n\n\n자동 탐색 기능은 28일부터 구글...",
-      "link": "https://www.itworld.co.kr/article/4123918/%ed%81%ac%eb%a1%ac-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ed%98%95-ai-%eb%8f%84%ec%9e%85-%ec%95%8c%ec%95%84%ec%84%9c-%ec%9d%bc%ed%95%98%ea%b3%a0-%ea%b2%b0%ec%a0%95%eb%a7%8c-%ec%82%ac%ec%9a%a9.html",
+      "title": "애플, 오디오 AI 스타트업 Q.ai 인수…역대 두 번째 규모",
+      "desc": "최근 로이터 통신은 애플이 이스라엘 스타트업 Q.ai 인수를 공식 확인했다고 전했다. Q.ai는 AI/ML을 활용해 오디오 관련 문제를 해결하는 기술을 개발해 온 기업으로 알려져 있다.\n\n\n\nQ.ai의 공식 웹사이트에는 “소음으로 가득 찬 세상에서 우리는 새로운 ...",
+      "link": "https://www.itworld.co.kr/article/4124728/%ec%95%a0%ed%94%8c-%ec%98%a4%eb%94%94%ec%98%a4-ai-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-q-ai-%ec%9d%b8%ec%88%98%ec%97%ad%eb%8c%80-%eb%91%90-%eb%b2%88%ec%a7%b8-%ea%b7%9c%eb%aa%a8.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "美, AI 국가전략의 숨은 한계 드러나다… 전력 인프라가 발목, AI 확산 속 전력망 한계 부상",
-      "desc": "미국이 인공지능(AI)을 국가 전략 자산으로 끌어올리는 과정에서, 반도체나 알고리즘보다 훨씬 근본적인 병목이 부상하고 있다는 분석이 나왔다. 문제의 핵심은 ‘칩’이 아니라 ‘전기’이며, 더 정확히는 전력 생산이 아닌 전력망(grid) 인프라라는 지적이다.글로벌 금...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38389",
+      "title": "이 대통령 '국가창업시대 전략회의' 주재, “창업은 개인의 선택 아닌 국가 과제”",
+      "desc": "이재명 대통령이 30일 오후 청와대에서 '국가창업시대 전략회의'를 주재했다. 이번 회의에는 민간 전문가와 창업가 40명을 비롯해 정부 8개 부처·기관의 장, 그리고 청와대 주요 인사 10여 명이 참석해, 향후 국가 차원의 창업 전략과 실행 방안을 논의했다.청와대 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38413",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "호주오픈, 스타트업 프로그램 'AI 중심 혁신 본격화'...AI 기반 스포츠·이벤트 기술 실증 확대",
-      "desc": "호주오픈(Australian Open, AO)이 인공지능(AI) 기반 혁신을 전면에 내세운 스타트업 육성 프로그램 ‘AO StartUps’의 2026년 신규 참여 기업 9곳을 29일(현지시간) 발표했다. 이번 선발은 스포츠와 대형 이벤트 전반에서 AI 기술이 경쟁...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38388",
+      "title": "루닛, 2025년 매출 831억원 역대 최대 실적… “루닛 스코프 100억원 돌파”",
+      "desc": "의료 인공지능(AI) 기업 루닛(대표 서범석)은 2025년 연결재무제표 기준 연간 매출 831억원을 기록했다고 30일 밝혔다. 이는 전년 542억원 대비 53% 증가한 수치로, 연간 역대 최대 실적을 경신했다.해외 매출은 전체의 92%인 768억원으로 전년 478...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38412",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "“지오 전문가, 업무 시간 4분의 1을 데이터 관리에 사용\"…AI 의존도는 빠르게 증가",
-      "desc": "벤틀리(Bentley)의 지하·지반 계열사 시퀀트(Seequent)는 제7차 ‘지질·지반 전문가 데이터 관리 보고서(Geoprofessionals Data Management Report)’를 통해, 인공지능(AI)을 도입하고 있는 광업 및 토목 분야 지질·지반(...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38387",
+      "title": "LG전자, 노벨화학상 수상 핵심물질 적용된 필터 탑재 AI 공기청정기 M7 출시",
+      "desc": "LG전자가 LG 퓨리케어 AI 오브제컬렉션 360° 공기청정기 M7을 출시했다. 이번 신모델에는 지난해 노벨화학상 수상 핵심물질이자 ‘대한민국 10대 기술’로 선정된 금속유기골격체(MOF·Metal-Organic Framework) 소재가 적용된 M7 필터가 기본...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38411",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "국내 대표 AI 플랫폼 '업스테이지', \"포털 '다음' 인수 시동?\"...AXZ의 모회사 카카오와 MOU 체결",
-      "desc": "국내 대표 인공지능 기술 기업 업스테이지(대표 김성훈)가 카카오에서 분사한 포털 ‘다음(Daum)’ 운영사인 AXZ(대표이사 양주일)와의 협업을 통한 성장 기회를 모색한다.29일, 업스테이지와 AXZ 모회사인 카카오는 각각 이사회를 개최하고, 주식교환 거래 등을 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38386",
+      "title": "러시아, AI 기반 자동 조준 포탑 제어장치 시험 성공... '드론 자동 식별·요격', 반자율·완전자율 모드 지원",
+      "desc": "러시아가 인공지능(AI)을 활용해 무인 항공기(드론)를 자동으로 식별·조준·대응할 수 있는 신형 포탑 제어·조준 장치를 시험했다. 해당 장치는 이미 첫 번째 시제품이 실전 시험을 위해 분쟁 지역으로 보내진 것으로 알려졌다.러시아 타스통신은 29일(현지시간) 체첸 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38409",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "메타, “2026년은 AI가 성과를 가속하는 해”… 전 서비스에 AI 수익화 본격화",
-      "desc": "메타(Meta)가 28일(현지시간) 인공지능(AI)이 자사 플랫폼 전반에서 사용자 참여도와 광고·비즈니스 성과를 동시에 끌어올리고 있다고 밝혔다. 메타는 2026년을 AI가 제품 경쟁력과 사업 성과를 직접적으로 견인하는 해로 규정하며, 콘텐츠 추천, 광고 시스템,...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38385",
+      "title": "현대건설, 국내 최초 ‘원격제어 타워크레인’ 현장 도입",
+      "desc": "현대건설이 국내 최초로 건설 현장의 고위험 작업을 대체할 ‘원격제어 타워크레인’을 도입하며, 근로자 안전 관리와 작업 환경 개선에 새로운 전환점을 제시했다고 30일 밝혔다.현대건설은 지난 29일 경기도 과천시 주암동 ‘디에이치 아델스타’ 건설 현장에서 원격제어 타...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38408",
       "source": "AI Times"
     }
   ]
