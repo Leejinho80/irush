@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-30T23:31:14.523Z",
+  "lastUpdated": "2026-01-31T23:28:23.832Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "[AI 리뷰]  AI로 인간의 ‘놀람(서프라이즈)’을 지도화하다…LLM이 밝힌 뇌의 예측 메커니즘",
+      "desc": "대형언어모델(LLM)을 인간의 뇌를 모사하는 도구가 아니라, 인간의 인지 작동 방식을 탐구하는 연구 도구로 활용한 실험이 나왔다. 미국 시카고대(University of Chicago) 연구진은 인공지능(AI)의 예측 오류를 인간이 느끼는 ‘놀람(서프라이즈)’과 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38416",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
+      "title": "[AI 리뷰] AI가 만든 논문, AI가 걸러야 할 수도..\"논문은 늘고, 품질은 낮아지고, 심사 시스템은 과부하”",
+      "desc": "인공지능(AI)과 대형언어모델(LLM)의 확산이 과학 연구의 생산성 지형을 근본적으로 바꾸고 있다는 실증 연구 결과가 나왔다. 논문 작성 속도는 빨라졌지만, 과학적 품질은 오히려 저하되는 역설적 현상이 나타나면서 학술 평가·심사 시스템 전반의 재설계 필요성이 제기...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38415",
+      "source": "AI Times"
+    },
+    {
+      "number": "08",
+      "title": "놀이를 넘어 ‘정서적 교감하는 AI 장난감’ 시대 연다...투야 스마트, 멀티모달 AI 적용한 차세대 장난감 솔루션 공개",
+      "desc": "글로벌 인공지능(AI) 클라우드 플랫폼 기업 투야 스마트(Tuya Smart)가 세계 최대 장난감 박람회인 ‘슈필바렌메세(Spielwarenmesse) 2026’에서 차세대 AI 장난감 비전을 제시하며, 단순한 놀이 도구를 넘어 정서적 교감이 가능한 ‘AI 동반자...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38414",
+      "source": "AI Times"
+    },
+    {
+      "number": "09",
       "title": "이 대통령 '국가창업시대 전략회의' 주재, “창업은 개인의 선택 아닌 국가 과제”",
       "desc": "이재명 대통령이 30일 오후 청와대에서 '국가창업시대 전략회의'를 주재했다. 이번 회의에는 민간 전문가와 창업가 40명을 비롯해 정부 8개 부처·기관의 장, 그리고 청와대 주요 인사 10여 명이 참석해, 향후 국가 차원의 창업 전략과 실행 방안을 논의했다.청와대 ...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=38413",
       "source": "AI Times"
     },
     {
-      "number": "07",
-      "title": "루닛, 2025년 매출 831억원 역대 최대 실적… “루닛 스코프 100억원 돌파”",
+      "number": "10",
+      "title": "루닛, AI 의료 진가 알렸다...'25년 매출 831억원 역대 최대 실적",
       "desc": "의료 인공지능(AI) 기업 루닛(대표 서범석)은 2025년 연결재무제표 기준 연간 매출 831억원을 기록했다고 30일 밝혔다. 이는 전년 542억원 대비 53% 증가한 수치로, 연간 역대 최대 실적을 경신했다.해외 매출은 전체의 92%인 768억원으로 전년 478...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=38412",
-      "source": "AI Times"
-    },
-    {
-      "number": "08",
-      "title": "LG전자, 노벨화학상 수상 핵심물질 적용된 필터 탑재 AI 공기청정기 M7 출시",
-      "desc": "LG전자가 LG 퓨리케어 AI 오브제컬렉션 360° 공기청정기 M7을 출시했다. 이번 신모델에는 지난해 노벨화학상 수상 핵심물질이자 ‘대한민국 10대 기술’로 선정된 금속유기골격체(MOF·Metal-Organic Framework) 소재가 적용된 M7 필터가 기본...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38411",
-      "source": "AI Times"
-    },
-    {
-      "number": "09",
-      "title": "러시아, AI 기반 자동 조준 포탑 제어장치 시험 성공... '드론 자동 식별·요격', 반자율·완전자율 모드 지원",
-      "desc": "러시아가 인공지능(AI)을 활용해 무인 항공기(드론)를 자동으로 식별·조준·대응할 수 있는 신형 포탑 제어·조준 장치를 시험했다. 해당 장치는 이미 첫 번째 시제품이 실전 시험을 위해 분쟁 지역으로 보내진 것으로 알려졌다.러시아 타스통신은 29일(현지시간) 체첸 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38409",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "현대건설, 국내 최초 ‘원격제어 타워크레인’ 현장 도입",
-      "desc": "현대건설이 국내 최초로 건설 현장의 고위험 작업을 대체할 ‘원격제어 타워크레인’을 도입하며, 근로자 안전 관리와 작업 환경 개선에 새로운 전환점을 제시했다고 30일 밝혔다.현대건설은 지난 29일 경기도 과천시 주암동 ‘디에이치 아델스타’ 건설 현장에서 원격제어 타...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38408",
       "source": "AI Times"
     }
   ]
