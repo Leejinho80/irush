@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-02-01T23:31:18.493Z",
+  "lastUpdated": "2026-02-02T23:34:26.748Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "“AI 전력 수요 때문?” 미국, 원자력 안전 규정 ‘슬그머니 완화’ 논란",
-      "desc": "미국 원자력 규제 당국이 AI를 가동할 새로운 전력 용량을 빠르게 확보하기 위해 안전 규정을 비공개로 완화했다고 NPR이 보도했다.\n\n\n\n미국 공영 라디오 방송 NPR(National Public Radio)은 미국 에너지부(DoE)가 7월 4일까지 실험용 상용 ...",
-      "link": "https://www.itworld.co.kr/article/4124769/ai-%ec%a0%84%eb%a0%a5-%ec%88%98%ec%9a%94-%eb%95%8c%eb%ac%b8-%eb%af%b8%ea%b5%ad-%ec%9b%90%ec%9e%90%eb%a0%a5-%ec%95%88%ec%a0%84-%ea%b7%9c%ec%a0%95-%ec%8a%ac%ea%b7%b8.html",
+      "title": "“말 꼬여도 찰떡같이 알아듣는” 안드로이드 음성 타이핑 앱 타입리스",
+      "desc": "필자는 모바일 기기의 기능을 끊임없이 조정하고 세부 설정을 바꾸는 편이지만, 이상하게도 안드로이드 키보드 앱만큼은 늘 일정했다.\n\n\n\n구글의 기본 키보드인 지보드(Gboard)는 정확하고 사용하기 쉬운 터치 입력 도구로 높은 완성도를 제공한다. 다양한 입력 방식과...",
+      "link": "https://www.itworld.co.kr/article/4125383/%eb%a7%90-%ea%bc%ac%ec%97%ac%eb%8f%84-%ec%b0%b0%eb%96%a1%ea%b0%99%ec%9d%b4-%ec%95%8c%ec%95%84%eb%93%a3%eb%8a%94-%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%ec%9d%8c%ec%84%b1-%ed%83%80%ec%9d%b4.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "VDI 이후를 묻다…DaaS는 해답이 될 수 있을까?",
-      "desc": "서비스형 데스크톱(Desktop as a Service, DaaS)은 최근 몇 년 사이 큰 폭의 발전과 개선을 이뤄내며, 가상 데스크톱 인프라(Virtual Desktop Infrastructure, VDI)는 물론 기존 PC 배포·관리 방식에 대한 한층 설득력 ...",
-      "link": "https://www.itworld.co.kr/article/4124754/vdi-%ec%9d%b4%ed%9b%84%eb%a5%bc-%eb%ac%bb%eb%8b%a4daas%eb%8a%94-%ed%95%b4%eb%8b%b5%ec%9d%b4-%eb%90%a0-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c.html",
+      "title": "과대평가된 클로드 코드, 개발자가 아닌 사용자에게 남는 질문",
+      "desc": "앤트로픽의 코드 에이전트 클로드 코드를 둘러싼 과대광고에 혹하기란 어렵지 않다. 이 열기는 크리스마스 연휴를 기점으로 본격화됐고, 적어도 기술 업계에서는 3년 전 챗GPT의 등장을 떠올리게 한다. 클로드 코드는 이미 “새로운 챗GPT”, “서비스형 소프트웨어의 종...",
+      "link": "https://www.itworld.co.kr/article/4125363/%ea%b3%bc%eb%8c%80%ed%8f%89%ea%b0%80%eb%90%9c-%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90%ea%b0%80-%ec%95%84%eb%8b%8c-%ec%82%ac%ec%9a%a9%ec%9e%90%ec%97%90%ea%b2%8c.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "에이수스 젠북 듀오 리뷰 : 거의 완벽에 가까운 생산성 노트북",
-      "desc": "필자는 이동 중에도 생산성을 유지할 수 있는 장시간 사용 노트북을 선호한다. 그 기준에서 보면 듀얼 스크린 에이수스 젠북 듀오는 요구 조건을 대부분 충족한다.\n\n\n\n수년간 개인적으로 제일 잘 쓴 제품은 전문 생산성 노트북인 마이크로소프트 서피스 랩톱 스튜디오 2였...",
-      "link": "https://www.itworld.co.kr/article/4124004/%ec%97%90%ec%9d%b4%ec%88%98%ec%8a%a4-%ec%a0%a0%eb%b6%81-%eb%93%80%ec%98%a4-%eb%a6%ac%eb%b7%b0-%ea%b1%b0%ec%9d%98-%ec%99%84%eb%b2%bd%ec%97%90-%ea%b0%80%ea%b9%8c%ec%9a%b4-%ec%83%9d%ec%82%b0%ec%84%b1.html",
+      "title": "“주목을 넘어 애착을 판다” 애착 경제의 부상과 위험",
+      "desc": "우리는 오랫동안 ‘주목 경제(attention economy)’에 주목해 왔다. 주목 경제는 온라인 콘텐츠를 무한한 자원으로 보는 경제 개념이자 비즈니스 모델이다. 무한한 온라인 콘텐츠의 소비는 사람의 정신적 처리 용량에만 제한을 받기 때문에, 유한하고 가치 있는...",
+      "link": "https://www.itworld.co.kr/article/4125380/%ec%a3%bc%eb%aa%a9%ec%9d%84-%eb%84%98%ec%96%b4-%ec%95%a0%ec%b0%a9%ec%9d%84-%ed%8c%90%eb%8b%a4-%ec%95%a0%ec%b0%a9-%ea%b2%bd%ec%a0%9c%ec%9d%98-%eb%b6%80%ec%83%81%ea%b3%bc-%ec%9c%84.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "AI·머신러닝의 판을 바꾸는 16가지 오픈소스 프로젝트",
-      "desc": "지난 수십 년 동안 가장 혁신적인 소프트웨어는 항상 오픈소스 소프트웨어 세계에서 등장했다. 머신러닝과 대규모 언어 모델의 경우도 마찬가지다. 이제 오픈소스 코드를 보완하기 위한 오픈소스 모델까지 등장하면서 오픈소스 생태계는 더 풍성해지고, 그만큼 더 복잡해졌다.\n...",
-      "link": "https://www.itworld.co.kr/article/4124123/ai%c2%b7%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d%ec%9d%98-%ed%8c%90%ec%9d%84-%eb%b0%94%ea%be%b8%eb%8a%94-16%ea%b0%80%ec%a7%80-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8.html",
+      "title": "“AI로 돈 버는 곳은 오픈AI가 아니다” 에포크 AI, 산업 수익성 분석",
+      "desc": "비영리 연구기관 에포크 AI(Epoch AI)는 오픈AI를 비롯한 AI 기업은 장기적으로 큰 수익을 내기 어렵다고 분석했다.\n\n\n\n이번 연구를 진행한 하이메 세비야, 해나 페트로빅, 앤슨 호는 “AI 모델 운영으로 자체 비용을 충당할 만큼의 수익을 낼 수는 있지만...",
+      "link": "https://www.itworld.co.kr/article/4125368/ai%eb%a1%9c-%eb%8f%88-%eb%b2%84%eb%8a%94-%ea%b3%b3%ec%9d%80-%ec%98%a4%ed%94%88ai%ea%b0%80-%ec%95%84%eb%8b%88%eb%8b%a4-%ec%97%90%ed%8f%ac%ed%81%ac-ai-%ec%82%b0%ec%97%85-%ec%88%98.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "애플, 오디오 AI 스타트업 Q.ai 인수…역대 두 번째 규모",
-      "desc": "최근 로이터 통신은 애플이 이스라엘 스타트업 Q.ai 인수를 공식 확인했다고 전했다. Q.ai는 AI/ML을 활용해 오디오 관련 문제를 해결하는 기술을 개발해 온 기업으로 알려져 있다.\n\n\n\nQ.ai의 공식 웹사이트에는 “소음으로 가득 찬 세상에서 우리는 새로운 ...",
-      "link": "https://www.itworld.co.kr/article/4124728/%ec%95%a0%ed%94%8c-%ec%98%a4%eb%94%94%ec%98%a4-ai-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-q-ai-%ec%9d%b8%ec%88%98%ec%97%ad%eb%8c%80-%eb%91%90-%eb%b2%88%ec%a7%b8-%ea%b7%9c%eb%aa%a8.html",
+      "title": "코드 생성은 가속, 개발자 학습은 정체…AI 코딩의 그늘",
+      "desc": "AI 코딩 도구와 개발 속도 및 정확성 향상에 대한 기대는 크다. 그러나 개발자가 코파일럿처럼 AI를 사용하는 과정에서 사고 과정 일부를 AI에 넘기고 있는지에 대한 의문도 제기된다.\n\n\n\n앤트로픽 연구진은 최근 AI 지원 여부에 따라 소프트웨어 개발자가 새로운 ...",
+      "link": "https://www.itworld.co.kr/article/4125359/%ec%bd%94%eb%93%9c-%ec%83%9d%ec%84%b1%ec%9d%80-%ea%b0%80%ec%86%8d-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ed%95%99%ec%8a%b5%ec%9d%80-%ec%a0%95%ec%b2%b4ai-%ec%bd%94%eb%94%a9%ec%9d%98-%ea%b7%b8%eb%8a%98.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "KB금융, 'K-엔비디아' 육성 위해 1,600억원 규모의 모험자본 펀드 결성...생산적금융 대전환 본격화",
-      "desc": "KB금융그룹(회장 양종희)이 지난 30일, 'K-엔비디아'에 도전하는 AI·로보틱스 등 딥테크 분야의 혁신 기업을 지원하기 위해 1,600억 원 규모의 '케이비 딥테크 스케일업 펀드'를 결성하고, 본격적으로 생산적 금융으로의 대전환을 위한 모험자본 공급에 나선다....",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38419",
+      "title": "AI 기술에 ‘감각’을 더하다…뜨거운바다, 브랜드 본질 담은 ID 필름 공개",
+      "desc": "생성형 AI 콘텐츠 시장이 기술적 효율성을 중심으로 빠르게 재편되는 가운데, 인공지능(AI) 콘텐츠 에이전시 ‘뜨거운바다(Blaze Ocean)’가 설계한 브랜드 ID(Identity) 필름을 2일, 공개하고 차별화된 제작 방향성을 제시했다.이번에 공개된 영상은 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38449",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "AI 모델 예측 기술, 단백질 분석으로 난치 질환 원인 규명에 한 걸음",
-      "desc": "암과 같은 난치성 질환은 세포 내부에서 일어나는 미세한 변화에서 시작되는 경우가 많아 정확한 원인을 규명하는 데 어려움이 따른다. 세포가 스트레스를 받을 때 나타나는 단백질의 미세한 변형은 질병과 밀접하지만, 기존 기술로는 이를 정확히 구분하기 어려운 것들이 많다...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38418",
+      "title": "가정·현장 모두 사용가능한 ‘초소형 3D 유방 초음파 시스템’ ...MIT, 저전력 아키텍처 기반 실시간 3D 초음파 영상화 시스템 개발",
+      "desc": "유방암 고위험군을 위한 조기 진단의 패러다임을 바꿀 수 있는 휴대형 3D 초음파 기술이 나왔다. 미국 매사추세츠공과대학(MIT) 연구진이 병원이 아닌 가정이나 일반 진료실에서도 쉽게 사용할 수 있는 초소형 유방 초음파 시스템을 개발했다고 2일(현지시간) 밝혔다.M...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38447",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "인공지능의 모든 것 한눈에, 제9회 국제인공지능대전(AI EXPO KOREA 2026) 개최... '무료참관등록 오픈', “AI 기술과 산업의 현재와 미래를 그리다”",
-      "desc": "인공지능(AI) 기술의 급격한 진화 속에서 현재를 조망하고 미래 산업의 청사진을 제시할 아시아 최대 규모의 인공지능 전시회 ‘제9회 국제인공지능산업대전(이하 AI EXPO KOREA 2026)’이 오는 5월 6일부터 8일까지 사흘간 서울 삼성동 코엑스(COEX) ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38417",
+      "title": "LS '25년 역대 최대 매출 32조, 영업이익 2년 연속 1조 달성...글로벌 AI 데이터센터와 에너지 전환 동인",
+      "desc": "LS그룹 지주회사인 LS가 지난해 전력 슈퍼사이클을 맞은 자회사들의 호실적으로 지난해 연결 기준 사상 최대 매출을 달성했다. LS는 주력 계열사인 LS전선, LS일렉트릭, LS MnM 등의 사업 호조에 힘입어 2025년 매출 31조8250억원과 영업이익 1조565...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38446",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "[AI 리뷰]  AI로 인간의 ‘놀람(서프라이즈)’을 지도화하다…LLM이 밝힌 뇌의 예측 메커니즘",
-      "desc": "대형언어모델(LLM)을 인간의 뇌를 모사하는 도구가 아니라, 인간의 인지 작동 방식을 탐구하는 연구 도구로 활용한 실험이 나왔다. 미국 시카고대(University of Chicago) 연구진은 인공지능(AI)의 예측 오류를 인간이 느끼는 ‘놀람(서프라이즈)’과 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38416",
+      "title": "한성숙 장관, \"데이터·AI 기반 행정 혁신의 핵심\"...‘중소기업 통합플랫폼’ 중간점검",
+      "desc": "중소벤처기업부(이하 중기부)가 데이터·인공지능(AI) 기반 행정 혁신의 핵심 사업인 ‘중소기업 통합플랫폼 1단계 구축사업’의 중간 성과를 점검하고, 수요자 중심의 서비스 구현에 속도를 낸다.중기부는 2일 한성숙 장관 주재로 ‘제3차 AI·정보시스템 협의회’를 주재...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38445",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "[AI 리뷰] AI가 만든 논문, AI가 걸러야 할 수도..\"논문은 늘고, 품질은 낮아지고, 심사 시스템은 과부하”",
-      "desc": "인공지능(AI)과 대형언어모델(LLM)의 확산이 과학 연구의 생산성 지형을 근본적으로 바꾸고 있다는 실증 연구 결과가 나왔다. 논문 작성 속도는 빨라졌지만, 과학적 품질은 오히려 저하되는 역설적 현상이 나타나면서 학술 평가·심사 시스템 전반의 재설계 필요성이 제기...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38415",
+      "title": "'읽는' 문서에서 '보는' 경험으로...리드디, 기업용 AI 영상 플랫폼 진화 88개 언어 지원",
+      "desc": "기업 커뮤니케이션의 중심이 슬라이드에서 영상으로 이동하는 가운데, 리드디 AI(Leadde AI)가 기존 문서를 지능형 발표 영상으로 전환하는 기업용 AI 영상 제작 플랫폼을 1일(현지시간) 공개했다. 회사는 “기업 콘텐츠의 문제는 제작이 아니라 소비”라며, 정적...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38443",
       "source": "AI Times"
     }
   ]
