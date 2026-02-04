@@ -30,6 +30,16 @@ function WorkDetailPage() {
     document.getElementById('footer')?.scrollIntoView({ behavior: 'smooth' });
   };
 
+  const handleDownload = (e) => {
+    e.preventDefault();
+    const link = document.createElement('a');
+    link.href = '/아이러시_회사소개서.pdf';
+    link.download = '아이러시 회사소개서.pdf';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+
   // body에 work-detail-page 클래스 추가 (스크롤 활성화)
   useEffect(() => {
     document.body.classList.add('is-work-detail-page');
@@ -190,7 +200,7 @@ function WorkDetailPage() {
             <li><Link to="/trend">Trend Desk</Link></li>
           </ul>
           <div className="nav-buttons">
-            <a href="/아이러시_회사소개서.pdf" download="아이러시 회사소개서.pdf" className="nav-btn">Company Brochure</a>
+            <a href="/아이러시_회사소개서.pdf" onClick={handleDownload} className="nav-btn">Company Brochure</a>
             <a href="#footer" className="nav-btn primary" onClick={handleContactClick}>Contact Us</a>
           </div>
         </div>
@@ -212,7 +222,7 @@ function WorkDetailPage() {
           <li><Link to="/about" onClick={() => setMenuOpen(false)}>About Us</Link></li>
           <li><Link to="/work" onClick={() => setMenuOpen(false)}>Our Work</Link></li>
           <li><Link to="/trend" onClick={() => setMenuOpen(false)}>Trend Desk</Link></li>
-          <li><a href="/아이러시_회사소개서.pdf" download="아이러시 회사소개서.pdf" className="mobile-btn">Company Brochure</a></li>
+          <li><a href="/아이러시_회사소개서.pdf" onClick={handleDownload} className="mobile-btn">Company Brochure</a></li>
           <li><a href="#footer" className="mobile-btn primary" onClick={handleContactClick}>Contact Us</a></li>
         </ul>
       </div>

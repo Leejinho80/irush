@@ -806,6 +806,16 @@ function WorkPage() {
     setVisibleCount(prev => Math.min(prev + ITEMS_PER_PAGE, historyItems.length));
   };
 
+  const handleDownload = (e) => {
+    e.preventDefault();
+    const link = document.createElement('a');
+    link.href = '/아이러시_회사소개서.pdf';
+    link.download = '아이러시 회사소개서.pdf';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+
   return (
     <div className="work-page">
       {/* Custom Cursor */}
@@ -821,7 +831,7 @@ function WorkPage() {
             <li><Link to="/trend">Trend Desk</Link></li>
           </ul>
           <div className="nav-buttons">
-            <a href="/아이러시_회사소개서.pdf" download="아이러시 회사소개서.pdf" className="nav-btn">Company Brochure</a>
+            <a href="/아이러시_회사소개서.pdf" onClick={handleDownload} className="nav-btn">Company Brochure</a>
             <a href="#footer" className="nav-btn primary" onClick={handleContactClick}>Contact Us</a>
           </div>
         </div>
@@ -843,7 +853,7 @@ function WorkPage() {
           <li><Link to="/about" onClick={() => setMenuOpen(false)}>About Us</Link></li>
           <li><Link to="/work" onClick={() => setMenuOpen(false)}>Our Work</Link></li>
           <li><Link to="/trend" onClick={() => setMenuOpen(false)}>Trend Desk</Link></li>
-          <li><a href="/아이러시_회사소개서.pdf" download="아이러시 회사소개서.pdf" className="mobile-btn">Company Brochure</a></li>
+          <li><a href="/아이러시_회사소개서.pdf" onClick={handleDownload} className="mobile-btn">Company Brochure</a></li>
           <li><a href="#footer" className="mobile-btn primary" onClick={handleContactClick}>Contact Us</a></li>
         </ul>
       </div>
