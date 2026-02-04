@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-02-03T23:33:59.237Z",
+  "lastUpdated": "2026-02-04T23:33:51.105Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "윈도우 종료 불가 버그, 윈도우 10·11 다수 버전으로 확산",
-      "desc": "지난 1월 진행된 윈도우 11의 마지막 주요 업데이트 이후 각종 문제가 연이어 발생하고 있다. 특히 일부 사용자가 PC를 정상적으로 종료하거나 최대 절전 모드로 전환하지 못하는 상황을 겪었다고 보고했다.\n\n\n\n해당 버그의 영향을 받는 PC 수는 초기 예상보다 훨씬...",
-      "link": "https://www.itworld.co.kr/article/4126129/%ec%9c%88%eb%8f%84%ec%9a%b0-%ec%a2%85%eb%a3%8c-%eb%b6%88%ea%b0%80-%eb%b2%84%ea%b7%b8-%ec%9c%88%eb%8f%84%ec%9a%b0-10%c2%b711-%eb%8b%a4%ec%88%98-%eb%b2%84%ec%a0%84%ec%9c%bc%eb%a1%9c-%ed%99%95%ec%82%b0.html",
+      "title": "델 테크놀로지스, 신임 APJC 리더로 리치 맥러클린 선임",
+      "desc": "맥러클린 신임 사장은 호주·뉴질랜드, 중국, 인도, 일본, 한국, 싱가포르, 동남아시아 및 신흥시장(SAEM) 등 아태지역 전반의 비즈니스 전략과 영업을 총괄하며, 델 글로벌 세일즈 총괄 사장 피트 트리치노에게 보고하게 된다.\n\n\n\n맥러클린은 최근까지 델 본사에서...",
+      "link": "https://www.itworld.co.kr/article/4126983/%eb%8d%b8-%ed%85%8c%ed%81%ac%eb%86%80%eb%a1%9c%ec%a7%80%ec%8a%a4-%ec%8b%a0%ec%9e%84-apjc-%eb%a6%ac%eb%8d%94%eb%a1%9c-%eb%a6%ac%ec%b9%98-%eb%a7%a5%eb%9f%ac%ed%81%b4%eb%a6%b0-%ec%84%a0%ec%9e%84.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "RAM 가격 상승기에 대안으로 떠오른 미니 PC, 긱콤 A7 맥스 리뷰",
-      "desc": "제품 사양\n\n\n\n• 크기 : 135 × 132 × 46.9 mm(가로 × 깊이 × 높이)• CPU : AMD 라이젠 9 7940HS• GPU : AMD 라데온 780M• 메모리 : 16GB 마이크론 DDR5 5,600 MT/s 1개• 내부 저장장치 : 우포짓 테크...",
-      "link": "https://www.itworld.co.kr/article/4126114/ram-%ea%b0%80%ea%b2%a9-%ec%83%81%ec%8a%b9%ea%b8%b0%ec%97%90-%eb%8c%80%ec%95%88%ec%9c%bc%eb%a1%9c-%eb%96%a0%ec%98%a4%eb%a5%b8-%eb%af%b8%eb%8b%88-pc-%ea%b8%b1%ec%bd%a4-a7-%eb%a7%a5%ec%8a%a4-%eb%a6%ac.html",
+      "title": "지금도 어려운 에이전틱 AI 보안, 몇 달 뒤면 악몽이 된다",
+      "desc": "에이전틱 AI의 초기 실험은 CISO에게 다가올 사이버보안 악몽의 예고편이다. 2026년을 기점으로 자율 에이전트의 도입이 폭발적으로 늘어날 것으로 예상되면서, CISO가 이들 에이전트의 정체성·활동·의사결정 과정을 파악할 수 있는 가시성은 급격히 악화될 전망이다...",
+      "link": "https://www.itworld.co.kr/article/4126930/%ec%a7%80%ea%b8%88%eb%8f%84-%ec%96%b4%eb%a0%a4%ec%9a%b4-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%eb%b3%b4%ec%95%88-%eb%aa%87-%eb%8b%ac-%eb%92%a4%eb%a9%b4-%ec%95%85%eb%aa%bd%ec%9d%b4-%eb%90%9c.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "라즈베리 파이, RAM 부족에 2달 만에 추가 가격 인상",
-      "desc": "RAM 가격이 오르고 있다. RAM 가격 상승이 몇 달째 이어지며 고성능 그래픽 카드부터 가장 저렴한 취미용 기기까지 일반 사용자용 전자기기 거의 전반에 영향을 미치고 있다. 그리고 저렴한 가격으로 사랑받는 라즈베리 파이(Raspberry Pi)도 AI 수요가 촉...",
-      "link": "https://www.itworld.co.kr/article/4126099/%eb%9d%bc%ec%a6%88%eb%b2%a0%eb%a6%ac-%ed%8c%8c%ec%9d%b4-ram-%eb%b6%80%ec%a1%b1%ec%97%90-2%eb%8b%ac-%eb%a7%8c%ec%97%90-%ec%b6%94%ea%b0%80-%ea%b0%80%ea%b2%a9-%ec%9d%b8%ec%83%81.html",
+      "title": "“매장은 닫혔지만 기술은 남았다” 아마존 고가 남긴 전략적 교훈",
+      "desc": "아마존 고(Amazon Go) 매장은 소매 유통 업계의 오랜 문제를 해결하기 위해 매우 정교한 기술을 도입했지만, 동시에 현실적인 수익 모델 없이 막대한 기술 투자만으로는 성공할 수 없다는 사실을 보여준 사례로 남았다.\n\n\n\n수년 동안 아마존 고는 소매 유통 기술...",
+      "link": "https://www.itworld.co.kr/article/4126915/%eb%a7%a4%ec%9e%a5%ec%9d%80-%eb%8b%ab%ed%98%94%ec%a7%80%eb%a7%8c-%ea%b8%b0%ec%88%a0%ec%9d%80-%eb%82%a8%ec%95%98%eb%8b%a4-%ec%95%84%eb%a7%88%ec%a1%b4-%ea%b3%a0%ea%b0%80-%eb%82%a8.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "오픈텍스트, 신임 CEO로 아이만 안톤 선임…IBM 아메리카 사장 출신",
-      "desc": "오픈텍스트는 이사회가 아이만 안톤을 CEO 및 이사회 멤버로 선임했다고 밝혔다. 안톤은 2026년 4월 20일부터 공식 취임할 예정이다.\n\n\n\n신임 CEO 안톤은 정보기술 산업에서 30년 이상 활동해온 글로벌 기술 리더로, 운영 관리와 조직 전환 분야에서 폭넓은 ...",
-      "link": "https://www.itworld.co.kr/article/4126076/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%8b%a0%ec%9e%84-ceo%eb%a1%9c-%ec%95%84%ec%9d%b4%eb%a7%8c-%ec%95%88%ed%86%a4-%ec%84%a0%ec%9e%84.html",
+      "title": "윈도우로 사진에서 위치 정보를 삭제하는 방법",
+      "desc": "사진은 단순히 촬영 장소를 암시하는 수준을 넘어, 사용자의 정확한 위치를 그대로 드러낸다. 방법을 아는 사람이 있다면 위치 정보는 언제든 쉽게 노출된다.\n\n\n\n스마트폰과 최신 카메라는 사진에 EXIF 데이터 형태로 위치 정보를 추가할 수 있다. 위치 정보는 즉시 ...",
+      "link": "https://www.itworld.co.kr/article/4126906/%ec%9c%88%eb%8f%84%ec%9a%b0%eb%a1%9c-%ec%82%ac%ec%a7%84%ec%97%90%ec%84%9c-%ec%9c%84%ec%b9%98-%ec%a0%95%eb%b3%b4%eb%a5%bc-%ec%82%ad%ec%a0%9c%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "AI 거버넌스가 뒤처지는 5가지 이유와 대응 방안",
-      "desc": "산업 전반에 걸쳐 CIO는 SaaS 플랫폼, 내장형 코파일럿, 서드파티 도구를 통해 생성형 AI를 기존 거버넌스 프레임워크가 감당할 수 없는 속도로 확산하고 있다. AI는 이제 고객 응대, 채용 의사결정, 재무 분석, 소프트웨어 개발, 지식 노동에 영향을 미치고 ...",
-      "link": "https://www.itworld.co.kr/article/4126070/ai-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%ea%b0%80-%eb%92%a4%ec%b2%98%ec%a7%80%eb%8a%94-5%ea%b0%80%ec%a7%80-%ec%9d%b4%ec%9c%a0%ec%99%80-%eb%8c%80%ec%9d%91-%eb%b0%a9%ec%95%88.html",
+      "title": "코어 울트라 시리즈 3의 함정, 모든 팬서 레이크가 빠른 것은 아니다",
+      "desc": "인텔의 통합 그래픽 하드웨어는 이제 확실히 인상적인 수준에 도달했다. 인텔 코어 울트라 시리즈 3, 이른바 팬서 레이크는 인텔에게 큰 도약이자 반등의 계기다. 실제로 인텔 아크 iGPU와 코어 울트라 X9 388H 조합은 전용 엔비디아 GPU에 근접한 성능을 보여...",
+      "link": "https://www.itworld.co.kr/article/4126894/%ec%bd%94%ec%96%b4-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%8b%9c%eb%a6%ac%ec%a6%88-3%ec%9d%98-%ed%95%a8%ec%a0%95-%eb%aa%a8%eb%93%a0-%ed%8c%ac%ec%84%9c-%eb%a0%88%ec%9d%b4%ed%81%ac%ea%b0%80-%eb%b9%a0%eb%a5%b8.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "몬드리안에이아이, 1조 원 규모 ‘함양 AI 데이터센터’ 통해 차세대 AI 인프라 시장 선점 가속화",
-      "desc": "인공지능(AI) 플랫폼 및 클라우드 전문 기업 몬드리안에이아이(Mondrian AI, 대표 홍대의)가 총 사업비 1조300억 원 규모의 ‘함양 AI 데이터센터(HDC)’ 건립 사업의 핵심 파트너로서 AI 기반 클라우드 생태계 확장을 본격화한다.3일, 몬드리안에이아...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38469",
+      "title": "웰에이징플랫폼 와플랫, 독거노인종합지원센터와 AI 돌봄 실증 진행…‘와플랫 AI 생활지원사’ 본격 제공",
+      "desc": "엔에이치엔(대표 정우진. 이하, NHN)의 시니어케어 전문 법인 와플랫(대표 황선영)은 보건복지부 산하 독거노인종합지원센터와 ‘와플랫 인공지능 생활지원사’ 실증 사업을 진행하고, 해당 서비스를 본격적으로 제공한다고 4일 밝혔다.이번 실증 사업은 기존의 ‘와플랫 A...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38500",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "조달청, \"AI 제품 발굴, 숨은 규제 해소, 기업 책임·의무 강화로 혁신성장 견인!\"",
-      "desc": "조달청(청장 백승보)은 공공분야 혁신조달을 확대하여 우리 경제의 혁신 성장을 견인하기 위해'혁신제품 구매 운영 규정'을 개정하여 3일부터 시행한다. 혁신제품 구매 제도는 정부가 위험을 안고서라도 혁신제품의 선도적인 구매자가 되어 기술선도·기업성장·공공서비스 개선을...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38467",
+      "title": "이재명 대통령, 기업 간담회 주재...10대 그룹 5년간 지방 270조 투자, 올해 51,600명 채용",
+      "desc": "이재명 대통령은 4일 오후 청와대에서 청년 일자리 창출과 지방 투자 확대를 위한 기업 간담회를 주재하고, 기업들과 함께 성장의 과실이 지역과 청년, 중소기업으로 확산되는 방안을 논의했다.이날 간담회는 오후 2시부터 약 2시간 동안 진행됐으며, 경제계에서는 류진 한...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38499",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "과기정통부, 국민 안전 강화를 위한 'AI·디지털트윈' 서비스 개발·실증 사업 공모",
-      "desc": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈. 이하, 과기정통부)와 한국지능정보사회진흥원(원장 황종성)은 ‘인공지능 기반 안전 관리 분야 가상 모형(디지털트윈)선도’사업 공모를 3일부터 오는 3월 10일까지 실시한다. 이번 사업은 AI와 가상 모형(디지털트...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38466",
+      "title": "인공지능으로 \"콘텐츠 주권 시대 연다\"... 텐센트, 엣지원(EdgeOne)에 'AI 크롤러 제어' 무료 배포",
+      "desc": "생성형 AI 모델 학습을 위한 데이터 수요가 폭증하면서 전 세계 웹사이트들이 무분별한 데이터 수집(스크래핑) 몸살을 앓고 있는 가운데, 텐센트 클라우드가 개발자들을 위한 강력한 방어 카드를 꺼내 들었다.텐센트 클라우드(Tencent Cloud)는 4일, 자사의 통...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38497",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "씨이랩, KISA 지능형 CCTV인증 획득… 공공 안전 관제 적용 확대",
-      "desc": "비전 인공지능 전문기업 씨이랩(대표 윤세혁, 채정환)이 한국인터넷진흥원(KISA)이 주관하는 지능형 CCTV 성능 시험 인증 부문 내 ‘방화’ 분야 인증을 획득했다고 3일 밝혔다. 지능형 CCTV 성능 시험인증은 인증용 영상 DB 기반으로 특정 이벤트를 얼마나 정...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38465",
+      "title": "요슈아 벤지오, ‘2026 국제 AI 안전 보고서’ 발간… “능력은 급증, 위험 관리 격차는 확대”",
+      "desc": "전 세계 인공지능(AI) 역량의 급격한 진전과 함께 새로운 위험이 빠르게 부상하고 있다는 내용을 담은 2026 국제 AI 안전 보고서(2026 International AI Safety Report)가 3일(현지시간) 공개됐다. 이번 보고서는 일반 목적(gener...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38496",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "마크비전, 지난해 브랜드 IP 보호 성과 발표… 위조상품·그레이마켓 제재 2배 급증",
-      "desc": "인공지능 기반 브랜드 신뢰구축 솔루션 기업 마크비전(대표 이인섭)이 자사 솔루션 ‘마크AI(Marq AI)’를 통해 수행한 2025년 브랜드 IP(지식재산권) 위협 대응 성과를 3일 발표했다.마크비전에 따르면 지난해 위조상품, 그레이마켓 유통, 불법 콘텐츠, 브랜...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38464",
+      "title": "IBM, '교육 및 고용 전환' 위한 AI 솔루션 글로벌 공모 착수...비영리·정부기관 대상 2년간 무상 기술 지원",
+      "desc": "IBM이 교육과 인력 개발의 미래를 바꿀 인공지능(AI) 기반 솔루션을 찾기 위한 글로벌 공모에 나섰다.IBM은 4일(현지시간) 인공지능(AI)을 활용해 교육 혁신과 노동시장 전환을 지원하는 ‘IBM 임팩트 액셀러레이터(IBM Impact Accelerator)’...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38495",
       "source": "AI Times"
     }
   ]
