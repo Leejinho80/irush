@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import '../styles/common.css';
 import '../styles/about.css';
 import clientLogo from '../assets/images/client_logo.png';
-import brochurePdf from '../assets/(주)아이러시 회사소개서.pdf';
 import researchImg from '../assets/images/reserch.png';
 import conceptImg from '../assets/images/concept.png';
 import designImg from '../assets/images/design.png';
@@ -189,7 +188,7 @@ function AboutPage() {
             <li><Link to="/trend">Trend Desk</Link></li>
           </ul>
           <div className="nav-buttons">
-            <a href={brochurePdf} download="아이러시 회사소개서.pdf" className="nav-btn">Company Brochure</a>
+            <a href="/아이러시_회사소개서.pdf" download="아이러시 회사소개서.pdf" className="nav-btn">Company Brochure</a>
             <a href="#footer" className="nav-btn primary" onClick={handleContactClick}>Contact Us</a>
           </div>
         </div>
@@ -208,7 +207,7 @@ function AboutPage() {
           <li><Link to="/about" onClick={() => setIsMenuOpen(false)}>About Us</Link></li>
           <li><Link to="/work" onClick={() => setIsMenuOpen(false)}>Our Work</Link></li>
           <li><Link to="/trend" onClick={() => setIsMenuOpen(false)}>Trend Desk</Link></li>
-          <li><a href={brochurePdf} download="아이러시 회사소개서.pdf" className="mobile-btn">Company Brochure</a></li>
+          <li><a href="/아이러시_회사소개서.pdf" download="아이러시 회사소개서.pdf" className="mobile-btn">Company Brochure</a></li>
           <li><a href="#footer" className="mobile-btn primary" onClick={handleContactClick}>Contact Us</a></li>
         </ul>
       </div>

@@ -2,7 +2,6 @@ import { useEffect, useRef, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import '../styles/common.css';
 import '../styles/work-detail.css';
-import brochurePdf from '../assets/(주)아이러시 회사소개서.pdf';
 import CustomCursor from '../components/CustomCursor';
 import { projectDetails } from '../data/projectData';
 
@@ -191,7 +190,7 @@ function WorkDetailPage() {
             <li><Link to="/trend">Trend Desk</Link></li>
           </ul>
           <div className="nav-buttons">
-            <a href={brochurePdf} download="아이러시 회사소개서.pdf" className="nav-btn">Company Brochure</a>
+            <a href="/아이러시_회사소개서.pdf" download="아이러시 회사소개서.pdf" className="nav-btn">Company Brochure</a>
             <a href="#footer" className="nav-btn primary" onClick={handleContactClick}>Contact Us</a>
           </div>
         </div>
@@ -213,7 +212,7 @@ function WorkDetailPage() {
           <li><Link to="/about" onClick={() => setMenuOpen(false)}>About Us</Link></li>
           <li><Link to="/work" onClick={() => setMenuOpen(false)}>Our Work</Link></li>
           <li><Link to="/trend" onClick={() => setMenuOpen(false)}>Trend Desk</Link></li>
-          <li><a href={brochurePdf} download="아이러시 회사소개서.pdf" className="mobile-btn">Company Brochure</a></li>
+          <li><a href="/아이러시_회사소개서.pdf" download="아이러시 회사소개서.pdf" className="mobile-btn">Company Brochure</a></li>
           <li><a href="#footer" className="mobile-btn primary" onClick={handleContactClick}>Contact Us</a></li>
         </ul>
       </div>
