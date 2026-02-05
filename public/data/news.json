@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-02-04T23:33:51.105Z",
+  "lastUpdated": "2026-02-05T23:29:04.866Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "델 테크놀로지스, 신임 APJC 리더로 리치 맥러클린 선임",
-      "desc": "맥러클린 신임 사장은 호주·뉴질랜드, 중국, 인도, 일본, 한국, 싱가포르, 동남아시아 및 신흥시장(SAEM) 등 아태지역 전반의 비즈니스 전략과 영업을 총괄하며, 델 글로벌 세일즈 총괄 사장 피트 트리치노에게 보고하게 된다.\n\n\n\n맥러클린은 최근까지 델 본사에서...",
-      "link": "https://www.itworld.co.kr/article/4126983/%eb%8d%b8-%ed%85%8c%ed%81%ac%eb%86%80%eb%a1%9c%ec%a7%80%ec%8a%a4-%ec%8b%a0%ec%9e%84-apjc-%eb%a6%ac%eb%8d%94%eb%a1%9c-%eb%a6%ac%ec%b9%98-%eb%a7%a5%eb%9f%ac%ed%81%b4%eb%a6%b0-%ec%84%a0%ec%9e%84.html",
+      "title": "2026년 주목해야 할 네트워킹 트렌드 8가지",
+      "desc": "AI가 네트워킹 산업에 미치는 영향은 이제 외면하기 어려울 정도로 커졌다. 상상하기 힘들 만큼 빠른 속도로 AI는 전문 데이터 과학자만 다루던 백엔드 데이터 처리 기술에서 시작해, 이제는 LLM을 기반으로 한 생성형 AI를 통해 거의 모든 사용자와 네트워크 전문가...",
+      "link": "https://www.itworld.co.kr/article/4127778/2026%eb%85%84-%ec%a3%bc%eb%aa%a9%ed%95%b4%ec%95%bc-%ed%95%a0-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%82%b9-%ed%8a%b8%eb%a0%8c%eb%93%9c-8%ea%b0%80%ec%a7%80.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "지금도 어려운 에이전틱 AI 보안, 몇 달 뒤면 악몽이 된다",
-      "desc": "에이전틱 AI의 초기 실험은 CISO에게 다가올 사이버보안 악몽의 예고편이다. 2026년을 기점으로 자율 에이전트의 도입이 폭발적으로 늘어날 것으로 예상되면서, CISO가 이들 에이전트의 정체성·활동·의사결정 과정을 파악할 수 있는 가시성은 급격히 악화될 전망이다...",
-      "link": "https://www.itworld.co.kr/article/4126930/%ec%a7%80%ea%b8%88%eb%8f%84-%ec%96%b4%eb%a0%a4%ec%9a%b4-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%eb%b3%b4%ec%95%88-%eb%aa%87-%eb%8b%ac-%eb%92%a4%eb%a9%b4-%ec%95%85%eb%aa%bd%ec%9d%b4-%eb%90%9c.html",
+      "title": "SQ라이트의 대안, 설치 없이 바로 쓰는 데이터베이스 4종",
+      "desc": "데이터를 대량으로 다루는 애플리케이션을 개발할 때 가장 자연스러운 접근 방식은 데이터를 어떤 형태로든 데이터베이스에 저장하는 것이다. 애플리케이션의 규모와 목표에 따라 그 선택지는 달라진다. 간단한 용도의 SQ라이트(SQLite)부터, 고급형인 포스트그레SQL까지...",
+      "link": "https://www.itworld.co.kr/article/4127743/sq%eb%9d%bc%ec%9d%b4%ed%8a%b8%ec%9d%98-%eb%8c%80%ec%95%88-%ec%84%a4%ec%b9%98-%ec%97%86%ec%9d%b4-%eb%b0%94%eb%a1%9c-%ec%93%b0%eb%8a%94-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b2%a0%ec%9d%b4%ec%8a%a4-4%ec%a2%85.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "“매장은 닫혔지만 기술은 남았다” 아마존 고가 남긴 전략적 교훈",
-      "desc": "아마존 고(Amazon Go) 매장은 소매 유통 업계의 오랜 문제를 해결하기 위해 매우 정교한 기술을 도입했지만, 동시에 현실적인 수익 모델 없이 막대한 기술 투자만으로는 성공할 수 없다는 사실을 보여준 사례로 남았다.\n\n\n\n수년 동안 아마존 고는 소매 유통 기술...",
-      "link": "https://www.itworld.co.kr/article/4126915/%eb%a7%a4%ec%9e%a5%ec%9d%80-%eb%8b%ab%ed%98%94%ec%a7%80%eb%a7%8c-%ea%b8%b0%ec%88%a0%ec%9d%80-%eb%82%a8%ec%95%98%eb%8b%a4-%ec%95%84%eb%a7%88%ec%a1%b4-%ea%b3%a0%ea%b0%80-%eb%82%a8.html",
+      "title": "“의자보다 중요한 것” 허리 건강 좌우하는 모니터 배치 가이드",
+      "desc": "업무용이든 게임용이든 책상 앞에서 건강한 자세를 유지하는 데 가장 중요한 요소는 모니터 배치다. 모니터가 너무 멀거나 가깝고, 높이가 맞지 않거나 각도가 틀어져 있다면 결국 자세 문제로 이어진다. 눈의 피로와 전신 피로, 허리 통증은 물론 심한 경우 추간판 탈출증...",
+      "link": "https://www.itworld.co.kr/article/4127737/%ec%9d%98%ec%9e%90%eb%b3%b4%eb%8b%a4-%ec%a4%91%ec%9a%94%ed%95%9c-%ea%b2%83-%ed%97%88%eb%a6%ac-%ea%b1%b4%ea%b0%95-%ec%a2%8c%ec%9a%b0%ed%95%98%eb%8a%94-%eb%aa%a8%eb%8b%88%ed%84%b0-%eb%b0%b0%ec%b9%98.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "윈도우로 사진에서 위치 정보를 삭제하는 방법",
-      "desc": "사진은 단순히 촬영 장소를 암시하는 수준을 넘어, 사용자의 정확한 위치를 그대로 드러낸다. 방법을 아는 사람이 있다면 위치 정보는 언제든 쉽게 노출된다.\n\n\n\n스마트폰과 최신 카메라는 사진에 EXIF 데이터 형태로 위치 정보를 추가할 수 있다. 위치 정보는 즉시 ...",
-      "link": "https://www.itworld.co.kr/article/4126906/%ec%9c%88%eb%8f%84%ec%9a%b0%eb%a1%9c-%ec%82%ac%ec%a7%84%ec%97%90%ec%84%9c-%ec%9c%84%ec%b9%98-%ec%a0%95%eb%b3%b4%eb%a5%bc-%ec%82%ad%ec%a0%9c%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95.html",
+      "title": "다보스가 주목한 피지컬 AI, 비관론 속 현실적인 균형점",
+      "desc": "이번 세계경제포럼(World Economic Forum, WEF)에 참석한 주요 기술 기업 경영진과 경제학자들은 AI가 전 세계 고용 구조를 재편하고 각국의 경제 질서를 흔들고 있다는 점을 냉정하게 인식하고 있었다.\n\n\n\n반면 피지컬 AI(Physical AI)와...",
+      "link": "https://www.itworld.co.kr/article/4127723/%eb%8b%a4%eb%b3%b4%ec%8a%a4%ea%b0%80-%ec%a3%bc%eb%aa%a9%ed%95%9c-%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%eb%b9%84%ea%b4%80%eb%a1%a0-%ec%86%8d-%ed%98%84%ec%8b%a4%ec%a0%81%ec%9d%b8-%ea%b7%a0%ed%98%95%ec%a0%90.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "코어 울트라 시리즈 3의 함정, 모든 팬서 레이크가 빠른 것은 아니다",
-      "desc": "인텔의 통합 그래픽 하드웨어는 이제 확실히 인상적인 수준에 도달했다. 인텔 코어 울트라 시리즈 3, 이른바 팬서 레이크는 인텔에게 큰 도약이자 반등의 계기다. 실제로 인텔 아크 iGPU와 코어 울트라 X9 388H 조합은 전용 엔비디아 GPU에 근접한 성능을 보여...",
-      "link": "https://www.itworld.co.kr/article/4126894/%ec%bd%94%ec%96%b4-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%8b%9c%eb%a6%ac%ec%a6%88-3%ec%9d%98-%ed%95%a8%ec%a0%95-%eb%aa%a8%eb%93%a0-%ed%8c%ac%ec%84%9c-%eb%a0%88%ec%9d%b4%ed%81%ac%ea%b0%80-%eb%b9%a0%eb%a5%b8.html",
+      "title": "개발자가 코딩 에이전트를 써야 하는 6가지 이유",
+      "desc": "필자는 매일 코딩 에이전트를 사용한다. 몇 주 동안 부업 프로젝트에서 코드 한 줄도 직접 작성하지 않았다. 본업에서는 아직 코딩 에이전트를 쓰지 않는데, 대부분 LLM이 감당하기 어려울 정도로 방대한 코드베이스에 대한 더 깊은 지식이 필요하기 때문이다. 하지만, ...",
+      "link": "https://www.itworld.co.kr/article/4127726/%ea%b0%9c%eb%b0%9c%ec%9e%90%ea%b0%80-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%a5%bc-%ec%8d%a8%ec%95%bc-%ed%95%98%eb%8a%94-6%ea%b0%80%ec%a7%80-%ec%9d%b4%ec%9c%a0.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "웰에이징플랫폼 와플랫, 독거노인종합지원센터와 AI 돌봄 실증 진행…‘와플랫 AI 생활지원사’ 본격 제공",
-      "desc": "엔에이치엔(대표 정우진. 이하, NHN)의 시니어케어 전문 법인 와플랫(대표 황선영)은 보건복지부 산하 독거노인종합지원센터와 ‘와플랫 인공지능 생활지원사’ 실증 사업을 진행하고, 해당 서비스를 본격적으로 제공한다고 4일 밝혔다.이번 실증 사업은 기존의 ‘와플랫 A...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38500",
+      "title": "네이버, '25년 4분기 매출액 3조 1951억, 연간 매출액 12조 350억...영업이익 11.6%↑, 2조 2081억 원",
+      "desc": "네이버(대표 최수연)는 2025년 4분기에 매출액 3조 1,951억 원, 영업이익 6,106억 원을 각각 기록했다고 6일 밝혔다. 2025년 연간 매출액은 전년 대비 12.1% 증가한 12조 350억 원을, 연간 영업이익은 전년 대비 11.6% 증가한 2조 2,0...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38521",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "이재명 대통령, 기업 간담회 주재...10대 그룹 5년간 지방 270조 투자, 올해 51,600명 채용",
-      "desc": "이재명 대통령은 4일 오후 청와대에서 청년 일자리 창출과 지방 투자 확대를 위한 기업 간담회를 주재하고, 기업들과 함께 성장의 과실이 지역과 청년, 중소기업으로 확산되는 방안을 논의했다.이날 간담회는 오후 2시부터 약 2시간 동안 진행됐으며, 경제계에서는 류진 한...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38499",
+      "title": "한국 청소년이 직접 말하는 \"AI 거버넌스\"... 뉴욕 UN 본부서 공식 포럼 개최",
+      "desc": "대한민국 최초 학교폭력 예방 NGO인 BTF 푸른나무재단이 5개 국가 대표부와 국제기구와 함께 뉴욕 유엔 본부에서 6일(현지시간) “인공지능의 미래를 설계하다: 청소년 중심 포용적 인공지능 거버넌스” 공식 포럼(사이드이벤트)을 개최한다.이는 아시아 NGO 가운데 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38520",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "인공지능으로 \"콘텐츠 주권 시대 연다\"... 텐센트, 엣지원(EdgeOne)에 'AI 크롤러 제어' 무료 배포",
-      "desc": "생성형 AI 모델 학습을 위한 데이터 수요가 폭증하면서 전 세계 웹사이트들이 무분별한 데이터 수집(스크래핑) 몸살을 앓고 있는 가운데, 텐센트 클라우드가 개발자들을 위한 강력한 방어 카드를 꺼내 들었다.텐센트 클라우드(Tencent Cloud)는 4일, 자사의 통...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38497",
+      "title": "손경식 경총 회장 “AI 대응 차이가 곧 경쟁력 격차\"...생산성 혁신 없인 도약 없다",
+      "desc": "한국경영자총협회(경총)가 ‘인공지능 시대, 새로운 기회와 도전’을 주제로 제4회 한국최고경영자포럼을 개최한 가운데, 손경식 경총 회장이 AI 시대에 대비한 기업 혁신과 협력적 노사관계의 중요성을 강조했다.손경식 회장은 5일 서울 중구 웨스틴조선호텔에서 열린 포럼 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38519",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "요슈아 벤지오, ‘2026 국제 AI 안전 보고서’ 발간… “능력은 급증, 위험 관리 격차는 확대”",
-      "desc": "전 세계 인공지능(AI) 역량의 급격한 진전과 함께 새로운 위험이 빠르게 부상하고 있다는 내용을 담은 2026 국제 AI 안전 보고서(2026 International AI Safety Report)가 3일(현지시간) 공개됐다. 이번 보고서는 일반 목적(gener...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38496",
+      "title": "대동기어, 26년 EV 부품 양산 돌입…사업 체질 전환 순항, 로봇 新사업도 '시동'",
+      "desc": "대동그룹의 파워트레인 전문기업 대동기어(대표이사 서종환)가 전기차(EV/HEV) 핵심 부품 양산과 로봇 부품 신사업을 동시에 가속하며 미래 모빌리티&로봇 기업으로의 전환을 본격화 한다. 올해 전기차 부품과 정밀 감속기와 액추에이터 기반 로봇 부품 개발을 본격 추진...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38518",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "IBM, '교육 및 고용 전환' 위한 AI 솔루션 글로벌 공모 착수...비영리·정부기관 대상 2년간 무상 기술 지원",
-      "desc": "IBM이 교육과 인력 개발의 미래를 바꿀 인공지능(AI) 기반 솔루션을 찾기 위한 글로벌 공모에 나섰다.IBM은 4일(현지시간) 인공지능(AI)을 활용해 교육 혁신과 노동시장 전환을 지원하는 ‘IBM 임팩트 액셀러레이터(IBM Impact Accelerator)’...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38495",
+      "title": "한성숙 장관, 국가창업시대로의 도약 위한 '모두의 창업 프로젝트' 전문가 간담회 개최",
+      "desc": "중소벤처기업부(장관 한성숙.이하, 중기부)는 5일 '모두의 창업 프로젝트' 추진을 위한 전문가 간담회를 개최했다.이번 간담회는 국가창업시대를 위한 첫 번째 프로젝트인 모두의 창업 프로젝트의 추진방향을 공유하고, 현장 전문가 의견을 수렴하기 위해 마련됐다. 이날 간...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38517",
       "source": "AI Times"
     }
   ]
