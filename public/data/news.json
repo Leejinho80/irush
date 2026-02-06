@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-02-05T23:29:04.866Z",
+  "lastUpdated": "2026-02-06T23:31:48.060Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "2026년 주목해야 할 네트워킹 트렌드 8가지",
-      "desc": "AI가 네트워킹 산업에 미치는 영향은 이제 외면하기 어려울 정도로 커졌다. 상상하기 힘들 만큼 빠른 속도로 AI는 전문 데이터 과학자만 다루던 백엔드 데이터 처리 기술에서 시작해, 이제는 LLM을 기반으로 한 생성형 AI를 통해 거의 모든 사용자와 네트워크 전문가...",
-      "link": "https://www.itworld.co.kr/article/4127778/2026%eb%85%84-%ec%a3%bc%eb%aa%a9%ed%95%b4%ec%95%bc-%ed%95%a0-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%82%b9-%ed%8a%b8%eb%a0%8c%eb%93%9c-8%ea%b0%80%ec%a7%80.html",
+      "title": "슈퍼볼급 트래픽을 견디는 NBC유니버설의 분산 시스템 설계 원칙",
+      "desc": "올림픽이나 프리미어리그 경기, 시즌 피날레 등 대형 이벤트의 인프라를 운영할 때면 대부분 시스템이 좀처럼 겪지 않는 썬더링 허드(thundering herd) 문제에 직면한다. 수백만 명의 사용자가 단 3분이라는 짧은 시간 안에 동시에 로그인하고, 콘텐츠를 탐색한...",
+      "link": "https://www.itworld.co.kr/article/4128468/%ec%8a%88%ed%8d%bc%eb%b3%bc%ea%b8%89-%ed%8a%b8%eb%9e%98%ed%94%bd%ec%9d%84-%ea%b2%ac%eb%94%94%eb%8a%94-nbc%ec%9c%a0%eb%8b%88%eb%b2%84%ec%84%a4%ec%9d%98-%eb%b6%84%ec%82%b0-%ec%8b%9c%ec%8a%a4%ed%85%9c.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "SQ라이트의 대안, 설치 없이 바로 쓰는 데이터베이스 4종",
-      "desc": "데이터를 대량으로 다루는 애플리케이션을 개발할 때 가장 자연스러운 접근 방식은 데이터를 어떤 형태로든 데이터베이스에 저장하는 것이다. 애플리케이션의 규모와 목표에 따라 그 선택지는 달라진다. 간단한 용도의 SQ라이트(SQLite)부터, 고급형인 포스트그레SQL까지...",
-      "link": "https://www.itworld.co.kr/article/4127743/sq%eb%9d%bc%ec%9d%b4%ed%8a%b8%ec%9d%98-%eb%8c%80%ec%95%88-%ec%84%a4%ec%b9%98-%ec%97%86%ec%9d%b4-%eb%b0%94%eb%a1%9c-%ec%93%b0%eb%8a%94-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b2%a0%ec%9d%b4%ec%8a%a4-4%ec%a2%85.html",
+      "title": "FBI도 뚫지 못한 아이폰…애플 ‘차단 모드’ 보안성 입증",
+      "desc": "미 연방수사국(FBI)이 애플의 차단 모드(Lockdown Mode)가 어느 정도 수준의 보안을 제공하는지를 몸소 증명했다. 언론인과 기업 경영진, 공직자 등 기밀 정보를 다뤄야 하는 이들에게는 긍정적인 사례로 받아들여질 만한 내용이다.\n\n\n\n기밀 정보가 언론에 ...",
+      "link": "https://www.itworld.co.kr/article/4128438/fbi%eb%8f%84-%eb%9a%ab%ec%a7%80-%eb%aa%bb%ed%95%9c-%ec%95%84%ec%9d%b4%ed%8f%b0%ec%95%a0%ed%94%8c-%ec%b0%a8%eb%8b%a8-%eb%aa%a8%eb%93%9c-%eb%b3%b4%ec%95%88%ec%84%b1-%ec%9e%85.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "“의자보다 중요한 것” 허리 건강 좌우하는 모니터 배치 가이드",
-      "desc": "업무용이든 게임용이든 책상 앞에서 건강한 자세를 유지하는 데 가장 중요한 요소는 모니터 배치다. 모니터가 너무 멀거나 가깝고, 높이가 맞지 않거나 각도가 틀어져 있다면 결국 자세 문제로 이어진다. 눈의 피로와 전신 피로, 허리 통증은 물론 심한 경우 추간판 탈출증...",
-      "link": "https://www.itworld.co.kr/article/4127737/%ec%9d%98%ec%9e%90%eb%b3%b4%eb%8b%a4-%ec%a4%91%ec%9a%94%ed%95%9c-%ea%b2%83-%ed%97%88%eb%a6%ac-%ea%b1%b4%ea%b0%95-%ec%a2%8c%ec%9a%b0%ed%95%98%eb%8a%94-%eb%aa%a8%eb%8b%88%ed%84%b0-%eb%b0%b0%ec%b9%98.html",
+      "title": "마이크로소프트, AI 콘텐츠 활용 대가로 퍼블리셔 보상 모델 추진",
+      "desc": "마이크로소프트는 AI 챗봇이 신뢰하기 어려운 정보를 제공하는 문제에 대해 ‘모두에게 이익이 되는’ 해법을 찾았다고 보고 있다. 사용자가 신뢰할 수 있는 정보에 접근하는 대가로, AI가 언론사와 미디어 기업 등 콘텐츠를 생산·보유하는 퍼블리셔(publisher)에 ...",
+      "link": "https://www.itworld.co.kr/article/4128424/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%ec%bd%98%ed%85%90%ec%b8%a0-%ed%99%9c%ec%9a%a9-%eb%8c%80%ea%b0%80%eb%a1%9c-%ed%8d%bc%eb%b8%94%eb%a6%ac%ec%85%94-%eb%b3%b4%ec%83%81.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "다보스가 주목한 피지컬 AI, 비관론 속 현실적인 균형점",
-      "desc": "이번 세계경제포럼(World Economic Forum, WEF)에 참석한 주요 기술 기업 경영진과 경제학자들은 AI가 전 세계 고용 구조를 재편하고 각국의 경제 질서를 흔들고 있다는 점을 냉정하게 인식하고 있었다.\n\n\n\n반면 피지컬 AI(Physical AI)와...",
-      "link": "https://www.itworld.co.kr/article/4127723/%eb%8b%a4%eb%b3%b4%ec%8a%a4%ea%b0%80-%ec%a3%bc%eb%aa%a9%ed%95%9c-%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%eb%b9%84%ea%b4%80%eb%a1%a0-%ec%86%8d-%ed%98%84%ec%8b%a4%ec%a0%81%ec%9d%b8-%ea%b7%a0%ed%98%95%ec%a0%90.html",
+      "title": "미 법무부, 구글 검색 반독점 판결에 항소…“더 강력한 제재” 요구",
+      "desc": "구글 검색은 불법적인 독점이다. 이는 논란을 부추기기 위한 주장이 아니라, 2024년에 마무리된 소송 이후 미국 법무부가 공식적으로 내린 판단이다. 당시 법무부는 구글이 크롬 브라우저를 매각하거나 분리하도록 강제하기를 기대했지만, 해당 사건을 맡은 연방 판사는 이...",
+      "link": "https://www.itworld.co.kr/article/4128415/%eb%af%b8-%eb%b2%95%eb%ac%b4%eb%b6%80-%ea%b5%ac%ea%b8%80-%ea%b2%80%ec%83%89-%eb%b0%98%eb%8f%85%ec%a0%90-%ed%8c%90%ea%b2%b0%ec%97%90-%ed%95%ad%ec%86%8c%eb%8d%94-%ea%b0%95%eb%a0%a5.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "개발자가 코딩 에이전트를 써야 하는 6가지 이유",
-      "desc": "필자는 매일 코딩 에이전트를 사용한다. 몇 주 동안 부업 프로젝트에서 코드 한 줄도 직접 작성하지 않았다. 본업에서는 아직 코딩 에이전트를 쓰지 않는데, 대부분 LLM이 감당하기 어려울 정도로 방대한 코드베이스에 대한 더 깊은 지식이 필요하기 때문이다. 하지만, ...",
-      "link": "https://www.itworld.co.kr/article/4127726/%ea%b0%9c%eb%b0%9c%ec%9e%90%ea%b0%80-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%a5%bc-%ec%8d%a8%ec%95%bc-%ed%95%98%eb%8a%94-6%ea%b0%80%ec%a7%80-%ec%9d%b4%ec%9c%a0.html",
+      "title": "AI 여파로 늦어지고 비싸진 스팀 머신…밸브도 가격 부담 직면",
+      "desc": "밸브의 스팀 머신이 예정보다 늦게 출시되고 가격도 오를 전망이다. AI 인프라 확산으로 촉발된 RAM 가격 급등이 직접적인 원인이다.\n\n\n\n다시 한번 메모리 위기가 업계를 강타했다. 밸브는 스팀 머신과 스팀 프레임의 출시 일정과 최종 가격 공개를 연기했다고 밝혔다...",
+      "link": "https://www.itworld.co.kr/article/4128409/ai-%ec%97%ac%ed%8c%8c%eb%a1%9c-%eb%8a%a6%ec%96%b4%ec%a7%80%ea%b3%a0-%eb%b9%84%ec%8b%b8%ec%a7%84-%ec%8a%a4%ed%8c%80-%eb%a8%b8%ec%8b%a0%eb%b0%b8%eb%b8%8c%eb%8f%84-%ea%b0%80%ea%b2%a9-%eb%b6%80.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "네이버, '25년 4분기 매출액 3조 1951억, 연간 매출액 12조 350억...영업이익 11.6%↑, 2조 2081억 원",
-      "desc": "네이버(대표 최수연)는 2025년 4분기에 매출액 3조 1,951억 원, 영업이익 6,106억 원을 각각 기록했다고 6일 밝혔다. 2025년 연간 매출액은 전년 대비 12.1% 증가한 12조 350억 원을, 연간 영업이익은 전년 대비 11.6% 증가한 2조 2,0...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38521",
+      "title": "삼성전자, 2026년형 AI 무풍 에어컨 출시...생활 패턴과 환경에 맞춰 6가지 기류 선택 가능한 'AI·모션 바람' 탑재",
+      "desc": "삼성전자가 냉방 성능부터 디자인까지 완전히 새로워진 2026년형 AI 무풍 에어컨 신제품을 6일 출시했다. 2026년형 AI 무풍 에어컨 신제품은 스탠드형인 '비스포크 AI 무풍콤보 갤러리 프로'와 벽걸이형인 '비스포크 AI 무풍콤보 프로 벽걸이'로 2개 라인업이...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38531",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "한국 청소년이 직접 말하는 \"AI 거버넌스\"... 뉴욕 UN 본부서 공식 포럼 개최",
-      "desc": "대한민국 최초 학교폭력 예방 NGO인 BTF 푸른나무재단이 5개 국가 대표부와 국제기구와 함께 뉴욕 유엔 본부에서 6일(현지시간) “인공지능의 미래를 설계하다: 청소년 중심 포용적 인공지능 거버넌스” 공식 포럼(사이드이벤트)을 개최한다.이는 아시아 NGO 가운데 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38520",
+      "title": "앤트로픽, \"100만 토큰 장착한 에이전트 끝판왕\"... ‘클로드 오퍼스 4.6’ 전격 공개",
+      "desc": "인공지능(AI) 선도 기업 앤트로픽(Anthropic)이 자사의 최상위 모델을 업그레이드한 가장 강력한 성능을 자랑하는 파운데이션 모델의 최신 버전, ‘클로드 오퍼스 4.6(Claude Opus 4.6)’을 5일(현지시간) 전격 출시했다.새 모델은 코딩 역량, 장...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38530",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "손경식 경총 회장 “AI 대응 차이가 곧 경쟁력 격차\"...생산성 혁신 없인 도약 없다",
-      "desc": "한국경영자총협회(경총)가 ‘인공지능 시대, 새로운 기회와 도전’을 주제로 제4회 한국최고경영자포럼을 개최한 가운데, 손경식 경총 회장이 AI 시대에 대비한 기업 혁신과 협력적 노사관계의 중요성을 강조했다.손경식 회장은 5일 서울 중구 웨스틴조선호텔에서 열린 포럼 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38519",
+      "title": "크리테오, AI 쇼핑 어시스턴트 위한 ‘에이전틱 커머스 추천 서비스’ 출시",
+      "desc": "커머스 생태계를 연결하는 글로벌 플랫폼 크리테오(Criteo, NASDAQ: CRTO)는 인공지능(AI) 쇼핑 어시스턴트 고도화를 위한 ‘에이전틱 커머스 추천 서비스(Agentic Commerce Recommendation Service)’를 5일(현지시간) 공식...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38528",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "대동기어, 26년 EV 부품 양산 돌입…사업 체질 전환 순항, 로봇 新사업도 '시동'",
-      "desc": "대동그룹의 파워트레인 전문기업 대동기어(대표이사 서종환)가 전기차(EV/HEV) 핵심 부품 양산과 로봇 부품 신사업을 동시에 가속하며 미래 모빌리티&로봇 기업으로의 전환을 본격화 한다. 올해 전기차 부품과 정밀 감속기와 액추에이터 기반 로봇 부품 개발을 본격 추진...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38518",
+      "title": "중기부, 피지컬 AI 시대 '로봇 벤처·스타트업' 육성 정책 간담회 개최",
+      "desc": "중소벤처기업부(장관 한성숙, 이하 중기부)는 6일 대구테크노파크에서 로봇 벤처·스타트업 육성 정책 간담회를 개최했다.이번 간담회는 지난달 30일에 개최된 국가창업시대 전략회의의 후속으로, 신성장 산업으로 주목받는 로봇 분야 벤처·스타트업의 육성 방안을 모색하기 위...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38527",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "한성숙 장관, 국가창업시대로의 도약 위한 '모두의 창업 프로젝트' 전문가 간담회 개최",
-      "desc": "중소벤처기업부(장관 한성숙.이하, 중기부)는 5일 '모두의 창업 프로젝트' 추진을 위한 전문가 간담회를 개최했다.이번 간담회는 국가창업시대를 위한 첫 번째 프로젝트인 모두의 창업 프로젝트의 추진방향을 공유하고, 현장 전문가 의견을 수렴하기 위해 마련됐다. 이날 간...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38517",
+      "title": "오픈AI, 기업용 ‘프론티어’ 플랫폼 출시…AI 에이전트 업무 자동화 가속",
+      "desc": "오픈AI가 기업이 실제 업무를 수행할 수 있는 AI 에이전트를 구축·배포·관리할 수 있도록 지원하는 새로운 기업용 플랫폼 ‘프론티어(Frontier)’를 5일(현지시간) 공식 출시했다.OpenAI는 Frontier가 단순한 챗봇이나 보조 도구를 넘어, 기업의 실무...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38526",
       "source": "AI Times"
     }
   ]
