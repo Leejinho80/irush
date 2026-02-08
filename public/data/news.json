@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T23:36:09.049Z",
+  "lastUpdated": "2026-02-08T23:37:17.443Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "삼성전자, 2026년형 AI 무풍 에어컨 출시...생활 패턴과 환경에 맞춰 6가지 기류 선택 가능한 'AI·모션 바람' 탑재",
-      "desc": "삼성전자가 냉방 성능부터 디자인까지 완전히 새로워진 2026년형 AI 무풍 에어컨 신제품을 6일 출시했다. 2026년형 AI 무풍 에어컨 신제품은 스탠드형인 '비스포크 AI 무풍콤보 갤러리 프로'와 벽걸이형인 '비스포크 AI 무풍콤보 프로 벽걸이'로 2개 라인업이...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38531",
+      "title": "KAIST 이상엽 특훈교수, 호주 퀸즐랜드대 AIBN 중개연구상 수상...시스템 대사공학 분야 공헌",
+      "desc": "KAIST 생명화학공학과 이상엽 특훈교수(연구부총장)가 호주 브리즈번에 위치한 퀸즈랜드대학교(University of Queensland, UQ) 산하 호주생명공학나노기술연구소(Australian Institute of Bioengineering and Nanot...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38540",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "앤트로픽, \"100만 토큰 장착한 에이전트 끝판왕\"... ‘클로드 오퍼스 4.6’ 전격 공개",
-      "desc": "인공지능(AI) 선도 기업 앤트로픽(Anthropic)이 자사의 최상위 모델을 업그레이드한 가장 강력한 성능을 자랑하는 파운데이션 모델의 최신 버전, ‘클로드 오퍼스 4.6(Claude Opus 4.6)’을 5일(현지시간) 전격 출시했다.새 모델은 코딩 역량, 장...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38530",
+      "title": "\"모델·스튜디오 섭외 없이 패션 화보가 뚝딱!\"...NC AI-커뮤니케이션앤컬처, 패션 산업 AI 적용 위한 커머스 맞춤형 제작 모델 실증",
+      "desc": "산업 특화 AI 전문 기업 NC AI가 지난 6일, 커뮤니케이션앤컬처와 AI 기술을 활용한 콘텐츠 제작 및 업무 효율화를 위한 업무협약을 체결했다고 9일 밝혔다. 성남 판교 NC AI 본사에서 진행된 이번 협약식에는 NC AI 임수진 CBO와 커뮤니케이션앤컬처 맹...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38539",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "크리테오, AI 쇼핑 어시스턴트 위한 ‘에이전틱 커머스 추천 서비스’ 출시",
-      "desc": "커머스 생태계를 연결하는 글로벌 플랫폼 크리테오(Criteo, NASDAQ: CRTO)는 인공지능(AI) 쇼핑 어시스턴트 고도화를 위한 ‘에이전틱 커머스 추천 서비스(Agentic Commerce Recommendation Service)’를 5일(현지시간) 공식...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38528",
+      "title": "LG에너지솔루션, ‘ESS 즉시 전력감’ 캐나다 공장 품었다...캐나다 합작법인 ‘넥스트스타 에너지’ 100% 자회사 전환",
+      "desc": "인공지능(AI) 시대, ESS(에너지 저장 장치)는 단순한 보완 관계를 넘어, '상호 의존적인 생존 전략' 관계로 진화하고 있는 가운데 LG에너지솔루션이 스텔란티스와의 캐나다 합작법인 ‘넥스트스타 에너지(NextStar Energy)’를 100% 자회사로 전환한다...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38538",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "중기부, 피지컬 AI 시대 '로봇 벤처·스타트업' 육성 정책 간담회 개최",
-      "desc": "중소벤처기업부(장관 한성숙, 이하 중기부)는 6일 대구테크노파크에서 로봇 벤처·스타트업 육성 정책 간담회를 개최했다.이번 간담회는 지난달 30일에 개최된 국가창업시대 전략회의의 후속으로, 신성장 산업으로 주목받는 로봇 분야 벤처·스타트업의 육성 방안을 모색하기 위...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38527",
+      "title": "키넥시스 ‘마에스트로 에이전트 스튜디오’ 출시… 컴포저블 AI 에이전트로 차세대 의사결정 실현",
+      "desc": "공급망 오케스트레이션 분야 선도 기업 키넥시스(Kinaxis. 토론토증권거래소 KXS)가 ‘마에스트로 에이전트 스튜디오(Maestro Agent Studio)’를 지난 6일 출시했다. 이번 출시는 앞서 선보인 사전 구축형 마에스트로 에이전트에 이은 AI 에이전트 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38536",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "오픈AI, 기업용 ‘프론티어’ 플랫폼 출시…AI 에이전트 업무 자동화 가속",
-      "desc": "오픈AI가 기업이 실제 업무를 수행할 수 있는 AI 에이전트를 구축·배포·관리할 수 있도록 지원하는 새로운 기업용 플랫폼 ‘프론티어(Frontier)’를 5일(현지시간) 공식 출시했다.OpenAI는 Frontier가 단순한 챗봇이나 보조 도구를 넘어, 기업의 실무...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38526",
+      "title": "캔바, 브랜드 디자인을 AI 어시스턴트에 직접 통합… 챗GPT에서 바로 ‘브랜드화된 디자인’ 구현",
+      "desc": "캔바(Canva)가 브랜드 디자인을 생성형 AI 워크플로우에 직접 통합하며 인공지능(AI) 기반 디자인 패러다임을 한 단계 끌어올렸다. 캔바는 6일(현지시간) 챗GPT(ChatGPT) 내에서 캔바 브랜드 키트(Brand Kit)를 활용해 기업의 브랜드 정체성을 반...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38535",
       "source": "AI Times"
     }
   ]
