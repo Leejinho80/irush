@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-02-08T23:37:17.443Z",
+  "lastUpdated": "2026-02-09T23:42:31.306Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "슈퍼볼급 트래픽을 견디는 NBC유니버설의 분산 시스템 설계 원칙",
-      "desc": "올림픽이나 프리미어리그 경기, 시즌 피날레 등 대형 이벤트의 인프라를 운영할 때면 대부분 시스템이 좀처럼 겪지 않는 썬더링 허드(thundering herd) 문제에 직면한다. 수백만 명의 사용자가 단 3분이라는 짧은 시간 안에 동시에 로그인하고, 콘텐츠를 탐색한...",
-      "link": "https://www.itworld.co.kr/article/4128468/%ec%8a%88%ed%8d%bc%eb%b3%bc%ea%b8%89-%ed%8a%b8%eb%9e%98%ed%94%bd%ec%9d%84-%ea%b2%ac%eb%94%94%eb%8a%94-nbc%ec%9c%a0%eb%8b%88%eb%b2%84%ec%84%a4%ec%9d%98-%eb%b6%84%ec%82%b0-%ec%8b%9c%ec%8a%a4%ed%85%9c.html",
+      "title": "오픈텍스트 코리아, 엔드투엔드 제로 트러스트 웨비나 26일 개최",
+      "desc": "오픈텍스트 코리아(OpenText Korea)가 오는 2월 26일 오후 2시 ‘개념을 넘어선 실질적 엔드투엔드 제로 트러스트’를 주제로 온라인 웨비나를 개최한다. 이번 웨비나는 제로 트러스트 보안 모델을 실제 기업 보안 환경에 어떻게 적용하고 운영할 수 있는지에 ...",
+      "link": "https://www.itworld.co.kr/article/4129225/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%bd%94%eb%a6%ac%ec%95%84-%ec%97%94%eb%93%9c%ed%88%ac%ec%97%94%eb%93%9c-%ec%a0%9c%eb%a1%9c-%ed%8a%b8%eb%9f%ac%ec%8a%a4%ed%8a%b8-%ec%9b%a8%eb%b9%84.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "FBI도 뚫지 못한 아이폰…애플 ‘차단 모드’ 보안성 입증",
-      "desc": "미 연방수사국(FBI)이 애플의 차단 모드(Lockdown Mode)가 어느 정도 수준의 보안을 제공하는지를 몸소 증명했다. 언론인과 기업 경영진, 공직자 등 기밀 정보를 다뤄야 하는 이들에게는 긍정적인 사례로 받아들여질 만한 내용이다.\n\n\n\n기밀 정보가 언론에 ...",
-      "link": "https://www.itworld.co.kr/article/4128438/fbi%eb%8f%84-%eb%9a%ab%ec%a7%80-%eb%aa%bb%ed%95%9c-%ec%95%84%ec%9d%b4%ed%8f%b0%ec%95%a0%ed%94%8c-%ec%b0%a8%eb%8b%a8-%eb%aa%a8%eb%93%9c-%eb%b3%b4%ec%95%88%ec%84%b1-%ec%9e%85.html",
+      "title": "데이타솔루션, 대학 연계 IBM AI 개발자 해커톤으로 실무형 AI 교육 모델 구현",
+      "desc": "AI 전문기업 데이타솔루션은 1월 5일부터 16일까지 국립강릉원주대학교 및 강원대학교 재학생을 대상으로 IBM 여의도 오피스에서 ‘국립강릉원주대학교x강원대학교 IBM AI 개발자 해커톤’을 운영했다고 밝혔다. 이론 중심의 기존 AI 교육 한계를 보완하고, 데이타솔...",
+      "link": "https://www.itworld.co.kr/article/4129207/%eb%8d%b0%ec%9d%b4%ed%83%80%ec%86%94%eb%a3%a8%ec%85%98-%eb%8c%80%ed%95%99-%ec%97%b0%ea%b3%84-ibm-ai-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ed%95%b4%ec%bb%a4%ed%86%a4%ec%9c%bc%eb%a1%9c-%ec%8b%a4%eb%ac%b4.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "마이크로소프트, AI 콘텐츠 활용 대가로 퍼블리셔 보상 모델 추진",
-      "desc": "마이크로소프트는 AI 챗봇이 신뢰하기 어려운 정보를 제공하는 문제에 대해 ‘모두에게 이익이 되는’ 해법을 찾았다고 보고 있다. 사용자가 신뢰할 수 있는 정보에 접근하는 대가로, AI가 언론사와 미디어 기업 등 콘텐츠를 생산·보유하는 퍼블리셔(publisher)에 ...",
-      "link": "https://www.itworld.co.kr/article/4128424/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%ec%bd%98%ed%85%90%ec%b8%a0-%ed%99%9c%ec%9a%a9-%eb%8c%80%ea%b0%80%eb%a1%9c-%ed%8d%bc%eb%b8%94%eb%a6%ac%ec%85%94-%eb%b3%b4%ec%83%81.html",
+      "title": "CEO 교체 이후, 기업 고객이 살펴봐야 할 HP 전략의 핵심 포인트",
+      "desc": "최근 IT 업계는 HP CEO 엔리케 로레스가 회사를 떠나 페이팔을 이끌게 됐다는 소식에 적지 않은 충격을 받았다. 디바이스 업계의 핵심 기업인 HP의 수장의 예기치 못한 행보였다.\n\n\n\n업계 전문가들은 HP가 AI PC 전략을 제대로 실행하고 명확한 투자 대비 ...",
+      "link": "https://www.itworld.co.kr/article/4129187/ceo-%ea%b5%90%ec%b2%b4-%ec%9d%b4%ed%9b%84-%ea%b8%b0%ec%97%85-%ea%b3%a0%ea%b0%9d%ec%9d%b4-%ec%82%b4%ed%8e%b4%eb%b4%90%ec%95%bc-%ed%95%a0-hp-%ec%a0%84%eb%9e%b5%ec%9d%98-%ed%95%b5%ec%8b%ac-%ed%8f%ac.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "미 법무부, 구글 검색 반독점 판결에 항소…“더 강력한 제재” 요구",
-      "desc": "구글 검색은 불법적인 독점이다. 이는 논란을 부추기기 위한 주장이 아니라, 2024년에 마무리된 소송 이후 미국 법무부가 공식적으로 내린 판단이다. 당시 법무부는 구글이 크롬 브라우저를 매각하거나 분리하도록 강제하기를 기대했지만, 해당 사건을 맡은 연방 판사는 이...",
-      "link": "https://www.itworld.co.kr/article/4128415/%eb%af%b8-%eb%b2%95%eb%ac%b4%eb%b6%80-%ea%b5%ac%ea%b8%80-%ea%b2%80%ec%83%89-%eb%b0%98%eb%8f%85%ec%a0%90-%ed%8c%90%ea%b2%b0%ec%97%90-%ed%95%ad%ec%86%8c%eb%8d%94-%ea%b0%95%eb%a0%a5.html",
+      "title": "회사·집 어디서든 바로 쓰는 안드로이드 인쇄·스캔 가이드",
+      "desc": "우리는 점점 더 디지털화된 환경에서 살아가고 있지만, 좋든 싫든 전통적인 종이 문서가 필요한 순간은 여전히 존재한다.\n\n\n\n어떤 일을 하든 인쇄가 필요한 페이지나 스캔해야 할 문서를 마주하게 되기 마련이다. 하지만 안드로이드 스마트폰이 있다면 이러한 작업을 보다 ...",
+      "link": "https://www.itworld.co.kr/article/4129154/%ed%9a%8c%ec%82%ac%c2%b7%ec%a7%91-%ec%96%b4%eb%94%94%ec%84%9c%eb%93%a0-%eb%b0%94%eb%a1%9c-%ec%93%b0%eb%8a%94-%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%ec%9d%b8%ec%87%84%c2%b7%ec%8a%a4%ec%ba%94.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "AI 여파로 늦어지고 비싸진 스팀 머신…밸브도 가격 부담 직면",
-      "desc": "밸브의 스팀 머신이 예정보다 늦게 출시되고 가격도 오를 전망이다. AI 인프라 확산으로 촉발된 RAM 가격 급등이 직접적인 원인이다.\n\n\n\n다시 한번 메모리 위기가 업계를 강타했다. 밸브는 스팀 머신과 스팀 프레임의 출시 일정과 최종 가격 공개를 연기했다고 밝혔다...",
-      "link": "https://www.itworld.co.kr/article/4128409/ai-%ec%97%ac%ed%8c%8c%eb%a1%9c-%eb%8a%a6%ec%96%b4%ec%a7%80%ea%b3%a0-%eb%b9%84%ec%8b%b8%ec%a7%84-%ec%8a%a4%ed%8c%80-%eb%a8%b8%ec%8b%a0%eb%b0%b8%eb%b8%8c%eb%8f%84-%ea%b0%80%ea%b2%a9-%eb%b6%80.html",
+      "title": "150만원으로는 부족한 2026년 게이밍 PC 현실",
+      "desc": "PC 게임은 결코 저렴한 취미는 아니었지만, 데스크톱을 직접 조립할 줄 안다면 비용을 절감하면서도 의외로 높은 성능과 가치를 얻을 수 있었다. 이런 조언은 수십 년 동안 불황과 호황을 가리지 않고 유효했지만, 최근의 메모리 수급 위기가 상황을 망가뜨리고 있다.\n\n...",
+      "link": "https://www.itworld.co.kr/article/4129169/150%eb%a7%8c%ec%9b%90%ec%9c%bc%eb%a1%9c%eb%8a%94-%eb%b6%80%ec%a1%b1%ed%95%9c-2026%eb%85%84-%ea%b2%8c%ec%9d%b4%eb%b0%8d-pc-%ed%98%84%ec%8b%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "KAIST 이상엽 특훈교수, 호주 퀸즐랜드대 AIBN 중개연구상 수상...시스템 대사공학 분야 공헌",
-      "desc": "KAIST 생명화학공학과 이상엽 특훈교수(연구부총장)가 호주 브리즈번에 위치한 퀸즈랜드대학교(University of Queensland, UQ) 산하 호주생명공학나노기술연구소(Australian Institute of Bioengineering and Nanot...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38540",
+      "title": "화학 원리 이해한 AI 등장... KAIST, 신약·신소재 개발 속도 높인다",
+      "desc": "스마트폰 배터리가 얼마나 오래 가는지, 난치병을 치료할 신약이 나올 수 있을지는 모두 재료 물질을 구성하는 원자들이 얼마나 안정적으로 결합하느냐에 달려 있다.이 수많은 원자를 어떻게 배치해야 가장 안정적인 분자가 되는지를 찾는 과정이 ‘분자 설계’의 핵심 과정인데...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38562",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "\"모델·스튜디오 섭외 없이 패션 화보가 뚝딱!\"...NC AI-커뮤니케이션앤컬처, 패션 산업 AI 적용 위한 커머스 맞춤형 제작 모델 실증",
-      "desc": "산업 특화 AI 전문 기업 NC AI가 지난 6일, 커뮤니케이션앤컬처와 AI 기술을 활용한 콘텐츠 제작 및 업무 효율화를 위한 업무협약을 체결했다고 9일 밝혔다. 성남 판교 NC AI 본사에서 진행된 이번 협약식에는 NC AI 임수진 CBO와 커뮤니케이션앤컬처 맹...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38539",
+      "title": "생성 AI 영상의 ‘시간 한계’ 허무는 AI, 오픈소스로 공개…EPFL, 드리프트 해결 실마리 제시",
+      "desc": "스위스 연방공과대학 로잔(École Polytechnique Fédérale de Lausanne. 이하, EPFL) 연구진이 생성형 영상의 고질적 문제였던 ‘드리프트(drift)’를 근본적으로 완화하는 새로운 학습 방법을 제시하며, 수 분 이상 안정적인 AI 영...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38560",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "LG에너지솔루션, ‘ESS 즉시 전력감’ 캐나다 공장 품었다...캐나다 합작법인 ‘넥스트스타 에너지’ 100% 자회사 전환",
-      "desc": "인공지능(AI) 시대, ESS(에너지 저장 장치)는 단순한 보완 관계를 넘어, '상호 의존적인 생존 전략' 관계로 진화하고 있는 가운데 LG에너지솔루션이 스텔란티스와의 캐나다 합작법인 ‘넥스트스타 에너지(NextStar Energy)’를 100% 자회사로 전환한다...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38538",
+      "title": "아우스터, 스테레오랩스 인수…‘피지컬 AI’ 감지·인식 통합 플랫폼 완성",
+      "desc": "미국 샌프란시스코 기반 센싱 기업 아우스터(Ouster. Nasdaq: OUST)가 인공지능(AI) 비전 전문기업 스테레오랩스(StereoLabs)를 인수하며 ‘피지컬 AI(Physical AI)’ 시대를 겨냥한 통합 감지·인식 플랫폼 구축에 나섰다.아우스터는 스...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38559",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "키넥시스 ‘마에스트로 에이전트 스튜디오’ 출시… 컴포저블 AI 에이전트로 차세대 의사결정 실현",
-      "desc": "공급망 오케스트레이션 분야 선도 기업 키넥시스(Kinaxis. 토론토증권거래소 KXS)가 ‘마에스트로 에이전트 스튜디오(Maestro Agent Studio)’를 지난 6일 출시했다. 이번 출시는 앞서 선보인 사전 구축형 마에스트로 에이전트에 이은 AI 에이전트 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38536",
+      "title": "[AI 이슈] AI 휴머노이드가 주연 맡은 세계 최초 라이브 갈라쇼...AGIBOT, ‘AGIBOT NIGHT’ 개최",
+      "desc": "중국 상하이에서 휴머노이드 로봇이 전면에 나선 대규모 라이브 공연이 열렸다. 로봇 기업 AGIBOT(아지봇)은 9일 ‘AGIBOT NIGHT’를 스트리밍 방식으로 개최하며, 인간이 아닌 휴머노이드 로봇이 주연으로 나선 세계 최초의 대규모 문화 공연을 선보였다.60...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38558",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "캔바, 브랜드 디자인을 AI 어시스턴트에 직접 통합… 챗GPT에서 바로 ‘브랜드화된 디자인’ 구현",
-      "desc": "캔바(Canva)가 브랜드 디자인을 생성형 AI 워크플로우에 직접 통합하며 인공지능(AI) 기반 디자인 패러다임을 한 단계 끌어올렸다. 캔바는 6일(현지시간) 챗GPT(ChatGPT) 내에서 캔바 브랜드 키트(Brand Kit)를 활용해 기업의 브랜드 정체성을 반...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38535",
+      "title": "G42 그룹, 베트남에 10억 달러 규모 ‘국가 AI 인프라’ 구축…동남아 AI 허브 본격 시동",
+      "desc": "아부다비 기반 인공지능(AI)·기술 지주사 G42(G42 Group)가 베트남 대표 기업들과 손잡고 베트남 전역에 국가 차원의 AI 인프라와 클라우드 생태계를 구축한다. 이는 베트남을 ‘AI 네이티브 국가’이자 동남아의 핵심 AI 허브로 도약시키기 위한 대규모 국...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38557",
       "source": "AI Times"
     }
   ]
