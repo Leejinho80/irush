@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-02-09T23:42:31.306Z",
+  "lastUpdated": "2026-02-10T23:42:42.799Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "오픈텍스트 코리아, 엔드투엔드 제로 트러스트 웨비나 26일 개최",
-      "desc": "오픈텍스트 코리아(OpenText Korea)가 오는 2월 26일 오후 2시 ‘개념을 넘어선 실질적 엔드투엔드 제로 트러스트’를 주제로 온라인 웨비나를 개최한다. 이번 웨비나는 제로 트러스트 보안 모델을 실제 기업 보안 환경에 어떻게 적용하고 운영할 수 있는지에 ...",
-      "link": "https://www.itworld.co.kr/article/4129225/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%bd%94%eb%a6%ac%ec%95%84-%ec%97%94%eb%93%9c%ed%88%ac%ec%97%94%eb%93%9c-%ec%a0%9c%eb%a1%9c-%ed%8a%b8%eb%9f%ac%ec%8a%a4%ed%8a%b8-%ec%9b%a8%eb%b9%84.html",
+      "title": "고릴라 매트 프로를 쓰고 난 후, 디스플레이 선택의 기준이 달라졌다",
+      "desc": "좋은 디스플레이와 나쁜 디스플레이를 가르는 요소는 많고, 좋은 디스플레이와 탁월한 디스플레이를 구분하는 기준은 그보다 훨씬 더 까다롭다. 색 재현 범위, 밝기, 명암비, 픽셀 밀도, 픽셀 응답 속도, 주사율 모두 중요하다. 그러나 궁극적으로 가장 중요한 기준은 화...",
+      "link": "https://www.itworld.co.kr/article/4129841/%ea%b3%a0%eb%a6%b4%eb%9d%bc-%eb%a7%a4%ed%8a%b8-%ed%94%84%eb%a1%9c%eb%a5%bc-%ec%93%b0%ea%b3%a0-%eb%82%9c-%ed%9b%84-%eb%94%94%ec%8a%a4%ed%94%8c%eb%a0%88%ec%9d%b4-%ec%84%a0%ed%83%9d%ec%9d%98-%ea%b8%b0.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "데이타솔루션, 대학 연계 IBM AI 개발자 해커톤으로 실무형 AI 교육 모델 구현",
-      "desc": "AI 전문기업 데이타솔루션은 1월 5일부터 16일까지 국립강릉원주대학교 및 강원대학교 재학생을 대상으로 IBM 여의도 오피스에서 ‘국립강릉원주대학교x강원대학교 IBM AI 개발자 해커톤’을 운영했다고 밝혔다. 이론 중심의 기존 AI 교육 한계를 보완하고, 데이타솔...",
-      "link": "https://www.itworld.co.kr/article/4129207/%eb%8d%b0%ec%9d%b4%ed%83%80%ec%86%94%eb%a3%a8%ec%85%98-%eb%8c%80%ed%95%99-%ec%97%b0%ea%b3%84-ibm-ai-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ed%95%b4%ec%bb%a4%ed%86%a4%ec%9c%bc%eb%a1%9c-%ec%8b%a4%eb%ac%b4.html",
+      "title": "워크데이, 리테일·호스피탈리티 성장 가속",
+      "desc": "AI 기반 인사·재무 플랫폼 기업 워크데이가 현장 인력을 지원하도록 설계된 AI 혁신과 신규 고객 확보를 통해 리테일 및 호스피탈리티 산업에서 성장세를 확대하고 있다고 밝혔다.\n\n\n\n현재 전 세계 1,800곳 이상의 리테일·호스피탈리티 기업이 워크데이를 활용해 채...",
+      "link": "https://www.itworld.co.kr/article/4129835/%ec%9b%8c%ed%81%ac%eb%8d%b0%ec%9d%b4-%eb%a6%ac%ed%85%8c%ec%9d%bc%c2%b7%ed%98%b8%ec%8a%a4%ed%94%bc%ed%83%88%eb%a6%ac%ed%8b%b0-%ec%84%b1%ec%9e%a5-%ea%b0%80%ec%86%8d.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "CEO 교체 이후, 기업 고객이 살펴봐야 할 HP 전략의 핵심 포인트",
-      "desc": "최근 IT 업계는 HP CEO 엔리케 로레스가 회사를 떠나 페이팔을 이끌게 됐다는 소식에 적지 않은 충격을 받았다. 디바이스 업계의 핵심 기업인 HP의 수장의 예기치 못한 행보였다.\n\n\n\n업계 전문가들은 HP가 AI PC 전략을 제대로 실행하고 명확한 투자 대비 ...",
-      "link": "https://www.itworld.co.kr/article/4129187/ceo-%ea%b5%90%ec%b2%b4-%ec%9d%b4%ed%9b%84-%ea%b8%b0%ec%97%85-%ea%b3%a0%ea%b0%9d%ec%9d%b4-%ec%82%b4%ed%8e%b4%eb%b4%90%ec%95%bc-%ed%95%a0-hp-%ec%a0%84%eb%9e%b5%ec%9d%98-%ed%95%b5%ec%8b%ac-%ed%8f%ac.html",
+      "title": "개발자 워크플로를 노리는 공격, 보안 책임자의 새 과제로 부상",
+      "desc": "기술 침해에서 AI 기반 공격까지, 사이버 범죄자들은 소프트웨어 개발자를 핵심 표적으로 인식하고 있으며 이는 보안 책임자가 해결해야 할 구조적 위험으로 이어지고 있다. 기업 내 소프트웨어 개발자를 겨냥한 위협은 증가하고 다변화되고 있으며, 보안 리더는 빠르게 진화...",
+      "link": "https://www.itworld.co.kr/article/4129828/%ea%b0%9c%eb%b0%9c%ec%9e%90-%ec%9b%8c%ed%81%ac%ed%94%8c%eb%a1%9c%eb%a5%bc-%eb%85%b8%eb%a6%ac%eb%8a%94-%ea%b3%b5%ea%b2%a9-%eb%b3%b4%ec%95%88-%ec%b1%85%ec%9e%84%ec%9e%90%ec%9d%98-%ec%83%88-%ea%b3%bc.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "회사·집 어디서든 바로 쓰는 안드로이드 인쇄·스캔 가이드",
-      "desc": "우리는 점점 더 디지털화된 환경에서 살아가고 있지만, 좋든 싫든 전통적인 종이 문서가 필요한 순간은 여전히 존재한다.\n\n\n\n어떤 일을 하든 인쇄가 필요한 페이지나 스캔해야 할 문서를 마주하게 되기 마련이다. 하지만 안드로이드 스마트폰이 있다면 이러한 작업을 보다 ...",
-      "link": "https://www.itworld.co.kr/article/4129154/%ed%9a%8c%ec%82%ac%c2%b7%ec%a7%91-%ec%96%b4%eb%94%94%ec%84%9c%eb%93%a0-%eb%b0%94%eb%a1%9c-%ec%93%b0%eb%8a%94-%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%ec%9d%b8%ec%87%84%c2%b7%ec%8a%a4%ec%ba%94.html",
+      "title": "단축키 하나가 만든 차이, 크롬보다 엣지를 쓰게 된 이유",
+      "desc": "크롬OS에는 기본 스크린샷 기능이 있다. 하지만 크롬에는 없다. 경쟁 브라우저들은 이 공백을 적극 활용하고 있다.\n\n\n\n그 결과 스크린샷을 다루는 방식 전반에서 엣지가 더 효율적이라는 판단이 들었고, 현재는 크롬보다 엣지를 주 브라우저로 더 자주 사용하고 있다. ...",
+      "link": "https://www.itworld.co.kr/article/4129823/%eb%8b%a8%ec%b6%95%ed%82%a4-%ed%95%98%eb%82%98%ea%b0%80-%eb%a7%8c%eb%93%a0-%ec%b0%a8%ec%9d%b4-%ed%81%ac%eb%a1%ac%eb%b3%b4%eb%8b%a4-%ec%97%a3%ec%a7%80%eb%a5%bc-%ec%93%b0%ea%b2%8c-%eb%90%9c-%ec%9d%b4.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "150만원으로는 부족한 2026년 게이밍 PC 현실",
-      "desc": "PC 게임은 결코 저렴한 취미는 아니었지만, 데스크톱을 직접 조립할 줄 안다면 비용을 절감하면서도 의외로 높은 성능과 가치를 얻을 수 있었다. 이런 조언은 수십 년 동안 불황과 호황을 가리지 않고 유효했지만, 최근의 메모리 수급 위기가 상황을 망가뜨리고 있다.\n\n...",
-      "link": "https://www.itworld.co.kr/article/4129169/150%eb%a7%8c%ec%9b%90%ec%9c%bc%eb%a1%9c%eb%8a%94-%eb%b6%80%ec%a1%b1%ed%95%9c-2026%eb%85%84-%ea%b2%8c%ec%9d%b4%eb%b0%8d-pc-%ed%98%84%ec%8b%a4.html",
+      "title": "AI 시대, ‘닫힌 세계’로 향하는 오픈소스의 미래",
+      "desc": "오픈소스는 방대한 기여자 커뮤니티를 기반으로 움직여 온 적이 없다. 최소한 개발자가 그려온 모습과는 거리가 있었다. 브루킹스(Brookings)도 지적했듯이, 개발자가 의존하고 있는 소프트웨어 대부분은 극히 소수의 핵심 인원, 많아야 한두 명이 무보수로 유지 관리...",
+      "link": "https://www.itworld.co.kr/article/4129811/ai-%ec%8b%9c%eb%8c%80-%eb%8b%ab%ed%9e%8c-%ec%84%b8%ea%b3%84%eb%a1%9c-%ed%96%a5%ed%95%98%eb%8a%94-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4%ec%9d%98-%eb%af%b8%eb%9e%98.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "화학 원리 이해한 AI 등장... KAIST, 신약·신소재 개발 속도 높인다",
-      "desc": "스마트폰 배터리가 얼마나 오래 가는지, 난치병을 치료할 신약이 나올 수 있을지는 모두 재료 물질을 구성하는 원자들이 얼마나 안정적으로 결합하느냐에 달려 있다.이 수많은 원자를 어떻게 배치해야 가장 안정적인 분자가 되는지를 찾는 과정이 ‘분자 설계’의 핵심 과정인데...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38562",
+      "title": "EDB, 교보문고에 'EDB Postgres AI for WarehousePG’ 기반 차세대 DW 구축 완료",
+      "desc": "교보문고가 소버린 인공지능(AI) 및 데이터 선도 기업인 EDB (지사장 김희배)와 협력해 진행한 'EDB 포스트그레스 AI (EDB Postgres® AI for WarehousePG)’ 기반 '차세대 경영정보 지원시스템 재구축' 프로젝트를 성공적으로 완료했다고...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38590",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "생성 AI 영상의 ‘시간 한계’ 허무는 AI, 오픈소스로 공개…EPFL, 드리프트 해결 실마리 제시",
-      "desc": "스위스 연방공과대학 로잔(École Polytechnique Fédérale de Lausanne. 이하, EPFL) 연구진이 생성형 영상의 고질적 문제였던 ‘드리프트(drift)’를 근본적으로 완화하는 새로운 학습 방법을 제시하며, 수 분 이상 안정적인 AI 영...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38560",
+      "title": "유비파이 로버트 시크 COO, 드론코드 재단 이사회 선출...韓 기업 최초 이사회 진출 ‘쾌거’",
+      "desc": "인공지능(AI) 및 드론 군집비행 기술, 자율비행 플랫폼 전문기업 유비파이(Uvify)는 자사의 로버트 시크(Robert Cheek) 최고운영책임자(COO)가 세계 최대의 드론 오픈소스 커뮤니티인 '드론코드 재단'의 이사회 대표 임원으로 선출되었다고 11일 밝혔다...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38589",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "아우스터, 스테레오랩스 인수…‘피지컬 AI’ 감지·인식 통합 플랫폼 완성",
-      "desc": "미국 샌프란시스코 기반 센싱 기업 아우스터(Ouster. Nasdaq: OUST)가 인공지능(AI) 비전 전문기업 스테레오랩스(StereoLabs)를 인수하며 ‘피지컬 AI(Physical AI)’ 시대를 겨냥한 통합 감지·인식 플랫폼 구축에 나섰다.아우스터는 스...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38559",
+      "title": "EU, ‘칩스법 핵심 거점’ 나노IC 개소… 7억 유로 투입해 첨단 반도체 주권 강화",
+      "desc": "유럽연합(EU)이 벨기에 루벤의 IMEC에 유럽 최대 규모의 반도체 파일럿 라인 나노IC(NanoIC)를 9일(현지시간) 공식 개소하며 반도체 자립 전략에 속도를 내고 있다. 이번 시설은 EU 반도체 정책의 핵심 축인 ‘유럽 반도체법(Chips Act)’의 대표적...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38588",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "[AI 이슈] AI 휴머노이드가 주연 맡은 세계 최초 라이브 갈라쇼...AGIBOT, ‘AGIBOT NIGHT’ 개최",
-      "desc": "중국 상하이에서 휴머노이드 로봇이 전면에 나선 대규모 라이브 공연이 열렸다. 로봇 기업 AGIBOT(아지봇)은 9일 ‘AGIBOT NIGHT’를 스트리밍 방식으로 개최하며, 인간이 아닌 휴머노이드 로봇이 주연으로 나선 세계 최초의 대규모 문화 공연을 선보였다.60...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38558",
+      "title": "AI 안경, 기억장애 보조로 확장…메타, “인지장애 접근성의 전환점”",
+      "desc": "메타가 참전용사 단체와 협력해 기억 상실을 겪는 사람들을 위한 인공지능(AI) 안경의 활용 가능성을 본격 탐색하며, 웨어러블 AI의 접근성 범위를 신체 장애에서 인지 장애 영역으로 확장하고 있다. 특히 차세대 연구용 안경인 아리아(Aria) Gen 2를 중심으로 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38587",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "G42 그룹, 베트남에 10억 달러 규모 ‘국가 AI 인프라’ 구축…동남아 AI 허브 본격 시동",
-      "desc": "아부다비 기반 인공지능(AI)·기술 지주사 G42(G42 Group)가 베트남 대표 기업들과 손잡고 베트남 전역에 국가 차원의 AI 인프라와 클라우드 생태계를 구축한다. 이는 베트남을 ‘AI 네이티브 국가’이자 동남아의 핵심 AI 허브로 도약시키기 위한 대규모 국...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38557",
+      "title": "\"믿었던 LLM 순위표의 배신\"... MIT 브로데릭 교수, 온라인 랭킹 플랫폼의 취약성 경고",
+      "desc": "최근 기업들이 고객 서비스나 내부 보고서 요약을 위해 최적의 대형언어모델(LLM)을 선택하는 과정에서 'LLM 랭킹 플랫폼'에 대한 의존도가 높아지고 있다. 그러나 이러한 순위표가 예상보다 훨씬 적은 양의 데이터 조작이나 오류에도 쉽게 뒤틀릴 수 있다는 연구 결과...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38584",
       "source": "AI Times"
     }
   ]
