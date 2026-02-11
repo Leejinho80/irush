@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-02-10T23:42:42.799Z",
+  "lastUpdated": "2026-02-11T23:38:35.916Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "고릴라 매트 프로를 쓰고 난 후, 디스플레이 선택의 기준이 달라졌다",
-      "desc": "좋은 디스플레이와 나쁜 디스플레이를 가르는 요소는 많고, 좋은 디스플레이와 탁월한 디스플레이를 구분하는 기준은 그보다 훨씬 더 까다롭다. 색 재현 범위, 밝기, 명암비, 픽셀 밀도, 픽셀 응답 속도, 주사율 모두 중요하다. 그러나 궁극적으로 가장 중요한 기준은 화...",
-      "link": "https://www.itworld.co.kr/article/4129841/%ea%b3%a0%eb%a6%b4%eb%9d%bc-%eb%a7%a4%ed%8a%b8-%ed%94%84%eb%a1%9c%eb%a5%bc-%ec%93%b0%ea%b3%a0-%eb%82%9c-%ed%9b%84-%eb%94%94%ec%8a%a4%ed%94%8c%eb%a0%88%ec%9d%b4-%ec%84%a0%ed%83%9d%ec%9d%98-%ea%b8%b0.html",
+      "title": "디스코드, 전 세계 연령 인증 도입…보호인가 또 다른 위험인가",
+      "desc": "디스코드의 새로운 전 세계 연령 인증 의무화 정책은 실망스럽다. 청소년과 성인 모두를 더 강하게 보호하기를 바라지만, 이번 접근 방식은 그 해법으로 보기 어렵다.\n\n\n\n개념으로서의 디스코드는 긍정적으로 평가한다. 그러나 정책 전반에는 늘 동의하기 어려웠고, 특히 ...",
+      "link": "https://www.itworld.co.kr/article/4131053/%eb%94%94%ec%8a%a4%ec%bd%94%eb%93%9c-%ec%a0%84-%ec%84%b8%ea%b3%84-%ec%97%b0%eb%a0%b9-%ec%9d%b8%ec%a6%9d-%eb%8f%84%ec%9e%85%eb%b3%b4%ed%98%b8%ec%9d%b8%ea%b0%80-%eb%98%90-%eb%8b%a4%eb%a5%b8.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "워크데이, 리테일·호스피탈리티 성장 가속",
-      "desc": "AI 기반 인사·재무 플랫폼 기업 워크데이가 현장 인력을 지원하도록 설계된 AI 혁신과 신규 고객 확보를 통해 리테일 및 호스피탈리티 산업에서 성장세를 확대하고 있다고 밝혔다.\n\n\n\n현재 전 세계 1,800곳 이상의 리테일·호스피탈리티 기업이 워크데이를 활용해 채...",
-      "link": "https://www.itworld.co.kr/article/4129835/%ec%9b%8c%ed%81%ac%eb%8d%b0%ec%9d%b4-%eb%a6%ac%ed%85%8c%ec%9d%bc%c2%b7%ed%98%b8%ec%8a%a4%ed%94%bc%ed%83%88%eb%a6%ac%ed%8b%b0-%ec%84%b1%ec%9e%a5-%ea%b0%80%ec%86%8d.html",
+      "title": "MS, AI 보안 보고서 발표···에이전트 도입을 위한 보안 원칙 제시",
+      "desc": "MS는 전 세계적으로 사람과 에이전트가 협업하는 구조가 빠르게 확산되고 있다면서, 실제로 포춘 500대 기업의 80% 이상이 로우코드/노코드(low-code/no-code) 도구로 활성 에이전트를 구축 및 운용 중인 것으로 조사됐다고 설명했다.\n\n\n\n다만 MS 보...",
+      "link": "https://www.itworld.co.kr/article/4130537/ms-ai-%eb%b3%b4%ec%95%88-%eb%b3%b4%ea%b3%a0%ec%84%9c-%eb%b0%9c%ed%91%9c%c2%b7%c2%b7%c2%b7%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%8f%84%ec%9e%85%ec%9d%84-%ec%9c%84%ed%95%9c-%eb%b3%b4%ec%95%88.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "개발자 워크플로를 노리는 공격, 보안 책임자의 새 과제로 부상",
-      "desc": "기술 침해에서 AI 기반 공격까지, 사이버 범죄자들은 소프트웨어 개발자를 핵심 표적으로 인식하고 있으며 이는 보안 책임자가 해결해야 할 구조적 위험으로 이어지고 있다. 기업 내 소프트웨어 개발자를 겨냥한 위협은 증가하고 다변화되고 있으며, 보안 리더는 빠르게 진화...",
-      "link": "https://www.itworld.co.kr/article/4129828/%ea%b0%9c%eb%b0%9c%ec%9e%90-%ec%9b%8c%ed%81%ac%ed%94%8c%eb%a1%9c%eb%a5%bc-%eb%85%b8%eb%a6%ac%eb%8a%94-%ea%b3%b5%ea%b2%a9-%eb%b3%b4%ec%95%88-%ec%b1%85%ec%9e%84%ec%9e%90%ec%9d%98-%ec%83%88-%ea%b3%bc.html",
+      "title": "신기능 생겼다는데 작동은 안 되고…코파일럿에 지친 이유",
+      "desc": "이쯤 되니 마이크로소프트 코파일럿을 아예 포기해야 할지도 모르겠다는 생각이 든다.\n\n\n\n문제는 ‘마이크로슬롭(Microslop)’이라는 조롱 섞인 별명 때문만은 아니다. 그렇다고 AI 전반에 대한 무조건적인 거부감 때문도 아니다. 갈수록 코파일럿은 AI라기보다 인...",
+      "link": "https://www.itworld.co.kr/article/4130520/%ec%8b%a0%ea%b8%b0%eb%8a%a5-%ec%83%9d%ea%b2%bc%eb%8b%a4%eb%8a%94%eb%8d%b0-%ec%9e%91%eb%8f%99%ec%9d%80-%ec%95%88-%eb%90%98%ea%b3%a0%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf%ec%97%90-%ec%a7%80.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "단축키 하나가 만든 차이, 크롬보다 엣지를 쓰게 된 이유",
-      "desc": "크롬OS에는 기본 스크린샷 기능이 있다. 하지만 크롬에는 없다. 경쟁 브라우저들은 이 공백을 적극 활용하고 있다.\n\n\n\n그 결과 스크린샷을 다루는 방식 전반에서 엣지가 더 효율적이라는 판단이 들었고, 현재는 크롬보다 엣지를 주 브라우저로 더 자주 사용하고 있다. ...",
-      "link": "https://www.itworld.co.kr/article/4129823/%eb%8b%a8%ec%b6%95%ed%82%a4-%ed%95%98%eb%82%98%ea%b0%80-%eb%a7%8c%eb%93%a0-%ec%b0%a8%ec%9d%b4-%ed%81%ac%eb%a1%ac%eb%b3%b4%eb%8b%a4-%ec%97%a3%ec%a7%80%eb%a5%bc-%ec%93%b0%ea%b2%8c-%eb%90%9c-%ec%9d%b4.html",
+      "title": "트럼프에 고개 숙인 애플, 선 그은 마이크로소프트…뒤바뀐 빅테크의 정체성",
+      "desc": "마이크로소프트와 애플은 수십 년 동안 기술 업계의 음과 양처럼 대비되는 존재로 여겨졌다. 마이크로소프트 제품은 와이셔츠 단추를 목 끝까지 단정히 채운 채 조직에 순응하는 전형적인 기업 직장인을 위한 도구로 묘사됐고, 애플 제품은 권력에 맞서고 진실을 추구하는 반항...",
+      "link": "https://www.itworld.co.kr/article/4130513/%ed%8a%b8%eb%9f%bc%ed%94%84%ec%97%90-%ea%b3%a0%ea%b0%9c-%ec%88%99%ec%9d%b8-%ec%95%a0%ed%94%8c-%ec%84%a0-%ea%b7%b8%ec%9d%80-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "AI 시대, ‘닫힌 세계’로 향하는 오픈소스의 미래",
-      "desc": "오픈소스는 방대한 기여자 커뮤니티를 기반으로 움직여 온 적이 없다. 최소한 개발자가 그려온 모습과는 거리가 있었다. 브루킹스(Brookings)도 지적했듯이, 개발자가 의존하고 있는 소프트웨어 대부분은 극히 소수의 핵심 인원, 많아야 한두 명이 무보수로 유지 관리...",
-      "link": "https://www.itworld.co.kr/article/4129811/ai-%ec%8b%9c%eb%8c%80-%eb%8b%ab%ed%9e%8c-%ec%84%b8%ea%b3%84%eb%a1%9c-%ed%96%a5%ed%95%98%eb%8a%94-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4%ec%9d%98-%eb%af%b8%eb%9e%98.html",
+      "title": "RAM 대란 속 살아남기 “지금 사도 괜찮은 PC 부품은 따로 있다”",
+      "desc": "현재 PC 시장은 수급 불안과 가격 상승으로 어려움을 겪고 있다. RAM 수급 위기로 합리적인 가격에 괜찮은 PC를 구성하기가 어려워졌고, 부품 업그레이드 역시 부담이 커졌다. 원인으로는 AI 인프라 수요 급증이 지목된다. 가격이 단기간에 안정될 가능성도 낮다.\n...",
+      "link": "https://www.itworld.co.kr/article/4130461/ram-%eb%8c%80%eb%9e%80-%ec%86%8d-%ec%82%b4%ec%95%84%eb%82%a8%ea%b8%b0-%ec%a7%80%ea%b8%88-%ec%82%ac%eb%8f%84-%ea%b4%9c%ec%b0%ae%ec%9d%80-pc-%eb%b6%80%ed%92%88%ec%9d%80-%eb%94%b0%eb%a1%9c-%ec%9e%88.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "EDB, 교보문고에 'EDB Postgres AI for WarehousePG’ 기반 차세대 DW 구축 완료",
-      "desc": "교보문고가 소버린 인공지능(AI) 및 데이터 선도 기업인 EDB (지사장 김희배)와 협력해 진행한 'EDB 포스트그레스 AI (EDB Postgres® AI for WarehousePG)’ 기반 '차세대 경영정보 지원시스템 재구축' 프로젝트를 성공적으로 완료했다고...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38590",
+      "title": "오라클, 공급망 전반에 신규 AI 에이전트 대거 공개…\"의사결정 가속·회복탄력성 강화\"",
+      "desc": "오라클(Oracle)이 계획, 조달, 제조, 유지보수, 물류에 이르는 공급망 전 영역의 의사결정을 가속하고 운영 효율을 높이기 위한 새로운 인공지능(AI) 에이전트를 10일(현지시간) 공개했다. 이들 에이전트는 오라클 퓨전 클라우드 애플리케이션(Oracle Fus...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38617",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "유비파이 로버트 시크 COO, 드론코드 재단 이사회 선출...韓 기업 최초 이사회 진출 ‘쾌거’",
-      "desc": "인공지능(AI) 및 드론 군집비행 기술, 자율비행 플랫폼 전문기업 유비파이(Uvify)는 자사의 로버트 시크(Robert Cheek) 최고운영책임자(COO)가 세계 최대의 드론 오픈소스 커뮤니티인 '드론코드 재단'의 이사회 대표 임원으로 선출되었다고 11일 밝혔다...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38589",
+      "title": "\"급성 심정지 골든타임 4분\"....인공지능이 전조 포착, 광주한국병원 ‘씽크’로 조기 대응",
+      "desc": "대웅제약(대표 이창재·박성수)이 공급하는 스마트 병상 모니터링 시스템 ‘씽크(thynC)’가 입원 환자의 위급 상황을 실시간으로 포착해 심정지 위기를 막았다. 이번 사례는 의료진이 상주하기 어려운 일반 병동에서도 디지털 헬스케어 기술을 통해 밀착 관리가 가능함을 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38616",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "EU, ‘칩스법 핵심 거점’ 나노IC 개소… 7억 유로 투입해 첨단 반도체 주권 강화",
-      "desc": "유럽연합(EU)이 벨기에 루벤의 IMEC에 유럽 최대 규모의 반도체 파일럿 라인 나노IC(NanoIC)를 9일(현지시간) 공식 개소하며 반도체 자립 전략에 속도를 내고 있다. 이번 시설은 EU 반도체 정책의 핵심 축인 ‘유럽 반도체법(Chips Act)’의 대표적...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38588",
+      "title": "루이지애나주-페르소나 AI, SSE 스틸 패브리케이션에서 AI 휴머노이드 파일럿 프로그램 출범",
+      "desc": "미국 루이지애나주와 텍사스주 휴스턴에 본사를 둔 페르소나 AI(Persona AI)는 중공업 현장에서 휴머노이드 로봇 기술을 고도화하기 위한 파일럿 프로그램 추진을 위해 양해각서를 체결했다고 11일 밝혔다.이번 파일럿 프로그램은 루이지애나주 세인트버나드 패리시(S...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38615",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "AI 안경, 기억장애 보조로 확장…메타, “인지장애 접근성의 전환점”",
-      "desc": "메타가 참전용사 단체와 협력해 기억 상실을 겪는 사람들을 위한 인공지능(AI) 안경의 활용 가능성을 본격 탐색하며, 웨어러블 AI의 접근성 범위를 신체 장애에서 인지 장애 영역으로 확장하고 있다. 특히 차세대 연구용 안경인 아리아(Aria) Gen 2를 중심으로 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38587",
+      "title": "인피니언, GaN 시장 AI·로보틱스 등 신규 애플리케이션 확대로 고성장 전망",
+      "desc": "전력 반도체 및 IoT 분야의 글로벌 리더 인피니언 테크놀로지스(코리아 대표이사 이승수)는 연례 보고서인 GaN 인사이트 2026을 발간하면서 GaN 기술의 현황과 적용 애플리케이션, 향후 전망을 제시했다.시장 분석에 따르면 GaN 전력 반도체 시장은 2030년까...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38614",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "\"믿었던 LLM 순위표의 배신\"... MIT 브로데릭 교수, 온라인 랭킹 플랫폼의 취약성 경고",
-      "desc": "최근 기업들이 고객 서비스나 내부 보고서 요약을 위해 최적의 대형언어모델(LLM)을 선택하는 과정에서 'LLM 랭킹 플랫폼'에 대한 의존도가 높아지고 있다. 그러나 이러한 순위표가 예상보다 훨씬 적은 양의 데이터 조작이나 오류에도 쉽게 뒤틀릴 수 있다는 연구 결과...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38584",
+      "title": "루닛, 국내 원격영상판독 센터에 AI 솔루션 공급…“외주 판독시장 신규 진출”",
+      "desc": "의료 인공지능(AI) 기업 루닛(대표 서범석)은 최근 국내 원격 영상판독 센터들과 AI 영상진단 솔루션 공급 계약을 체결하고, 외주 판독시장에 새로 진출했다고 11일 밝혔다.계약을 통해 대한의료영상진단협회 소속 대한의료영상의학과의원, 강남영상의학과의원에 루닛의 솔...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38613",
       "source": "AI Times"
     }
   ]
