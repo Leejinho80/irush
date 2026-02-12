@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-02-11T23:38:35.916Z",
+  "lastUpdated": "2026-02-12T23:35:17.348Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "디스코드, 전 세계 연령 인증 도입…보호인가 또 다른 위험인가",
-      "desc": "디스코드의 새로운 전 세계 연령 인증 의무화 정책은 실망스럽다. 청소년과 성인 모두를 더 강하게 보호하기를 바라지만, 이번 접근 방식은 그 해법으로 보기 어렵다.\n\n\n\n개념으로서의 디스코드는 긍정적으로 평가한다. 그러나 정책 전반에는 늘 동의하기 어려웠고, 특히 ...",
-      "link": "https://www.itworld.co.kr/article/4131053/%eb%94%94%ec%8a%a4%ec%bd%94%eb%93%9c-%ec%a0%84-%ec%84%b8%ea%b3%84-%ec%97%b0%eb%a0%b9-%ec%9d%b8%ec%a6%9d-%eb%8f%84%ec%9e%85%eb%b3%b4%ed%98%b8%ec%9d%b8%ea%b0%80-%eb%98%90-%eb%8b%a4%eb%a5%b8.html",
+      "title": "세일즈포스, 클로드와 양방향 확장 기능 공개 “슬랙·에이전트포스360 연동 지원”",
+      "desc": "세일즈포스는 기업이 신뢰할 수 있는 데이터와 업무 맥락을 클로드에서 즉각 활용하고, 도출된 결과를 다시 세일즈포스 워크플로우로 연결해 단일 워크플로우 내에서도 복잡한 업무를 수행할 수 있게 됐다고 밝혔다.\n\n\n\n이번 발표의 핵심은 AI 모델이 비즈니스 환경에서 실...",
+      "link": "https://www.itworld.co.kr/article/4131184/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ed%81%b4%eb%a1%9c%eb%93%9c%ec%99%80-%ec%96%91%eb%b0%a9%ed%96%a5-%ed%99%95%ec%9e%a5-%ea%b8%b0%eb%8a%a5-%ea%b3%b5%ea%b0%9c-%ec%8a%ac.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "MS, AI 보안 보고서 발표···에이전트 도입을 위한 보안 원칙 제시",
-      "desc": "MS는 전 세계적으로 사람과 에이전트가 협업하는 구조가 빠르게 확산되고 있다면서, 실제로 포춘 500대 기업의 80% 이상이 로우코드/노코드(low-code/no-code) 도구로 활성 에이전트를 구축 및 운용 중인 것으로 조사됐다고 설명했다.\n\n\n\n다만 MS 보...",
-      "link": "https://www.itworld.co.kr/article/4130537/ms-ai-%eb%b3%b4%ec%95%88-%eb%b3%b4%ea%b3%a0%ec%84%9c-%eb%b0%9c%ed%91%9c%c2%b7%c2%b7%c2%b7%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%8f%84%ec%9e%85%ec%9d%84-%ec%9c%84%ed%95%9c-%eb%b3%b4%ec%95%88.html",
+      "title": "고정, 공유, 맞춤형 스누즈까지…안드로이드 알림 고급 설정 3가지",
+      "desc": "주변 사람들에게 “내 안드로이드 스마트폰 알림이 이제 고정도 되고, 공유도 되고, 스누즈도 더 똑똑해졌다”라고 말하면 아마 이상하게 쳐다볼 것이다. 솔직히 말해 그런 반응이 아주 틀린 건 아니다.\n\n\n\n하지만 이 말은 과장이 아니다. 최적화에 집착하는 안드로이드 ...",
+      "link": "https://www.itworld.co.kr/article/4131124/%ea%b3%a0%ec%a0%95-%ea%b3%b5%ec%9c%a0-%eb%a7%9e%ec%b6%a4%ed%98%95-%ec%8a%a4%eb%88%84%ec%a6%88%ea%b9%8c%ec%a7%80%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%ec%95%8c%eb%a6%bc-%ea%b3%a0.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "신기능 생겼다는데 작동은 안 되고…코파일럿에 지친 이유",
-      "desc": "이쯤 되니 마이크로소프트 코파일럿을 아예 포기해야 할지도 모르겠다는 생각이 든다.\n\n\n\n문제는 ‘마이크로슬롭(Microslop)’이라는 조롱 섞인 별명 때문만은 아니다. 그렇다고 AI 전반에 대한 무조건적인 거부감 때문도 아니다. 갈수록 코파일럿은 AI라기보다 인...",
-      "link": "https://www.itworld.co.kr/article/4130520/%ec%8b%a0%ea%b8%b0%eb%8a%a5-%ec%83%9d%ea%b2%bc%eb%8b%a4%eb%8a%94%eb%8d%b0-%ec%9e%91%eb%8f%99%ec%9d%80-%ec%95%88-%eb%90%98%ea%b3%a0%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf%ec%97%90-%ec%a7%80.html",
+      "title": "LM 스튜디오 첫인상…로컬 PC에서 LLM 실행해 보니",
+      "desc": "자율형 AI를 위한 전용 데스크톱 애플리케이션은 비교적 기술 지식이 많지 않은 사용자도 대형 언어 모델(LLM)을 쉽게 활용하도록 돕는다. 사용자가 직접 파이썬 프로그램을 작성하거나 모델 파일을 일일이 관리할 필요가 없다. IDE와 유사한 인터페이스를 열고, 하나...",
+      "link": "https://www.itworld.co.kr/article/4131110/lm-%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-%ec%b2%ab%ec%9d%b8%ec%83%81%eb%a1%9c%ec%bb%ac-pc%ec%97%90%ec%84%9c-llm-%ec%8b%a4%ed%96%89%ed%95%b4-%eb%b3%b4%eb%8b%88.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "트럼프에 고개 숙인 애플, 선 그은 마이크로소프트…뒤바뀐 빅테크의 정체성",
-      "desc": "마이크로소프트와 애플은 수십 년 동안 기술 업계의 음과 양처럼 대비되는 존재로 여겨졌다. 마이크로소프트 제품은 와이셔츠 단추를 목 끝까지 단정히 채운 채 조직에 순응하는 전형적인 기업 직장인을 위한 도구로 묘사됐고, 애플 제품은 권력에 맞서고 진실을 추구하는 반항...",
-      "link": "https://www.itworld.co.kr/article/4130513/%ed%8a%b8%eb%9f%bc%ed%94%84%ec%97%90-%ea%b3%a0%ea%b0%9c-%ec%88%99%ec%9d%b8-%ec%95%a0%ed%94%8c-%ec%84%a0-%ea%b7%b8%ec%9d%80-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8.html",
+      "title": "AMD, 데스크톱 PC 점유율 30% 넘었다…모바일 프로세서도 약진",
+      "desc": "AMD는 머큐리 리서치(Mercury Research) 데이터를 인용해 2025년 4분기 데스크톱 대수 기준 점유율이 1년 전 26.9%에서 36.4%로 약 10%p 증가했다고 밝혔다. 모바일 부문의 점유율은 23.8%에서 26.0%로 증가하는 데 그쳤다. 하지만...",
+      "link": "https://www.itworld.co.kr/article/4131106/amd-%eb%8d%b0%ec%8a%a4%ed%81%ac%ed%86%b1-pc-%ec%a0%90%ec%9c%a0%ec%9c%a8-30-%eb%84%98%ec%97%88%eb%8b%a4%eb%aa%a8%eb%b0%94%ec%9d%bc-%ed%94%84%eb%a1%9c%ec%84%b8%ec%84%9c%eb%8f%84-%ec%95%bd.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "RAM 대란 속 살아남기 “지금 사도 괜찮은 PC 부품은 따로 있다”",
-      "desc": "현재 PC 시장은 수급 불안과 가격 상승으로 어려움을 겪고 있다. RAM 수급 위기로 합리적인 가격에 괜찮은 PC를 구성하기가 어려워졌고, 부품 업그레이드 역시 부담이 커졌다. 원인으로는 AI 인프라 수요 급증이 지목된다. 가격이 단기간에 안정될 가능성도 낮다.\n...",
-      "link": "https://www.itworld.co.kr/article/4130461/ram-%eb%8c%80%eb%9e%80-%ec%86%8d-%ec%82%b4%ec%95%84%eb%82%a8%ea%b8%b0-%ec%a7%80%ea%b8%88-%ec%82%ac%eb%8f%84-%ea%b4%9c%ec%b0%ae%ec%9d%80-pc-%eb%b6%80%ed%92%88%ec%9d%80-%eb%94%b0%eb%a1%9c-%ec%9e%88.html",
+      "title": "“반응형 IT의 종말” 10년 후 클라우드 성능을 재정의하는 예측 엔지니어링",
+      "desc": "경고가 울릴 때까지 기다리는 방식은 이미 시대에 뒤처졌다. 예측 엔지니어링은 클라우드 시스템이 문제를 사전에 감지하고, 사용자 체감 이전에 자율적으로 수정 조치를 실행하는 구조다.\n\n\n\n20년 이상 IT 운영은 반응형 문화에 지배돼 왔다. 엔지니어는 대시보드를 모...",
+      "link": "https://www.itworld.co.kr/article/4131083/%eb%b0%98%ec%9d%91%ed%98%95-it%ec%9d%98-%ec%a2%85%eb%a7%90-10%eb%85%84-%ed%9b%84-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%84%b1%eb%8a%a5%ec%9d%84-%ec%9e%ac%ec%a0%95%ec%9d%98%ed%95%98%eb%8a%94.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "오라클, 공급망 전반에 신규 AI 에이전트 대거 공개…\"의사결정 가속·회복탄력성 강화\"",
-      "desc": "오라클(Oracle)이 계획, 조달, 제조, 유지보수, 물류에 이르는 공급망 전 영역의 의사결정을 가속하고 운영 효율을 높이기 위한 새로운 인공지능(AI) 에이전트를 10일(현지시간) 공개했다. 이들 에이전트는 오라클 퓨전 클라우드 애플리케이션(Oracle Fus...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38617",
+      "title": "GIST, ‘AI 과학캠프’ 성황리 운영...광주 초등학생 319명 참여, 과학기술 교육 접근성 확대",
+      "desc": "광주과학기술원(GIST, 총장 임기철)은 교육부 주관 ‘지역혁신중심 대학지원체계(RISE)’ 사업의 일환으로 운영 중인 GIST RISE 사업단(단장 권인찬)이 2025년 10월부터 이달까지 광주광역시 초등학생을 대상으로 ‘인공지능 과학캠프’를 성황리에 개최했다고...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38643",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "\"급성 심정지 골든타임 4분\"....인공지능이 전조 포착, 광주한국병원 ‘씽크’로 조기 대응",
-      "desc": "대웅제약(대표 이창재·박성수)이 공급하는 스마트 병상 모니터링 시스템 ‘씽크(thynC)’가 입원 환자의 위급 상황을 실시간으로 포착해 심정지 위기를 막았다. 이번 사례는 의료진이 상주하기 어려운 일반 병동에서도 디지털 헬스케어 기술을 통해 밀착 관리가 가능함을 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38616",
+      "title": "이스트소프트, \"日 택시에 AI 휴먼 태운다!\" ...NTT·니혼교통과 일본 택시 AI 휴먼 서비스 도입",
+      "desc": "인공지능(AI) 서비스 전문 기업 이스트소프트(대표 정상원)는 일본 최대의 통신 기업이자 교통 산업 파트너사인 ‘NTT’와 대표적인 택시 사업자 ‘니혼교통’과 함께, 실시간 대화형 AI 휴먼 서비스 ‘페르소 인터랙티브(Perso Interactive)’의 일본 택...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38642",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "루이지애나주-페르소나 AI, SSE 스틸 패브리케이션에서 AI 휴머노이드 파일럿 프로그램 출범",
-      "desc": "미국 루이지애나주와 텍사스주 휴스턴에 본사를 둔 페르소나 AI(Persona AI)는 중공업 현장에서 휴머노이드 로봇 기술을 고도화하기 위한 파일럿 프로그램 추진을 위해 양해각서를 체결했다고 11일 밝혔다.이번 파일럿 프로그램은 루이지애나주 세인트버나드 패리시(S...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38615",
+      "title": "국립산림과학원, AI·빅데이터 기반 ‘산불 전방위 대응 시스템’ 가동...산불위험예측 정확도 88% 목표",
+      "desc": "산림청 국립산림과학원(원장 김용관)은 기후 위기로 인해 연중화·대형화되는 산불 재난에 선제적으로 대응하고자, 빅데이터와 인공지능(AI) 기술을 결합한 ‘첨단 과학 기반 산불 전방위 대응 전략’을 12일 발표했다.이번 전략은 AI를 활용해 예보의 정확도를 높이고, ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38641",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "인피니언, GaN 시장 AI·로보틱스 등 신규 애플리케이션 확대로 고성장 전망",
-      "desc": "전력 반도체 및 IoT 분야의 글로벌 리더 인피니언 테크놀로지스(코리아 대표이사 이승수)는 연례 보고서인 GaN 인사이트 2026을 발간하면서 GaN 기술의 현황과 적용 애플리케이션, 향후 전망을 제시했다.시장 분석에 따르면 GaN 전력 반도체 시장은 2030년까...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38614",
+      "title": "고령화로 노동공급 제약 심화, AI 기술 확산으로 인력수요 구조 전환 가속...추가 필요인력은 2034년까지 122.2만명",
+      "desc": "한국고용정보원(원장 이창수)은 '중장기 인력수급 전망'을 통해 향후 10년간 우리나라 노동시장의 인력공급(경제활동인구)과 인력수요(취업자)가 구조적으로 전환되는 양상을 전망하고, 향후 지속적인 성장을 위해 추가로 필요한 인력을 추계하였다.주요 전망 결과를 보면, ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38640",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "루닛, 국내 원격영상판독 센터에 AI 솔루션 공급…“외주 판독시장 신규 진출”",
-      "desc": "의료 인공지능(AI) 기업 루닛(대표 서범석)은 최근 국내 원격 영상판독 센터들과 AI 영상진단 솔루션 공급 계약을 체결하고, 외주 판독시장에 새로 진출했다고 11일 밝혔다.계약을 통해 대한의료영상진단협회 소속 대한의료영상의학과의원, 강남영상의학과의원에 루닛의 솔...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38613",
+      "title": "중기부, 'OpenData X AI 챌린지' 최종 AI 스타트업 6개사 선정",
+      "desc": "중소벤처기업부(장관 한성숙, 이하 중기부)는 12일, 서울 글로벌 스타트업 센터에서 'OpenData X AI 챌린지(이하 AI 챌린지)' 최종 선발 인공지능 스타트업 6개사와 민간 AI 전문가 등이 참석한 가운데 ‘OpenData X AI 챌린지 최종 선발 스타...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38639",
       "source": "AI Times"
     }
   ]
