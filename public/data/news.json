@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-16T23:35:12.662Z",
+  "lastUpdated": "2026-02-17T23:35:10.971Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "2025년 벤처투자 역대 두 번째 실적....중기부, \"유니콘기업 27개사 등 제3벤처붐 본격 시작\"",
-      "desc": "중소벤처기업부(장관 한성숙. 이하, 중기부)는 13일, 2025년 국내 벤처투자 및 펀드결성 동향과 유니콘기업 현황을 발표했다. 이번 발표는 2025년 6월 새 정부가 들어선 이후 첫 번째 연간 벤처투자 실적 발표다.2025년 신규 벤처투자 금액은 13.6조원으로...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38664",
+      "title": "美 펜실베니아 大, 설명가능 AI로 뇌졸중 실어증 맞춤 치료 길 연다",
+      "desc": "미국 펜실베니아 대학교(University of Pennsylvania) 연구진이 설명가능 인공지능(Explainable AI, xAI)을 활용해 뇌졸중 후 실어증 환자의 언어 회복을 정밀 예측하고, 개인 맞춤형 언어치료를 지원하는 기술을 개발했다.연구는 펜실베니...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38668",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "악시안 텔레콤, 화웨이와 전략적 파트너십…\"아프리카, 5G 확산과 AI 기반 통신 운영 고도화\"",
-      "desc": "화웨이(Huawei)가 아프리카 통신 사업자 AXIAN 텔레콤과 중국 상하이에서 전략적 협력 양해각서(MoU)를 체결하고, 아프리카 대륙의 디지털 전환과 포용적·지속가능한 디지털 경제 구축에 나선다고 13일(현지시간) 밝혔다.악시안 텔레콤(Axian Telecom...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38663",
+      "title": "AI 청진기, 심장판막질환 조기 진단…'진료의'보다 정확도 높았다",
+      "desc": "인공지능(AI)이 ‘침묵의 전염병’으로 불리는 심장판막질환을 기존 1차 진료의(이하, GP)보다 더 정확하게 조기 발견할 수 있다는 연구 결과가 나왔다.영국 케임브리지 대학교(University of Cambridge) 연구진은 디지털 청진기로 수집한 심장 소리를...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38667",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "슬립AI닷컴, AI 기반 수면·감정 웰니스 플랫폼 출시… “웨어러블 없이 수면 모니터링”",
-      "desc": "인공지능(AI) 수면 동반자 서비스를 표방하는 슬립AI닷컴(SleepAI.com)이 AI 기반 수면·감정 웰니스 플랫폼을 12일(현지시간) 공식 출시했다. 해당 플랫폼은 iOS와 구글 플레이 스토어에 동시 출시됐다.이번 플랫폼은 기존의 오디오 콘텐츠 중심 수면 앱...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38662",
+      "title": "단백질 의약품 개발 비용 낮출 AI 모델 개발...MIT, 대형언어모델로 효모 유전자 ‘코돈 최적화’",
+      "desc": "미국 MIT 연구진이 단백질 기반 의약품 개발 비용을 낮출 수 있는 인공지능(AI) 모델을 개발했다고 16일(현지시간) 밝혔다. 이는 대형언어모델(LLM)을 활용해 산업용 효모의 유전자 코드를 최적화함으로써 단백질 생산 효율을 크게 높였다는 연구 결과다.연구팀은 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38666",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "美 공군, AI 데이터베이스로 국방 현대화 가속...오라클과 8800만 달러 규모 클라우드 계약",
-      "desc": "미국 공군(Department of the Air Force, DAF)이 클라우드 현대화 프로젝트인 ‘클라우드 원(Cloud One)’ 프로그램의 성능 강화를 위해 오라클과 8,800만 달러(약 1,274억 원) 규모의 계약을 체결했다. 오라클은 12일(현지시간)...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38661",
+      "title": "인도 딥테크 얼라이언스, “AI 투자 58% 급증”…3년간 10억달러 AI 스타트업에 집중",
+      "desc": "인도의 인공지능(AI) 및 딥테크 투자 열기가 구조적 전환점에 진입했다는 분석이 나왔다.인도 딥테크 얼라이언스(India Deep Tech Alliance, IDTA)는 17일(현지시간), ‘2026 인도 인공지능 임펙트 서밋(India AI Impact Summ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38665",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "앤트로픽, 시리즈 G로 34조원 투자 유치… \"기업가치 549조원 달성, AI 빅3 구도 재편\"",
-      "desc": "생성형 AI '클로드(Claude)'의 개발사 앤트로픽(Anthropic)이 300억 달러(약 43조 원) 규모의 투자 유치를 마무리했다고 12일(현지시간) 밝혔다. 이번 투자로 앤트로픽의 포스트 머니(Post-money) 기준 기업가치는 3800억 달러(약 54...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38659",
+      "title": "2025년 벤처투자 역대 두 번째 실적....중기부, \"유니콘기업 27개사 등 제3벤처붐 본격 시작\"",
+      "desc": "중소벤처기업부(장관 한성숙. 이하, 중기부)는 13일, 2025년 국내 벤처투자 및 펀드결성 동향과 유니콘기업 현황을 발표했다. 이번 발표는 2025년 6월 새 정부가 들어선 이후 첫 번째 연간 벤처투자 실적 발표다.2025년 신규 벤처투자 금액은 13.6조원으로...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38664",
       "source": "AI Times"
     }
   ]
