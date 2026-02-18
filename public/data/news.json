@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-02-17T23:35:10.971Z",
+  "lastUpdated": "2026-02-18T23:35:33.681Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "AI 과대광고의 후유증을 치료하는 처방전",
+      "desc": "기업 현장은 AI를 향한 기대와 과대광고로 넘쳐나고 있다. 새로운 사업 라인과 생산성·효율성의 획기적 도약을 약속하는 메시지가 AI를 모든 산업 분야에서 최신 필수 기술로 만들었다. 들뜬 헤드라인과 경영진의 공언에도 불구하고, 대부분 기업은 측정 가능한 ROI를 ...",
+      "link": "https://www.itworld.co.kr/article/4133988/ai-%ea%b3%bc%eb%8c%80%ea%b4%91%ea%b3%a0%ec%9d%98-%ed%9b%84%ec%9c%a0%ec%a6%9d%ec%9d%84-%ec%b9%98%eb%a3%8c%ed%95%98%eb%8a%94-%ec%b2%98%eb%b0%a9%ec%a0%84.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "클라우드 장애는 왜 일상이 될까",
+      "desc": "2월 초 10시간 동안 이어진 마이크로소프트 애저 클라우드의 장애는 클라우드도 장애에서 자유롭지 않다는 사실을 다시 한번 선명하게 보여줬다. 2월 2일 19시 46분 애저 클라우드 플랫폼은 마이크로소프트 매니지드 스토리지 계정에 영향을 주는 정책 설정 오류에서 촉...",
+      "link": "https://www.itworld.co.kr/article/4133983/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%9e%a5%ec%95%a0%ea%b0%80-%ec%9d%bc%ec%83%81%ec%9c%bc%eb%a1%9c-%ea%b5%b3%ec%96%b4%ec%a7%80%eb%8a%94-%ec%9d%b4%ec%9c%a0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "성공한 AI 리더들이 도망치는 이유",
+      "desc": "보통 실리콘밸리 대기업에서 유명 인재가 떠날 때 홍보 문구는 무난한 표현으로 채워진다. “새로운 장을 연다”거나 “여정에 감사한다”는 말이 뒤따르고, 어쩌면 ‘스텔스 스타트업’에 대한 모호한 암시가 곁들여지는 정도이다. 하지만 AI 업계에서 최근 퇴사 선언은 내부...",
+      "link": "https://www.itworld.co.kr/article/4133978/%ec%84%b1%ea%b3%b5%ed%95%9c-ai-%eb%a6%ac%eb%8d%94%eb%93%a4%ec%9d%b4-%eb%8f%84%eb%a7%9d%ec%b9%98%eb%8a%94-%ec%9d%b4%ec%9c%a0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "기컴 A8 리뷰 | 콤팩트 디자인에 담은 라이젠 7 미니 PC의 저력",
       "desc": "제품 사양\n\n\n\n\n프로세서 : AMD 라이젠 7 8745HS (8코어, 16스레드)\n\n\n\n메모리 : 마이크론 16GB DDR5-5600 (최대 64GB 확장 가능)\n\n\n\n저장장치 : 1TB M.2 2280 PCIe 4세대×4 SSD (우포짓 WPBSN4M8-1TG...",
       "link": "https://www.itworld.co.kr/article/4131901/%ea%b8%b0%ec%bb%b4-a8-%eb%a6%ac%eb%b7%b0-%ec%bd%a4%ed%8c%a9%ed%8a%b8-%eb%94%94%ec%9e%90%ec%9d%b8%ec%97%90-%eb%8b%b4%ec%9d%80-%eb%9d%bc%ec%9d%b4%ec%a0%a0-7-%eb%af%b8%eb%8b%88-pc%ec%9d%98-%ec%a0%80.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "애플 펜슬 프로를 ‘프로’답게 쓰는 5가지 방법",
       "desc": "수년간 애플 펜슬 2는 디지털 일러스트레이터에게 사실상 표준과 같은 스타일러스였다. 간편한 페어링, 정밀한 입력, 압력 감지, 기울기 음영 지원 등 다양한 기능을 제공하며 꾸준한 선택을 받았다. 그러나 변화가 찾아왔다. 애플이 129달러(국내 출시가 19만 5,0...",
       "link": "https://www.itworld.co.kr/article/4131852/%ec%95%a0%ed%94%8c-%ed%8e%9c%ec%8a%ac-%ed%94%84%eb%a1%9c%eb%a5%bc-%ed%94%84%eb%a1%9c%eb%8b%b5%ea%b2%8c-%ec%93%b0%eb%8a%94-5%ea%b0%80%ec%a7%80-%eb%b0%a9%eb%b2%95.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "‘AI로 요약’ 버튼에 숨은 AI 추천 오염…마이크로소프트, AI 편향 주입 경고",
-      "desc": "웹사이트와 브라우저, 앱에 점점 더 많이 탑재되는 ‘AI로 요약’ 버튼은 사용자에게 콘텐츠 개요를 빠르게 제공하는 기능으로 인식된다. 그러나 일부 사례에서는 ‘AI 추천 오염’이라 불리는 새로운 형태의 AI 프롬프트 조작이 숨겨져 있을 수 있다.\n\n\n\n마이크로소프...",
-      "link": "https://www.itworld.co.kr/article/4131771/ai%eb%a1%9c-%ec%9a%94%ec%95%bd-%eb%b2%84%ed%8a%bc%ec%97%90-%ec%88%a8%ec%9d%80-ai-%ec%b6%94%ec%b2%9c-%ec%98%a4%ec%97%bc-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "AI 속도로 재편되는 소프트웨어 산업, 개발자의 미래는 어디로",
-      "desc": "영화 ‘페리스의 해방(Ferris Bueller’s Day Off)’의 유명한 대사처럼 “인생은 꽤 빠르게 흘러간다. 가끔 멈춰서 주위를 둘러보지 않으면 놓칠 수 있다.” 이 말은 AI 세계에도 그대로 적용된다. 아니, 지금의 AI 업계를 두고 한 말이라고 해도 ...",
-      "link": "https://www.itworld.co.kr/article/4131823/ai-%ec%86%8d%eb%8f%84%eb%a1%9c-%ec%9e%ac%ed%8e%b8%eb%90%98%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ec%82%b0%ec%97%85-%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%9d%98-%eb%af%b8%eb%9e%98%eb%8a%94.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "새 PC를 켜자마자 반드시 확인하는 핵심 보안 설정 4가지",
-      "desc": "대다수 사용자는 새 노트북이나 데스크톱 PC를 받으면 즐겨 쓰는 프로그램부터 설치한다. 필자는 먼저 보안 설정을 확인한다.\n\n\n\n보안 설정 확인은 단순히 백신이 활성화돼 있는지만 점검하는 수준이 아니다. 윈도우와 설치된 앱을 함께 살펴 온라인 환경에서 시스템 전체...",
-      "link": "https://www.itworld.co.kr/article/4131751/%ec%83%88-pc%eb%a5%bc-%ec%bc%9c%ec%9e%90%eb%a7%88%ec%9e%90-%eb%b0%98%eb%93%9c%ec%8b%9c-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%ed%95%b5%ec%8b%ac-%eb%b3%b4%ec%95%88-%ec%84%a4%ec%a0%95-4%ea%b0%80%ec%a7%80.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "美 펜실베니아 大, 설명가능 AI로 뇌졸중 실어증 맞춤 치료 길 연다",
-      "desc": "미국 펜실베니아 대학교(University of Pennsylvania) 연구진이 설명가능 인공지능(Explainable AI, xAI)을 활용해 뇌졸중 후 실어증 환자의 언어 회복을 정밀 예측하고, 개인 맞춤형 언어치료를 지원하는 기술을 개발했다.연구는 펜실베니...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38668",
+      "title": "델 테크놀로지스, F1 명가 ‘맥라렌 레이싱’에 AI 인프라 및 PC 포트폴리오 전방위 지원",
+      "desc": "델 테크놀로지스(Dell Technologies)는 맥라렌 레이싱(McLaren Racing) 팀과의 파트너십을 강화하며, 맥라렌의 F1 경기력 강화를 위해 델의 첨단 인공지능(AI) 인프라 및 PC 포트폴리오를 폭넓게 활용할 계획이라고 19일 밝혔다.델은 맥라렌...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38677",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "AI 청진기, 심장판막질환 조기 진단…'진료의'보다 정확도 높았다",
-      "desc": "인공지능(AI)이 ‘침묵의 전염병’으로 불리는 심장판막질환을 기존 1차 진료의(이하, GP)보다 더 정확하게 조기 발견할 수 있다는 연구 결과가 나왔다.영국 케임브리지 대학교(University of Cambridge) 연구진은 디지털 청진기로 수집한 심장 소리를...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38667",
+      "title": "리눅스 재단, “오픈소스가 인도 AI 시장 성장 견인”…인도 스타트업 76% 오픈소스 AI 활용, 2031년 320억 달러 전망",
+      "desc": "리눅스 재단(The Linux Foundation)이 메타(Meta)와 공동으로 인도의 인공지능(AI) 도입 현황과 경제·사회적 파급효과를 분석한 보고서를 17일(현지시간) 발표했다.리눅스 재단은 보고서 ‘인도의 경제·사회적 공익을 위한 AI: 기업가·창작자·지역...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38676",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "단백질 의약품 개발 비용 낮출 AI 모델 개발...MIT, 대형언어모델로 효모 유전자 ‘코돈 최적화’",
-      "desc": "미국 MIT 연구진이 단백질 기반 의약품 개발 비용을 낮출 수 있는 인공지능(AI) 모델을 개발했다고 16일(현지시간) 밝혔다. 이는 대형언어모델(LLM)을 활용해 산업용 효모의 유전자 코드를 최적화함으로써 단백질 생산 효율을 크게 높였다는 연구 결과다.연구팀은 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38666",
+      "title": "후지쯔, AI로 SW 전 생애주기 자동화...한 사람이 3개월 동안 일하는 작업량 “4시간 만에 법규 개정 대응”",
+      "desc": "일본의 글로벌 ICT 기업 후지쯔(Fujitsu)가 소프트웨어 개발 전 과정을 자동화하는 ‘AI 기반 소프트웨어 개발 플랫폼(AI-Driven Software Development Platform)’을 17일, 공식 발표했다.이 플랫폼은 요구사항 정의부터 설계, ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38675",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "인도 딥테크 얼라이언스, “AI 투자 58% 급증”…3년간 10억달러 AI 스타트업에 집중",
-      "desc": "인도의 인공지능(AI) 및 딥테크 투자 열기가 구조적 전환점에 진입했다는 분석이 나왔다.인도 딥테크 얼라이언스(India Deep Tech Alliance, IDTA)는 17일(현지시간), ‘2026 인도 인공지능 임펙트 서밋(India AI Impact Summ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38665",
+      "title": "팔로알토 네트웍스, AI 시대 “경계는 무너졌다”통합 플랫폼 보안으로 전환하라...AI·공격 표면 복잡성, 전체 침해 사고의 핵심 요인",
+      "desc": "팔로알토 네트웍스(Palo Alto Networks)가 17일(현지시간), 발표한 ‘Unit 42 2026 글로벌 인시던트 대응 보고서(Global Incident Response Report)’를 통해 인공지능(AI)과 기업 IT 환경의 복잡성이 최근 보안 침해...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38674",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "2025년 벤처투자 역대 두 번째 실적....중기부, \"유니콘기업 27개사 등 제3벤처붐 본격 시작\"",
-      "desc": "중소벤처기업부(장관 한성숙. 이하, 중기부)는 13일, 2025년 국내 벤처투자 및 펀드결성 동향과 유니콘기업 현황을 발표했다. 이번 발표는 2025년 6월 새 정부가 들어선 이후 첫 번째 연간 벤처투자 실적 발표다.2025년 신규 벤처투자 금액은 13.6조원으로...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38664",
+      "title": "美 에코노우스, AI 초음파 ‘코스모스’ 대규모 업데이트…산부인과·혈관 진단 기능 강화",
+      "desc": "미국 워싱턴주 레드먼드에 본사를 둔 인공지능(AI) 기반 현장진단(Point-of-Care) 초음파 분야 선도 기업 '에코노우스(EchoNous)'가 17일(현지시간), 자사 AI 초음파 플랫폼 '코스모스(Kosmos)'의 대규모 기능을 확장했다고 밝혔다.이번 업...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38673",
       "source": "AI Times"
     }
   ]
