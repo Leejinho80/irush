@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-02-18T23:35:33.681Z",
+  "lastUpdated": "2026-02-19T23:35:36.610Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "공장과 매장으로 확산되는 피지컬 AI, 준비 없는 도입은 위험",
+      "desc": "지난 1년여 동안 에이전트형 AI는 폭발적으로 확산됐지만, 실패한 프로젝트와 정리되지 않은 첨단 기술 자산을 남겼다. 기업이 여전히 그 후속 정리를 진행하는 상황에서, 기술 업계 경영진이 피지컬 AI 도입에 신중할 것을 주문하는 배경도 여기에 있다. 피지컬 AI에...",
+      "link": "https://www.itworld.co.kr/article/4134246/%ea%b3%b5%ec%9e%a5%ea%b3%bc-%eb%a7%a4%ec%9e%a5%ec%9c%bc%eb%a1%9c-%ed%99%95%ec%82%b0%eb%90%98%eb%8a%94-%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ec%a4%80%eb%b9%84-%ec%97%86%eb%8a%94-%eb%8f%84%ec%9e%85%ec%9d%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "AI 시스템의 성패를 가르는 컨텍스트 설계 전략",
+      "desc": "컨텍스트 엔지니어링이란 AI 모델이 사용자 입력에 대한 응답을 생성하기 전에 어떤 정보를 볼 것인지 결정하는 시스템을 설계하는 행위다. 프롬프트를 형식화하거나 지침을 다듬는 수준을 넘어 모델이 작동하는 환경 전체를 구성한다. 즉, 그라운딩 데이터, 스키마, 툴, ...",
+      "link": "https://www.itworld.co.kr/article/4134239/ai-%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%9d%98-%ec%84%b1%ed%8c%a8%eb%a5%bc-%ea%b0%80%eb%a5%b4%eb%8a%94-%ec%bb%a8%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%84%a4%ea%b3%84-%ec%a0%84%eb%9e%b5.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "AI 격변 속에서 피어나는 100만 개의 앱",
+      "desc": "무언가 거대한 변화가 일어나고 있는 것은 분명하다. 그러나 AI 격변 속에서도 낙관할 이유는 존재한다.\n\n\n\n‘인터넷 타임’이라는 표현이 유행하던 시절을 기억하는가. 1990년대 후반, 닷컴 기업이 폭발적으로 성장하던 시기에는 사업과 부가 수년에 걸쳐 형성되는 대...",
+      "link": "https://www.itworld.co.kr/article/4134233/ai-%ea%b2%a9%eb%b3%80-%ec%86%8d%ec%97%90%ec%84%9c-%ed%94%bc%ec%96%b4%eb%82%98%eb%8a%94-100%eb%a7%8c-%ea%b0%9c%ec%9d%98-%ec%95%b1.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "RAM 위기 속 2026년 PC 제대로 사는 법",
+      "desc": "현재의 RAM 위기는 글로벌 반도체 공급 축소와 AI 데이터 센터 수요 급증이 겹치면서 메모리 가격이 급등한 상황을 의미한다. 사용자에게는 분명 부담이 크지만, 매장 진열대에 있는 제품 상당수는 여전히 합리적인 가격을 유지하고 있다.\n\n\n\nPC 하드웨어 가격이 전...",
+      "link": "https://www.itworld.co.kr/article/4134217/ram-%ec%9c%84%ea%b8%b0-%ec%86%8d-2026%eb%85%84-pc-%ec%a0%9c%eb%8c%80%eb%a1%9c-%ec%82%ac%eb%8a%94-%eb%b2%95.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "AI 과대광고의 후유증을 치료하는 처방전",
       "desc": "기업 현장은 AI를 향한 기대와 과대광고로 넘쳐나고 있다. 새로운 사업 라인과 생산성·효율성의 획기적 도약을 약속하는 메시지가 AI를 모든 산업 분야에서 최신 필수 기술로 만들었다. 들뜬 헤드라인과 경영진의 공언에도 불구하고, 대부분 기업은 측정 가능한 ROI를 ...",
       "link": "https://www.itworld.co.kr/article/4133988/ai-%ea%b3%bc%eb%8c%80%ea%b4%91%ea%b3%a0%ec%9d%98-%ed%9b%84%ec%9c%a0%ec%a6%9d%ec%9d%84-%ec%b9%98%eb%a3%8c%ed%95%98%eb%8a%94-%ec%b2%98%eb%b0%a9%ec%a0%84.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "클라우드 장애는 왜 일상이 될까",
-      "desc": "2월 초 10시간 동안 이어진 마이크로소프트 애저 클라우드의 장애는 클라우드도 장애에서 자유롭지 않다는 사실을 다시 한번 선명하게 보여줬다. 2월 2일 19시 46분 애저 클라우드 플랫폼은 마이크로소프트 매니지드 스토리지 계정에 영향을 주는 정책 설정 오류에서 촉...",
-      "link": "https://www.itworld.co.kr/article/4133983/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%9e%a5%ec%95%a0%ea%b0%80-%ec%9d%bc%ec%83%81%ec%9c%bc%eb%a1%9c-%ea%b5%b3%ec%96%b4%ec%a7%80%eb%8a%94-%ec%9d%b4%ec%9c%a0.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "성공한 AI 리더들이 도망치는 이유",
-      "desc": "보통 실리콘밸리 대기업에서 유명 인재가 떠날 때 홍보 문구는 무난한 표현으로 채워진다. “새로운 장을 연다”거나 “여정에 감사한다”는 말이 뒤따르고, 어쩌면 ‘스텔스 스타트업’에 대한 모호한 암시가 곁들여지는 정도이다. 하지만 AI 업계에서 최근 퇴사 선언은 내부...",
-      "link": "https://www.itworld.co.kr/article/4133978/%ec%84%b1%ea%b3%b5%ed%95%9c-ai-%eb%a6%ac%eb%8d%94%eb%93%a4%ec%9d%b4-%eb%8f%84%eb%a7%9d%ec%b9%98%eb%8a%94-%ec%9d%b4%ec%9c%a0.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "기컴 A8 리뷰 | 콤팩트 디자인에 담은 라이젠 7 미니 PC의 저력",
-      "desc": "제품 사양\n\n\n\n\n프로세서 : AMD 라이젠 7 8745HS (8코어, 16스레드)\n\n\n\n메모리 : 마이크론 16GB DDR5-5600 (최대 64GB 확장 가능)\n\n\n\n저장장치 : 1TB M.2 2280 PCIe 4세대×4 SSD (우포짓 WPBSN4M8-1TG...",
-      "link": "https://www.itworld.co.kr/article/4131901/%ea%b8%b0%ec%bb%b4-a8-%eb%a6%ac%eb%b7%b0-%ec%bd%a4%ed%8c%a9%ed%8a%b8-%eb%94%94%ec%9e%90%ec%9d%b8%ec%97%90-%eb%8b%b4%ec%9d%80-%eb%9d%bc%ec%9d%b4%ec%a0%a0-7-%eb%af%b8%eb%8b%88-pc%ec%9d%98-%ec%a0%80.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "애플 펜슬 프로를 ‘프로’답게 쓰는 5가지 방법",
-      "desc": "수년간 애플 펜슬 2는 디지털 일러스트레이터에게 사실상 표준과 같은 스타일러스였다. 간편한 페어링, 정밀한 입력, 압력 감지, 기울기 음영 지원 등 다양한 기능을 제공하며 꾸준한 선택을 받았다. 그러나 변화가 찾아왔다. 애플이 129달러(국내 출시가 19만 5,0...",
-      "link": "https://www.itworld.co.kr/article/4131852/%ec%95%a0%ed%94%8c-%ed%8e%9c%ec%8a%ac-%ed%94%84%eb%a1%9c%eb%a5%bc-%ed%94%84%eb%a1%9c%eb%8b%b5%ea%b2%8c-%ec%93%b0%eb%8a%94-5%ea%b0%80%ec%a7%80-%eb%b0%a9%eb%b2%95.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "델 테크놀로지스, F1 명가 ‘맥라렌 레이싱’에 AI 인프라 및 PC 포트폴리오 전방위 지원",
-      "desc": "델 테크놀로지스(Dell Technologies)는 맥라렌 레이싱(McLaren Racing) 팀과의 파트너십을 강화하며, 맥라렌의 F1 경기력 강화를 위해 델의 첨단 인공지능(AI) 인프라 및 PC 포트폴리오를 폭넓게 활용할 계획이라고 19일 밝혔다.델은 맥라렌...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38677",
+      "title": "구글, 과학·연구·엔지니어링 난제 해결 ‘제미나이 3.1 프로’ 공개...“단순 답변이 아닌, 복합 사고를 위한 AI”",
+      "desc": "구글이 차세대 추론 성능을 강화한 ‘제미나이 3.1 프로 (Gemini 3.1 Pro)’를 19일(현지시간) 공개했다. 이번 모델은 복잡한 문제 해결을 위한 고도화된 추론 능력을 핵심으로 하며, 소비자·개발자·기업용 전 제품군에 순차 적용된다.구글은 “제미나이 3...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38698",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "리눅스 재단, “오픈소스가 인도 AI 시장 성장 견인”…인도 스타트업 76% 오픈소스 AI 활용, 2031년 320억 달러 전망",
-      "desc": "리눅스 재단(The Linux Foundation)이 메타(Meta)와 공동으로 인도의 인공지능(AI) 도입 현황과 경제·사회적 파급효과를 분석한 보고서를 17일(현지시간) 발표했다.리눅스 재단은 보고서 ‘인도의 경제·사회적 공익을 위한 AI: 기업가·창작자·지역...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38676",
+      "title": "美 스카우트 AI, “디지털 AI 에이전트, 전장 물리 세계로 확장”... 이기종 무인기 통합 제어 ‘퓨리 오케스트레이터’ 공개",
+      "desc": "미국 방산 인공지능(AI) 기업 스카우트 AI(Scout AI Inc)가 자연어 기반으로 다양한 무인 시스템을 통합 지휘·통제하는 ‘퓨리 오토노머스 비클 오케스트레이터(Fury Autonomous Vehicle Orchestrator. 이하, 퓨리)’를 18일(현...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38697",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "후지쯔, AI로 SW 전 생애주기 자동화...한 사람이 3개월 동안 일하는 작업량 “4시간 만에 법규 개정 대응”",
-      "desc": "일본의 글로벌 ICT 기업 후지쯔(Fujitsu)가 소프트웨어 개발 전 과정을 자동화하는 ‘AI 기반 소프트웨어 개발 플랫폼(AI-Driven Software Development Platform)’을 17일, 공식 발표했다.이 플랫폼은 요구사항 정의부터 설계, ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38675",
+      "title": "휴메인, 일론 머스크 'xAI'에 30억 달러 투자…스페이스X 합병 직전 전략적 베팅",
+      "desc": "사우디아라비아 국부펀드(PIF) 계열 인공지능(AI) 기업 휴메인(HUMAIN)이 미국 일론 머스크의 인공지능(AI) 기업 xAI의 시리즈 E 투자 라운드에 30억 달러(약 4.3조원)를 전략적으로 투자했다고 18일(현지시간) 밝혔다.이번 투자는 xAI가 스페이스...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38696",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "팔로알토 네트웍스, AI 시대 “경계는 무너졌다”통합 플랫폼 보안으로 전환하라...AI·공격 표면 복잡성, 전체 침해 사고의 핵심 요인",
-      "desc": "팔로알토 네트웍스(Palo Alto Networks)가 17일(현지시간), 발표한 ‘Unit 42 2026 글로벌 인시던트 대응 보고서(Global Incident Response Report)’를 통해 인공지능(AI)과 기업 IT 환경의 복잡성이 최근 보안 침해...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38674",
+      "title": "인공지능 데이터센터, ‘기술’에서 ‘수용성’으로...오라클, 친환경 설계로 AI 인프라 논란 선제 대응",
+      "desc": "오라클이 인공지능(AI) 데이터센터 건설 과정에서 지역사회와 자연환경 보호를 최우선 가치로 삼겠다는 방침을 지난 17일(현지시간) 밝혔다. 회사는 “새로운 AI 데이터센터를 건설할 때 우리는 단순한 시설을 짓는 것이 아니라, 하나의 지역사회에 합류하는 것”이라며 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38695",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "美 에코노우스, AI 초음파 ‘코스모스’ 대규모 업데이트…산부인과·혈관 진단 기능 강화",
-      "desc": "미국 워싱턴주 레드먼드에 본사를 둔 인공지능(AI) 기반 현장진단(Point-of-Care) 초음파 분야 선도 기업 '에코노우스(EchoNous)'가 17일(현지시간), 자사 AI 초음파 플랫폼 '코스모스(Kosmos)'의 대규모 기능을 확장했다고 밝혔다.이번 업...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38673",
+      "title": "구글, ‘제미나이’에 음악 생성 기능 탑재 '리리아 3' 베타 공개...텍스트·이미지 입력만으로 30초 음악 자동 생성",
+      "desc": "구글이 자사 AI '제미나이 앱'에 음악 생성 기능을 새롭게 18일(현지시간) 추가했다. 이번 기능은 구글 딥마인드(Google DeepMind)가 개발한 최신 생성형 음악 모델 '리리아(Lyria) 3'를 기반으로 하며, 현재 베타 버전으로 순차 출시되고 있다....",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38694",
       "source": "AI Times"
     }
   ]
