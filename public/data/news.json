@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-02-24T23:37:50.976Z",
+  "lastUpdated": "2026-02-25T23:33:54.579Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "AI 에이전트와 잘못된 생산성 지표",
-      "desc": "개발자 존 크리켓은 엑스(X)에 약간의 빈정거림을 담아 다음과 같은 글을 올렸다.\n\n\n\n“소프트웨어 엔지니어 : 컨텍스트 스위칭은 생산성을 죽인다. 또 다른 소프트웨어 엔지니어 : 이제 19개 AI 에이전트를 관리하면서 하루에 1,800건을 커밋한다.”\n\n\n\n크리...",
-      "link": "https://www.itworld.co.kr/article/4136313/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%99%80-%ec%9e%98%eb%aa%bb%eb%90%9c-%ec%83%9d%ec%82%b0%ec%84%b1-%ec%a7%80%ed%91%9c.html",
+      "title": "마이크로소프트 코파일럿, AI 끼워팔기 논란 확산…FTC 나서며 규제 리스크 우려",
+      "desc": "기술 업계는 혁신을 늘 중시하지만, 마이크로소프트의 최신 기술 도입은 유난히 큰 비용을 치를지도 모른다. 마이크로소프트가 윈도우 11과 마이크로소프트 365에 AI 어시스턴트 코파일럿을 공격적으로 심어 넣는 과정에서 사용자 반응이 극명하게 갈렸고 규제 당국의 감시...",
+      "link": "https://www.itworld.co.kr/article/4137111/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-ai-%eb%81%bc%ec%9b%8c%ed%8c%94%ea%b8%b0-%eb%85%bc%eb%9e%80-%ed%99%95%ec%82%b0ftc.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "“AI 기반 ITSM, 신뢰가 경쟁력” 오픈텍스트, 거버넌스·데이터 중심 AI 운영 전략 제시",
-      "desc": "AI 도입이 IT 서비스 관리(ITSM) 전반으로 빠르게 확산하고 있다. 반복적인 서비스 요청 처리, 장애 분류, 변경 관리, 지식 검색 등 다양한 업무에 AI가 적용되면서 IT 운영의 효율과 속도를 동시에 끌어올리고 있다. 그러나 자동화 수준이 높아질수록 과제는...",
-      "link": "https://www.itworld.co.kr/article/4136285/ai-%ea%b8%b0%eb%b0%98-itsm-%ec%8b%a0%eb%a2%b0%ea%b0%80-%ea%b2%bd%ec%9f%81%eb%a0%a5-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%c2%b7%eb%8d%b0.html",
+      "title": "클라우드 운영의 새 인터페이스, MCP 서버를 이해하다",
+      "desc": "하이퍼스케일러 업체들이 발빠르게 AI 에이전트와 모델 컨텍스트 프로토콜을 지원하고 나섰다. 주요 클라우드 업체가 제공하는 공식 MCP 서버를 사용하면 클라우드 운영을 자동화할 수 있다.\n\n\n\n앤트로픽의 모델 컨텍스트 프로토콜(MCP)은 “AI를 위한 USB-C”로...",
+      "link": "https://www.itworld.co.kr/article/4137002/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%9a%b4%ec%98%81%ec%9d%98-%ec%83%88-%ec%9d%b8%ed%84%b0%ed%8e%98%ec%9d%b4%ec%8a%a4-mcp-%ec%84%9c%eb%b2%84%eb%a5%bc-%ec%9d%b4%ed%95%b4%ed%95%98%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "와이파이 7 장비 가격 곧 오른다…델오로 “지금이 업그레이드 적기”",
-      "desc": "와이파이 7 업그레이드 시기는 지금이 적기라는 분석이 나왔다. 델오로 그룹의 최신 조사 결과다.\n\n\n\n델오로 그룹의 리서치 디렉터이자 ‘무선 LAN 5년 전망(Wireless LAN 5-Year Forecast Report)’ 최신 분기 보고서의 대표 저자인 시안...",
-      "link": "https://www.itworld.co.kr/article/4136278/%ec%99%80%ec%9d%b4%ed%8c%8c%ec%9d%b4-7-%ec%9e%a5%eb%b9%84-%ea%b0%80%ea%b2%a9-%ea%b3%a7-%ec%98%a4%eb%a5%b8%eb%8b%a4%eb%8d%b8%ec%98%a4%eb%a1%9c-%ec%a7%80%ea%b8%88%ec%9d%b4-%ec%97%85.html",
+      "title": "멀티클라우드 복잡성, 생성형 AI로 돌파하는 7가지 방법",
+      "desc": "단일 클라우드 인프라를 표준으로 삼는 것은 멀티클라우드 전략을 추진하는 것보다 훨씬 수월하다. 단일 클라우드 환경에서는 IT 리더가 인력 역량을 최적화하고 데이터를 보다 쉽게 중앙화할 수 있으며, 적은 수의 도구로 인프라를 보호하는 등 다양한 운영상 이점을 누릴 ...",
+      "link": "https://www.itworld.co.kr/article/4136978/%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%eb%b3%b5%ec%9e%a1%ec%84%b1-%ec%83%9d%ec%84%b1%ed%98%95-ai%eb%a1%9c-%eb%8f%8c%ed%8c%8c%ed%95%98%eb%8a%94-7%ea%b0%80%ec%a7%80-%eb%b0%a9%eb%b2%95.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "클로드·제미나이 월정액 계정, 오픈클로에 연동하면 차단…왜?",
-      "desc": "클로드나 제미나이의 월정액 요금제 계정을 오픈클로에 연결해 그 강력한 AI 기능을 활용해왔다면, 계정 정지를 각오해야 한다.\n\n\n\n오픈클로에 클로드·제미나이 월정액 계정을 오스 로그인 방식으로 연결한 사용자들이 계정 정지 조치를 받고 있다. 오픈클로는 반나절 만에...",
-      "link": "https://www.itworld.co.kr/article/4136270/%ed%81%b4%eb%a1%9c%eb%93%9c%c2%b7%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ec%9b%94%ec%a0%95%ec%95%a1-%ea%b3%84%ec%a0%95-%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c%ec%97%90-%ec%97%b0%eb%8f%99%ed%95%98%eb%a9%b4.html",
+      "title": "마이크로소프트, ICE와 대규모 계약…‘도덕적 IT 기업’ 이미지 흔들려",
+      "desc": "지난 6년여 동안 마이크로소프트는 상대적으로 온건하고 책임감 있는 기술 기업이라는 이미지를 구축해 왔다. 메타, 구글, 아마존, 그리고 2024년 도널드 트럼프의 대통령 당선 이후의 애플과는 대비되는 행보를 보였기 때문이다.\n\n\n\n뉴욕타임스는 마이크로소프트가 “1...",
+      "link": "https://www.itworld.co.kr/article/4136973/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ice%ec%99%80-%eb%8c%80%ea%b7%9c%eb%aa%a8-%ea%b3%84%ec%95%bd%eb%8f%84%eb%8d%95%ec%a0%81-it-%ea%b8%b0%ec%97%85.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "마이크로소프트 엣지, 비밀번호 관리자 ‘마스터 비밀번호’ 단계적 폐지",
-      "desc": "마이크로소프트의 엣지가 비밀번호 관리자 핵심 기능인 마스터 비밀번호 지원을 단계적으로 중단한다.\n\n\n\n이제 엣지 비밀번호 관리자에서 새로운 마스터 비밀번호를 생성할 수 없다. 기존에 설정한 마스터 비밀번호도 향후 더 이상 지원되지 않을 예정이다.\n\n\n\nIT 매체 ...",
-      "link": "https://www.itworld.co.kr/article/4136247/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%97%a3%ec%a7%80-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ea%b4%80%eb%a6%ac%ec%9e%90-%eb%a7%88%ec%8a%a4%ed%84%b0-%eb%b9%84.html",
+      "title": "애플, 맥 미니 미국 생산 선언…휴스턴 공장 활용",
+      "desc": "애플이 올해 말부터 미국 휴스턴에서 맥 미니를 생산할 계획이라고 밝혔다. 미국 제조 확대를 지원하기 위한 회사의 전략이 본격적으로 추진되는 모습이다.\n\n\n\n도널드 트럼프 미국 대통령의 국정연설을 앞둔 시점에서 애플은 트럼프 행정부와 협력 의지를 보여주는 행보로 맥...",
+      "link": "https://www.itworld.co.kr/article/4136938/%ec%95%a0%ed%94%8c-%eb%a7%a5-%eb%af%b8%eb%8b%88-%eb%af%b8%ea%b5%ad-%ec%83%9d%ec%82%b0-%ec%84%a0%ec%96%b8%ed%9c%b4%ec%8a%a4%ed%84%b4-%ea%b3%b5%ec%9e%a5-%ed%99%9c%ec%9a%a9.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "아마존, AI 인프라 수요 대응 위해 루이지애나에 17조원 투자…첫 데이터센터 캠퍼스 조성",
-      "desc": "아마존(Amazon)이 미국 루이지애나(Louisiana) 북서부 지역에 총 120억 달러(약 17조 원) 규모를 투자해 최첨단 데이터센터 캠퍼스를 구축한다고 23일(현지시간) 밝혔다. 이 프로젝트는 캐도 패리시(Caddo Parish)와 보셔 패리시(Bossie...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38776",
+      "title": "LG전자, ‘iF 디자인 어워드 2026’서  AI 홈 로봇 ‘클로이드’  포함 26개 본상 수상",
+      "desc": "LG전자가 iF 디자인 어워드 2026(International Forum Design Award 2026)에서 총 26개 상을 받았다. iF 디자인 어워드는 제품, 커뮤니케이션, 사용자 경험(UX), 사용자 인터페이스(UI), 패키지, 인테리어, 프로페셔널 컨셉...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38811",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "산업부, K-조선 초격차 기술에 올해 3200억  투입...'친환경･인공지능･중소조선' 3대 분야 집중",
-      "desc": "산업통상부(장관 김정관, 이하 산업부)는 올해 K-조선 초격차 기술 확보를 위해 작년보다 약 23% 늘어난 3,200억 원을 투자한다고 24일 밝혔다.작년에 K-조선은 8년 만에 최고 수준인 318억 달러 수출을 기록하며, 국가 전체 수출 7천억 달러를 돌파하는 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38775",
+      "title": "아산재단, '대학원생 88명·대학생 410명' 총 498명에게 장학금 39억 원 전달",
+      "desc": "아산사회복지재단(이사장 정몽준)은 25일, 서울 송파구 서울아산병원 아산생명과학연구원 강당에서 2026년 장학증서 수여식을 개최했다. 아산재단은 이날 대학원생 88명, 대학생 410명 등 총 498명에게 장학금 39억 4천만 원을 전달했다.의생명과학분야 대학원 장...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38810",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "침수탐지 인공지능, 국민이 사전 검증한다...행안부, AI 모델과 학습데이터 민간에 시범 공개",
-      "desc": "행정안전부(장관 윤호중)는 CCTV 실제영상을 기반으로 침수 상황을 탐지하는 인공지능(AI) 모델과 학습데이터를 민간에 시범 공개하고 품질 검증에 나선다.이번 검증은 올해 하반기 예정된 침수탐지 인공지능(AI) 모델과 학습데이터의 전면적인 개방에 앞서, 이를 활용...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38774",
+      "title": "'AI로 빨라진 해킹, 사이버 공격 44% 급증'…IBM, ‘2026 X-포스 위협 인텔리전스 인덱스 발표",
+      "desc": "IBM이 2026년 사이버 위협 보고서를 통해 인공지능(AI)을 활용한 공격이 급증하고 있다고 경고했다. 기본적인 보안 취약점이 방치된 기업 환경이 AI 기반 공격 도구와 결합되면서, 침해 속도와 규모가 동시에 확대되고 있다는 분석이다.IBM은 25일(현지시간) ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38809",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "AI 학습용 데이터 구매비용, 세액 공제...데이터 거래 활성화와 AI-콘텐츠 산업 성장 선순환 생태계 기여",
-      "desc": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈. 이하, 과기정통부)는 24일 '조세특례제한법 시행령' 개정안 국무회의 의결로 인공지능(AI) 학습용 데이터 구매비용도 연구개발(R&D)비 세액공제 대상에 포함되었다고 밝혔다.조세특례제한법 시행령 개정안은 2월 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38773",
+      "title": "애플, 美 제조 생태계 강화...휴스턴서 AI 서버·맥 미니 생산 동시 확대",
+      "desc": "애플(Apple)이 미국 내 제조 역량을 대폭 확대한다. 올해 말부터 텍사스 휴스턴 공장에서 맥 미니(Mac mini)를 처음으로 미국에서 생산하고, 첨단 인공지능(AI) 서버 생산도 본격적으로 늘린다.애플은 24일(현지시간) 텍사스주 휴스턴 제조 캠퍼스를 확장해...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38808",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "중기부·국방부·과기부, 민군 기술협력 피치데이 개최...산학연 R&D 성과 군 소요와 연계·검증하고, 민·군 기술협력 확대 기반 마련",
-      "desc": "중소벤처기업부, 국방부, 과학기술정보통신부는 24일, 대전 자운대 육군교육사령부에서 ‘민군 기술협력 피치데이’를 개최했다. 피치데이(Pitch Day)는 혁신기업이 투자자, 심사위원, 전문위원 등을 대상으로 사업 아이디어·제품·사업계획 등을 발표하고, 평가 및 투...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38772",
+      "title": "앤트로픽, “고위험 AI 대응 투명성·책임성 강화”...책임 있는 확장 정책 3차 공개",
+      "desc": "생성형 AI 기업 앤트로픽(Anthropic)이 자사 인공지능 시스템의 재앙적 위험을 관리하기 위한 ‘책임 있는 확장 정책(Responsible Scaling Policy. 이하, RSP)’ 3차 개정안을 24일(현지시간) 공개했다. 기술 고도화 속도에 맞춰 내부...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38807",
       "source": "AI Times"
     }
   ]
