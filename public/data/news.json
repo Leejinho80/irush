@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-02-25T23:33:54.579Z",
+  "lastUpdated": "2026-02-26T23:35:38.081Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "마이크로소프트 코파일럿, AI 끼워팔기 논란 확산…FTC 나서며 규제 리스크 우려",
-      "desc": "기술 업계는 혁신을 늘 중시하지만, 마이크로소프트의 최신 기술 도입은 유난히 큰 비용을 치를지도 모른다. 마이크로소프트가 윈도우 11과 마이크로소프트 365에 AI 어시스턴트 코파일럿을 공격적으로 심어 넣는 과정에서 사용자 반응이 극명하게 갈렸고 규제 당국의 감시...",
-      "link": "https://www.itworld.co.kr/article/4137111/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-ai-%eb%81%bc%ec%9b%8c%ed%8c%94%ea%b8%b0-%eb%85%bc%eb%9e%80-%ed%99%95%ec%82%b0ftc.html",
+      "title": "곧 추가될 안드로이드 신기능, 지금 미리 쓰는 법 3가지",
+      "desc": "안드로이드 세계에서는 언제나 변화가 이어진다. 이런 변화는 대규모 OS 업데이트가 없을 때도 계속된다.\n\n\n\n구글은 지난 수년간 안드로이드를 분해하듯 다듬어 왔다. OS에 속해 있던 기능을 하나씩 꺼내 일반 앱 형태로 바꾸는 작업이다. 이렇게 기능을 분리하면 OS...",
+      "link": "https://www.itworld.co.kr/article/4137712/%ea%b3%a7-%ec%b6%94%ea%b0%80%eb%90%a0-%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%ec%8b%a0%ea%b8%b0%eb%8a%a5-%ec%a7%80%ea%b8%88-%eb%af%b8%eb%a6%ac-%ec%93%b0%eb%8a%94-%eb%b2%95-3%ea%b0%80%ec%a7%80.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "클라우드 운영의 새 인터페이스, MCP 서버를 이해하다",
-      "desc": "하이퍼스케일러 업체들이 발빠르게 AI 에이전트와 모델 컨텍스트 프로토콜을 지원하고 나섰다. 주요 클라우드 업체가 제공하는 공식 MCP 서버를 사용하면 클라우드 운영을 자동화할 수 있다.\n\n\n\n앤트로픽의 모델 컨텍스트 프로토콜(MCP)은 “AI를 위한 USB-C”로...",
-      "link": "https://www.itworld.co.kr/article/4137002/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%9a%b4%ec%98%81%ec%9d%98-%ec%83%88-%ec%9d%b8%ed%84%b0%ed%8e%98%ec%9d%b4%ec%8a%a4-mcp-%ec%84%9c%eb%b2%84%eb%a5%bc-%ec%9d%b4%ed%95%b4%ed%95%98%eb%8b%a4.html",
+      "title": "“온수로 냉각?” 데이터센터, 냉각기 없는 수랭 시대 열리나",
+      "desc": "액체 냉각의 ‘온도’를 올리는 실험이 본격화하고 있다. 초저온에 가깝게 차갑게 만든 물로 데이터센터를 식히는 대신, 뜨거운 물로도 슈퍼컴퓨터를 냉각하는 방식이 현실화되고 있다. 핵심은 액체 냉각에서 냉각수 냉각기를 빼는 것이다.\n\n\n\n엔비디아의 CEO 젠슨 황은 ...",
+      "link": "https://www.itworld.co.kr/article/4137690/%ec%98%a8%ec%88%98%eb%a1%9c-%eb%83%89%ea%b0%81-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%eb%83%89%ea%b0%81%ea%b8%b0-%ec%97%86%eb%8a%94-%ec%88%98%eb%9e%ad-%ec%8b%9c%eb%8c%80.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "멀티클라우드 복잡성, 생성형 AI로 돌파하는 7가지 방법",
-      "desc": "단일 클라우드 인프라를 표준으로 삼는 것은 멀티클라우드 전략을 추진하는 것보다 훨씬 수월하다. 단일 클라우드 환경에서는 IT 리더가 인력 역량을 최적화하고 데이터를 보다 쉽게 중앙화할 수 있으며, 적은 수의 도구로 인프라를 보호하는 등 다양한 운영상 이점을 누릴 ...",
-      "link": "https://www.itworld.co.kr/article/4136978/%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%eb%b3%b5%ec%9e%a1%ec%84%b1-%ec%83%9d%ec%84%b1%ed%98%95-ai%eb%a1%9c-%eb%8f%8c%ed%8c%8c%ed%95%98%eb%8a%94-7%ea%b0%80%ec%a7%80-%eb%b0%a9%eb%b2%95.html",
+      "title": "AI 스마트 글래스에 쏠리는 시선…VR, 다시 점검대에 오르다",
+      "desc": "기술 기업이 AI 기반 스마트 글래스로 관심을 옮기면서 VR 헤드셋의 성장 모멘텀이 다시 둔화되는 모습이다.\n\n\n\n과거에도 VR 부문에서 기대가 실제 수요를 앞질렀던 적이 있다. 1990년대 초반 맨 처음 관심이 급증한 당시에도 대중화 전망이 쏟아졌지만, 그후 1...",
+      "link": "https://www.itworld.co.kr/article/4137681/ai-%ec%8a%a4%eb%a7%88%ed%8a%b8-%ea%b8%80%eb%9e%98%ec%8a%a4%ec%97%90-%ec%8f%a0%eb%a6%ac%eb%8a%94-%ec%8b%9c%ec%84%a0vr-%eb%8b%a4%ec%8b%9c-%ec%a0%90%ea%b2%80%eb%8c%80%ec%97%90-%ec%98%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "마이크로소프트, ICE와 대규모 계약…‘도덕적 IT 기업’ 이미지 흔들려",
-      "desc": "지난 6년여 동안 마이크로소프트는 상대적으로 온건하고 책임감 있는 기술 기업이라는 이미지를 구축해 왔다. 메타, 구글, 아마존, 그리고 2024년 도널드 트럼프의 대통령 당선 이후의 애플과는 대비되는 행보를 보였기 때문이다.\n\n\n\n뉴욕타임스는 마이크로소프트가 “1...",
-      "link": "https://www.itworld.co.kr/article/4136973/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ice%ec%99%80-%eb%8c%80%ea%b7%9c%eb%aa%a8-%ea%b3%84%ec%95%bd%eb%8f%84%eb%8d%95%ec%a0%81-it-%ea%b8%b0%ec%97%85.html",
+      "title": "’13가지 생성형 AI 공격 수법’ 기업 시스템을 노리는 새로운 위협",
+      "desc": "AI는 기술 산업 전반을 재편하고 있으며, 사이버 범죄 생태계 역시 예외가 아니다. 공격자는 생성형 AI를 활용해 전술·기법·절차를 개선하고 더 빠르고 강력하며 은밀한 공격을 수행하고 있다.\n\n\n\n합법적 활용 사례와 마찬가지로, 현재까지 생성형 AI의 악용은 전례...",
+      "link": "https://www.itworld.co.kr/article/4137660/13%ea%b0%80%ec%a7%80-%ec%83%9d%ec%84%b1%ed%98%95-ai-%ea%b3%b5%ea%b2%a9-%ec%88%98%eb%b2%95-%ea%b8%b0%ec%97%85-%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%9d%84-%eb%85%b8%eb%a6%ac%eb%8a%94-%ec%83%88%eb%a1%9c.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "애플, 맥 미니 미국 생산 선언…휴스턴 공장 활용",
-      "desc": "애플이 올해 말부터 미국 휴스턴에서 맥 미니를 생산할 계획이라고 밝혔다. 미국 제조 확대를 지원하기 위한 회사의 전략이 본격적으로 추진되는 모습이다.\n\n\n\n도널드 트럼프 미국 대통령의 국정연설을 앞둔 시점에서 애플은 트럼프 행정부와 협력 의지를 보여주는 행보로 맥...",
-      "link": "https://www.itworld.co.kr/article/4136938/%ec%95%a0%ed%94%8c-%eb%a7%a5-%eb%af%b8%eb%8b%88-%eb%af%b8%ea%b5%ad-%ec%83%9d%ec%82%b0-%ec%84%a0%ec%96%b8%ed%9c%b4%ec%8a%a4%ed%84%b4-%ea%b3%b5%ec%9e%a5-%ed%99%9c%ec%9a%a9.html",
+      "title": "가짜 줌 초대 링크, 윈도우에 상용 감시 도구 심었다",
+      "desc": "연결 문제를 해결하는 팝업처럼 보이는 화면에 속은 직원 PC에 감시 소프트웨어가 설치되고 있다는 분석이 나왔다.\n\n\n\n최근 등장한 가짜 줌 회의 사기는 조용히 직원의 윈도우 PC에 감시 소프트웨어를 설치한다.\n\n\n\n보안 기업 멀웨어바이트(Malwarebytes) ...",
+      "link": "https://www.itworld.co.kr/article/4137630/%ea%b0%80%ec%a7%9c-%ec%a4%8c-%ec%b4%88%eb%8c%80-%eb%a7%81%ed%81%ac-%ec%9c%88%eb%8f%84%ec%9a%b0%ec%97%90-%ec%83%81%ec%9a%a9-%ea%b0%90%ec%8b%9c-%eb%8f%84%ea%b5%ac-%ec%8b%ac%ec%97%88%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "LG전자, ‘iF 디자인 어워드 2026’서  AI 홈 로봇 ‘클로이드’  포함 26개 본상 수상",
-      "desc": "LG전자가 iF 디자인 어워드 2026(International Forum Design Award 2026)에서 총 26개 상을 받았다. iF 디자인 어워드는 제품, 커뮤니케이션, 사용자 경험(UX), 사용자 인터페이스(UI), 패키지, 인테리어, 프로페셔널 컨셉...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38811",
+      "title": "추론형 LLM 학습 효율 대폭 개선...MIT 연구진 '강화학습 병목 해결', 정확도 유지하며 최대 2배 이상 속도 향상",
+      "desc": "MIT(매사추세츠공과대학교) 연구진이 인공지능(AI) 추론형 대형언어모델(LLM)의 학습 과정에서 발생하는 구조적 병목을 해결하는 새로운 시스템을 개발했다. 유휴 상태로 남는 연산 자원을 실시간으로 재활용해 학습 속도를 크게 높이면서도 모델 정확도는 그대로 유지하...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38836",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "아산재단, '대학원생 88명·대학생 410명' 총 498명에게 장학금 39억 원 전달",
-      "desc": "아산사회복지재단(이사장 정몽준)은 25일, 서울 송파구 서울아산병원 아산생명과학연구원 강당에서 2026년 장학증서 수여식을 개최했다. 아산재단은 이날 대학원생 88명, 대학생 410명 등 총 498명에게 장학금 39억 4천만 원을 전달했다.의생명과학분야 대학원 장...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38810",
+      "title": "엠클라우독, '클라우독' 보안 체계 고도화… AI 시대 지적 자산 보호 강화",
+      "desc": "문서중앙화 솔루션 전문 기업 엠클라우독(대표 유상열)이 자사의 핵심 솔루션인 ‘클라우독(Cloudoc)’의 보안성을 한 단계 끌어올린 신규 업데이트를 단행하며 기업의 데이터 거버넌스 강화에 나선다.오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38838",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "'AI로 빨라진 해킹, 사이버 공격 44% 급증'…IBM, ‘2026 X-포스 위협 인텔리전스 인덱스 발표",
-      "desc": "IBM이 2026년 사이버 위협 보고서를 통해 인공지능(AI)을 활용한 공격이 급증하고 있다고 경고했다. 기본적인 보안 취약점이 방치된 기업 환경이 AI 기반 공격 도구와 결합되면서, 침해 속도와 규모가 동시에 확대되고 있다는 분석이다.IBM은 25일(현지시간) ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38809",
+      "title": "올빅뎃, 의료 AI 데이터 기술력 입증과 인재 네트워크 확장 동시 가속",
+      "desc": "AI 데이터 가공 및 정제 솔루션 전문기업 올빅뎃(대표 이동재)이 대규모 의료 AI 데이터 구축 사업을 성공적으로 수행한 데 이어, 고경력 과학기술인과의 협력을 통한 비즈니스 확장에 나서며 데이터 생태계에서의 입지를 강화한다.오는 5월 6일(수)부터 8일(금)까지...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38837",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "애플, 美 제조 생태계 강화...휴스턴서 AI 서버·맥 미니 생산 동시 확대",
-      "desc": "애플(Apple)이 미국 내 제조 역량을 대폭 확대한다. 올해 말부터 텍사스 휴스턴 공장에서 맥 미니(Mac mini)를 처음으로 미국에서 생산하고, 첨단 인공지능(AI) 서버 생산도 본격적으로 늘린다.애플은 24일(현지시간) 텍사스주 휴스턴 제조 캠퍼스를 확장해...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38808",
+      "title": "페블러스, '데이터 가치 증명' 특허 등록… 데이터 산업의 '디지털 등기소' 구축",
+      "desc": "AI 데이터 품질관리 전문기업 페블러스(대표 이주행)가 인공지능(AI) 학습용 데이터의 가치를 높이고 거래 투명성을 보장하는 핵심 기술인 '가상 환경 기반의 데이터 가치 증명 시스템 및 방법'에 대한 특허 등록을 마쳤다.오는 5월 6일(수)부터 8일(금)까지 3일...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38835",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "앤트로픽, “고위험 AI 대응 투명성·책임성 강화”...책임 있는 확장 정책 3차 공개",
-      "desc": "생성형 AI 기업 앤트로픽(Anthropic)이 자사 인공지능 시스템의 재앙적 위험을 관리하기 위한 ‘책임 있는 확장 정책(Responsible Scaling Policy. 이하, RSP)’ 3차 개정안을 24일(현지시간) 공개했다. 기술 고도화 속도에 맞춰 내부...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38807",
+      "title": "클루닉스, AI 통합 플랫폼 ‘노바티어’ 출시… AI 시장 공략 가속화",
+      "desc": "AI 인프라 및 고성능 컴퓨팅(HPC) 전문 기업 클루닉스(공동대표 서진우, 김재균)가 AI 모델 개발부터 서비스 배포까지 전 과정을 지원하는 AI 전용 통합 플랫폼 ‘노바티어(NovaTier)’를 공식 출시하고 본격적인 시장 공략에 나선다.오는 5월 6일(수)부...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38834",
       "source": "AI Times"
     }
   ]
