@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-03-01T23:29:32.511Z",
+  "lastUpdated": "2026-03-02T23:32:23.502Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "오픈텍스트, ‘포레스터 웨이브’ 2026년 1분기 디지털 자산 관리 부문 리더 선정",
+      "desc": "글로벌 엔터프라이즈 정보관리 솔루션 기업 오픈텍스트(OpenText)가 글로벌 리서치 기관 포레스터리서치가 발표한 ‘포레스터 웨이브: 디지털 자산 관리 시스템, 2026년 1분기’ 보고서에서 디지털 자산 관리(DAM) 부문 리더로 선정됐다고 밝혔다.\n\n\n\n이번 보...",
+      "link": "https://www.itworld.co.kr/article/4138333/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ed%8f%ac%eb%a0%88%ec%8a%a4%ed%84%b0-%ec%9b%a8%ec%9d%b4%eb%b8%8c-2026%eb%85%84-1%eb%b6%84%ea%b8%b0-%eb%94%94%ec%a7%80%ed%84%b8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
       "title": "OLED 중심 구도에 균열 내는 미니 LED",
       "desc": "필자는 OLED 모니터를 선호한다. 최근 데스크톱 PC의 모니터도 4K OLED로 업그레이드했다. 하지만 과도기적 기술을 사용하는 느낌을 지울 수 없다.\n\n\n\nOLED는 뛰어난 명암비와 색 재현력으로 디스플레이 기술의 기준을 높였다. 다만 과거 플라즈마 TV가 결...",
       "link": "https://www.itworld.co.kr/article/4138277/oled-%ec%a4%91%ec%8b%ac-%ea%b5%ac%eb%8f%84%ec%97%90-%ea%b7%a0%ec%97%b4-%eb%82%b4%eb%8a%94-%eb%af%b8%eb%8b%88-led.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "03",
       "title": "RSA 2026 핵심 의제로 부상한 5가지 보안 트렌드",
       "desc": "RSA 2026 개막까지는 아직 몇 주가 남았지만 분위기는 이미 달아오르고 있다. 올해 주제는 ‘커뮤니티의 힘’이지만, 3월 23일부터 3월 26일까지 미국 샌프란시스코 모스콘 센터를 채울 대화의 중심은 인간이 아니라 AI 에이전트가 될 가능성이 높다.\n\n\n\n사이...",
       "link": "https://www.itworld.co.kr/article/4138196/rsa-2026-%ed%95%b5%ec%8b%ac-%ec%9d%98%ec%a0%9c%eb%a1%9c-%eb%b6%80%ec%83%81%ed%95%9c-5%ea%b0%80%ec%a7%80-%eb%b3%b4%ec%95%88-%ed%8a%b8%eb%a0%8c%eb%93%9c.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "04",
       "title": "앤트로픽, 버셉트 인수…AI 업무 자동화 강화",
       "desc": "앤트로픽이 미국 시애틀 기반 AI 신생업체 버셉트를 인수했다. 소프트웨어 애플리케이션을 직접 조작하는 AI 에이전트 시장에서 통합이 가속화되는 흐름을 보여준다.\n\n\n\n시애틀의 AI 특화 인큐베이터 A12 출신인 버셉트는 원격 맥북을 제어할 수 있는 클라우드 기반 ...",
       "link": "https://www.itworld.co.kr/article/4138189/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%eb%b2%84%ec%85%89%ed%8a%b8-%ec%9d%b8%ec%88%98ai-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b0%95%ed%99%94.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
+      "number": "05",
       "title": "브라우저가 곧 데이터베이스…로컬 퍼스트의 성숙",
       "desc": "한때 우리는 단순하고 프로그래밍 기능이 없는 콘솔을 갖춘 메인프레임을 사용했다. 모든 컴퓨팅 파워는 중앙에 집중됐다. 이후 빌 게이츠와 스티브 잡스가 책상마다 개인용 컴퓨터를 보급하면서 컴퓨팅 파워는 분산됐다. 인터넷이 등장하자 브라우저는 세계에서 가장 널리 쓰이...",
       "link": "https://www.itworld.co.kr/article/4138184/%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80%ea%b0%80-%ea%b3%a7-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b2%a0%ec%9d%b4%ec%8a%a4%eb%a1%9c%ec%bb%ac-%ed%8d%bc%ec%8a%a4%ed%8a%b8%ec%9d%98-%ec%84%b1%ec%88%99.html",
       "source": "ITWorld"
     },
     {
-      "number": "05",
-      "title": "링크드인, AI 시대 맞춰 ‘검증된 AI 역량’ 인증 도입",
-      "desc": "구직자가 링크드인 프로필에 어떤 역량을 보유했는지 기재할 수는 있지만, 그 역량을 실제로 보유했는지 검증하는 것은 일반적으로 채용 담당자 몫이었다.\n\n\n\n그러나 더 많은 기업이 지원자에게 AI 활용 능력을 요구하는 상황에서, 링크드인은 지원자가 주장하는 역량을 실...",
-      "link": "https://www.itworld.co.kr/article/4138175/%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-ai-%ec%8b%9c%eb%8c%80-%eb%a7%9e%ec%b6%b0-%ea%b2%80%ec%a6%9d%eb%90%9c-ai-%ec%97%ad%eb%9f%89-%ec%9d%b8%ec%a6%9d-%eb%8f%84%ec%9e%85.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "\"AI 에이전트 자율 실행 인프라\"... 알리바바, ‘오픈샌드박스’ 오픈소스로 공개",
-      "desc": "대형언어모델(LLM)이 코드를 직접 실행하고 웹을 브라우징하며 파일을 수정하는 '에이전틱 AI(Agentic AI)' 경쟁이 치열한 가운데, 알리바바(Alibaba)가 AI 에이전트 전용 오픈소스 실행 환경인 '오픈샌드박스(OpenSandbox)'를 전격 오픈소스...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38869",
+      "title": "K-콘텐츠 '스포츠·관광' 인공지능 전환 가속...콘진원, 2026년 문화체육관광 연구개발 102.75억원 신규과제 공모",
+      "desc": "문화체육관광부(장관 최휘영)와 한국콘텐츠진흥원(원장직무대행 유현석, 이하 콘진원)은 스포츠와 관광산업의 인공지능 전환(AX)을 가속하기 위해 ‘2026년 문화체육관광 연구개발사업 신규 과제 2차 통합공고’를 추진한다.이번 공고를 통해 총 102억 7천5백만 원 규...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38877",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "[AI 리뷰] 캘리포니아대-웨인주립대, 생성형 AI로 '조산 예측 모델' 개발...인간 연구팀 능가",
-      "desc": "캘리포니아대학교 샌프란시스코(University of California, San Francisco. 이하, UCSF)와웨인주립대학교(Wayne State University) 공동 연구진은 생성형 인공지능(AI)을 활용해 대규모 임신 건강 데이터를 분석하고 조산...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38868",
+      "title": "삼성전자, MWC26에서 갤럭시 AI 경험과 기술 혁신 선보여",
+      "desc": "삼성전자가 2일(현지시간) 스페인 바르셀로나에서 개막한 '모바일 월드 콩그레스 2026(Mobile World Congress 2026, MWC26)'에서 모바일을 넘어 갤럭시 생태계 전반으로 이어지는 '갤럭시 AI' 경험과 인공지능 기반 네트워크 혁신 기술을 선...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38876",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "[AI 리뷰] 머신러닝 기반 ‘맞춤형 암 백신’ 설계 모델... 예일대, '이뮤노스트럭트' 오픈소스로 공개",
-      "desc": "예일 대학교(Yale University) 연구진이 인공지능(AI) 머신러닝을 활용해 암 환자 맞춤형 백신 설계를 지원하는 새로운 모델 ‘이뮤노스트럭트(Immunostruct)’를 개발하고 오픈소스로 공개했다. 이번 연구는 암과 면역학 데이터에 해당 모델을 적용해...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38867",
+      "title": "화웨이, MWC 2026서 ‘에이전틱 코어’ 공개… 통신망을 AI 에이전트 플랫폼으로 전환",
+      "desc": "화웨이(Huawei)가 2일부터 5일(현지시간)까지 스페인 바르셀로나에서 개최되는 모바일 월드 콩그레스(Mobile World Congress) 2026(이하, MWC26)에서 통신사업자의 AI 네트워크 전환을 위한 ‘에이전틱 코어(Agentic Core)’ 솔루...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38875",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "삼성전자, 2030년까지 AI 자율공장으로 전환한다...스스로 실행하는 '에이전틱 AI' 제조 혁신에 적용",
-      "desc": "삼성전자는 2030년까지 국내외 생산 공장을 'AI 자율 공장(AI Driven Factory)'으로 전환한다고 1일 밝혔다. 인공지능 자율 공장은 제조 전 공정에 AI를 적극 적용한 공장이다.삼성전자는 자재 입고부터 생산·출하까지 전 공정에 디지털 트윈 기반 시...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38866",
+      "title": "SKT 정재헌 CEO, “담대한 변화 통해 대한민국 대표 ‘AI 혁신 엔진’ 만들 것”",
+      "desc": "SK텔레콤(CEO 정재헌)이 인공지능 대전환(AX)을 선도하기 위한 대대적 변화를 예고했다.정재헌 SKT CEO는 1일(현지 시간) MWC26 개막 하루 전 스페인 바르셀로나에서 기자간담회를 개최하고, AI 인프라의 재편과 대규모 투자 계획을 포함한 ‘AI 네이티...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38874",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "LG전자, 전북 완주 AI 데이터센터에 토털 HVAC 솔루션 공급",
-      "desc": "LG전자가 HVAC(냉난방공조, Heating, Ventilation and Air Conditioning) 분야의 앞선 기술력을 기반으로 전북 완주군에 건립 예정인 인공지능 데이터센터(AIDC)에 데이터센터향 토털 냉각솔루션 공급을 추진한다.LG전자는 최근 전라...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38865",
+      "title": "LG CNS, AI·로보틱스 등 세 자릿수 인재 확보 나섰다...상반기 대규모 경력 채용 실시",
+      "desc": "LG CNS(대표 현신균)가 올해 상반기 세 자릿수 규모의 경력직 채용을 실시하며 AI, 로보틱스 등 미래 핵심 사업 분야 전문가 확보에 나선다.이번 채용은 인공지능(AI), 로보틱스, 글로벌 금융, 컨설팅, 데이터센터, ERP, 스마트팩토리 등 주요 사업 전반에...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38873",
       "source": "AI Times"
     }
   ]
