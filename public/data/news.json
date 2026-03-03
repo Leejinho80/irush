@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-03-02T23:32:23.502Z",
+  "lastUpdated": "2026-03-03T23:32:34.545Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "오픈텍스트, ‘포레스터 웨이브’ 2026년 1분기 디지털 자산 관리 부문 리더 선정",
-      "desc": "글로벌 엔터프라이즈 정보관리 솔루션 기업 오픈텍스트(OpenText)가 글로벌 리서치 기관 포레스터리서치가 발표한 ‘포레스터 웨이브: 디지털 자산 관리 시스템, 2026년 1분기’ 보고서에서 디지털 자산 관리(DAM) 부문 리더로 선정됐다고 밝혔다.\n\n\n\n이번 보...",
-      "link": "https://www.itworld.co.kr/article/4138333/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ed%8f%ac%eb%a0%88%ec%8a%a4%ed%84%b0-%ec%9b%a8%ec%9d%b4%eb%b8%8c-2026%eb%85%84-1%eb%b6%84%ea%b8%b0-%eb%94%94%ec%a7%80%ed%84%b8.html",
+      "title": "메모리 가격 급등에 PC 값 17% 상승 전망… 기업 업그레이드 제동",
+      "desc": "전례를 찾기 어려울 정도로 큰 폭의 PC 가격 인상 추세가 단기간에 끝나지 않고 상당 기간 이어질 가능성이 크며, 그 영향으로 많은 기업이 당분간 신규 장비 도입이나 교체를 미루는 방향으로 움직일 것이라는 분석이 나왔다.\n\n\n\n가트너 애널리스트 란짓 아트왈이 기업...",
+      "link": "https://www.itworld.co.kr/article/4139641/%eb%a9%94%eb%aa%a8%eb%a6%ac-%ea%b0%80%ea%b2%a9-%ea%b8%89%eb%93%b1%ec%97%90-pc-%ea%b0%92-17-%ec%83%81%ec%8a%b9-%ec%a0%84%eb%a7%9d-%ea%b8%b0%ec%97%85-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "OLED 중심 구도에 균열 내는 미니 LED",
-      "desc": "필자는 OLED 모니터를 선호한다. 최근 데스크톱 PC의 모니터도 4K OLED로 업그레이드했다. 하지만 과도기적 기술을 사용하는 느낌을 지울 수 없다.\n\n\n\nOLED는 뛰어난 명암비와 색 재현력으로 디스플레이 기술의 기준을 높였다. 다만 과거 플라즈마 TV가 결...",
-      "link": "https://www.itworld.co.kr/article/4138277/oled-%ec%a4%91%ec%8b%ac-%ea%b5%ac%eb%8f%84%ec%97%90-%ea%b7%a0%ec%97%b4-%eb%82%b4%eb%8a%94-%eb%af%b8%eb%8b%88-led.html",
+      "title": "미 국방부 계약 둘러싼 논쟁 확산…”AI 가드레일 강제력 시험대 올라”",
+      "desc": "오픈AI가 미 정부에 인공지능 서비스를 공급하는 계약을 체결했다. 발표는 도널드 트럼프 미국 대통령이 금요일 인공지능 경쟁사 앤트로픽을 모든 미 정부 계약에서 배제하기로 결정한 지 수시간 만에 이뤄졌다.\n\n\n\n오픈AI 최고경영자 샘 올트먼은 일요일 X에 올린 글에...",
+      "link": "https://www.itworld.co.kr/article/4139638/%eb%af%b8-%ea%b5%ad%eb%b0%a9%eb%b6%80-%ea%b3%84%ec%95%bd-%eb%91%98%eb%9f%ac%ec%8b%bc-%eb%85%bc%ec%9f%81-%ed%99%95%ec%82%b0ai-%ea%b0%80%eb%93%9c%eb%a0%88%ec%9d%bc-%ea%b0%95%ec%a0%9c%eb%a0%a5.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "RSA 2026 핵심 의제로 부상한 5가지 보안 트렌드",
-      "desc": "RSA 2026 개막까지는 아직 몇 주가 남았지만 분위기는 이미 달아오르고 있다. 올해 주제는 ‘커뮤니티의 힘’이지만, 3월 23일부터 3월 26일까지 미국 샌프란시스코 모스콘 센터를 채울 대화의 중심은 인간이 아니라 AI 에이전트가 될 가능성이 높다.\n\n\n\n사이...",
-      "link": "https://www.itworld.co.kr/article/4138196/rsa-2026-%ed%95%b5%ec%8b%ac-%ec%9d%98%ec%a0%9c%eb%a1%9c-%eb%b6%80%ec%83%81%ed%95%9c-5%ea%b0%80%ec%a7%80-%eb%b3%b4%ec%95%88-%ed%8a%b8%eb%a0%8c%eb%93%9c.html",
+      "title": "25% 더 저렴해진 아이폰 17e, 고민할 이유 줄었다",
+      "desc": "애플은 오늘 오전 신제품 공개 주간을 시작하며 아이폰 17e와 아이패드 에어 M4를 공개했다. 당초 최신 보급형 스마트폰이 공개되더라도 업그레이드는 소폭에 그칠 것으로 예상됐지만, 실제로는 6가지 이상의 개선이 이뤄졌다. 더 견고하고 생동감 있는 디자인, 향상된 ...",
+      "link": "https://www.itworld.co.kr/article/4139626/25-%eb%8d%94-%ec%a0%80%eb%a0%b4%ed%95%b4%ec%a7%84-%ec%95%84%ec%9d%b4%ed%8f%b0-17e-%ea%b3%a0%eb%af%bc%ed%95%a0-%ec%9d%b4%ec%9c%a0-%ec%a4%84%ec%97%88%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "앤트로픽, 버셉트 인수…AI 업무 자동화 강화",
-      "desc": "앤트로픽이 미국 시애틀 기반 AI 신생업체 버셉트를 인수했다. 소프트웨어 애플리케이션을 직접 조작하는 AI 에이전트 시장에서 통합이 가속화되는 흐름을 보여준다.\n\n\n\n시애틀의 AI 특화 인큐베이터 A12 출신인 버셉트는 원격 맥북을 제어할 수 있는 클라우드 기반 ...",
-      "link": "https://www.itworld.co.kr/article/4138189/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%eb%b2%84%ec%85%89%ed%8a%b8-%ec%9d%b8%ec%88%98ai-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b0%95%ed%99%94.html",
+      "title": "LG CNS, 상반기 세 자릿수 경력 채용…AI·로보틱스 핵심 인재 확보 나서",
+      "desc": "LG CNS(064400, 대표 현신균)가 올해 상반기 세 자릿수 규모의 경력직 공개 채용을 실시하고 인공지능(AI)·로보틱스 등 미래 핵심 사업 분야 전문 인력 확보에 나선다.\n\n\n\n이번 채용은 ▲AI ▲로보틱스 ▲글로벌 금융 ▲컨설팅 ▲데이터센터 ▲전사적자원관...",
+      "link": "https://www.itworld.co.kr/article/4139610/lg-cns-%ec%83%81%eb%b0%98%ea%b8%b0-%ec%84%b8-%ec%9e%90%eb%a6%bf%ec%88%98-%ea%b2%bd%eb%a0%a5-%ec%b1%84%ec%9a%a9ai%c2%b7%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4-%ed%95%b5%ec%8b%ac-%ec%9d%b8.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "브라우저가 곧 데이터베이스…로컬 퍼스트의 성숙",
-      "desc": "한때 우리는 단순하고 프로그래밍 기능이 없는 콘솔을 갖춘 메인프레임을 사용했다. 모든 컴퓨팅 파워는 중앙에 집중됐다. 이후 빌 게이츠와 스티브 잡스가 책상마다 개인용 컴퓨터를 보급하면서 컴퓨팅 파워는 분산됐다. 인터넷이 등장하자 브라우저는 세계에서 가장 널리 쓰이...",
-      "link": "https://www.itworld.co.kr/article/4138184/%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80%ea%b0%80-%ea%b3%a7-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b2%a0%ec%9d%b4%ec%8a%a4%eb%a1%9c%ec%bb%ac-%ed%8d%bc%ec%8a%a4%ed%8a%b8%ec%9d%98-%ec%84%b1%ec%88%99.html",
+      "title": "애플 아이폰 17e에 맥세이프와 A19 탑재, 아쉬운 제한도 존재",
+      "desc": "애플이 3월 3일 자사 제품 발표 주간의 시작과 함께 아이폰 17e를 공개했다. 아이폰 17e는 지난해 출시된 아이폰 16e의 후속 모델로, 여러 실질적인 개선 사항이 반영됐다.\n\n\n\n예상대로 아이폰 17e는 맥세이프 충전을 지원하도록 업그레이드됐다. 아이폰 16...",
+      "link": "https://www.itworld.co.kr/article/4139603/%ec%95%a0%ed%94%8c-%ec%95%84%ec%9d%b4%ed%8f%b0-17e%ec%97%90-%eb%a7%a5%ec%84%b8%ec%9d%b4%ed%94%84%ec%99%80-a19-%ed%83%91%ec%9e%ac-%ec%95%84%ec%89%ac%ec%9a%b4-%ec%a0%9c%ed%95%9c%eb%8f%84-%ec%a1%b4.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "K-콘텐츠 '스포츠·관광' 인공지능 전환 가속...콘진원, 2026년 문화체육관광 연구개발 102.75억원 신규과제 공모",
-      "desc": "문화체육관광부(장관 최휘영)와 한국콘텐츠진흥원(원장직무대행 유현석, 이하 콘진원)은 스포츠와 관광산업의 인공지능 전환(AX)을 가속하기 위해 ‘2026년 문화체육관광 연구개발사업 신규 과제 2차 통합공고’를 추진한다.이번 공고를 통해 총 102억 7천5백만 원 규...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38877",
+      "title": "GPU 4천 장 3월부터 푼다… 과기정통부, “AI 인프라 전면전” 시동",
+      "desc": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 과기정통부)는 2025년 1차 추가경정예산을 통해 확보한 그래픽처리장치(GPU) 1만 장 중 현재 공급할 수 있는 약 4천 장 지원 대상을 선정하고 3월부터 공급을 시작할 계획이라고 3일 밝혔다.동 사업은...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38889",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "삼성전자, MWC26에서 갤럭시 AI 경험과 기술 혁신 선보여",
-      "desc": "삼성전자가 2일(현지시간) 스페인 바르셀로나에서 개막한 '모바일 월드 콩그레스 2026(Mobile World Congress 2026, MWC26)'에서 모바일을 넘어 갤럭시 생태계 전반으로 이어지는 '갤럭시 AI' 경험과 인공지능 기반 네트워크 혁신 기술을 선...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38876",
+      "title": "마음AI, “로봇이 스스로 진화하는 시대 개막”...‘제1호 피지컬AI 데이터팩토리’ 개소",
+      "desc": "인공지능(AI) 전문 기업 ㈜마음에이아이(대표이사 유태준)가 3일, 경기도 성남 본사에 ‘제1호 AI 데이터팩토리(Physical AI Data Factory)’를 개소하고 본격적인 가동에 들어갔다.이번 데이터팩토리는 산업용 로봇이 현장에서 생성하는 데이터를 체계...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38888",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "화웨이, MWC 2026서 ‘에이전틱 코어’ 공개… 통신망을 AI 에이전트 플랫폼으로 전환",
-      "desc": "화웨이(Huawei)가 2일부터 5일(현지시간)까지 스페인 바르셀로나에서 개최되는 모바일 월드 콩그레스(Mobile World Congress) 2026(이하, MWC26)에서 통신사업자의 AI 네트워크 전환을 위한 ‘에이전틱 코어(Agentic Core)’ 솔루...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38875",
+      "title": "한-싱가포르 AI 커넥트 서밋 개최… “AI로 아시아 혁신 허브 도약”",
+      "desc": "대한민국과 싱가포르가 인공지능(AI)을 매개로 전략적 산업 파트너십을 본격화한다. 양국은 지난 2일(싱가포르 현지시간) 투자·연구·산업 협력을 3대 축으로 ‘한-싱가포르 AI 커넥트 서밋’을 열고, 자본·인재·기술을 연결하는 협력 프레임워크를 제시했다.이날 이재명...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38887",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "SKT 정재헌 CEO, “담대한 변화 통해 대한민국 대표 ‘AI 혁신 엔진’ 만들 것”",
-      "desc": "SK텔레콤(CEO 정재헌)이 인공지능 대전환(AX)을 선도하기 위한 대대적 변화를 예고했다.정재헌 SKT CEO는 1일(현지 시간) MWC26 개막 하루 전 스페인 바르셀로나에서 기자간담회를 개최하고, AI 인프라의 재편과 대규모 투자 계획을 포함한 ‘AI 네이티...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38874",
+      "title": "“클릭 한 번으로 모델 교체” 몬드리안에이아이, AI 교차 검증 플랫폼 ‘Runyour Agent’ 베타 출시",
+      "desc": "AI 전환(AX) 전문 기업 몬드리안에이아이(대표 홍대의)가 전 세계 최신 AI 모델들을 하나의 플랫폼에서 자유롭게 경험할 수 있는 멀티 모델 AI 에이전트 서비스 ‘Runyour Agent’의 베타 버전을 3일 정식 공개했다.‘Runyour Agent’는 특정 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38886",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "LG CNS, AI·로보틱스 등 세 자릿수 인재 확보 나섰다...상반기 대규모 경력 채용 실시",
-      "desc": "LG CNS(대표 현신균)가 올해 상반기 세 자릿수 규모의 경력직 채용을 실시하며 AI, 로보틱스 등 미래 핵심 사업 분야 전문가 확보에 나선다.이번 채용은 인공지능(AI), 로보틱스, 글로벌 금융, 컨설팅, 데이터센터, ERP, 스마트팩토리 등 주요 사업 전반에...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38873",
+      "title": "디노티시아, 장기기억 AI 구현 위한 ‘AI Storage’ 전략 공식화...추론 특화 인프라 전략 제시",
+      "desc": "생성형 AI 확산과 함께 데이터 활용 방식이 근본적으로 바뀌고 있다. 과거에는 사람이 필요한 데이터를 수동으로 검색했다면, 이제는 인공지능이 스토리지에 저장된 원천 데이터를 직접 탐색하고 추론 과정에 활용하는 방향으로 변화하고 있다.그동안 활용되지 않던 방대한 비...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38885",
       "source": "AI Times"
     }
   ]
