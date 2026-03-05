@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-03-04T23:35:45.001Z",
+  "lastUpdated": "2026-03-05T23:54:38.013Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "토스인사이트, 원화 스테이블코인 경제적 영향 분석 보고서 발간",
-      "desc": "토스(운영사 비바리퍼블리카)의 금융경영연구소 ‘토스인사이트’가 4일 스테이블코인 3부작의 마지막 보고서인 「원화 스테이블코인 도입의 경제적 영향 분석 및 정책 제언」을 발간했다.\n\n\n\n이번 보고서는 앞서 공개한 「스테이블코인: 새로운 금융 인프라의 부상」, 「달러...",
-      "link": "https://www.itworld.co.kr/article/4140168/%ed%86%a0%ec%8a%a4%ec%9d%b8%ec%82%ac%ec%9d%b4%ed%8a%b8-%ec%9b%90%ed%99%94-%ec%8a%a4%ed%85%8c%ec%9d%b4%eb%b8%94%ec%bd%94%ec%9d%b8-%ea%b2%bd%ec%a0%9c%ec%a0%81-%ec%98%81%ed%96%a5-%eb%b6%84%ec%84%9d.html",
+      "title": "에이전트를 위한 핀옵스 : 루프 제한, 툴 호출 상한, 에이전틱 SaaS의 새로운 단위 경제",
+      "desc": "필자의 팀이 실제 SaaS 워크플로우에 처음 에이전트를 배포했을 때 제품 데모는 얼핏 완벽해 보였다. 그러나 프로덕션 청구서는 그렇지 않았다. 일부 세션에서 까다로운 예외 상황에 직면하자 에이전트는 일반적인 패턴처럼 더 많은 시도를 반복했다. 계획을 다시 세우고 ...",
+      "link": "https://www.itworld.co.kr/article/4141454/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%95%80%ec%98%b5%ec%8a%a4-%eb%a3%a8%ed%94%84-%ec%a0%9c%ed%95%9c-%ed%88%b4-%ed%98%b8%ec%b6%9c-%ec%83%81%ed%95%9c-%ec%97%90.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "“다시 문제는 네트워킹” AI 시대 개발자가 인프라에 신경 써야 하는 이유",
-      "desc": "클라우드의 큰 선물 중 하나는 인프라 운영에서 이른바 ‘표시 나지 않는 않는 고된 작업’을 AWS 같은 서비스 업체가 대신 떠안아줬다는 점이다. 컴퓨팅이 필요하면 버튼을 누르고, 스토리지가 필요하면 또 다른 버튼을 누르면 됐다. 데이터베이스가 필요해도 세부 운영은...",
-      "link": "https://www.itworld.co.kr/article/4140335/%eb%8b%a4%ec%8b%9c-%eb%ac%b8%ec%a0%9c%eb%8a%94-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%82%b9-ai-%ec%8b%9c%eb%8c%80-%ea%b0%9c%eb%b0%9c%ec%9e%90%ea%b0%80-%ec%9d%b8%ed%94%84%eb%9d%bc%ec%97%90.html",
+      "title": "마리아DB에서 주목할 만한 새 기능 5가지",
+      "desc": "MariaDB는 오라클이 MySQL을 인수한 이후 MySQL 포크로 출발했지만, 시간이 지나면서 스스로의 길을 개척해왔다. 오픈소스 RDBMS인 MariaDB는 최근 몇 차례의 주요 개정판을 거치며 독자적인 기능을 추가하고 MySQL과의 호환성을 강화하는 한편 오...",
+      "link": "https://www.itworld.co.kr/article/4141450/%eb%a7%88%eb%a6%ac%ec%95%84db%ec%97%90%ec%84%9c-%ec%a3%bc%eb%aa%a9%ed%95%a0-%eb%a7%8c%ed%95%9c-%ec%83%88-%ea%b8%b0%eb%8a%a5-5%ea%b0%80%ec%a7%80.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "디지털 직원 경험의 재정의…AI 시대 IT 운영의 중심으로",
-      "desc": "인력 감소 문제를 해결하기 위해 디지털 직원 경험(Digital Employee Experience, DEX) 도구와 서비스 배포에 나선 기업이 많다. 일부는 디지털 직원 경험을 직원 만족도를 개선하여 유지하는 열쇠로 보고 있다.\n\n\n\n디지털 직원 경험이란?\n\n\n...",
-      "link": "https://www.itworld.co.kr/article/3550449/%ed%95%98%ec%9d%b4%eb%b8%8c%eb%a6%ac%eb%93%9c-%ec%97%85%eb%ac%b4%ed%99%98%ea%b2%bd%ea%b3%bc-%eb%8c%80%ed%87%b4%ec%a7%81-%ec%8b%9c%eb%8c%80%ec%9d%98-%ed%95%b4%ea%b2%b0-%eb%b0%a9%ec%95%88-%eb%94%94.html",
+      "title": "탐지 회피에 집중하는 공격자들…AI와 공급망 공격 결합",
+      "desc": "인터넷 초창기부터 지금까지 적대적 활동은 멈춘 적이 없다. 크라우드스트라이크가 최근 발표한 12회 연례 글로벌 위협 보고서에 따르면 사이버 공간에서의 악의적 활동은 속도를 더 높이고 있을 뿐만 아니라 규모를 확대하고 표적 기업의 신뢰를 악용하는 경우도 늘고 있다....",
+      "link": "https://www.itworld.co.kr/article/4141444/%ed%83%90%ec%a7%80-%ed%9a%8c%ed%94%bc%ec%97%90-%ec%a7%91%ec%a4%91%ed%95%98%eb%8a%94-%ea%b3%b5%ea%b2%a9%ec%9e%90%eb%93%a4ai%ec%99%80-%ea%b3%b5%ea%b8%89%eb%a7%9d-%ea%b3%b5%ea%b2%a9-%ea%b2%b0.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "네이처 메디신 게재 연구, 챗GPT 신규 건강 서비스에 경고",
-      "desc": "국제 학술지 네이처 메디신(Nature Medicine)에 게재된 한 연구가 오픈AI의 건강 상담 서비스 챗GPT 헬스 안전성에 우려를 제기했다. 가디언 보도에 따르면 실제로 응급 치료가 필요했던 다수 사례에서 챗GPT 서비스가 응급 진료를 권고하지 못했다.\n\n\n...",
-      "link": "https://www.itworld.co.kr/article/4140216/%eb%84%a4%ec%9d%b4%ec%b2%98-%eb%a9%94%eb%94%94%ec%8b%a0-%ea%b2%8c%ec%9e%ac-%ec%97%b0%ea%b5%ac-%ec%b1%97gpt-%ec%8b%a0%ea%b7%9c-%ea%b1%b4%ea%b0%95-%ec%84%9c%eb%b9%84%ec%8a%a4%ec%97%90-%ea%b2%bd.html",
+      "title": "워크데이, 2026회계연도 매출 95억 달러…AI 기반 인사·재무 플랫폼 성장 지속",
+      "desc": "미국 캘리포니아 플레젠튼에 본사를 둔 기업용 인사·재무 인공지능 플랫폼 기업 워크데이가 2026년 1월 31일 마감된 2026회계연도 4분기 및 연간 실적을 발표했다.\n\n\n\n워크데이의 2026회계연도 4분기 총매출은 25억3,200만 달러로 전년 동기 대비 14....",
+      "link": "https://www.itworld.co.kr/article/4140896/%ec%9b%8c%ed%81%ac%eb%8d%b0%ec%9d%b4-2026%ed%9a%8c%ea%b3%84%ec%97%b0%eb%8f%84-%eb%a7%a4%ec%b6%9c-95%ec%96%b5-%eb%8b%ac%eb%9f%acai-%ea%b8%b0%eb%b0%98-%ec%9d%b8%ec%82%ac%c2%b7%ec%9e%ac.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "M1 재해석한 맥북 네오, 진짜 보급형 될까",
-      "desc": "애플이 M5 맥북 에어, M5 프로, M5 맥스 맥북 프로를 공식 발표했다. 전체 라인업에서 기본 저장 용량과 성능은 상향됐고, 가격도 함께 올랐다. 기본형 맥북 에어 가격은 100달러 인상됐으며, M5 프로와 M5 맥스 맥북 프로 모델은 더 큰 폭의 가격 상승이...",
-      "link": "https://www.itworld.co.kr/article/4140198/m1-%ec%9e%ac%ed%95%b4%ec%84%9d%ed%95%9c-%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-%ec%a7%84%ec%a7%9c-%eb%b3%b4%ea%b8%89%ed%98%95-%eb%90%a0%ea%b9%8c.html",
+      "title": "AI 시대에 스토리지와 컴퓨팅 분리 구조가 흔들리는 이유",
+      "desc": "지난 10년 이상 동안 클라우드 아키텍처는 스토리지와 컴퓨팅을 의도적으로 분리하는 구조를 중심으로 구축돼 왔다. 이 모델에서 스토리지는 단순히 데이터를 보관하는 공간이 되었고, 지능적인 처리는 전적으로 컴퓨팅 계층에서 수행됐다.\n\n\n\n이 설계는 구조화된 테이블 기...",
+      "link": "https://www.itworld.co.kr/article/4140887/ai-%ec%8b%9c%eb%8c%80%ec%97%90-%ec%8a%a4%ed%86%a0%eb%a6%ac%ec%a7%80%ec%99%80-%ec%bb%b4%ed%93%a8%ed%8c%85-%eb%b6%84%eb%a6%ac-%ea%b5%ac%ec%a1%b0%ea%b0%80-%ed%9d%94%eb%93%a4%eb%a6%ac%eb%8a%94-%ec%9d%b4.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "일론 머스크, “테슬라가 AGI 개발 기업 중 하나…휴머노이드·물리적 구현 형태는 아마도 최초 될 것”",
-      "desc": "일론 머스크(Elon Musk) CEO가 4일(현지시간) 자신이 운영하는 소셜미디어 플랫폼 X(엑스)를 통해 “테슬라는 범용 인공지능(AGI)를 만드는 기업 중 하나가 될 것이며, 특히 휴머노이드 혹은 ‘원자 단위 조형(atom-shaping)’ 형태에서는 아마도...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38911",
+      "title": "느낌만 말해도 폰트가 나온다… 모노타입, 자연어 기반 폰트 검색 ‘AI 서치’ 출시",
+      "desc": "글로벌 폰트 및 서체 기술 기업 모노타입(Monotype)이 인공지능 기반 자연어 폰트 검색 기능 ‘AI 서치(AI Search)’를 출시했다. 디자이너가 원하는 분위기나 아이디어를 문장으로 입력하면 적합한 폰트를 찾아주는 기능으로, 기존의 복잡한 필터 기반 검색...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38933",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "양차오빈 화웨이 CEO, “AI 시대 가속, 5G-A 상용화로 모바일 가치 창출해야”",
-      "desc": "화웨이(Huawei)의 양차오빈(Yang Chaobin) ICT 비즈니스 그룹 CEO는 3일(현지시간) 스페인 바르셀로나에서 열린 ‘MWC26(MWC Barcelona 2026)’ 기조연설에서 “모두가 AI의 고속 트랙에 접근할 수 있도록 산업 전반의 협력이 필요...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38910",
+      "title": "SKT, MWC26서 AI 경쟁력 세계에 알렸다...AI 인프라·모델 ·서비스 아우른 ‘풀스택 AI’ 아이템 27개 선보여",
+      "desc": "SK텔레콤(CEO 정재헌)은 지난 2일(현지시각)부터 5일까지 나흘간 스페인 바르셀로나에서 열린 MWC26에 참가해 다수의 관람객과 해외 기관·매체, 글로벌 기업의 관심 속에 다양한 성과를 거뒀다고 6일 밝혔다.SKT는 이번 MWC26에서 관람객들이 가장 많이 찾...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38932",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "유엔 구테흐스 사무총장, “인류 위한 AI 방향 설정, 지금이 골든타임”…‘AI 국제과학패널’, 마리아 레사·요슈아 벤지오 공동의장 선출",
-      "desc": "안토니오 구테흐스(António Guterres) 유엔(United Nations) 사무총장이 3일(현지시간) ‘독립 국제 인공지능 과학패널(Independent International Scientific Panel on AI)’ 첫 화상회의를 통해 인공지능(A...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38909",
+      "title": "화웨이 '시에 리밍' 사장, “AI 에이전트 상용화 막는 데이터 병목 풀겠다”...기업용 ‘AI 데이터 플랫폼’ 제시",
+      "desc": "스페인 바르셀로나에서 열린 ‘MWC26(MWC Barcelona 2026)’에서 화웨이(Huawei)가 기업용 인공지능 도입을 가속하기 위한 새로운 데이터 인프라 플랫폼을 공개했다. 이는 기업들이 보유한 방대한 데이터를 실제 AI 서비스로 전환하는 과정에서 발생하...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38931",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "액센추어,  AI 인프라 경쟁력 강화 포석 '우클라' 인수… 네트워크 데이터·AI 결합 가속",
-      "desc": "액센추어(Accenture)가 우클라(Ookla)를 인수한다. 네트워크 인텔리전스와 고객 경험 분석 역량을 확보해 인공지능(AI) 기반 디지털 전환 시장 공략을 강화하겠다는 전략이다.3일(현지시간) 발표된 이번 계약에 따라 액센추어는 우클라의 데이터 플랫폼과 주요...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38908",
+      "title": "“단돈 88만원, 맥북 가격이 무너졌다?”… 애플, AI 노트북 ‘맥북 네오’ 공개",
+      "desc": "애플이 역대 가장 저렴한 가격의 맥북을 공개하며 글로벌 ‘보급형 AI 노트북’ 시장에 새로운 변화를 예고했다.애플은 4일(현지시간) 새로운 보급형 노트북 ‘맥북 네오’를 공개했다. 일반은 599달러(약 88만원)로 교육용은 499달러(약 73만원)로 시작한다. 이...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38930",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "질병관리청, 영국보건안보청과 AI 기반 감염병 대응 협력 본격화",
-      "desc": "질병관리청(청장 임승관)은 지난 2일(현지시간) 영국 런던에서 영국보건안보청(UK Health Security Agency, UKHSA / CEO 수잔 홉킨스)과 감염병 대비·대응 및 보건안보 협력 강화를 위한 양해각서(MOU)를 갱신하였다. 영국보건안보청은 영국...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38907",
+      "title": "AI가 물리학자 일자리 뺏나?…오픈AI 'GPT-5.2 프로', ‘양자중력 난제’ 수학 공식 찾아",
+      "desc": "오픈AI가 인공지능을 활용해 양자중력 연구에서 새로운 수학적 결과를 도출했다고 발표했다. 특히 이번 연구에서는 AI 모델이 이론 물리학 문제의 해법을 제안하고 논문 초안 작성까지 수행한 것으로 알려져 학계의 주목을 받고 있다.오픈AI는 4일(현지시간) ‘단일 음 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38929",
       "source": "AI Times"
     }
   ]
