@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T23:28:24.726Z",
+  "lastUpdated": "2026-03-08T23:29:50.195Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "트럼프 대통령, ‘미국 사이버 전략’ 발표…\"인공지능·양자 기술로 디지털 안보 재편\"",
+      "desc": "미국 백악관은 6일(현지시간) ‘트럼프 대통령의 미국 사이버 전략(President Trump’s Cyber Strategy for America)’을 발표하고 사이버 공간에서 미국의 안보와 기술 우위를 유지하기 위한 새로운 정책 방향을 제시했다. 이번 전략은 사...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38955",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
+      "title": "앨런AI연구소, 트랜스포머와 RNN 결합한 7B 모델 ‘올모 하이브리드’ 오픈소스로 공개",
+      "desc": "글로벌 인공지능 연구기관 美 앨런 인공지능 연구소(Allen Institute for AI, 이하 AI2)가 트랜스포머와 순환신경망(RNN)을 결합한 70억(7B) 파라미터 규모의 완전 오픈 하이브리드 언어모델 ‘올모 하이브리드(Olmo Hybrid)’를 지난 5...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38954",
+      "source": "AI Times"
+    },
+    {
+      "number": "08",
+      "title": "국제공동 R&D 통해 제조업 AX전환 등 지원...총 2322억원, 산업기술국제협력사업 통합 시행계획 공고",
+      "desc": "산업통상부(장관 김정관)는 국내 산·학·연과 해외 우수 R&D 기관과의 공동연구개발(R&D)을 지원하는 2026년도 산업기술국제협력사업 통합 시행계획을 9일부터 공고한다.우리 기업의 기술혁신을 촉진하고, 해외 우수 첨단기술 확보 및 해외시장 개척 등을 지원하기 위...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38953",
+      "source": "AI Times"
+    },
+    {
+      "number": "09",
       "title": "관세청, 인공지능 혁신의 대장정 개막 ···‘AI 관세행정 추진단’ 출범",
       "desc": "관세청(청장 이명구)은 6일, 서울본부세관에서 이명구 관세청장 주재로 ‘인공지능(AI) 관세행정 추진단’(이하 “추진단”) 발대식을 개최하고, 관세행정 전반의 인공지능 혁신을 체계적으로 추진하기 위한 전담 조직을 출범했다.관세청은 지난해 ‘인공지능으로 공정성장을 ...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=38952",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "10",
       "title": "기획예산처 임기근 차관, AI 휴머노이드 로봇 기업 '로브로스' 현장 방문",
       "desc": "임기근 기획예산처 장관직무대리 차관은 6일, 서울시 성동구 소재 휴머노이드 로봇 개발 기업 ㈜로브로스(대표 노승준)를 방문하여 인공지능(AI)·로봇 분야 중점관리대상 사업의 집행상황을 점검하고, 현장의 애로사항과 개선방안을 논의하였다.정부는 초혁신경제 실현을 뒷받...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=38951",
-      "source": "AI Times"
-    },
-    {
-      "number": "08",
-      "title": "美 트럼프 대통령, ‘AI 데이터센터 전기요금 보호 서약’ 체결…빅테크 “전력 비용 직접 부담”",
-      "desc": "美 백악관은 5일(현지시간) 미국의 주요 기술 기업들과 함께 ‘전기 요금 부담 완화 서약(Ratepayer Protection Pledge-보기)’ 체결식을 열고 인공지능 데이터센터(AIDC) 확장에 따른 전력 수요 증가가 가정용 전기요금 상승으로 이어지지 않도록...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38950",
-      "source": "AI Times"
-    },
-    {
-      "number": "09",
-      "title": "중기부-방사청, \"방산분야 문턱 낮춘다\". AI·드론·로봇 등 혁신 중소기업 진입 유도",
-      "desc": "중소벤처기업부(장관 한성숙. 이하, 중기부), 방위사업청(청장 이용철. 이하, 방사청)은 6일, 이노비즈기업, 방산혁신기업 및 방산체계기업 등과 혁신 중소벤처기업의 방산분야 진입장벽 완화 및 글로벌 방산시장 개척방안을 논의하였다.중기부와 방사청은 지난 2월 23일...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38949",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "의료 현장의 행정 부담 줄이는 ‘에이전틱 AI’ 등장…AWS, ‘아마존 커넥트 헬스’ 출시",
-      "desc": "아마존 웹 서비스(AWS)가 의료기관의 행정 업무 부담을 줄이고 환자 진료 접근성을 높이기 위한 새로운 인공지능(AI) 솔루션을 공개했다.AWS는 5일(현지시간) 의료기관과 환자를 위한 에이전틱 AI 기반 솔루션 ‘아마존 커넥트 헬스(Amazon Connect H...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38948",
       "source": "AI Times"
     }
   ]
