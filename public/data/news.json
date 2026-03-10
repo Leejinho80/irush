@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-03-09T23:33:35.856Z",
+  "lastUpdated": "2026-03-10T23:33:31.258Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "“윈도우 노트북이 낫다 vs 최고의 가성비 맥북” 맥북 네오 논쟁이 드러낸 사실",
-      "desc": "지난주 맥북 네오가 공개되기 전까지 온라인에서는 가격이 지나치게 높을 것이라는 전망이 우세했다. 그러다가 화요일에 맥북 에어 제품군을 조정하면서 기존 999달러였던 맥북 에어 가격 구간 아래에 신제품이 들어설 것이라는 점이 분명해졌고, 그 신제품이 바로 맥북 네오...",
-      "link": "https://www.itworld.co.kr/article/4142146/%ec%9c%88%eb%8f%84%ec%9a%b0-%eb%85%b8%ed%8a%b8%eb%b6%81%ec%9d%b4-%eb%82%ab%eb%8b%a4-vs-%ec%b5%9c%ea%b3%a0%ec%9d%98-%ea%b0%80%ec%84%b1%eb%b9%84-%eb%a7%a5%eb%b6%81-%eb%a7%a5%eb%b6%81.html",
+      "title": "M5 맥스 맥북 프로 리뷰 : 성능은 예상 범위 안, SSD는 기대 이상",
+      "desc": "M 시리즈 맥스 칩을 탑재한 맥북 프로는 애플 제품 중 가장 빠른 노트북이다. 가격은 프리미엄 수준이지만 성능도 가격에 어울리는 수준이다. 이동 환경에서도 데스크톱에 가까운 성능이 필요한 사용자에게 적합하다.\n\n\n\nM5 맥스 맥북 프로는 이전 모델인 M4 맥스와 ...",
+      "link": "https://www.itworld.co.kr/article/4142754/m5-%eb%a7%a5%ec%8a%a4-%eb%a7%a5%eb%b6%81-%ed%94%84%eb%a1%9c-%eb%a6%ac%eb%b7%b0-%ec%84%b1%eb%8a%a5%ec%9d%80-%ec%98%88%ec%83%81-%eb%b2%94%ec%9c%84-%ec%95%88-ssd%eb%8a%94-%ea%b8%b0%eb%8c%80-%ec%9d%b4.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "보급형 아이패드가 애플 신제품 발표에서 빠진 이유",
-      "desc": "애플이 지난주 아이폰 17e, 맥북 네오, 그리고 M4 칩을 탑재한 아이패드 에어 등 여러 신제품을 공개했다. 지난주까지는 애플이 새로운 보급형 아이패드도 개발 중이라는 보도와 함께, 보급형 아이패드도 지난주 공개 대상에 포함될 것이라는 전망이 널리 제기됐다.\n\n...",
-      "link": "https://www.itworld.co.kr/article/4142129/%eb%b3%b4%ea%b8%89%ed%98%95-%ec%95%84%ec%9d%b4%ed%8c%a8%eb%93%9c%ea%b0%80-%ec%95%a0%ed%94%8c-%ec%8b%a0%ec%a0%9c%ed%92%88-%eb%b0%9c%ed%91%9c%ec%97%90%ec%84%9c-%eb%b9%a0%ec%a7%84-%ec%9d%b4%ec%9c%a0.html",
+      "title": "에이전트를 위한 코딩은 따분해야 한다",
+      "desc": "LLM과 AI 에이전트가 소프트웨어 엔지니어링에서 중요한 이유는 초인적 속도로 코드를 작성할 수 있기 때문이 아니다. 앞서 강조했듯 적절한 가드레일이 없으면 그런 속도는 결국 기술 부채를 대량 생산하는 결과로 이어질 뿐이다. 에이전트 기반 코딩이 중요한 이유는 좋...",
+      "link": "https://www.itworld.co.kr/article/4142740/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%bd%94%eb%94%a9%ec%9d%80-%eb%94%b0%eb%b6%84%ed%95%b4%ec%95%bc-%ed%95%9c%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "기업이 여전히 멀티클라우드에 서툰 이유",
-      "desc": "2026년 현재 필자가 접한 대부분 기업은 처음부터 명확한 전략을 세워 멀티클라우드를 도입한 것이 아니라, 현실에 떠밀려 멀티클라우드 환경에 들어섰다. 인수합병은 서로 다른 플랫폼 위에서 돌아가는 워크로드를 끌고 들어온다. 제품팀은 납기 일정에 가장 잘 맞는 클라...",
-      "link": "https://www.itworld.co.kr/article/4142138/%ea%b8%b0%ec%97%85%ec%9d%b4-%ec%97%ac%ec%a0%84%ed%9e%88-%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%ec%84%9c%ed%88%b0-%ec%9d%b4%ec%9c%a0.html",
+      "title": "오픈AI의 코덱스 시큐리티, 한 달간 고위험 취약점 1만 1,000건 발견",
+      "desc": "오픈AI의 새로운 애플리케이션 보안 에이전트 코덱스 시큐리티(Codex Security)가 연구 테스트 첫 30일 동안 실제 코드베이스에서 1만 1,000건이 넘는 고위험 및 치명적 취약점을 발견했다. 소프트웨어 저장소에서 취약점을 자동으로 탐지·검증·수정하도록 ...",
+      "link": "https://www.itworld.co.kr/article/4142728/%ec%98%a4%ed%94%88ai%ec%9d%98-%ec%bd%94%eb%8d%b1%ec%8a%a4-%ec%8b%9c%ed%81%90%eb%a6%ac%ed%8b%b0-%ed%95%9c-%eb%8b%ac%ea%b0%84-%ea%b3%a0%ec%9c%84%ed%97%98-%ec%b7%a8%ec%95%bd%ec%a0%90-1%eb%a7%8c-1000.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "클라우드 아키텍트, IT 직군 중 최고 수준 연봉 기록",
-      "desc": "필자는 클라우드 컴퓨팅 도구가 등장할 때마다 클라우드 직무의 부상과 쇠퇴를 지켜봤다. 초기의 리프트 앤드 시프트 방식부터 최근의 플랫폼 엔지니어링, AI 대응 데이터 플랫폼, 기본 보안 적용 아키텍처에 이르기까지 변화가 이어졌다. 그러나 꾸준히 높은 수요를 유지한...",
-      "link": "https://www.itworld.co.kr/article/4142127/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%95%84%ed%82%a4%ed%85%8d%ed%8a%b8-it-%ec%a7%81%ea%b5%b0-%ec%a4%91-%ec%b5%9c%ea%b3%a0-%ec%88%98%ec%a4%80-%ec%97%b0%eb%b4%89-%ea%b8%b0%eb%a1%9d.html",
+      "title": "마이크로소프트, ‘AI 직원 시대’ 준비하나",
+      "desc": "마이크로소프트 전문가 메리 조 폴리가 마이크로소프트가 곧 새로운 SKU인 마이크로소프트 365 E7을 출시할 것으로 보인다고 전했다. 폴리는 지난주 마이크로소프트 365 E7 출시가 “인간 직원처럼 에이전트형 노동자를 라이선스로 제공하려는 마이크로소프트 전략의 핵...",
+      "link": "https://www.itworld.co.kr/article/4142688/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%ec%a7%81%ec%9b%90-%ec%8b%9c%eb%8c%80-%ec%a4%80%eb%b9%84%ed%95%98%eb%82%98.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "애플의 보급형 맥북 네오가 윈도우 OEM 시장에 준 충격",
-      "desc": "애플이 지난주 수요일 신제품 발표를 이어가며 시작가 99만원(599달러) 가격대의 맥북 네오를 공개했다. 지난해 밍치 궈가 제기한 전망이 사실로 확인됐다. 맥북 네오는 13인치 맥 노트북으로 A18 프로 칩을 탑재했다. 모바일 프로세서를 탑재한 최초의 맥이며, 애...",
-      "link": "https://www.itworld.co.kr/article/4142089/%ec%95%a0%ed%94%8c%ec%9d%98-%eb%b3%b4%ea%b8%89%ed%98%95-%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4%ea%b0%80-%ec%9c%88%eb%8f%84%ec%9a%b0-oem-%ec%8b%9c%ec%9e%a5%ec%97%90-%ec%a4%80-%ec%b6%a9%ea%b2%a9.html",
+      "title": "오픈텍스트, 전력·수자원 인프라 운영기관 위한 ‘AI 준비 전략’ 제시",
+      "desc": "오픈텍스트 코리아가 전력·수자원 인프라 운영기관이 인공지능(AI)을 효과적으로 도입하고 활용할 수 있도록 지원하는 ‘AI 준비(AI-Ready)’ 전략을 제시했다.\n\n\n\n전력 및 수자원 인프라 운영기관은 최근 전력 수요 증가, 노후 설비 관리, 숙련 인력 부족, ...",
+      "link": "https://www.itworld.co.kr/article/4141497/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%a0%84%eb%a0%a5%c2%b7%ec%88%98%ec%9e%90%ec%9b%90-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%9a%b4%ec%98%81%ea%b8%b0%ea%b4%80-%ec%9c%84%ed%95%9c-ai.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "카카오, 학계와 AI 협력 프로그램 ‘카나나 스칼라’ 출범... AI·컴퓨팅 분야 교수 7인 참여하는 자문 그룹 발족",
-      "desc": "카카오(대표이사 정신아)는 학계 전문가 및 미래 인재와의 교류를 위한 인공지능 협력 프로그램 ‘카나나 스칼라(Kanana Scholar)’를 출범하고, 전문가 자문 그룹의 발족식을 진행했다고 9일 밝혔다.‘카나나 스칼라’는 카카오의 AI 전략과 기술을 학계와 함께...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38973",
+      "title": "[AI 리뷰] BMW, 독일 공장에 휴머노이드 로봇 투입… 유럽 최초, 자동차 생산에 ‘피지컬 AI’ 첫 적용",
+      "desc": "독일 자동차 제조사 BMW 그룹(BMW Group)이 자동차 생산 공정에 휴머노이드 로봇을 활용한 ‘피지컬 AI(Physical AI)’ 기술 도입을 본격화한다.BMW그룹은 최근 독일 라이프치히(Leipzig) 공장에서 휴머노이드 로봇을 활용한 파일럿 프로젝트를 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38996",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "메타노멀리, 서브컬처(2D) 창작 플랫폼 ‘PixAI’... 차세대 플래그십 AI 모델 '츠바키.2 발표",
-      "desc": "글로벌 인공지능(AI) 서브컬처(2D) 창작 플랫폼 ‘픽스에이아이(PixAI)’를 운영하는 일본의 메타노멀리(Metanomaly K.K.)는 차세대 플래그십 AI 모델 '츠바키.2(Tsubaki.2)’를 전격 발표하고 이날부터 선행 체험(얼리 액세스)을 시작했다고...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38972",
+      "title": "국가 인공지능 컴퓨팅 센터 구축 사업, 우선협상대상자로 삼성SDS 컨소시엄 선정",
+      "desc": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 과기정통부)는 대한민국 인공지능(AI) 경쟁력의 핵심 기반이 될 국가 인공지능 컴퓨팅 센터 구축 사업의 우선협상대상자로 삼성SDS 연합체(컨소시엄)를 선정했다고 10일 밝혔다.이번 사업은 공공의 마중물 투...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38994",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "현대차·기아, 국토부 '자율주행 실증도시 조성사업' 중 'K-자율주행 협력모델' 2개 부문 선정",
-      "desc": "현대·기아는 국토교통부 주관 '자율주행 실증도시 조성사업'의 일환으로 추진되는 'K-자율주행 협력모델'의 자동차 제작사와 운송 플랫폼사로 각각 선정됐다고 9일 밝혔다.'자율주행 실증도시 조성사업'은 국내 최초로 도시 단위에서 자율주행 기술을 실증하는 사업으로 광주...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38971",
+      "title": "“딥페이크 선거 가짜뉴스, 이번엔 못 속인다”… 행안부·국과수, 더 진화한 탐지기술로 지방선거 방어",
+      "desc": "정부가 선거를 겨냥한 딥페이크 영상·음성 조작 범죄에 강력히 대응하기 위해 최첨단 인공지능(AI) 탐지 기술을 현장에 본격적으로 활용한다.행정안전부(장관 윤호중, 이하 행안부)는 국립과학수사연구원(이하 국과수)과 함께 개발한 ‘AI 딥페이크 탐지 모델’을 오는 6...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38993",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "퀄컴 자회사 아두이노, 생성형 AI·로봇용 엣지 플랫폼 ‘벤투노 큐’ 공개...로컬 LLM·로봇 제어 통합",
-      "desc": "퀄컴 자회사이자 선도적인 오픈 소스 하드웨어 및 소프트웨어 제공업체이자 인터랙티브 프로젝트 제작을 위한 접근성 높은 플랫폼 '아두이노(Arduino)'가 생성형 인공지능(AI)과 로보틱스, 자동화 시스템 개발을 위한 새로운 엣지 AI 플랫폼 '벤투노 큐(VENTU...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38970",
+      "title": "AI 보안 기술 확보 나선 '오픈AI', 인공지능 보안 스타트업 프롬프트푸 인수",
+      "desc": "오픈AI (OpenAI)가 기업용 인공지능 보안 역량 강화를 위해 AI 보안 스타트업 프롬프트푸(Promptfoo) 인수를 추진한다.오픈AI는 9일(현지시간) 프롬프트푸를 인수해 해당 기술을 자사의 AI 코워커(AI coworker) 플랫폼 프론티어(OpenAI ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38992",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "\"AI 판단 과정 더 투명해진다\"… MIT, 설명가능성 높인 머신러닝 기법 공개",
-      "desc": "의료 진단이나 자율주행과 같은 안전성이 중요한 분야에서 인공지능(AI)이 어떤 이유로 특정 예측을 내렸는지 설명하는 능력은 신뢰 확보의 핵심 요소로 꼽힌다. 이러한 가운데 MIT 연구진이 AI 모델의 판단 근거를 보다 명확하게 설명할 수 있도록 하는 새로운 방법을...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38969",
+      "title": "美 방산 플랫폼 '모빅스랩스', “AI 드론으로 숨겨진 위협 실시간 탐지”… 국방·인프라 감시 플랫폼 개발",
+      "desc": "미국 캘리포니아 어바인에 본사를 둔 기업으로 군사, 항공우주 및 국가 안보 분야에 필수적인 방위 기술과 첨단 감지 솔루션을 제공하는 모빅스랩스(Mobix Labs)가 인공지능(AI) 기반 드론 감시 플랫폼 개발을 본격화하고 있다.모빅스랩스는 9일(현지시간) AI와...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38991",
       "source": "AI Times"
     }
   ]
