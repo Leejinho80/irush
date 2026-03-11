@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-03-10T23:33:31.258Z",
+  "lastUpdated": "2026-03-11T23:32:07.186Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "M5 맥스 맥북 프로 리뷰 : 성능은 예상 범위 안, SSD는 기대 이상",
-      "desc": "M 시리즈 맥스 칩을 탑재한 맥북 프로는 애플 제품 중 가장 빠른 노트북이다. 가격은 프리미엄 수준이지만 성능도 가격에 어울리는 수준이다. 이동 환경에서도 데스크톱에 가까운 성능이 필요한 사용자에게 적합하다.\n\n\n\nM5 맥스 맥북 프로는 이전 모델인 M4 맥스와 ...",
-      "link": "https://www.itworld.co.kr/article/4142754/m5-%eb%a7%a5%ec%8a%a4-%eb%a7%a5%eb%b6%81-%ed%94%84%eb%a1%9c-%eb%a6%ac%eb%b7%b0-%ec%84%b1%eb%8a%a5%ec%9d%80-%ec%98%88%ec%83%81-%eb%b2%94%ec%9c%84-%ec%95%88-ssd%eb%8a%94-%ea%b8%b0%eb%8c%80-%ec%9d%b4.html",
+      "title": "AI 전문 네오클라우드를 멀티클라우드의 일부로 운영해야 하는 이유",
+      "desc": "기업은 클라우드 예산을 폭증시키지 않으면서도 눈에 보이고 측정 가능하며 반복 가능한 AI 성과를 내야 한다는 강한 압박을 받고 있다. 네오클라우드(Neocloud)가 등장한 이유가 여기에 있다. 네오클라우드는 하이퍼스케일러가 제공하는 방대한 범용 서비스 카탈로그보...",
+      "link": "https://www.itworld.co.kr/article/4143413/ai-%ec%a0%84%eb%ac%b8-%eb%84%a4%ec%98%a4%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%eb%a5%bc-%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%9d%98-%ec%9d%bc%eb%b6%80%eb%a1%9c-%ec%9a%b4%ec%98%81.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "에이전트를 위한 코딩은 따분해야 한다",
-      "desc": "LLM과 AI 에이전트가 소프트웨어 엔지니어링에서 중요한 이유는 초인적 속도로 코드를 작성할 수 있기 때문이 아니다. 앞서 강조했듯 적절한 가드레일이 없으면 그런 속도는 결국 기술 부채를 대량 생산하는 결과로 이어질 뿐이다. 에이전트 기반 코딩이 중요한 이유는 좋...",
-      "link": "https://www.itworld.co.kr/article/4142740/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%bd%94%eb%94%a9%ec%9d%80-%eb%94%b0%eb%b6%84%ed%95%b4%ec%95%bc-%ed%95%9c%eb%8b%a4.html",
+      "title": "맥북 네오 긍정적 반응 확산…애플, 보급형 PC 시장 공략 본격화",
+      "desc": "맥북 네오가 출시된 이후 초기 반응은 대체로 긍정적이다. 크롬북과 중급 윈도우 노트북 시장을 잠식하며 보급형 PC 시장의 경쟁 기준을 바꿀 가능성이 있다는 분석이다.\n\n\n\n애플 맥 제품 마케팅 부문 부사장 토마스 보거는 지난주 제품 발표 행사에서 “더 저렴한 맥북...",
+      "link": "https://www.itworld.co.kr/article/4143404/%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-%ea%b8%8d%ec%a0%95%ec%a0%81-%eb%b0%98%ec%9d%91-%ed%99%95%ec%82%b0%ec%95%a0%ed%94%8c-%eb%b3%b4%ea%b8%89%ed%98%95-pc-%ec%8b%9c%ec%9e%a5-%ea%b3%b5%eb%9e%b5.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "오픈AI의 코덱스 시큐리티, 한 달간 고위험 취약점 1만 1,000건 발견",
-      "desc": "오픈AI의 새로운 애플리케이션 보안 에이전트 코덱스 시큐리티(Codex Security)가 연구 테스트 첫 30일 동안 실제 코드베이스에서 1만 1,000건이 넘는 고위험 및 치명적 취약점을 발견했다. 소프트웨어 저장소에서 취약점을 자동으로 탐지·검증·수정하도록 ...",
-      "link": "https://www.itworld.co.kr/article/4142728/%ec%98%a4%ed%94%88ai%ec%9d%98-%ec%bd%94%eb%8d%b1%ec%8a%a4-%ec%8b%9c%ed%81%90%eb%a6%ac%ed%8b%b0-%ed%95%9c-%eb%8b%ac%ea%b0%84-%ea%b3%a0%ec%9c%84%ed%97%98-%ec%b7%a8%ec%95%bd%ec%a0%90-1%eb%a7%8c-1000.html",
+      "title": "“AI 과하면 부하 온다” 정신적 피로 ‘브레인 프라이’ 유발…HBR",
+      "desc": "AI를 과도하게 사용할 경우 뇌가 심하게 지치는 이른바 ‘브레인 프라이(brain fry)’ 현상이 나타날 수 있다는 연구 결과가 나왔다.\n\n\n\n브레인 프라이는 AI 도구를 지나치게 사용할 때 발생하는 정신적 피로 상태를 의미한다. 사람이 감당할 수 있는 인지 능...",
+      "link": "https://www.itworld.co.kr/article/4143378/ai-%ea%b3%bc%ed%95%98%eb%a9%b4-%eb%b6%80%ed%95%98-%ec%98%a8%eb%8b%a4-%ec%a0%95%ec%8b%a0%ec%a0%81-%ed%94%bc%eb%a1%9c-%eb%b8%8c%eb%a0%88%ec%9d%b8-%ed%94%84%eb%9d%bc%ec%9d%b4.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "마이크로소프트, ‘AI 직원 시대’ 준비하나",
-      "desc": "마이크로소프트 전문가 메리 조 폴리가 마이크로소프트가 곧 새로운 SKU인 마이크로소프트 365 E7을 출시할 것으로 보인다고 전했다. 폴리는 지난주 마이크로소프트 365 E7 출시가 “인간 직원처럼 에이전트형 노동자를 라이선스로 제공하려는 마이크로소프트 전략의 핵...",
-      "link": "https://www.itworld.co.kr/article/4142688/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%ec%a7%81%ec%9b%90-%ec%8b%9c%eb%8c%80-%ec%a4%80%eb%b9%84%ed%95%98%eb%82%98.html",
+      "title": "교육 할인 적용된 맥북 네오, 애플이 겨냥하는 차세대 맥 사용자 확대 전략",
+      "desc": "수년 동안 크롬북과 저가 윈도우 노트북은 교육 시장을 장악해 왔다. 가장 큰 이유는 공격적인 가격 전략이다. 일부 모델은 200달러 이하에 판매되며 대규모 도입이 쉽다. 성숙한 운영체제, 더 큰 화면, 기본 탑재된 키보드, 더 풍부한 기능 덕분에 보급형 아이패드보...",
+      "link": "https://www.itworld.co.kr/article/4143363/%ea%b5%90%ec%9c%a1-%ed%95%a0%ec%9d%b8-%ec%a0%81%ec%9a%a9%eb%90%9c-%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-%ec%95%a0%ed%94%8c%ec%9d%b4-%ea%b2%a8%eb%83%a5%ed%95%98%eb%8a%94-%ec%b0%a8%ec%84%b8%eb%8c%80.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "오픈텍스트, 전력·수자원 인프라 운영기관 위한 ‘AI 준비 전략’ 제시",
-      "desc": "오픈텍스트 코리아가 전력·수자원 인프라 운영기관이 인공지능(AI)을 효과적으로 도입하고 활용할 수 있도록 지원하는 ‘AI 준비(AI-Ready)’ 전략을 제시했다.\n\n\n\n전력 및 수자원 인프라 운영기관은 최근 전력 수요 증가, 노후 설비 관리, 숙련 인력 부족, ...",
-      "link": "https://www.itworld.co.kr/article/4141497/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%a0%84%eb%a0%a5%c2%b7%ec%88%98%ec%9e%90%ec%9b%90-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%9a%b4%ec%98%81%ea%b8%b0%ea%b4%80-%ec%9c%84%ed%95%9c-ai.html",
+      "title": "노트북 터치스크린이 힘을 잃은 이유",
+      "desc": "필자가 리뷰하는 대다수 윈도우 11 노트북은 터치스크린을 탑재했다. 이런 흐름은 당분간 바뀌지 않을 전망이다. 2026년 CES 현장에서 직접 사용해 본 다수의 노트북 역시 대부분 터치스크린을 갖추고 있었다. 하지만 PC 제조사가 터치스크린을 적극적으로 강조하는 ...",
+      "link": "https://www.itworld.co.kr/article/4143323/%eb%85%b8%ed%8a%b8%eb%b6%81-%ed%84%b0%ec%b9%98%ec%8a%a4%ed%81%ac%eb%a6%b0%ec%9d%b4-%ed%9e%98%ec%9d%84-%ec%9e%83%ec%9d%80-%ec%9d%b4%ec%9c%a0.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "[AI 리뷰] BMW, 독일 공장에 휴머노이드 로봇 투입… 유럽 최초, 자동차 생산에 ‘피지컬 AI’ 첫 적용",
-      "desc": "독일 자동차 제조사 BMW 그룹(BMW Group)이 자동차 생산 공정에 휴머노이드 로봇을 활용한 ‘피지컬 AI(Physical AI)’ 기술 도입을 본격화한다.BMW그룹은 최근 독일 라이프치히(Leipzig) 공장에서 휴머노이드 로봇을 활용한 파일럿 프로젝트를 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38996",
+      "title": "“술 마셨죠?”… AI가 운전자 얼굴만 보고 '음주·졸음' 운전 잡는다",
+      "desc": "호주 에디스코완대학교(Edith Cowan University. 이하, ECU) 연구진이 운전자의 얼굴 영상을 분석해 음주와 졸음, 감정 상태까지 동시에 탐지할 수 있는 인공지능(AI) 기반 운전 안전 기술을 개발했다고 11일(현지시간) 밝혔다.이 솔루션은 단일 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39017",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "국가 인공지능 컴퓨팅 센터 구축 사업, 우선협상대상자로 삼성SDS 컨소시엄 선정",
-      "desc": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 과기정통부)는 대한민국 인공지능(AI) 경쟁력의 핵심 기반이 될 국가 인공지능 컴퓨팅 센터 구축 사업의 우선협상대상자로 삼성SDS 연합체(컨소시엄)를 선정했다고 10일 밝혔다.이번 사업은 공공의 마중물 투...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38994",
+      "title": "MIT, 로봇 장기 시각 작업 계획하는 생성형 AI 시스템 개발...로봇 내비게이션·멀티로봇 협업 효율 향상 기대",
+      "desc": "미국 매사추세츠공과대학교(Massachusetts Institute of Technology, MIT) 연구진이 로봇 내비게이션과 조립 작업 등 복잡한 시각 기반 작업을 보다 효율적으로 계획할 수 있는 생성형 인공지능(AI) 시스템을 개발했다.해당 기술은 기존 방...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39016",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "“딥페이크 선거 가짜뉴스, 이번엔 못 속인다”… 행안부·국과수, 더 진화한 탐지기술로 지방선거 방어",
-      "desc": "정부가 선거를 겨냥한 딥페이크 영상·음성 조작 범죄에 강력히 대응하기 위해 최첨단 인공지능(AI) 탐지 기술을 현장에 본격적으로 활용한다.행정안전부(장관 윤호중, 이하 행안부)는 국립과학수사연구원(이하 국과수)과 함께 개발한 ‘AI 딥페이크 탐지 모델’을 오는 6...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38993",
+      "title": "GIST AI융합학과 박사 졸업생 4명, 중앙대·DGIST·조선대·광운대 조교수 임용",
+      "desc": "광주과학기술원(GIST·지스트, 총장 임기철)은 AI융합학과 졸업생 4명이 최근 국내 주요 대학 교수로 임용됐다. 이번에 임용된 졸업생은 박진휘·배인환·김원·박영재 박사로, 각각 중앙대학교 첨단영상대학원, 대구경북과학기술원(DGIST) 전기전자컴퓨터공학과, 조선대...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39015",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "AI 보안 기술 확보 나선 '오픈AI', 인공지능 보안 스타트업 프롬프트푸 인수",
-      "desc": "오픈AI (OpenAI)가 기업용 인공지능 보안 역량 강화를 위해 AI 보안 스타트업 프롬프트푸(Promptfoo) 인수를 추진한다.오픈AI는 9일(현지시간) 프롬프트푸를 인수해 해당 기술을 자사의 AI 코워커(AI coworker) 플랫폼 프론티어(OpenAI ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38992",
+      "title": "엔비디아, “AI는 5단 케이크”…에너지부터 애플리케이션까지 ‘AI 인프라 스택’ 제시",
+      "desc": "엔비디아(NVIDIA)가 인공지능(AI)을 구성하는 핵심 구조를 ‘5단 케이크’로 비유하며, AI가 현대 사회를 지탱하는 핵심 인프라로 자리잡고 있다고 강조했다. AI는 단순한 애플리케이션이나 모델이 아니라 전력과 반도체, 데이터센터 인프라 위에서 작동하는 산업 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39014",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "美 방산 플랫폼 '모빅스랩스', “AI 드론으로 숨겨진 위협 실시간 탐지”… 국방·인프라 감시 플랫폼 개발",
-      "desc": "미국 캘리포니아 어바인에 본사를 둔 기업으로 군사, 항공우주 및 국가 안보 분야에 필수적인 방위 기술과 첨단 감지 솔루션을 제공하는 모빅스랩스(Mobix Labs)가 인공지능(AI) 기반 드론 감시 플랫폼 개발을 본격화하고 있다.모빅스랩스는 9일(현지시간) AI와...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=38991",
+      "title": "복지부,  보건복지 정책 문서 이용조건 완화...\"AI 학습이 가능한 데이터로 전환한다\"",
+      "desc": "보건복지부(장관 정은경)는 복지부(관계 공공기관 포함)가 발간하는 규정집 등 공공저작물이 인공지능(AI) 학습데이터로 활용될 수 있도록 공공저작물 자유이용 허락표시 기준(이하 ‘공공누리’) 유형전환(종전 - 4유형: 변경금지, 상업적 이용금지, 출처명시/ 개선 -...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39012",
       "source": "AI Times"
     }
   ]
