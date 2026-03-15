@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T23:33:41.173Z",
+  "lastUpdated": "2026-03-15T23:34:26.238Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "英 국립보건서비스-구글, 유방암 진단 AI 혁신… “기존 방식이 놓친 암 25% 더 찾아냈다”",
-      "desc": "인공지능(AI)이 기존 유방암 검진 체계의 사각지대였던 ‘간격암(Interval Cancers)’을 찾아내는 데 획기적인 성과를 거두었다. 구글과 영국 국립보건서비스(National Health Service, NHS), 임페리얼 칼리지 런던(Imperial Co...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39062",
+      "title": "AWS, 세레브라스와 초고속 AI 추론 서비스 제공한다…LLM 추론 속도 대폭 향상 목표",
+      "desc": "아마존 웹 서비스(AWS)가 인공지능 반도체 기업 세레브라스 시스템즈(Cerebras Systems)와 협력해 클라우드 환경에서 초고속 AI 추론 서비스를 제공하는 새로운 인프라를 구축한다.AWS는 지난 13일(현지시간) 세레브라스와 협력을 통해 생성형 AI와 대...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39068",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "NEC, 사람의 심리 상태 읽는 ‘피지컬 AI’ 개발… “스트레스 줄이는 로봇 시대 연다”",
-      "desc": "NEC(NEC Corporation)가 사람의 움직임뿐만 아니라 심리적 상태까지 예측하여 로봇의 동작을 선제적으로 제어하는 세계 최초의 ‘피지컬 AI(Physical AI)’ 기술을 개발했다고 12일 밝혔다. 이 기술은 로봇이 사람에게 줄 수 있는 스트레스를 정량...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39061",
+      "title": "현대차그룹 자율주행 합작법인 모셔널, 라스베이거스에서 우버와 AI 기반 로보택시 시범 서비스",
+      "desc": "현대자동차그룹의 자율주행 합작법인 모셔널(Motional)이 미국 라스베이거스에서 우버(Uber)와 함께 아이오닉 5 로보택시를 이용한 로보택시 시범 서비스를 개시한다고 15일 밝혔다.운영 지역은 ‘리조트 월드 라스베이거스(Resorts World Las Vega...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39067",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "카카오, 미래 기술 인재 양성 지속 확대… ‘카카오테크 부트캠프’ 교육생 150명 모집",
-      "desc": "카카오(대표 정신아)는 실무형 개발 인재 양성을 위한 교육 프로그램인 ‘카카오테크 부트캠프’ 4기 교육생 모집을 이달 22일까지 진행한다.카카오테크 부트캠프는 현장에 즉시 활용 가능한 역량을 갖춘 개발자 양성을 목표로 2022년부터 운영 중인 상생 교육 프로그램이...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39060",
+      "title": "현대제철, 현대건설과 부유식 해상풍력 독자모델 공동개발...시장 경쟁력 강화 추진",
+      "desc": "현대제철이 현대건설과 손잡고 해상풍력용 철강재 시장 확대를 통한 경쟁력 강화에 나선다.현대제철은 지난 13일 당진 현대제철 연수원에서 현대건설과 '부유식 해상풍력 독자모델 공동개발 업무협약'을 체결했다고 15일 밝혔다.이번 협약식에는 현대제철 정유동 연구개발본부장...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39066",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "마벨, AI 데이터센터 ‘연결 병목’ 해결사 나선다...1.6T 광학 DSP 포트폴리오 대폭 확장",
-      "desc": "데이터 인프라 반도체 솔루션 선도기업 마벨 테크놀로지(Marvell Technology)가 차세대 인공지능 데이터센터(AIDC)의 핵심인 1.6T(테라비트) 연결성을 확보하기 위한 광학 DSP(디지털 신호 처리기) 플랫폼 포트폴리오를 대폭 확장했다.이는 800G(...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39059",
+      "title": "구글, AI 지도 시대 연다…대화형 ‘Ask Maps’와 3D 내비게이션 공개",
+      "desc": "구글(Google)이 지도 서비스에 생성형 인공지능(Generative AI)을 본격 통합하며 지도 플랫폼의 기능을 대폭 확장했다. 지도에 질문하면 답을 제공하는 대화형 탐색 기능과 현실 기반 3차원 내비게이션을 도입해 기존 길찾기 중심 서비스에서 AI 기반 현실...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39065",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "퍼플렉시티, 기업용 자율형 에이전트 ‘컴퓨터 포 엔터프라이즈’ 공개… “4주 만에 3년치 업무 완수”",
-      "desc": "대화형 AI 검색의 패러다임을 바꾼 퍼플렉시티(Perplexity)가 기업의 업무 방식을 근본적으로 혁신할 자율형 AI 에이전트 솔루션 ‘컴퓨터 포 엔터프라이즈(Computer for Enterprise)’를 12일(현지시간) 공개했다. 퍼플렉시티는 이 서비스가 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39057",
+      "title": "AI 기반 네트워크 운영 도입해 광화문 K-pop 공연 대비한다... SKT, 'A-One’ 첫 가동",
+      "desc": "오는 21일, BTS 컴백 공연 등 서울 광화문 일대에서 열리는 대형 K-pop 공연에 대비해 인공지능(AI) 기반 네트워크 운영 시스템을 도입한 특별 통신 대책이 마련됐다.이번 공연은 광화문과 서울시청 일대에서 진행된다. 티켓 관람객 2만2000명을 포함, 경찰...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39064",
       "source": "AI Times"
     }
   ]
