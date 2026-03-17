@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-03-16T23:36:23.747Z",
+  "lastUpdated": "2026-03-17T23:37:50.118Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "누구나 시도할 수 있는 라즈베리 파이 활용 프로젝트 10가지",
-      "desc": "라즈베리 파이 단일 보드 컴퓨터와 다양한 파생 모델은 DIY 애호가와 취미 개발자에게 큰 관심을 받아왔다. 최신 모델인 라즈베리 파이 5에서는 미니 PC 성능이 한층 강화됐으며, 4코어 2.4GHz 시스템온칩(SoC) 업그레이드를 통해 이전 세대보다 최대 3배까지...",
-      "link": "https://www.itworld.co.kr/article/4145375/%eb%88%84%ea%b5%ac%eb%82%98-%ec%8b%9c%eb%8f%84%ed%95%a0-%ec%88%98-%ec%9e%88%eb%8a%94-%eb%9d%bc%ec%a6%88%eb%b2%a0%eb%a6%ac-%ed%8c%8c%ec%9d%b4-%ed%99%9c%ec%9a%a9-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-10.html",
+      "title": "99만원 맥북 네오 직접 써보니…보급형 맥북의 기준이 달라졌다",
+      "desc": "맥북 네오는 아마도 2020년 M1 맥 이후 애플이 선보인 가장 파격적인 맥일 것이다. 99만원(599달러)라는 저렴한 가격으로 맥의 핵심 사용 경험을 구현했고, 현재 구입할 수 있는 저가형 노트북 가운데 가장 경쟁력 있는 제품으로 평가된다. 출시 직후 미국 아마...",
+      "link": "https://www.itworld.co.kr/article/4146035/99%eb%a7%8c%ec%9b%90-%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-%ec%a7%81%ec%a0%91-%ec%8d%a8%eb%b3%b4%eb%8b%88-%eb%b3%b4%ea%b8%89%ed%98%95-%eb%a7%a5%eb%b6%81%ec%9d%98-%ea%b8%b0%ec%a4%80%ec%9d%b4.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "13인치 맥북 에어(M5) 리뷰 : 꾸준한 성능 향상이 경쟁력",
-      "desc": "지난 4년 동안 맥북 에어를 사용한 사람이라면, M5 칩을 탑재한 새 모델에서도 거의 같은 경험을 할 것이다. 가장 인기 있는 노트북인 맥북 에어는 크게 달라지지 않았다. 핵심은 M5 칩이 탑재됐다는 것이다. 맥북 에어는 매년 꾸준한 성능 향상을 보여주고 있다.\n...",
-      "link": "https://www.itworld.co.kr/article/4145328/13%ec%9d%b8%ec%b9%98-%eb%a7%a5%eb%b6%81-%ec%97%90%ec%96%b4m5-%eb%a6%ac%eb%b7%b0-%ea%be%b8%ec%a4%80%ed%95%9c-%ec%84%b1%eb%8a%a5-%ed%96%a5%ec%83%81%ec%9d%b4-%ea%b2%bd%ec%9f%81%eb%a0%a5.html",
+      "title": "AI 확산에 달라지는 사이버 보험…보안 수준 따라 보험료 갈린다",
+      "desc": "2025년 7월, 맥도날드는 예상하지 못한 문제에 직면했다. 채용 지원자 모집과 선별에 사용하던 AI 기반 채용 플랫폼 ‘맥하이어’와 관련된 보안 문제였다. 패러독스.ai가 개발한 시스템에서 초보 수준의 보안 취약점이 존재했다. 매장 운영자가 사용하는 백엔드 시스...",
+      "link": "https://www.itworld.co.kr/article/4146031/ai-%ed%99%95%ec%82%b0%ec%97%90-%eb%8b%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b4%ed%97%98%eb%b3%b4%ec%95%88-%ec%88%98%ec%a4%80-%eb%94%b0%eb%9d%bc-%eb%b3%b4%ed%97%98.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "“AI 코딩 공장의 역설” 남는 것은 취약한 시스템과 폭증한 운영 비용",
-      "desc": "지난 몇 년 동안 필자는 이사회 회의실에서 같은 이야기가 스스로 설득력을 얻는 장면을 지켜봤다. “소프트웨어는 곧 공짜가 될 것이다”라는 이야기이다. LLM은 코드를 작성할 수 있고, 코드 작성은 개발자가 하는 일의 대부분을 차지한다는 논리다. 이 논리에 따르면,...",
-      "link": "https://www.itworld.co.kr/article/4145317/ai-%ec%bd%94%eb%94%a9-%ea%b3%b5%ec%9e%a5%ec%9d%98-%ec%97%ad%ec%84%a4-%eb%82%a8%eb%8a%94-%ea%b2%83%ec%9d%80-%ec%b7%a8%ec%95%bd%ed%95%9c-%ec%8b%9c%ec%8a%a4%ed%85%9c%ea%b3%bc-%ed%8f%ad.html",
+      "title": "AI 프로그래밍의 한계를 절감하고 있는 아마존",
+      "desc": "기업은 성가시고 비용이 많이 드는 개발자를 AI로 대체할 수 있다는 점을 반긴다. 예를 들어 아틀라시안(Atlassian)은 AI에 더 많은 자금을 투입하기 위해 직원의 10%인 약 1,600명을 해고했다. 블록(Block, 옛 스퀘어)의 CEO 잭 도시는 최근 ...",
+      "link": "https://www.itworld.co.kr/article/4146025/ai-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d%ec%9d%98-%ed%95%9c%ea%b3%84%eb%a5%bc-%ec%a0%88%ea%b0%90%ed%95%98%ea%b3%a0-%ec%9e%88%eb%8a%94-%ec%95%84%eb%a7%88%ec%a1%b4.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "서버 사이드인가, 클라이언트 사이드인가…현대 웹 아키텍처의 해법",
-      "desc": "지난 수십 년 동안 웹 아키텍처는 익숙한, 솔직히 말해 이제 신물이 나는 패턴을 따라왔다. 지배적인 접근방식이 등장해 광범위하게 채택되고, 이후 실제 환경에서 균열이 드러나면서 결국 지난 접근방식이 망가뜨린 모든 것을 고치겠다고 약속하는 새로운 “모범 사례”로 대...",
-      "link": "https://www.itworld.co.kr/article/4144724/%ec%84%9c%eb%b2%84-%ec%82%ac%ec%9d%b4%eb%93%9c%ec%9d%b8%ea%b0%80-%ed%81%b4%eb%9d%bc%ec%9d%b4%ec%96%b8%ed%8a%b8-%ec%82%ac%ec%9d%b4%eb%93%9c%ec%9d%b8%ea%b0%80%ed%98%84%eb%8c%80-%ec%9b%b9.html",
+      "title": "애플, 에어팟 맥스 2 깜짝 공개",
+      "desc": "애플이 1세대 에어팟 맥스 출시 후 5년 이상, 라이트닝 단자를 USB-C로 교체한 소규모 개편 이후 18개월 만에 에어팟 맥스 2를 공개했다.\n\n\n\n에어팟 맥스 2는 기존 모델과 동일한 디자인을 유지하며 5가지 색상으로 출시된다. 또한 헤드폰을 완전히 덮지 못해...",
+      "link": "https://www.itworld.co.kr/article/4145979/%ec%95%a0%ed%94%8c-%ec%97%90%ec%96%b4%ed%8c%9f-%eb%a7%a5%ec%8a%a4-2-%ea%b9%9c%ec%a7%9d-%ea%b3%b5%ea%b0%9c.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "이제 ‘애착 경제’가 책상으로 온다",
-      "desc": "기술 기업이 사용자의 관심을 끌려면 무엇을 해야 할까? 현재는 ‘주목 경제(Attention Economy)’ 단계를 넘어 ‘애착 경제(Attachment Economy)’로 진화하고 있다.\n\n\n\n주목 경제라는 개념은 경제학자 허버트 A. 사이먼이 1971년 처음...",
-      "link": "https://www.itworld.co.kr/article/4144714/%ec%9d%b4%ec%a0%9c-%ec%95%a0%ec%b0%a9-%ea%b2%bd%ec%a0%9c%ea%b0%80-%ec%b1%85%ec%83%81%ec%9c%bc%eb%a1%9c-%ec%98%a8%eb%8b%a4.html",
+      "title": "오픈텍스트, AI 기반 콘텐츠 관리로 금융권 정보 거버넌스 강화 지원",
+      "desc": "국내 금융권의 디지털 전환이 가속화되면서 방대한 금융 데이터를 안전하게 관리하고 활용하기 위한 지능형 콘텐츠 관리의 중요성이 커지고 있다.\n\n\n\n오픈텍스트(OpenText)는 은행과 금융기관이 규제 환경 속에서도 효율적인 정보 활용과 업무 자동화를 구현할 수 있도...",
+      "link": "https://www.itworld.co.kr/article/4145959/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ai-%ea%b8%b0%eb%b0%98-%ec%bd%98%ed%85%90%ec%b8%a0-%ea%b4%80%eb%a6%ac%eb%a1%9c-%ea%b8%88%ec%9c%b5%ea%b6%8c-%ec%a0%95%eb%b3%b4-%ea%b1%b0%eb%b2%84%eb%84%8c.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "“엔비디아 AI 플랫폼 ‘베라 루빈’ 메모리는 삼성”… GTC서 'HBM4E' 전격 공개",
-      "desc": "삼성전자가 16일부터 19일까지(현지시간) 미국 새너제이에서 열리는 엔비디아 GTC에 참가해 차세대 HBM4E 기술력과 엔비디아 블랙웰(Blackwell) 아키텍처의 뒤를 잇는 차세대 AI 컴퓨팅 플랫폼 '베라 루빈(Vera Rubin)'을 구현하는 메모리 토털 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39090",
+      "title": "정용진 회장, 美 리플렉션 AI와 국내 최대 AI 데이터센터 구축... “국내 AI 생태계 고도화에 기여할 것”",
+      "desc": "신세계그룹이 미국 인공지능(AI) 기업 리플렉션 AI(Reflection AI)와 협력해 국내 최대 규모의 AI 데이터센터 구축을 추진한다.현지시간 16일, 정용진 신세계그룹 회장과 미샤 라스킨(Misha Laskin) 리플렉션 AI 최고경영자(CEO)는 미국 샌...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39111",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "대화형 AI 비서의 진화: 멀티모달 응답 기술 특허 고찰",
-      "desc": "디지털 개인 비서(digital personal assistant)는 스마트폰과 인공지능 기술의 발전과 함께 현대 정보기술 환경에서 중요한 사용자 인터페이스로 자리 잡았다. 애플의 시리(Siri), 구글 어시스턴트(Google Assistant), 아마존 알렛사(...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39088",
+      "title": "인피니언, 엔비디아와 협력해 차세대 휴머노이드 로봇 개발 가속화",
+      "desc": "인피니언 테크놀로지스(Infineon Technologies)는 엔비디아와의 협력을 확대해 피지컬 AI를 위한 시스템 아키텍처 개발을 가속한다고 16일(현지시간) 밝혔다.양사는 2025년 8월 발표된 기존 협력을 기반으로 인피니언의 모터 제어, 마이크로컨트롤러, ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39110",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "마이크론, 대만 PSMC 공장 인수 완료…AI 수요 대응 위한 차세대 DRAM·HBM 생산 확대",
-      "desc": "마이크론 테크놀로지(Micron Technology)가 인공지능(AI) 시대의 메모리 수요 확대에 대응하기 위해 대만 반도체 생산 기반을 강화한다.15일(현지시간) 마이크론은 파워칩(Powerchip Semiconductor Manufacturing Corpora...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39087",
+      "title": "이미지스테크놀로지, 시마AI 와 손잡고 국내 AI-로보틱스 사업 확대",
+      "desc": "팹리스 반도체 기업 이미지스테크놀로지(IMAGIS Technology, 이하 이미지스)는 피지컬 AI 솔루션 선도 기업 시마AI(SiMa.ai)와 로보틱스 및 산업용 피지컬 AI 시장 확대를 위한 전략적 파트너십을 체결했다고 17일 밝혔다.이번 협약은 글로벌 시장...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39109",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "“방탄소년단 보러 가세요?... 내 버스 위치 초 단위로 확인한다",
-      "desc": "카카오맵이 서울 광화문 광장 일대에서 열리는 방탄소년단의 컴백 공연을 앞두고 서울시와 협업해 시민 이동 편의와 안전 강화를 위한 비상 대응에 나선다.카카오의 위치 기반 라이프 플랫폼 카카오맵이 16일부터 일주일간 서울시 시내버스 420여 개 노선에 초정밀 버스 위...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39086",
+      "title": "KAIST, 사용자 말투·감정까지 학습하는 초개인화 LLM 가속기 ‘소울메이트’ 개발",
+      "desc": "우리가 일상적으로 사용하는 챗GPT(ChatGPT)와 같은 대형언어모델(LLM)은 수많은 질문에 능숙하게 답하지만, 정작 사용자의 사소한 습관이나 이전 대화 맥락등은 알지 못한다. 인공지능이 생활 깊숙이 들어왔음에도 여전히 ‘남’처럼 느껴지는 이유다.KAIST 연...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39108",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "유아이패스, 딜로이트와 전략적 협력 확대…AI 기반 오케스트레이션 탑재, ‘에이전틱 ERP’ 공동 출시",
-      "desc": "글로벌 에이전트 자동화 선도 기업인 유아이패스(UiPath)는 딜로이트(Deloitte)와의 전략적 협력을 확대해 딜로이트의 에이전틱 ERP(Agentic ERP) 오퍼링을 공동으로 출시한다. 이 오퍼링은 유아이패스 마에스트로(UiPath Maestro) 기반의 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39085",
+      "title": "델 테크놀로지스, 엔터프라이즈 AI의 투자수익률 검증... ‘엔비디아 기반 델 AI 팩토리’ 업데이트",
+      "desc": "델 테크놀로지스(Dell Technologies)가 ‘엔비디아 기반 델 AI 팩토리(Dell AI Factory with NVIDIA)’ 출시 2주년을 맞아 인공지능 데이터 플랫폼, AI 인프라 제품군, AI 솔루션 및 서비스 등 포트폴리오 전반에 걸쳐 다양한 신...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39107",
       "source": "AI Times"
     }
   ]
