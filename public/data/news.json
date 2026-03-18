@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-03-17T23:37:50.118Z",
+  "lastUpdated": "2026-03-18T23:34:50.555Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "99만원 맥북 네오 직접 써보니…보급형 맥북의 기준이 달라졌다",
-      "desc": "맥북 네오는 아마도 2020년 M1 맥 이후 애플이 선보인 가장 파격적인 맥일 것이다. 99만원(599달러)라는 저렴한 가격으로 맥의 핵심 사용 경험을 구현했고, 현재 구입할 수 있는 저가형 노트북 가운데 가장 경쟁력 있는 제품으로 평가된다. 출시 직후 미국 아마...",
-      "link": "https://www.itworld.co.kr/article/4146035/99%eb%a7%8c%ec%9b%90-%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-%ec%a7%81%ec%a0%91-%ec%8d%a8%eb%b3%b4%eb%8b%88-%eb%b3%b4%ea%b8%89%ed%98%95-%eb%a7%a5%eb%b6%81%ec%9d%98-%ea%b8%b0%ec%a4%80%ec%9d%b4.html",
+      "title": "H2 칩 탑재한 에어팟 맥스 2…유선 오디오·AI 기능 강화",
+      "desc": "오랫동안 애플이 사전 유출 없이 제품을 공개하는 일은 드물었다. 하지만 예상 시점보다 빠르게 공개된 에어팟 맥스 2는 시장의 예상을 벗어난 발표였다.\n\n\n\n에어팟 맥스는 2020년 12월 출시됐으며, 2024년에는 새로운 색상과 함께 USB-C 기반의 소규모 업데...",
+      "link": "https://www.itworld.co.kr/article/4146714/h2-%ec%b9%a9-%ed%83%91%ec%9e%ac%ed%95%9c-%ec%97%90%ec%96%b4%ed%8c%9f-%eb%a7%a5%ec%8a%a4-2%ec%9c%a0%ec%84%a0-%ec%98%a4%eb%94%94%ec%98%a4%c2%b7ai-%ea%b8%b0%eb%8a%a5-%ea%b0%95%ed%99%94.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "AI 확산에 달라지는 사이버 보험…보안 수준 따라 보험료 갈린다",
-      "desc": "2025년 7월, 맥도날드는 예상하지 못한 문제에 직면했다. 채용 지원자 모집과 선별에 사용하던 AI 기반 채용 플랫폼 ‘맥하이어’와 관련된 보안 문제였다. 패러독스.ai가 개발한 시스템에서 초보 수준의 보안 취약점이 존재했다. 매장 운영자가 사용하는 백엔드 시스...",
-      "link": "https://www.itworld.co.kr/article/4146031/ai-%ed%99%95%ec%82%b0%ec%97%90-%eb%8b%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b4%ed%97%98%eb%b3%b4%ec%95%88-%ec%88%98%ec%a4%80-%eb%94%b0%eb%9d%bc-%eb%b3%b4%ed%97%98.html",
+      "title": "엔비디아, GTC 2026서 ‘에이전트 툴킷’ 공개…자율 실행형 AI 시대 본격화",
+      "desc": "AI 컴퓨팅 엔비디아가 미국 새너제이에서 열린 ‘GTC 2026’에서 자율적으로 진화하는 기업용 AI 에이전트를 위한 오픈소스 소프트웨어를 공개하며, AI 활용의 새로운 전환점을 제시했다. 이번 발표는 에이전트의 안전성과 보안성, 운영 효율을 동시에 강화하고, 소...",
+      "link": "https://www.itworld.co.kr/article/4146708/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-gtc-2026%ec%84%9c-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%88%b4%ed%82%b7-%ea%b3%b5%ea%b0%9c%ec%9e%90%ec%9c%a8-%ec%8b%a4%ed%96%89.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "AI 프로그래밍의 한계를 절감하고 있는 아마존",
-      "desc": "기업은 성가시고 비용이 많이 드는 개발자를 AI로 대체할 수 있다는 점을 반긴다. 예를 들어 아틀라시안(Atlassian)은 AI에 더 많은 자금을 투입하기 위해 직원의 10%인 약 1,600명을 해고했다. 블록(Block, 옛 스퀘어)의 CEO 잭 도시는 최근 ...",
-      "link": "https://www.itworld.co.kr/article/4146025/ai-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d%ec%9d%98-%ed%95%9c%ea%b3%84%eb%a5%bc-%ec%a0%88%ea%b0%90%ed%95%98%ea%b3%a0-%ec%9e%88%eb%8a%94-%ec%95%84%eb%a7%88%ec%a1%b4.html",
+      "title": "기업의 안정성을 위협하는 클라우드 기반 LLM",
+      "desc": "기업은 전례 없는 속도로 클라우드에서 호스팅하는 LLM을 도입하고 있다. 빠른 배포, 확장성, 혁신적 역량이라는 약속에 이끌린 기업은 외부에서 호스팅하는 AI 엔진과 점점 더 깊이 얽히고 있다. 하지만 위험한 패턴이 드러나고 있는데, 주로 대재앙이 닥칠 때까지 간...",
+      "link": "https://www.itworld.co.kr/article/4146698/%ea%b8%b0%ec%97%85%ec%9d%98-%ec%95%88%ec%a0%95%ec%84%b1%ec%9d%84-%ec%9c%84%ed%98%91%ed%95%98%eb%8a%94-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ea%b8%b0%eb%b0%98-llm.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "애플, 에어팟 맥스 2 깜짝 공개",
-      "desc": "애플이 1세대 에어팟 맥스 출시 후 5년 이상, 라이트닝 단자를 USB-C로 교체한 소규모 개편 이후 18개월 만에 에어팟 맥스 2를 공개했다.\n\n\n\n에어팟 맥스 2는 기존 모델과 동일한 디자인을 유지하며 5가지 색상으로 출시된다. 또한 헤드폰을 완전히 덮지 못해...",
-      "link": "https://www.itworld.co.kr/article/4145979/%ec%95%a0%ed%94%8c-%ec%97%90%ec%96%b4%ed%8c%9f-%eb%a7%a5%ec%8a%a4-2-%ea%b9%9c%ec%a7%9d-%ea%b3%b5%ea%b0%9c.html",
+      "title": "애저 AI 파운드리 요금 체계 도마 위 올라",
+      "desc": "마이크로소프트 신생업체 프로그램 참여 기업 사이에서 애저 AI 파운드리 내 모델 사용과 관련한 예상치 못한 요금 부과에 대한 불만이 확산되며, 혼란스러운 과금 구조라는 지적과 함께 문제 해결을 요구하는 청원이 제기됐다.\n\n\n\nAI 모델 실험 과정에서 예상치 못한 ...",
+      "link": "https://www.itworld.co.kr/article/4146667/%ec%95%a0%ec%a0%80-ai-%ed%8c%8c%ec%9a%b4%eb%93%9c%eb%a6%ac-%ec%9a%94%ea%b8%88-%ec%b2%b4%ea%b3%84-%eb%8f%84%eb%a7%88-%ec%9c%84-%ec%98%ac%eb%9d%bc.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "오픈텍스트, AI 기반 콘텐츠 관리로 금융권 정보 거버넌스 강화 지원",
-      "desc": "국내 금융권의 디지털 전환이 가속화되면서 방대한 금융 데이터를 안전하게 관리하고 활용하기 위한 지능형 콘텐츠 관리의 중요성이 커지고 있다.\n\n\n\n오픈텍스트(OpenText)는 은행과 금융기관이 규제 환경 속에서도 효율적인 정보 활용과 업무 자동화를 구현할 수 있도...",
-      "link": "https://www.itworld.co.kr/article/4145959/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ai-%ea%b8%b0%eb%b0%98-%ec%bd%98%ed%85%90%ec%b8%a0-%ea%b4%80%eb%a6%ac%eb%a1%9c-%ea%b8%88%ec%9c%b5%ea%b6%8c-%ec%a0%95%eb%b3%b4-%ea%b1%b0%eb%b2%84%eb%84%8c.html",
+      "title": "워크스페이스 공격의 시작점인 웹과 문서, 엔드포인트만으로 충분한가",
+      "desc": "오늘날 워크스페이스 활동의 70% 이상은 웹 브라우저 상에서 이루어진다. 이메일 확인, 문서 작성, 고객 관리 시스템 접속까지 업무의 상당 부분이 웹 기반 서비스에 의존한다. 공격자 역시 이 점을 정확히 노린다. 최근 급증하는 HEAT(Highly Evasive ...",
+      "link": "https://www.itworld.co.kr/article/4146619/%ec%9b%8c%ed%81%ac%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4-%ea%b3%b5%ea%b2%a9%ec%9d%98-%ec%8b%9c%ec%9e%91%ec%a0%90%ec%9d%b8-%ec%9b%b9%ea%b3%bc-%eb%ac%b8%ec%84%9c-%ec%97%94%eb%93%9c%ed%8f%ac%ec%9d%b8.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "정용진 회장, 美 리플렉션 AI와 국내 최대 AI 데이터센터 구축... “국내 AI 생태계 고도화에 기여할 것”",
-      "desc": "신세계그룹이 미국 인공지능(AI) 기업 리플렉션 AI(Reflection AI)와 협력해 국내 최대 규모의 AI 데이터센터 구축을 추진한다.현지시간 16일, 정용진 신세계그룹 회장과 미샤 라스킨(Misha Laskin) 리플렉션 AI 최고경영자(CEO)는 미국 샌...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39111",
+      "title": "[AI 리뷰] “로봇, 이제 영상으로 배우고 바로 움직인다”...美 스타트업 '로다 AI', 6700억원 들고 현실 데뷔",
+      "desc": "실험실의 통제된 환경을 벗어나 예측 불가능한 현실 세계에서 스스로 판단하고 움직이는 차세대 로봇 지능 기술이 공개됐다.실리콘밸리의 유망 스타트업 로다 AI(Rhoda AI)는 18개월간의 비공개 개발을 마치고, 비디오 예측 제어 기술인 ‘퓨처비전(FutureVis...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39139",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "인피니언, 엔비디아와 협력해 차세대 휴머노이드 로봇 개발 가속화",
-      "desc": "인피니언 테크놀로지스(Infineon Technologies)는 엔비디아와의 협력을 확대해 피지컬 AI를 위한 시스템 아키텍처 개발을 가속한다고 16일(현지시간) 밝혔다.양사는 2025년 8월 발표된 기존 협력을 기반으로 인피니언의 모터 제어, 마이크로컨트롤러, ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39110",
+      "title": "인공지능으로 “1인 기업 시대 연다”...알리바바, 기업용 자율 AI 에이전트 플랫폼 ‘우콩’ 전격 출시",
+      "desc": "알리바바 그룹(Alibaba Group)이 기업의 복잡한 업무를 자율적으로 수행하는 인공지능(AI) 에이전트 플랫폼을 선보이며 ‘에이전틱 AI(Agentic AI)’ 시장 공략에 속도를 낸다.알리바바 그룹은 18일(현지시간), 기업용으로 설계된 AI 기반 지능형 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39138",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "이미지스테크놀로지, 시마AI 와 손잡고 국내 AI-로보틱스 사업 확대",
-      "desc": "팹리스 반도체 기업 이미지스테크놀로지(IMAGIS Technology, 이하 이미지스)는 피지컬 AI 솔루션 선도 기업 시마AI(SiMa.ai)와 로보틱스 및 산업용 피지컬 AI 시장 확대를 위한 전략적 파트너십을 체결했다고 17일 밝혔다.이번 협약은 글로벌 시장...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39109",
+      "title": "이호영 서울대·김승업 연세의대 교수, '제19회 아산의학상' 수상...아산재단, 각각 3억원 수여수여",
+      "desc": "아산사회복지재단(이사장 정몽준)은 18일, 서울 소공동 롯데호텔에서 제19회 아산의학상 시상식을 열고, 기초의학부문 수상자 이호영 서울대 약학과 교수(64세), 임상의학부문 수상자 김승업 연세의대 세브란스병원 소화기내과 교수(51세)에게 3억 원을 각각 수여했다....",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39137",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "KAIST, 사용자 말투·감정까지 학습하는 초개인화 LLM 가속기 ‘소울메이트’ 개발",
-      "desc": "우리가 일상적으로 사용하는 챗GPT(ChatGPT)와 같은 대형언어모델(LLM)은 수많은 질문에 능숙하게 답하지만, 정작 사용자의 사소한 습관이나 이전 대화 맥락등은 알지 못한다. 인공지능이 생활 깊숙이 들어왔음에도 여전히 ‘남’처럼 느껴지는 이유다.KAIST 연...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39108",
+      "title": "국가전략기술 고난도 기술 향상 및 사업화 지원... 중기부, 총 100억원·100개 과제 지원",
+      "desc": "중소벤처기업부(장관 한성숙, 이하 중기부)는 19일, 중소벤처기업의 기술사업화 촉진을 위해 '2026년 민관공동기술사업화 연구개발(R&D) 2차 시행계획'을 공고했다.이번 공고는 올해 1월 발표한 2026년 민관공동기술사업화(연구개발, R&D) 1차 시행계획의 후...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39136",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "델 테크놀로지스, 엔터프라이즈 AI의 투자수익률 검증... ‘엔비디아 기반 델 AI 팩토리’ 업데이트",
-      "desc": "델 테크놀로지스(Dell Technologies)가 ‘엔비디아 기반 델 AI 팩토리(Dell AI Factory with NVIDIA)’ 출시 2주년을 맞아 인공지능 데이터 플랫폼, AI 인프라 제품군, AI 솔루션 및 서비스 등 포트폴리오 전반에 걸쳐 다양한 신...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39107",
+      "title": "\"스마트제조 R&D, 이제 ‘이것’만 보고 준비하세요\"... 중기부, '스마트제조 전략기술로드맵' 발표",
+      "desc": "중소벤처기업부(장관 한성숙, 이하 중기부)는 국내 스마트제조 기술기업의 기술수준 제고와 성장 촉진을 위한 핵심역량 강화 지원과제로 '스마트제조 전략기술로드맵(이하, 로드맵)'을 수립하고, 스마트제조 7대 전략분야를 기반으로 총 49개의 유망 기술품목을 도출했다고 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39135",
       "source": "AI Times"
     }
   ]
