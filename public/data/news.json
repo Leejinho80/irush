@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-03-18T23:34:50.555Z",
+  "lastUpdated": "2026-03-19T23:35:16.835Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "제미나이로 구글 시트 생산성 높이는 방법 6가지",
+      "desc": "구글의 생성형 AI 도구인 제미나이는 데이터 분석부터 스프레드시트 편집까지 다양한 방식으로 구글 시트 작업을 지원한다. 구글 시트에서는 주로 제미나이 사이드바를 통해 이런 생성형 AI 기능을 사용할 수 있다. 또한 셀 내부 수식을 통해 제미나이를 호출해 작업을 실...",
+      "link": "https://www.itworld.co.kr/article/4147361/%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%eb%a1%9c-%ea%b5%ac%ea%b8%80-%ec%8b%9c%ed%8a%b8-%ec%83%9d%ec%82%b0%ec%84%b1-%eb%86%92%ec%9d%b4%eb%8a%94-%eb%b0%a9%eb%b2%95-6%ea%b0%80%ec%a7%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "“레이저 없는 광 케이블” AI 데이터센터 네트워크 해법으로 주목",
+      "desc": "마이크로소프트 리서치는 데이터센터용 마이크로LED 기반 광학 인터커넥트 시스템인 MOSAIC를 개발했다. 새로운 시스템은 실제 배치 시 기존 레이저 기반 광케이블보다 약 50% 적은 전력을 사용할 것으로 기대된다. 마이크로소프트는 이 수치가 시스템의 실험실 테스트...",
+      "link": "https://www.itworld.co.kr/article/4147363/%eb%a0%88%ec%9d%b4%ec%a0%80-%ec%97%86%eb%8a%94-%ea%b4%91-%ec%bc%80%ec%9d%b4%eb%b8%94-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%ed%95%b4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "AI, 초급 인력 일자리 줄이며 노동시장 구조 재편 중",
+      "desc": "기술 산업에서 AI 확산이 소프트웨어 개발과 고객 서비스 직무의 저연차 직원 채용 의지를 약화시키며 임금 하락 압력으로 이어질 수 있다는 분석이 나온다.\n\n\n\n여러 업계 전문가는 AI 도입 확대는 소프트웨어 개발과 고객 서비스 분야에서 청년층 채용을 둔화시켰으며,...",
+      "link": "https://www.itworld.co.kr/article/4147357/ai-%ec%b4%88%ea%b8%89-%ec%9d%b8%eb%a0%a5-%ec%9d%bc%ec%9e%90%eb%a6%ac-%ec%a4%84%ec%9d%b4%eb%a9%b0-%eb%85%b8%eb%8f%99%ec%8b%9c%ec%9e%a5-%ea%b5%ac%ec%a1%b0-%ec%9e%ac%ed%8e%b8-%ec%a4%91.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "맥북 네오, 8GB RAM이지만 고부하 작업 버텨냈다",
+      "desc": "맥북 네오 리뷰에서 벤치마크 테스트와 실제 사용 환경을 함께 반영한 결과 전반적으로 만족스러운 경험을 얻었다고 밝힌 바 있다. 그러나 그 테스트는 며칠 동안의 매우 제한적인 조건에서 진행된 것이었고, 네오에 탑재된 A18 프로 칩과 전혀 업그레이드할 수 없는 8G...",
+      "link": "https://www.itworld.co.kr/article/4147328/%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-8gb-ram%ec%9d%b4%ec%a7%80%eb%a7%8c-%ea%b3%a0%eb%b6%80%ed%95%98-%ec%9e%91%ec%97%85-%eb%b2%84%ed%85%a8%eb%83%88%eb%8b%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "H2 칩 탑재한 에어팟 맥스 2…유선 오디오·AI 기능 강화",
       "desc": "오랫동안 애플이 사전 유출 없이 제품을 공개하는 일은 드물었다. 하지만 예상 시점보다 빠르게 공개된 에어팟 맥스 2는 시장의 예상을 벗어난 발표였다.\n\n\n\n에어팟 맥스는 2020년 12월 출시됐으며, 2024년에는 새로운 색상과 함께 USB-C 기반의 소규모 업데...",
       "link": "https://www.itworld.co.kr/article/4146714/h2-%ec%b9%a9-%ed%83%91%ec%9e%ac%ed%95%9c-%ec%97%90%ec%96%b4%ed%8c%9f-%eb%a7%a5%ec%8a%a4-2%ec%9c%a0%ec%84%a0-%ec%98%a4%eb%94%94%ec%98%a4%c2%b7ai-%ea%b8%b0%eb%8a%a5-%ea%b0%95%ed%99%94.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "엔비디아, GTC 2026서 ‘에이전트 툴킷’ 공개…자율 실행형 AI 시대 본격화",
-      "desc": "AI 컴퓨팅 엔비디아가 미국 새너제이에서 열린 ‘GTC 2026’에서 자율적으로 진화하는 기업용 AI 에이전트를 위한 오픈소스 소프트웨어를 공개하며, AI 활용의 새로운 전환점을 제시했다. 이번 발표는 에이전트의 안전성과 보안성, 운영 효율을 동시에 강화하고, 소...",
-      "link": "https://www.itworld.co.kr/article/4146708/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-gtc-2026%ec%84%9c-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%88%b4%ed%82%b7-%ea%b3%b5%ea%b0%9c%ec%9e%90%ec%9c%a8-%ec%8b%a4%ed%96%89.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "기업의 안정성을 위협하는 클라우드 기반 LLM",
-      "desc": "기업은 전례 없는 속도로 클라우드에서 호스팅하는 LLM을 도입하고 있다. 빠른 배포, 확장성, 혁신적 역량이라는 약속에 이끌린 기업은 외부에서 호스팅하는 AI 엔진과 점점 더 깊이 얽히고 있다. 하지만 위험한 패턴이 드러나고 있는데, 주로 대재앙이 닥칠 때까지 간...",
-      "link": "https://www.itworld.co.kr/article/4146698/%ea%b8%b0%ec%97%85%ec%9d%98-%ec%95%88%ec%a0%95%ec%84%b1%ec%9d%84-%ec%9c%84%ed%98%91%ed%95%98%eb%8a%94-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ea%b8%b0%eb%b0%98-llm.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "애저 AI 파운드리 요금 체계 도마 위 올라",
-      "desc": "마이크로소프트 신생업체 프로그램 참여 기업 사이에서 애저 AI 파운드리 내 모델 사용과 관련한 예상치 못한 요금 부과에 대한 불만이 확산되며, 혼란스러운 과금 구조라는 지적과 함께 문제 해결을 요구하는 청원이 제기됐다.\n\n\n\nAI 모델 실험 과정에서 예상치 못한 ...",
-      "link": "https://www.itworld.co.kr/article/4146667/%ec%95%a0%ec%a0%80-ai-%ed%8c%8c%ec%9a%b4%eb%93%9c%eb%a6%ac-%ec%9a%94%ea%b8%88-%ec%b2%b4%ea%b3%84-%eb%8f%84%eb%a7%88-%ec%9c%84-%ec%98%ac%eb%9d%bc.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "워크스페이스 공격의 시작점인 웹과 문서, 엔드포인트만으로 충분한가",
-      "desc": "오늘날 워크스페이스 활동의 70% 이상은 웹 브라우저 상에서 이루어진다. 이메일 확인, 문서 작성, 고객 관리 시스템 접속까지 업무의 상당 부분이 웹 기반 서비스에 의존한다. 공격자 역시 이 점을 정확히 노린다. 최근 급증하는 HEAT(Highly Evasive ...",
-      "link": "https://www.itworld.co.kr/article/4146619/%ec%9b%8c%ed%81%ac%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4-%ea%b3%b5%ea%b2%a9%ec%9d%98-%ec%8b%9c%ec%9e%91%ec%a0%90%ec%9d%b8-%ec%9b%b9%ea%b3%bc-%eb%ac%b8%ec%84%9c-%ec%97%94%eb%93%9c%ed%8f%ac%ec%9d%b8.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "[AI 리뷰] “로봇, 이제 영상으로 배우고 바로 움직인다”...美 스타트업 '로다 AI', 6700억원 들고 현실 데뷔",
-      "desc": "실험실의 통제된 환경을 벗어나 예측 불가능한 현실 세계에서 스스로 판단하고 움직이는 차세대 로봇 지능 기술이 공개됐다.실리콘밸리의 유망 스타트업 로다 AI(Rhoda AI)는 18개월간의 비공개 개발을 마치고, 비디오 예측 제어 기술인 ‘퓨처비전(FutureVis...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39139",
+      "title": "베넷·브라사르, ‘컴퓨팅 노벨상’ 튜링상 수상…양자암호·양자텔레포테이션 개척, 보안·컴퓨팅 패러다임 근본 전환",
+      "desc": "컴퓨팅 분야 최고 권위상인 튜링상 수상자로 양자정보과학의 창시자인 두 과학자가 선정됐다.미국 컴퓨터 협회(Association for Computing Machinery. 이하, ACM)은 18일(현지시간) 2025년 'A.M. 튜링상(A.M. Turing Awa...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39169",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "인공지능으로 “1인 기업 시대 연다”...알리바바, 기업용 자율 AI 에이전트 플랫폼 ‘우콩’ 전격 출시",
-      "desc": "알리바바 그룹(Alibaba Group)이 기업의 복잡한 업무를 자율적으로 수행하는 인공지능(AI) 에이전트 플랫폼을 선보이며 ‘에이전틱 AI(Agentic AI)’ 시장 공략에 속도를 낸다.알리바바 그룹은 18일(현지시간), 기업용으로 설계된 AI 기반 지능형 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39138",
+      "title": "美 해군, ‘데이터 엔진’ 실전 배치…“함정이 스스로 학습하는 플랫폼으로 진화”",
+      "desc": "물리적 AI의 미래를 선도하는 글로벌 기업 어플라이드 인튜이션(Applied Intuition)이 미국 해군(U.S. Navy)에 대규모 데이터 엔진 프로그램을 공급하며, 인공지능(AI) 기반 전장 체계 전환이 본격화되고 있다.19일(현지시간) 어플라이드 인튜이션...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39168",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "이호영 서울대·김승업 연세의대 교수, '제19회 아산의학상' 수상...아산재단, 각각 3억원 수여수여",
-      "desc": "아산사회복지재단(이사장 정몽준)은 18일, 서울 소공동 롯데호텔에서 제19회 아산의학상 시상식을 열고, 기초의학부문 수상자 이호영 서울대 약학과 교수(64세), 임상의학부문 수상자 김승업 연세의대 세브란스병원 소화기내과 교수(51세)에게 3억 원을 각각 수여했다....",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39137",
+      "title": "아마존, 엔비디아와 '차량용 AI 비서' 협력…“대화·상황까지 이해하는 자동차 만든다”",
+      "desc": "아마존과 엔비디아가 차량용 인공지능(AI) 비서 고도화를 위해 손을 잡았다. 양사는 자연어 대화는 물론 차량 내외부 상황까지 이해하는 차세대 AI 어시스턴트를 공동 개발해 자동차 산업 전반에 적용한다는 계획이다.양사가 추진하는 기술의 핵심은 멀티모달 AI 기반 차...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39167",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "국가전략기술 고난도 기술 향상 및 사업화 지원... 중기부, 총 100억원·100개 과제 지원",
-      "desc": "중소벤처기업부(장관 한성숙, 이하 중기부)는 19일, 중소벤처기업의 기술사업화 촉진을 위해 '2026년 민관공동기술사업화 연구개발(R&D) 2차 시행계획'을 공고했다.이번 공고는 올해 1월 발표한 2026년 민관공동기술사업화(연구개발, R&D) 1차 시행계획의 후...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39136",
+      "title": "“말로 만들고 AI가 그린다”…구글, ‘스티치’로 여는 ‘바이브 디자인’ 시대 선언!",
+      "desc": "구글 랩스(Google Labs)가 자연어만으로 고정밀 사용자 인터페이스(UI)를 설계하고 실시간으로 협업할 수 있는 AI 네이티브 디자인 플랫폼을 선보이며, 소프트웨어 설계 패러다임 전환에 나섰다.구글은 현지시간 18일, 아이디어를 실제 소프트웨어 디자인으로 즉...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39165",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "\"스마트제조 R&D, 이제 ‘이것’만 보고 준비하세요\"... 중기부, '스마트제조 전략기술로드맵' 발표",
-      "desc": "중소벤처기업부(장관 한성숙, 이하 중기부)는 국내 스마트제조 기술기업의 기술수준 제고와 성장 촉진을 위한 핵심역량 강화 지원과제로 '스마트제조 전략기술로드맵(이하, 로드맵)'을 수립하고, 스마트제조 7대 전략분야를 기반으로 총 49개의 유망 기술품목을 도출했다고 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39135",
+      "title": "현대차 정몽구 재단, 사회문제 해결할 임팩트 스타트업 모집...초기 15명,  성장 5명 '국내 최고 수준 육성프로그램 지원'",
+      "desc": "현대차 정몽구 재단(이사장 정무성)은 19일부터 ‘CMK 임팩트프러너’ 14기에 참여할 사회혁신 기업가 20명을 모집한다. 2026년부터는 기존 ‘H-온드림 스타트업 그라운드’에서 사업명을 ‘CMK 임팩트프러너’로 변경하고 지원의 중심축을 조직 자체에서 ‘사람(E...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39164",
       "source": "AI Times"
     }
   ]
