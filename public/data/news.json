@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-03-19T23:35:16.835Z",
+  "lastUpdated": "2026-03-20T23:34:28.226Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "제미나이로 구글 시트 생산성 높이는 방법 6가지",
-      "desc": "구글의 생성형 AI 도구인 제미나이는 데이터 분석부터 스프레드시트 편집까지 다양한 방식으로 구글 시트 작업을 지원한다. 구글 시트에서는 주로 제미나이 사이드바를 통해 이런 생성형 AI 기능을 사용할 수 있다. 또한 셀 내부 수식을 통해 제미나이를 호출해 작업을 실...",
-      "link": "https://www.itworld.co.kr/article/4147361/%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%eb%a1%9c-%ea%b5%ac%ea%b8%80-%ec%8b%9c%ed%8a%b8-%ec%83%9d%ec%82%b0%ec%84%b1-%eb%86%92%ec%9d%b4%eb%8a%94-%eb%b0%a9%eb%b2%95-6%ea%b0%80%ec%a7%80.html",
+      "title": "마크다운이 일급 코딩 언어가 된 이유",
+      "desc": "깃허브에 어떤 사람이 마크다운 파일 몇 개를 올렸다는 이유로 업계가 술렁이고 있다. 물론 아무 사람이나 올린 것도 아니고, 아무 마크다운 파일이나 올라온 것도 아니다.\n\n\n\n주인공은 와이 콤비네이터(Y Combinator) CEO 개리 탄이다. 와이 콤비네이터는 ...",
+      "link": "https://www.itworld.co.kr/article/4147958/%eb%a7%88%ed%81%ac%eb%8b%a4%ec%9a%b4%ec%9d%b4-%ec%9d%bc%ea%b8%89-%ec%bd%94%eb%94%a9-%ec%96%b8%ec%96%b4%ea%b0%80-%eb%90%9c-%ec%9d%b4%ec%9c%a0.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "“레이저 없는 광 케이블” AI 데이터센터 네트워크 해법으로 주목",
-      "desc": "마이크로소프트 리서치는 데이터센터용 마이크로LED 기반 광학 인터커넥트 시스템인 MOSAIC를 개발했다. 새로운 시스템은 실제 배치 시 기존 레이저 기반 광케이블보다 약 50% 적은 전력을 사용할 것으로 기대된다. 마이크로소프트는 이 수치가 시스템의 실험실 테스트...",
-      "link": "https://www.itworld.co.kr/article/4147363/%eb%a0%88%ec%9d%b4%ec%a0%80-%ec%97%86%eb%8a%94-%ea%b4%91-%ec%bc%80%ec%9d%b4%eb%b8%94-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%ed%95%b4.html",
+      "title": "“핵무기 만드는 법 알려줘”…AI는 거절했고 검열 해제 모델은 답했다",
+      "desc": "GPT-5.2, GPT-5.3, 오푸스(Opus) 4.6, 소넷(Sonnet) 4.6, 그리고 다른 여러 대규모 언어 모델(LLM)에 핵무기를 만들 수 있게 도와달라고 요청해봤는데, 모두 거절했다.\n\n\n\n분명히 짚고 넘어가자면 핵무기를 만들지 못하는 주된 이유는 ...",
+      "link": "https://www.itworld.co.kr/article/4147952/%ed%95%b5%eb%ac%b4%ea%b8%b0-%eb%a7%8c%eb%93%9c%eb%8a%94-%eb%b2%95-%ec%95%8c%eb%a0%a4%ec%a4%98ai%eb%8a%94-%ea%b1%b0%ec%a0%88%ed%96%88%ea%b3%a0-%ea%b2%80%ec%97%b4-%ed%95%b4%ec%a0%9c.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "AI, 초급 인력 일자리 줄이며 노동시장 구조 재편 중",
-      "desc": "기술 산업에서 AI 확산이 소프트웨어 개발과 고객 서비스 직무의 저연차 직원 채용 의지를 약화시키며 임금 하락 압력으로 이어질 수 있다는 분석이 나온다.\n\n\n\n여러 업계 전문가는 AI 도입 확대는 소프트웨어 개발과 고객 서비스 분야에서 청년층 채용을 둔화시켰으며,...",
-      "link": "https://www.itworld.co.kr/article/4147357/ai-%ec%b4%88%ea%b8%89-%ec%9d%b8%eb%a0%a5-%ec%9d%bc%ec%9e%90%eb%a6%ac-%ec%a4%84%ec%9d%b4%eb%a9%b0-%eb%85%b8%eb%8f%99%ec%8b%9c%ec%9e%a5-%ea%b5%ac%ec%a1%b0-%ec%9e%ac%ed%8e%b8-%ec%a4%91.html",
+      "title": "생성형 UI, 엔터프라이즈 개발의 시간 공식을 바꾸다",
+      "desc": "모든 엣지 케이스를 일일이 하드코딩하는 방식에서 벗어나, 견고한 디자인 시스템을 구축하고 세밀하게 튜닝된 대규모 언어 모델이 실시간 사용자 데이터를 기반으로 런타임 레이아웃을 처리하도록 설계해야 한다.\n\n\n\n필자의 팀은 지난 분기에 새 기능을 출시했는데, 전통적인...",
+      "link": "https://www.itworld.co.kr/article/4147944/%ec%83%9d%ec%84%b1%ed%98%95-ui-%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4%ec%a6%88-%ea%b0%9c%eb%b0%9c%ec%9d%98-%ec%8b%9c%ea%b0%84-%ea%b3%b5%ec%8b%9d%ec%9d%84-%eb%b0%94%ea%be%b8%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "맥북 네오, 8GB RAM이지만 고부하 작업 버텨냈다",
-      "desc": "맥북 네오 리뷰에서 벤치마크 테스트와 실제 사용 환경을 함께 반영한 결과 전반적으로 만족스러운 경험을 얻었다고 밝힌 바 있다. 그러나 그 테스트는 며칠 동안의 매우 제한적인 조건에서 진행된 것이었고, 네오에 탑재된 A18 프로 칩과 전혀 업그레이드할 수 없는 8G...",
-      "link": "https://www.itworld.co.kr/article/4147328/%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-8gb-ram%ec%9d%b4%ec%a7%80%eb%a7%8c-%ea%b3%a0%eb%b6%80%ed%95%98-%ec%9e%91%ec%97%85-%eb%b2%84%ed%85%a8%eb%83%88%eb%8b%a4.html",
+      "title": "SQL의 귀환 : 50년 된 언어가 스스로 탈바꿈하는 방법",
+      "desc": "브라우저에서 백엔드에 이르기까지, 한때 ‘지루한’ 것으로 치부되던 선택이 다시 사람들의 흥미를 끌고 있다. SQL을 다시 무대의 중심에 띄우고 있는 세 가지 트렌드를 살펴본다.\n\n\n\n프로토타이핑은 프로그래밍에서 필자가 가장 좋아하는 부분이다. 새로운 것을 만들고 ...",
+      "link": "https://www.itworld.co.kr/article/4147397/sql%ec%9d%98-%ea%b7%80%ed%99%98-50%eb%85%84-%eb%90%9c-%ec%96%b8%ec%96%b4%ea%b0%80-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ed%83%88%eb%b0%94%ea%bf%88%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "H2 칩 탑재한 에어팟 맥스 2…유선 오디오·AI 기능 강화",
-      "desc": "오랫동안 애플이 사전 유출 없이 제품을 공개하는 일은 드물었다. 하지만 예상 시점보다 빠르게 공개된 에어팟 맥스 2는 시장의 예상을 벗어난 발표였다.\n\n\n\n에어팟 맥스는 2020년 12월 출시됐으며, 2024년에는 새로운 색상과 함께 USB-C 기반의 소규모 업데...",
-      "link": "https://www.itworld.co.kr/article/4146714/h2-%ec%b9%a9-%ed%83%91%ec%9e%ac%ed%95%9c-%ec%97%90%ec%96%b4%ed%8c%9f-%eb%a7%a5%ec%8a%a4-2%ec%9c%a0%ec%84%a0-%ec%98%a4%eb%94%94%ec%98%a4%c2%b7ai-%ea%b8%b0%eb%8a%a5-%ea%b0%95%ed%99%94.html",
+      "title": "아이폰 17e, 느린 맥세이프가 단점이 아닌 이유",
+      "desc": "아이폰 17e 테스트 초반 기대치는 높지 않았다. 지난해 출시된 아이폰 16e는 균형이 맞지 않는 제품으로 느껴졌고, 올해 후속작도 같은 문제를 상당 부분 안고 있는 듯하다. 이 가격대에서 굳이 필요하지 않을 만큼 빠른 프로세서와 넉넉한 RAM을 탑재했지만, 다른...",
+      "link": "https://www.itworld.co.kr/article/4147906/%ec%95%84%ec%9d%b4%ed%8f%b0-17e-%eb%8a%90%eb%a6%b0-%eb%a7%a5%ec%84%b8%ec%9d%b4%ed%94%84%ea%b0%80-%eb%8b%a8%ec%a0%90%ec%9d%b4-%ec%95%84%eb%8b%8c-%ec%9d%b4%ec%9c%a0.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "베넷·브라사르, ‘컴퓨팅 노벨상’ 튜링상 수상…양자암호·양자텔레포테이션 개척, 보안·컴퓨팅 패러다임 근본 전환",
-      "desc": "컴퓨팅 분야 최고 권위상인 튜링상 수상자로 양자정보과학의 창시자인 두 과학자가 선정됐다.미국 컴퓨터 협회(Association for Computing Machinery. 이하, ACM)은 18일(현지시간) 2025년 'A.M. 튜링상(A.M. Turing Awa...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39169",
+      "title": "EU, 3억 3000만 유로 투입…SMR·핵의학·인재 육성까지 전방위 투자",
+      "desc": "유럽연합(EU)이 핵융합과 차세대 원자력 기술 확보를 위해 대규모 투자에 나선다. 에너지 안보와 탄소중립을 동시에 달성하기 위한 전략적 행보다.유럽연합 집행위원회(European Commission)는 19일(현지시간) ‘유라톰 연구·훈련 프로그램(Euratom ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39186",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "美 해군, ‘데이터 엔진’ 실전 배치…“함정이 스스로 학습하는 플랫폼으로 진화”",
-      "desc": "물리적 AI의 미래를 선도하는 글로벌 기업 어플라이드 인튜이션(Applied Intuition)이 미국 해군(U.S. Navy)에 대규모 데이터 엔진 프로그램을 공급하며, 인공지능(AI) 기반 전장 체계 전환이 본격화되고 있다.19일(현지시간) 어플라이드 인튜이션...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39168",
+      "title": "구글, 데이터센터 ‘수요 반응(DR)’ 용량 1GW 돌파... 지능형 전력망 혁신 가속",
+      "desc": "구글이 데이터센터의 에너지 소비를 유연하게 관리하는 ‘수요 반응(DR, Demand Response)’ 역량에서 새로운 이정표를 세우며, 전력 시스템의 효율성과 경제성을 동시에 확보하는 ‘지능형 에너지 성장’ 전략을 본격화한다.구글은 19일(현지시간), 미국 전역...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39185",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "아마존, 엔비디아와 '차량용 AI 비서' 협력…“대화·상황까지 이해하는 자동차 만든다”",
-      "desc": "아마존과 엔비디아가 차량용 인공지능(AI) 비서 고도화를 위해 손을 잡았다. 양사는 자연어 대화는 물론 차량 내외부 상황까지 이해하는 차세대 AI 어시스턴트를 공동 개발해 자동차 산업 전반에 적용한다는 계획이다.양사가 추진하는 기술의 핵심은 멀티모달 AI 기반 차...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39167",
+      "title": "구글 캐글, ‘커뮤니티 해커톤’ 전격 출시... “누구나 '글로벌 AI 챌린지' 개최한다”",
+      "desc": "세계 최대의 데이터 과학 커뮤니티인 캐글(Kaggle)이 기업, 학교, 개인이 직접 글로벌 수준의 인공지능(AI) 경진대회를 설계하고 운영할 수 있는 신규 플랫폼을 선보이며 AI 생태계의 저변 확대에 나섰다.구글 산하의 캐글은 현지시간 19일, 다양한 주체가 자체...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39184",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "“말로 만들고 AI가 그린다”…구글, ‘스티치’로 여는 ‘바이브 디자인’ 시대 선언!",
-      "desc": "구글 랩스(Google Labs)가 자연어만으로 고정밀 사용자 인터페이스(UI)를 설계하고 실시간으로 협업할 수 있는 AI 네이티브 디자인 플랫폼을 선보이며, 소프트웨어 설계 패러다임 전환에 나섰다.구글은 현지시간 18일, 아이디어를 실제 소프트웨어 디자인으로 즉...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39165",
+      "title": "서울창업허브 공덕,  글로벌 진출 'PoC·스케일업·액셀러레이팅' 프로그램 참가사 모집",
+      "desc": "서울시와 서울경제진흥원(SBA, 대표이사 김현우)은 서울 유망 혁신기업의 글로벌 시장 확장을 견인할 ‘2026 서울창업허브 공덕 글로벌 진출 'PoC·스케일업·액셀러레이팅' 프로그램의 참가기업을 오는 4월 7일까지 모집한다.해당 프로그램은 글로벌 민·관 협력 네트...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39182",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "현대차 정몽구 재단, 사회문제 해결할 임팩트 스타트업 모집...초기 15명,  성장 5명 '국내 최고 수준 육성프로그램 지원'",
-      "desc": "현대차 정몽구 재단(이사장 정무성)은 19일부터 ‘CMK 임팩트프러너’ 14기에 참여할 사회혁신 기업가 20명을 모집한다. 2026년부터는 기존 ‘H-온드림 스타트업 그라운드’에서 사업명을 ‘CMK 임팩트프러너’로 변경하고 지원의 중심축을 조직 자체에서 ‘사람(E...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39164",
+      "title": "풍림무약, ‘7대 디지털 전략’ 가속화… AI 기반 사업 다각화 선포",
+      "desc": "풍림무약 주식회사(이하 풍림무약)는 급변하는 제약 산업 환경에 대응하고 미래 성장 동력을 확보하기 위해 ‘7대 디지털 전략’을 수립, AI 기반의 사업 다각화를 본격 추진한다고 밝혔다. 이번 전략은 연구개발(R&D)부터 제조, 공급망 관리(SCM), 글로벌 사업까...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39181",
       "source": "AI Times"
     }
   ]
