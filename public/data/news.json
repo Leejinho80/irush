@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T23:30:48.769Z",
+  "lastUpdated": "2026-03-22T23:33:38.558Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "EU, 3억 3000만 유로 투입…SMR·핵의학·인재 육성까지 전방위 투자",
-      "desc": "유럽연합(EU)이 핵융합과 차세대 원자력 기술 확보를 위해 대규모 투자에 나선다. 에너지 안보와 탄소중립을 동시에 달성하기 위한 전략적 행보다.유럽연합 집행위원회(European Commission)는 19일(현지시간) ‘유라톰 연구·훈련 프로그램(Euratom ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39186",
+      "title": "한화비전, 글로벌 AI 반도체 기업 암바렐라와 차세대 영상보안 기술 개발 나선다",
+      "desc": "한화비전이 글로벌 인공지능(AI) 반도체 기업 암바렐라(Ambarella)와 손잡고 차세대 영상보안 신기술 개발에 나선다. 양사는 이번 ‘전략적 파트너십’ 체결을 시작으로 지속적인 협업을 통해 AI 기술 경쟁력을 강화해 나간다는 방침이다.한화비전과 암바렐라는 지난...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39197",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "구글, 데이터센터 ‘수요 반응(DR)’ 용량 1GW 돌파... 지능형 전력망 혁신 가속",
-      "desc": "구글이 데이터센터의 에너지 소비를 유연하게 관리하는 ‘수요 반응(DR, Demand Response)’ 역량에서 새로운 이정표를 세우며, 전력 시스템의 효율성과 경제성을 동시에 확보하는 ‘지능형 에너지 성장’ 전략을 본격화한다.구글은 19일(현지시간), 미국 전역...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39185",
+      "title": "AI 음악 스타트업 포자랩스, 영상 편집 툴 ‘브루(Vrew)’에 AI 음원 제공",
+      "desc": "인공지능 음악 스타트업 포자랩스는 자사의 인공지능(AI) 음악 500곡을 보이저엑스의 영상 편집 툴 ‘브루(Vrew)’에 제공했다고 23일 밝혔다.브루는 AI 기반 자막 생성과 편집 기능을 중심으로 영상 제작을 지원하는 영상 편집 프로그램으로, 다양한 크리에이터들...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39196",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "구글 캐글, ‘커뮤니티 해커톤’ 전격 출시... “누구나 '글로벌 AI 챌린지' 개최한다”",
-      "desc": "세계 최대의 데이터 과학 커뮤니티인 캐글(Kaggle)이 기업, 학교, 개인이 직접 글로벌 수준의 인공지능(AI) 경진대회를 설계하고 운영할 수 있는 신규 플랫폼을 선보이며 AI 생태계의 저변 확대에 나섰다.구글 산하의 캐글은 현지시간 19일, 다양한 주체가 자체...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39184",
+      "title": "삼성SDS, 국내 최초 ‘B300 GPUaaS’ 출시… AI 추론 성능 극대화",
+      "desc": "삼성SDS가 국내 최초로 차세대 GPU 기반 클라우드 서비스를 선보이며 기업용 인공지능(AI) 인프라 시장 공략에 나섰다.삼성SDS는 23일 자사 클라우드 서비스인 ‘SCP(삼성 클라우드 플랫폼)’을 통해 엔비디아의 최신 GPU ‘B300(Blackwell Ult...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39195",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "서울창업허브 공덕,  글로벌 진출 'PoC·스케일업·액셀러레이팅' 프로그램 참가사 모집",
-      "desc": "서울시와 서울경제진흥원(SBA, 대표이사 김현우)은 서울 유망 혁신기업의 글로벌 시장 확장을 견인할 ‘2026 서울창업허브 공덕 글로벌 진출 'PoC·스케일업·액셀러레이팅' 프로그램의 참가기업을 오는 4월 7일까지 모집한다.해당 프로그램은 글로벌 민·관 협력 네트...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39182",
+      "title": "오라클, ‘자바 26’ 출시… AI·암호화·클라우드 최적화 전면 강화",
+      "desc": "오라클이 최신 자바 플랫폼 ‘자바 26(Java 26)’을 지난 17일(현지시간) 출시하고 인공지능(AI)과 보안, 클라우드 환경에 최적화된 개발 생태계 강화에 나섰다. 단순한 기능 개선을 넘어, AI 애플리케이션 개발과 엔터프라이즈 보안 요구를 동시에 충족하는 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39194",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "풍림무약, ‘7대 디지털 전략’ 가속화… AI 기반 사업 다각화 선포",
-      "desc": "풍림무약 주식회사(이하 풍림무약)는 급변하는 제약 산업 환경에 대응하고 미래 성장 동력을 확보하기 위해 ‘7대 디지털 전략’을 수립, AI 기반의 사업 다각화를 본격 추진한다고 밝혔다. 이번 전략은 연구개발(R&D)부터 제조, 공급망 관리(SCM), 글로벌 사업까...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39181",
+      "title": "LG디스플레이, 1~120Hz 노트북용 패널 세계 최초 양산...전력 효율화, 이동성 높이고 AI 시대에 최적화",
+      "desc": "LG디스플레이(대표이사 사장 정철동)가 세계 최고 수준의 최신 기술로 차별화된 고객경험을 극대화하며 프리미엄 노트북 패널 시장을 선도하고 있다.LG디스플레이는 ‘옥사이드(Oxide) 1Hz’ 기술이 적용된 노트북용 LCD 패널을 세계 최초로 양산한다고 22일 밝혔...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39193",
       "source": "AI Times"
     }
   ]
