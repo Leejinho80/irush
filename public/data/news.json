@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-03-22T23:33:38.558Z",
+  "lastUpdated": "2026-03-23T23:38:11.760Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "클라우드 20년 : 비용과 복잡성, 통제",
+      "desc": "아마존 웹 서비스(Amazon Web Services)가 2006년 3월 심플 스토리지 서비스(Simple Storage Service, S3)를 출시했을 때, 전 세계 IT 리더는 큰 자극을 받았다. 필자는 당시를 또렷하게 기억한다. 기업이 제약이 많은 온프레미...",
+      "link": "https://www.itworld.co.kr/article/4148431/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-20%eb%85%84-%eb%b9%84%ec%9a%a9%ea%b3%bc-%eb%b3%b5%ec%9e%a1%ec%84%b1-%ed%86%b5%ec%a0%9c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "에이전트 AI 프로젝트 40%가 실패하는 이유, 모델이 아니라 신뢰",
+      "desc": "AI 에이전트 시장은 2024년 51억 달러에서 2030년 470억 달러 이상으로 성장할 것으로 전망되지만, 가트너는 에이전트 AI 프로젝트의 40% 이상이 2027년 말까지 취소될 것으로 예측한다. 원인은 모델 역량이 아니다. 신뢰의 문제다.\n\n\n\n전통적인 AI...",
+      "link": "https://www.itworld.co.kr/article/4148426/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-ai-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-40%ea%b0%80-%ec%8b%a4%ed%8c%a8%ed%95%98%eb%8a%94-%ec%9d%b4%ec%9c%a0-%eb%aa%a8%eb%8d%b8%ec%9d%b4-%ec%95%84%eb%8b%88.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "오픈AI, 기업 시장 정면 돌파…슈퍼앱으로 판 바꾼다",
+      "desc": "오픈AI가 챗GPT 애플리케이션, 코덱스(Codex) 코딩 플랫폼, AI 기반 브라우저를 단일 데스크톱 ‘슈퍼앱’으로 통합하는 방안을 추진 중인 것으로 알려졌다. 오픈AI를 유명하게 만든 사용자 시장에서 벗어나 기업·개발자 고객 중심으로 전략 방향을 전환하는 신호...",
+      "link": "https://www.itworld.co.kr/article/4148422/%ec%98%a4%ed%94%88ai-%ea%b8%b0%ec%97%85-%ec%8b%9c%ec%9e%a5-%ec%a0%95%eb%a9%b4-%eb%8f%8c%ed%8c%8c%ec%8a%88%ed%8d%bc%ec%95%b1%ec%9c%bc%eb%a1%9c-%ed%8c%90-%eb%b0%94%ea%be%bc%eb%8b%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "AI 챗봇이 당신과 친해지려는 진짜 이유",
+      "desc": "아마존에서는 무엇이든 살 수 있다고들 한다. 이제는 ‘개성’도 살 수 있다. 물론 자신의 개성이 아니라, AI ‘친구’ 알렉사를 위한 것이다.\n\n\n\n아마존은 음성 기반 AI 챗봇 알렉사 플러스에 네 가지 새로운 ‘대화 스타일’ 또는 ‘개성’을 추가한다고 발표했다....",
+      "link": "https://www.itworld.co.kr/article/4148413/ai-%ec%b1%97%eb%b4%87%ec%9d%b4-%eb%8b%b9%ec%8b%a0%ea%b3%bc-%ec%b9%9c%ed%95%b4%ec%a7%80%eb%a0%a4%eb%8a%94-%ec%a7%84%ec%a7%9c-%ec%9d%b4%ec%9c%a0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "마크다운이 일급 코딩 언어가 된 이유",
       "desc": "깃허브에 어떤 사람이 마크다운 파일 몇 개를 올렸다는 이유로 업계가 술렁이고 있다. 물론 아무 사람이나 올린 것도 아니고, 아무 마크다운 파일이나 올라온 것도 아니다.\n\n\n\n주인공은 와이 콤비네이터(Y Combinator) CEO 개리 탄이다. 와이 콤비네이터는 ...",
       "link": "https://www.itworld.co.kr/article/4147958/%eb%a7%88%ed%81%ac%eb%8b%a4%ec%9a%b4%ec%9d%b4-%ec%9d%bc%ea%b8%89-%ec%bd%94%eb%94%a9-%ec%96%b8%ec%96%b4%ea%b0%80-%eb%90%9c-%ec%9d%b4%ec%9c%a0.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "“핵무기 만드는 법 알려줘”…AI는 거절했고 검열 해제 모델은 답했다",
-      "desc": "GPT-5.2, GPT-5.3, 오푸스(Opus) 4.6, 소넷(Sonnet) 4.6, 그리고 다른 여러 대규모 언어 모델(LLM)에 핵무기를 만들 수 있게 도와달라고 요청해봤는데, 모두 거절했다.\n\n\n\n분명히 짚고 넘어가자면 핵무기를 만들지 못하는 주된 이유는 ...",
-      "link": "https://www.itworld.co.kr/article/4147952/%ed%95%b5%eb%ac%b4%ea%b8%b0-%eb%a7%8c%eb%93%9c%eb%8a%94-%eb%b2%95-%ec%95%8c%eb%a0%a4%ec%a4%98ai%eb%8a%94-%ea%b1%b0%ec%a0%88%ed%96%88%ea%b3%a0-%ea%b2%80%ec%97%b4-%ed%95%b4%ec%a0%9c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "생성형 UI, 엔터프라이즈 개발의 시간 공식을 바꾸다",
-      "desc": "모든 엣지 케이스를 일일이 하드코딩하는 방식에서 벗어나, 견고한 디자인 시스템을 구축하고 세밀하게 튜닝된 대규모 언어 모델이 실시간 사용자 데이터를 기반으로 런타임 레이아웃을 처리하도록 설계해야 한다.\n\n\n\n필자의 팀은 지난 분기에 새 기능을 출시했는데, 전통적인...",
-      "link": "https://www.itworld.co.kr/article/4147944/%ec%83%9d%ec%84%b1%ed%98%95-ui-%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4%ec%a6%88-%ea%b0%9c%eb%b0%9c%ec%9d%98-%ec%8b%9c%ea%b0%84-%ea%b3%b5%ec%8b%9d%ec%9d%84-%eb%b0%94%ea%be%b8%eb%8b%a4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "SQL의 귀환 : 50년 된 언어가 스스로 탈바꿈하는 방법",
-      "desc": "브라우저에서 백엔드에 이르기까지, 한때 ‘지루한’ 것으로 치부되던 선택이 다시 사람들의 흥미를 끌고 있다. SQL을 다시 무대의 중심에 띄우고 있는 세 가지 트렌드를 살펴본다.\n\n\n\n프로토타이핑은 프로그래밍에서 필자가 가장 좋아하는 부분이다. 새로운 것을 만들고 ...",
-      "link": "https://www.itworld.co.kr/article/4147397/sql%ec%9d%98-%ea%b7%80%ed%99%98-50%eb%85%84-%eb%90%9c-%ec%96%b8%ec%96%b4%ea%b0%80-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ed%83%88%eb%b0%94%ea%bf%88%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "아이폰 17e, 느린 맥세이프가 단점이 아닌 이유",
-      "desc": "아이폰 17e 테스트 초반 기대치는 높지 않았다. 지난해 출시된 아이폰 16e는 균형이 맞지 않는 제품으로 느껴졌고, 올해 후속작도 같은 문제를 상당 부분 안고 있는 듯하다. 이 가격대에서 굳이 필요하지 않을 만큼 빠른 프로세서와 넉넉한 RAM을 탑재했지만, 다른...",
-      "link": "https://www.itworld.co.kr/article/4147906/%ec%95%84%ec%9d%b4%ed%8f%b0-17e-%eb%8a%90%eb%a6%b0-%eb%a7%a5%ec%84%b8%ec%9d%b4%ed%94%84%ea%b0%80-%eb%8b%a8%ec%a0%90%ec%9d%b4-%ec%95%84%eb%8b%8c-%ec%9d%b4%ec%9c%a0.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "한화비전, 글로벌 AI 반도체 기업 암바렐라와 차세대 영상보안 기술 개발 나선다",
-      "desc": "한화비전이 글로벌 인공지능(AI) 반도체 기업 암바렐라(Ambarella)와 손잡고 차세대 영상보안 신기술 개발에 나선다. 양사는 이번 ‘전략적 파트너십’ 체결을 시작으로 지속적인 협업을 통해 AI 기술 경쟁력을 강화해 나간다는 방침이다.한화비전과 암바렐라는 지난...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39197",
+      "title": "경남도, ‘인공지능 기반 통합돌봄’ 본격 가동...전국 광역 최초 ‘AI 통합복지플랫폼’ 6월 본격 개시",
+      "desc": "경상남도(도지사 박완수)가 통합돌봄 시행 기반을 구축하고 인공지능(AI)과 현장 인력을 결합한 ‘경남형 4중 돌봄 안전망’ 가동에 본격 나선다. 특히 오는 6월 전국 광역지자체 최초로 도입되는 ‘생성형 인공지능(AI) 기반 통합복지플랫폼’을 통해 복지 정보 사각지...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39214",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "AI 음악 스타트업 포자랩스, 영상 편집 툴 ‘브루(Vrew)’에 AI 음원 제공",
-      "desc": "인공지능 음악 스타트업 포자랩스는 자사의 인공지능(AI) 음악 500곡을 보이저엑스의 영상 편집 툴 ‘브루(Vrew)’에 제공했다고 23일 밝혔다.브루는 AI 기반 자막 생성과 편집 기능을 중심으로 영상 제작을 지원하는 영상 편집 프로그램으로, 다양한 크리에이터들...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39196",
+      "title": "DARPA, 무인 블랙호크 현실화… 美 육군으로 자율비행 기술 및 헬기 인도",
+      "desc": "미국 국방고등연구계획국(DARPA)이 개발한 자율 비행 헬리콥터 기술이 미 육군으로 공식 이전되며, 군용 항공 분야에서 ‘완전 자율화’ 시대가 본격화되고 있다.DARPA는 자율 비행 시스템이 탑재된 실험용 H-60Mx 블랙호크 헬기를 미 육군에 인도했다고 지난 2...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39213",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "삼성SDS, 국내 최초 ‘B300 GPUaaS’ 출시… AI 추론 성능 극대화",
-      "desc": "삼성SDS가 국내 최초로 차세대 GPU 기반 클라우드 서비스를 선보이며 기업용 인공지능(AI) 인프라 시장 공략에 나섰다.삼성SDS는 23일 자사 클라우드 서비스인 ‘SCP(삼성 클라우드 플랫폼)’을 통해 엔비디아의 최신 GPU ‘B300(Blackwell Ult...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39195",
+      "title": "배경훈 부총리, 4대 과기원 - 지역 인공지능 전환 협력기업 업무협약식 참석",
+      "desc": "배경훈 부총리 겸 과학기술정보통신부(이하 ‘부총리’)는 23일, 한국과학기술원(KAIST) 학술문화관에서 개최된 ‘4대 과학기술원 – 지역 인공지능 전환 협력기업 업무협약식’에 참석해 세계 인공지능 3대 강국 도약을 위해 지역 산학연 간 긴밀한 공조 체계를 마련해...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39212",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "오라클, ‘자바 26’ 출시… AI·암호화·클라우드 최적화 전면 강화",
-      "desc": "오라클이 최신 자바 플랫폼 ‘자바 26(Java 26)’을 지난 17일(현지시간) 출시하고 인공지능(AI)과 보안, 클라우드 환경에 최적화된 개발 생태계 강화에 나섰다. 단순한 기능 개선을 넘어, AI 애플리케이션 개발과 엔터프라이즈 보안 요구를 동시에 충족하는 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39194",
+      "title": "KAIST, 세계 최초‘AI가 운영하는 무인공장’구현...피지컬 AI‘카이로스’구축",
+      "desc": "KAIST(총장 이광형)가 산업및 시스템공학과 장영재 교수팀이 이기종 로봇과 센서, 설비, 디지털 트윈을 하나의 시스템으로 통합 제어하는 피지컬 AI 테스트베드 ‘카이로스(KAIROS, KAIST AI Robot Orchestration Systems)’를 구축했...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39211",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "LG디스플레이, 1~120Hz 노트북용 패널 세계 최초 양산...전력 효율화, 이동성 높이고 AI 시대에 최적화",
-      "desc": "LG디스플레이(대표이사 사장 정철동)가 세계 최고 수준의 최신 기술로 차별화된 고객경험을 극대화하며 프리미엄 노트북 패널 시장을 선도하고 있다.LG디스플레이는 ‘옥사이드(Oxide) 1Hz’ 기술이 적용된 노트북용 LCD 패널을 세계 최초로 양산한다고 22일 밝혔...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39193",
+      "title": "한전, ‘AI 대전환 경영혁신 선포’...세계 최고 에너지 AI 플랫폼 기업으로 도약",
+      "desc": "한국전력(사장 김동철, 이하 한전)이 23일, 전남 나주 본사에서 인공지능(AI) 경영혁신 선포식을 개최하고, AI와 에너지의 결합을 통해 세계 최고의 에너지 AI 플랫폼 사업자로서 도약 하겠다는 비전(The Best Energy AI Platform Provid...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39210",
       "source": "AI Times"
     }
   ]
