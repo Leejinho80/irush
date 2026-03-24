@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-03-23T23:38:11.760Z",
+  "lastUpdated": "2026-03-24T23:37:43.217Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "클라우드 20년 : 비용과 복잡성, 통제",
-      "desc": "아마존 웹 서비스(Amazon Web Services)가 2006년 3월 심플 스토리지 서비스(Simple Storage Service, S3)를 출시했을 때, 전 세계 IT 리더는 큰 자극을 받았다. 필자는 당시를 또렷하게 기억한다. 기업이 제약이 많은 온프레미...",
-      "link": "https://www.itworld.co.kr/article/4148431/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-20%eb%85%84-%eb%b9%84%ec%9a%a9%ea%b3%bc-%eb%b3%b5%ec%9e%a1%ec%84%b1-%ed%86%b5%ec%a0%9c.html",
+      "title": "AI 중심 시대에 소프트웨어 개발 일자리를 얻는 방법",
+      "desc": "기술 채용 시장은 당혹스럽고 다소 불안한 시기에 들어선 모습이다. AI가 워크플로우를 흔들고 직무 기술서를 바꾸는 가운데, 많은 기업이 과거의 과잉 채용 여파로 인력을 줄이고 있다. 시장 불확실성을 이유로 채용을 동결하는 기업도 적지 않다.\n\n\n\n정규직을 찾든 계...",
+      "link": "https://www.itworld.co.kr/article/4149060/ai-%ec%a4%91%ec%8b%ac-%ec%8b%9c%eb%8c%80%ec%97%90-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ea%b0%9c%eb%b0%9c-%ec%9d%bc%ec%9e%90%eb%a6%ac%eb%a5%bc-%ec%96%bb%eb%8a%94-%eb%b0%a9%eb%b2%95.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "에이전트 AI 프로젝트 40%가 실패하는 이유, 모델이 아니라 신뢰",
-      "desc": "AI 에이전트 시장은 2024년 51억 달러에서 2030년 470억 달러 이상으로 성장할 것으로 전망되지만, 가트너는 에이전트 AI 프로젝트의 40% 이상이 2027년 말까지 취소될 것으로 예측한다. 원인은 모델 역량이 아니다. 신뢰의 문제다.\n\n\n\n전통적인 AI...",
-      "link": "https://www.itworld.co.kr/article/4148426/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-ai-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-40%ea%b0%80-%ec%8b%a4%ed%8c%a8%ed%95%98%eb%8a%94-%ec%9d%b4%ec%9c%a0-%eb%aa%a8%eb%8d%b8%ec%9d%b4-%ec%95%84%eb%8b%88.html",
+      "title": "오픈클로가 바꾼 판…빅테크 AI의 다음 전장은 데스크톱",
+      "desc": "챗GPT가 데스크톱에 올라앉은 AI 채팅창에 불과했던 시절을 기억하는가. 불과 지난 12월 얘기다.\n\n\n\n그로부터 딱 3개월이 지난 지금, AI를 채팅창에 가두는 데스크톱 앱이라는 발상은 구시대의 유물처럼 느껴진다. 클로드 코드(Claude Code)와 코덱스(C...",
+      "link": "https://www.itworld.co.kr/article/4149038/%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c%ea%b0%80-%eb%b0%94%ea%be%bc-%ed%8c%90%eb%b9%85%ed%85%8c%ed%81%ac-ai%ec%9d%98-%eb%8b%a4%ec%9d%8c-%ec%a0%84%ec%9e%a5%ec%9d%80-%eb%8d%b0%ec%8a%a4%ed%81%ac.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "오픈AI, 기업 시장 정면 돌파…슈퍼앱으로 판 바꾼다",
-      "desc": "오픈AI가 챗GPT 애플리케이션, 코덱스(Codex) 코딩 플랫폼, AI 기반 브라우저를 단일 데스크톱 ‘슈퍼앱’으로 통합하는 방안을 추진 중인 것으로 알려졌다. 오픈AI를 유명하게 만든 사용자 시장에서 벗어나 기업·개발자 고객 중심으로 전략 방향을 전환하는 신호...",
-      "link": "https://www.itworld.co.kr/article/4148422/%ec%98%a4%ed%94%88ai-%ea%b8%b0%ec%97%85-%ec%8b%9c%ec%9e%a5-%ec%a0%95%eb%a9%b4-%eb%8f%8c%ed%8c%8c%ec%8a%88%ed%8d%bc%ec%95%b1%ec%9c%bc%eb%a1%9c-%ed%8c%90-%eb%b0%94%ea%be%bc%eb%8b%a4.html",
+      "title": "오픈텍스트, 공공부문 에이전트 AI 도입 본격화…”거버넌스 없는 자동화는 리스크”",
+      "desc": "공공부문에서도 단순 데이터 분석을 넘어 실제 업무를 직접 수행하는 에이전트 AI 도입이 본격화되고 있다. 글로벌 정보관리 기업 오픈텍스트(OpenText) 이 같은 흐름 속에서 ‘통제 가능한 자동화(governed automation)’의 중요성을 강조하며 공공 ...",
+      "link": "https://www.itworld.co.kr/article/4149036/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b3%b5%ea%b3%b5%eb%b6%80%eb%ac%b8-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-ai-%eb%8f%84%ec%9e%85-%eb%b3%b8%ea%b2%a9%ed%99%94%ea%b1%b0%eb%b2%84.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "AI 챗봇이 당신과 친해지려는 진짜 이유",
-      "desc": "아마존에서는 무엇이든 살 수 있다고들 한다. 이제는 ‘개성’도 살 수 있다. 물론 자신의 개성이 아니라, AI ‘친구’ 알렉사를 위한 것이다.\n\n\n\n아마존은 음성 기반 AI 챗봇 알렉사 플러스에 네 가지 새로운 ‘대화 스타일’ 또는 ‘개성’을 추가한다고 발표했다....",
-      "link": "https://www.itworld.co.kr/article/4148413/ai-%ec%b1%97%eb%b4%87%ec%9d%b4-%eb%8b%b9%ec%8b%a0%ea%b3%bc-%ec%b9%9c%ed%95%b4%ec%a7%80%eb%a0%a4%eb%8a%94-%ec%a7%84%ec%a7%9c-%ec%9d%b4%ec%9c%a0.html",
+      "title": "“중학교 수학에 흥분하던 시절은 끝났다”…AI의 다음 도약",
+      "desc": "“3~4년 전만 해도 AI 모델이 중학교 수준의 수학 문제를 풀면 엄청나게 흥분했다.” 지난주 엔비디아 GTC 개발자 행사 패널 토론에서 구글 딥마인드·구글 리서치 수석 과학자 제프 딘이 한 말이다.\n\n\n\n지난해 구글의 제미나이는 국제 수학 올림피아드에서 금메달 ...",
+      "link": "https://www.itworld.co.kr/article/4149015/%ec%a4%91%ed%95%99%ea%b5%90-%ec%88%98%ed%95%99%ec%97%90-%ed%9d%a5%eb%b6%84%ed%95%98%eb%8d%98-%ec%8b%9c%ec%a0%88%ec%9d%80-%eb%81%9d%eb%82%ac%eb%8b%a4ai%ec%9d%98-%eb%8b%a4%ec%9d%8c.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "마크다운이 일급 코딩 언어가 된 이유",
-      "desc": "깃허브에 어떤 사람이 마크다운 파일 몇 개를 올렸다는 이유로 업계가 술렁이고 있다. 물론 아무 사람이나 올린 것도 아니고, 아무 마크다운 파일이나 올라온 것도 아니다.\n\n\n\n주인공은 와이 콤비네이터(Y Combinator) CEO 개리 탄이다. 와이 콤비네이터는 ...",
-      "link": "https://www.itworld.co.kr/article/4147958/%eb%a7%88%ed%81%ac%eb%8b%a4%ec%9a%b4%ec%9d%b4-%ec%9d%bc%ea%b8%89-%ec%bd%94%eb%94%a9-%ec%96%b8%ec%96%b4%ea%b0%80-%eb%90%9c-%ec%9d%b4%ec%9c%a0.html",
+      "title": "오픈AI, 인력 두 배로 늘린다…기업용 AI 인재 수요 급증",
+      "desc": "오픈AI가 2026년 말까지 현재 약 4,500명 수준인 인력을 8,000명으로 두 배 가까이 늘릴 계획이다. 앤트로픽과 구글의 경쟁이 치열해지는 가운데, 챗GPT의 기업용 확장과 수익화에 집중하는 전략의 일환이다.\n\n\n\n파이낸셜 익스프레스(Financial Ex...",
+      "link": "https://www.itworld.co.kr/article/4148999/%ec%98%a4%ed%94%88ai-%ec%9d%b8%eb%a0%a5-%eb%91%90-%eb%b0%b0%eb%a1%9c-%eb%8a%98%eb%a6%b0%eb%8b%a4%ea%b8%b0%ec%97%85%ec%9a%a9-ai-%ec%9d%b8%ec%9e%ac-%ec%88%98%ec%9a%94-%ea%b8%89%ec%a6%9d.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "경남도, ‘인공지능 기반 통합돌봄’ 본격 가동...전국 광역 최초 ‘AI 통합복지플랫폼’ 6월 본격 개시",
-      "desc": "경상남도(도지사 박완수)가 통합돌봄 시행 기반을 구축하고 인공지능(AI)과 현장 인력을 결합한 ‘경남형 4중 돌봄 안전망’ 가동에 본격 나선다. 특히 오는 6월 전국 광역지자체 최초로 도입되는 ‘생성형 인공지능(AI) 기반 통합복지플랫폼’을 통해 복지 정보 사각지...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39214",
+      "title": "[칼럼] \"데이터 과잉 시대, 해답은 연결된 AI 생태계에 있다\"",
+      "desc": "필자, 롭 맥그리비(Rob McGreevy)는 글로벌 산업용 소프트웨어 선도 기업인 아비바(AVEVA)의 최고제품책임자(CPO, Chief Product Officer)다. 30년 이상 산업용 소프트웨어 분야에서 혁신을 이끌어온 전문가로, 현재 아비바의 제품 전략...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39242",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "DARPA, 무인 블랙호크 현실화… 美 육군으로 자율비행 기술 및 헬기 인도",
-      "desc": "미국 국방고등연구계획국(DARPA)이 개발한 자율 비행 헬리콥터 기술이 미 육군으로 공식 이전되며, 군용 항공 분야에서 ‘완전 자율화’ 시대가 본격화되고 있다.DARPA는 자율 비행 시스템이 탑재된 실험용 H-60Mx 블랙호크 헬기를 미 육군에 인도했다고 지난 2...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39213",
+      "title": "AI, 점점 ‘사람처럼’ 진화… MIT, ‘겸손한 AI’로 의료 패러다임 전환 제시",
+      "desc": "인공지능은 의사가 환자를 진단하고 맞춤형 치료법을 제공하는 데 큰 도움을 줄 수 있을 것으로 기대된다. 그러나 MIT 크리티컬 데이터(MIT Critical Data) 컨소시엄 연구팀은 현재 설계된 인공지능 시스템이 의사를 잘못된 방향으로 이끌 위험이 있다고 경고...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39239",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "배경훈 부총리, 4대 과기원 - 지역 인공지능 전환 협력기업 업무협약식 참석",
-      "desc": "배경훈 부총리 겸 과학기술정보통신부(이하 ‘부총리’)는 23일, 한국과학기술원(KAIST) 학술문화관에서 개최된 ‘4대 과학기술원 – 지역 인공지능 전환 협력기업 업무협약식’에 참석해 세계 인공지능 3대 강국 도약을 위해 지역 산학연 간 긴밀한 공조 체계를 마련해...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39212",
+      "title": "Bin Yuann, AI 서버 최적화 고성능 볼베어링 레일 솔루션 공개",
+      "desc": "대만에 본사를 둔 정밀 볼베어링 슬라이드 및 서버 레일 전문 제조업체 Bin Yuann Enterprise(대표 Ming-Hwa Chuang)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39240",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "KAIST, 세계 최초‘AI가 운영하는 무인공장’구현...피지컬 AI‘카이로스’구축",
-      "desc": "KAIST(총장 이광형)가 산업및 시스템공학과 장영재 교수팀이 이기종 로봇과 센서, 설비, 디지털 트윈을 하나의 시스템으로 통합 제어하는 피지컬 AI 테스트베드 ‘카이로스(KAIROS, KAIST AI Robot Orchestration Systems)’를 구축했...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39211",
+      "title": "화낙 아메리카, 美 로봇 생산 확대에 9천만 달러 투자...\"피지컬 AI 기반 제조 전환 대응\"",
+      "desc": "미국 화낙(FANUC America Corporation)이 미국 내 로봇 생산 역량 확대를 위해 대규모 투자를 단행한다. 북미 자동화 수요 증가와 함께 피지컬 AI 기반 제조 전환에 대응하기 위한 전략적 행보다.화낙 아메리카는 미시간주 로체스터 힐스에 9천만 달...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39238",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "한전, ‘AI 대전환 경영혁신 선포’...세계 최고 에너지 AI 플랫폼 기업으로 도약",
-      "desc": "한국전력(사장 김동철, 이하 한전)이 23일, 전남 나주 본사에서 인공지능(AI) 경영혁신 선포식을 개최하고, AI와 에너지의 결합을 통해 세계 최고의 에너지 AI 플랫폼 사업자로서 도약 하겠다는 비전(The Best Energy AI Platform Provid...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39210",
+      "title": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결”",
+      "desc": "오라클(Oracle)이 기업용 데이터 환경을 인공지능(AI) 중심으로 재편하는 ‘에이전틱 AI’ 데이터베이스 전략을 공식화했다. 오라클은 24일(현지시간) 영국 런던에서 열린 오라클 AI 월드 투어(Oracle AI World Tour)에서 ‘오라클 AI 데이터베...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39237",
       "source": "AI Times"
     }
   ]
