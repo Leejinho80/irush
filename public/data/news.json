@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-03-24T23:37:43.217Z",
+  "lastUpdated": "2026-03-25T23:40:18.109Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "윈도우 11이 재채기하면 애저 클라우드가 감기에 걸린다",
+      "desc": "마이크로소프트를 여러 제품군의 집합으로 보면, 윈도우 11과 애저 클라우드는 서로 다른 세계에 있다고 판단하기 쉽다. 윈도우 11은 사용자를 짜증 나게 하고, 관리자를 혼란스럽게 만들고, 많은 고객이 원하지 않았던 방식으로 하드웨어 교체 주기를 밀어붙인 클라이언트...",
+      "link": "https://www.itworld.co.kr/article/4149704/%ec%9c%88%eb%8f%84%ec%9a%b0-11%ec%9d%b4-%ec%9e%ac%ec%b1%84%ea%b8%b0%ed%95%98%eb%a9%b4-%ec%95%a0%ec%a0%80-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ea%b0%80-%ea%b0%90%ea%b8%b0%ec%97%90-%ea%b1%b8%eb%a6%b0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "삼성, 애플의 안방 에어드롭에 발 들인다",
+      "desc": "지난해 말 구글이 픽셀 폰에 에어드롭 지원을 깜짝 도입한 데 이어, 삼성도 갤럭시 폰에 에어드롭 지원을 추가한다고 발표했다. 안드로이드 퀵 셰어를 통해 작동하는 이 기능은 이번 주 갤럭시 S26, S26+, S26 울트라에 우선 적용되며, 다른 모델에는 추후 순차...",
+      "link": "https://www.itworld.co.kr/article/4149050/%ec%82%bc%ec%84%b1-%ec%95%a0%ed%94%8c%ec%9d%98-%ec%95%88%eb%b0%a9-%ec%97%90%ec%96%b4%eb%93%9c%eb%a1%ad%ec%97%90-%eb%b0%9c-%eb%93%a4%ec%9d%b8%eb%8b%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "애플 지도에 광고가 온다…애플이 성장을 멈출 수 없는 이유",
+      "desc": "애플이 더 많은 돈을 벌기 위해 자사 제품을 갉아먹는 행보를 멈출 기미가 없다. 애플은 이미 3조 7000억 달러 규모의 기업이지만 서비스 매출 확대를 멈추지 않고 있으며, 다음 타깃은 애플 지도다. 이번에는 핵심 사용자 경험인 지도가 광고의 제물이 됐다.\n\n\n\n...",
+      "link": "https://www.itworld.co.kr/article/4148986/%ec%95%a0%ed%94%8c-%ec%a7%80%eb%8f%84%ec%97%90-%ea%b4%91%ea%b3%a0%ea%b0%80-%ec%98%a8%eb%8b%a4%ec%95%a0%ed%94%8c%ec%9d%b4-%ec%84%b1%ec%9e%a5%ec%9d%84-%eb%a9%88%ec%b6%9c-%ec%88%98-%ec%97%86.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "AI 중심 시대에 소프트웨어 개발 일자리를 얻는 방법",
       "desc": "기술 채용 시장은 당혹스럽고 다소 불안한 시기에 들어선 모습이다. AI가 워크플로우를 흔들고 직무 기술서를 바꾸는 가운데, 많은 기업이 과거의 과잉 채용 여파로 인력을 줄이고 있다. 시장 불확실성을 이유로 채용을 동결하는 기업도 적지 않다.\n\n\n\n정규직을 찾든 계...",
       "link": "https://www.itworld.co.kr/article/4149060/ai-%ec%a4%91%ec%8b%ac-%ec%8b%9c%eb%8c%80%ec%97%90-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ea%b0%9c%eb%b0%9c-%ec%9d%bc%ec%9e%90%eb%a6%ac%eb%a5%bc-%ec%96%bb%eb%8a%94-%eb%b0%a9%eb%b2%95.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "오픈클로가 바꾼 판…빅테크 AI의 다음 전장은 데스크톱",
       "desc": "챗GPT가 데스크톱에 올라앉은 AI 채팅창에 불과했던 시절을 기억하는가. 불과 지난 12월 얘기다.\n\n\n\n그로부터 딱 3개월이 지난 지금, AI를 채팅창에 가두는 데스크톱 앱이라는 발상은 구시대의 유물처럼 느껴진다. 클로드 코드(Claude Code)와 코덱스(C...",
       "link": "https://www.itworld.co.kr/article/4149038/%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c%ea%b0%80-%eb%b0%94%ea%be%bc-%ed%8c%90%eb%b9%85%ed%85%8c%ed%81%ac-ai%ec%9d%98-%eb%8b%a4%ec%9d%8c-%ec%a0%84%ec%9e%a5%ec%9d%80-%eb%8d%b0%ec%8a%a4%ed%81%ac.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "오픈텍스트, 공공부문 에이전트 AI 도입 본격화…”거버넌스 없는 자동화는 리스크”",
-      "desc": "공공부문에서도 단순 데이터 분석을 넘어 실제 업무를 직접 수행하는 에이전트 AI 도입이 본격화되고 있다. 글로벌 정보관리 기업 오픈텍스트(OpenText) 이 같은 흐름 속에서 ‘통제 가능한 자동화(governed automation)’의 중요성을 강조하며 공공 ...",
-      "link": "https://www.itworld.co.kr/article/4149036/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b3%b5%ea%b3%b5%eb%b6%80%eb%ac%b8-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-ai-%eb%8f%84%ec%9e%85-%eb%b3%b8%ea%b2%a9%ed%99%94%ea%b1%b0%eb%b2%84.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "“중학교 수학에 흥분하던 시절은 끝났다”…AI의 다음 도약",
-      "desc": "“3~4년 전만 해도 AI 모델이 중학교 수준의 수학 문제를 풀면 엄청나게 흥분했다.” 지난주 엔비디아 GTC 개발자 행사 패널 토론에서 구글 딥마인드·구글 리서치 수석 과학자 제프 딘이 한 말이다.\n\n\n\n지난해 구글의 제미나이는 국제 수학 올림피아드에서 금메달 ...",
-      "link": "https://www.itworld.co.kr/article/4149015/%ec%a4%91%ed%95%99%ea%b5%90-%ec%88%98%ed%95%99%ec%97%90-%ed%9d%a5%eb%b6%84%ed%95%98%eb%8d%98-%ec%8b%9c%ec%a0%88%ec%9d%80-%eb%81%9d%eb%82%ac%eb%8b%a4ai%ec%9d%98-%eb%8b%a4%ec%9d%8c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "오픈AI, 인력 두 배로 늘린다…기업용 AI 인재 수요 급증",
-      "desc": "오픈AI가 2026년 말까지 현재 약 4,500명 수준인 인력을 8,000명으로 두 배 가까이 늘릴 계획이다. 앤트로픽과 구글의 경쟁이 치열해지는 가운데, 챗GPT의 기업용 확장과 수익화에 집중하는 전략의 일환이다.\n\n\n\n파이낸셜 익스프레스(Financial Ex...",
-      "link": "https://www.itworld.co.kr/article/4148999/%ec%98%a4%ed%94%88ai-%ec%9d%b8%eb%a0%a5-%eb%91%90-%eb%b0%b0%eb%a1%9c-%eb%8a%98%eb%a6%b0%eb%8b%a4%ea%b8%b0%ec%97%85%ec%9a%a9-ai-%ec%9d%b8%ec%9e%ac-%ec%88%98%ec%9a%94-%ea%b8%89%ec%a6%9d.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "[칼럼] \"데이터 과잉 시대, 해답은 연결된 AI 생태계에 있다\"",
-      "desc": "필자, 롭 맥그리비(Rob McGreevy)는 글로벌 산업용 소프트웨어 선도 기업인 아비바(AVEVA)의 최고제품책임자(CPO, Chief Product Officer)다. 30년 이상 산업용 소프트웨어 분야에서 혁신을 이끌어온 전문가로, 현재 아비바의 제품 전략...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39242",
+      "title": "노타 AI, 시마 ai와 ‘피지컬 AI’ 공략...산업·로보틱스·모빌리티까지 협력 확대",
+      "desc": "노타 AI(Nota AI)와 시마AI(SiMa.ai)는 25일(현지시간) 미국 캘리포니아 산호세(San Jose, California)에 위치한 시마AI 본사에서 전략적 파트너십을 체결하고 피지컬 AI(Physical AI) 시장 공략을 위한 전략적 협력에 나섰다...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39265",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "AI, 점점 ‘사람처럼’ 진화… MIT, ‘겸손한 AI’로 의료 패러다임 전환 제시",
-      "desc": "인공지능은 의사가 환자를 진단하고 맞춤형 치료법을 제공하는 데 큰 도움을 줄 수 있을 것으로 기대된다. 그러나 MIT 크리티컬 데이터(MIT Critical Data) 컨소시엄 연구팀은 현재 설계된 인공지능 시스템이 의사를 잘못된 방향으로 이끌 위험이 있다고 경고...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39239",
+      "title": "공장·전장 아우르는 산업 AI 플랫폼 ‘마키나락스’, 증권신고서 제출… 코스닥 상장 본격화",
+      "desc": "산업 특화 인공지능 및 피지컬 AI 기업 마키나락스(MakinaRocks, 대표 윤성호)가 25일 금융위원회에 코스닥 상장을 위한 증권신고서를 제출하고 본격적인 상장 절차에 돌입했다고 밝혔다.이번 상장을 통해 총 2,635,000주를 공모할 계획이며, 희망 공모가...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39264",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "Bin Yuann, AI 서버 최적화 고성능 볼베어링 레일 솔루션 공개",
-      "desc": "대만에 본사를 둔 정밀 볼베어링 슬라이드 및 서버 레일 전문 제조업체 Bin Yuann Enterprise(대표 Ming-Hwa Chuang)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39240",
+      "title": "EBS, AI 혁신으로 새 길을 열다...봄 개편 단행, AI로 제작비 장벽 허물고 ‘대형 프로젝트’ 편성",
+      "desc": "박제된 활자 속 고전이 인공지능(AI) 기술로 살아나고, 수천 년 전 역사적 인물이 화면 너머 시청자에게 인사를 건넨다. 2026년 봄, EBS가 인공지능과 인간이 공존하는 교육 콘텐츠의 새로운 패러다임을 선언한다.EBS가 ‘AI 혁신, 콘텐츠 혁신을 통한 경쟁력...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39263",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "화낙 아메리카, 美 로봇 생산 확대에 9천만 달러 투자...\"피지컬 AI 기반 제조 전환 대응\"",
-      "desc": "미국 화낙(FANUC America Corporation)이 미국 내 로봇 생산 역량 확대를 위해 대규모 투자를 단행한다. 북미 자동화 수요 증가와 함께 피지컬 AI 기반 제조 전환에 대응하기 위한 전략적 행보다.화낙 아메리카는 미시간주 로체스터 힐스에 9천만 달...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39238",
+      "title": "씨디에스, 기관 맞춤형 AI 통합 운영 플랫폼 ‘WeeAI’ 공개",
+      "desc": "AI 솔루션 전문 기업 ㈜씨디에스(CDS, 대표 유지대)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)’에 참가...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39262",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결”",
-      "desc": "오라클(Oracle)이 기업용 데이터 환경을 인공지능(AI) 중심으로 재편하는 ‘에이전틱 AI’ 데이터베이스 전략을 공식화했다. 오라클은 24일(현지시간) 영국 런던에서 열린 오라클 AI 월드 투어(Oracle AI World Tour)에서 ‘오라클 AI 데이터베...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39237",
+      "title": "정부, 국가창업시대 열어가는 첫 발걸음 '모두의 창업 프로젝트 추진계획' 발표",
+      "desc": "정부는 25일, 구윤철 경제부총리 주재로 개최된 국가창업시대 전략회의에서 관계부처 합동으로 '모두의 창업 프로젝트'를 발표했다. 이번 발표는 국가창업시대 정책방향에 대한 후속 발표로, 모두의 창업 프로젝트에 대한 구체적인 추진계획을 담고 있다.정부는 지난 1월 3...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39261",
       "source": "AI Times"
     }
   ]
