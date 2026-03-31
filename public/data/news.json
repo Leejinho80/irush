@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-03-30T23:41:06.308Z",
+  "lastUpdated": "2026-03-31T23:38:55.038Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "헬프데스크 티켓 3건 중 1건은 업무 완전 중단…가장 바쁜 날은 화요일",
-      "desc": "대규모 조직이 처리하는 헬프데스크 티켓(IT 지원 요청 건)의 거의 3분의 1이 업무 중단을 야기하는 것으로 나타났다. 헬프데스크 자동화 기업 픽시파이(Fixify)가 발표한 연구 결과다. 연구에 따르면 헬프데스크가 가장 바쁜 요일은 화요일인 것으로 집계됐다.\n\n...",
-      "link": "https://www.itworld.co.kr/article/4151598/%ed%97%ac%ed%94%84%eb%8d%b0%ec%8a%a4%ed%81%ac-%ed%8b%b0%ec%bc%93-3%ea%b1%b4-%ec%a4%91-1%ea%b1%b4%ec%9d%80-%ec%97%85%eb%ac%b4-%ec%99%84%ec%a0%84-%ec%a4%91%eb%8b%a8%ea%b0%80%ec%9e%a5-%eb%b0%94.html",
+      "title": "“AI에 돈만 쏟아붓던 시대 끝났다” 이제는 ‘ROI 증명’이 숙제",
+      "desc": "IT 리더가 생성형 AI의 가치를 규모 있게 입증하는 데 어려움을 겪는 가운데, 일부 대응 전략을 바꾸는 기업도 등장했다.\n\n\n\n기업의 생성형 AI 지출이 지난 한 해 동안 급증했지만, 많은 CIO에게 가장 어려운 대화는 이제 막 시작되고 있다. 이사회와 CFO는...",
+      "link": "https://www.itworld.co.kr/article/4152226/ai%ec%97%90-%eb%8f%88%eb%a7%8c-%ec%8f%9f%ec%95%84%eb%b6%93%eb%8d%98-%ec%8b%9c%eb%8c%80-%eb%81%9d%eb%82%ac%eb%8b%a4-%ec%9d%b4%ec%a0%9c%eb%8a%94-roi-%ec%a6%9d%eb%aa%85%ec%9d%b4-%ec%88%99.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "앤트로픽, 미 국방부 공급망 금지 조치 잠정 제동…연방 판사 “자의적·위법 소지”",
-      "desc": "미국 연방 정부와 협력하는 기업이 앤트로픽 기술 사용 노출도를 재검토하고 잠재적인 정책 변동에 대비할 시간을 확보했다.\n\n\n\n미 연방 판사는 앤트로픽 제품의 방위 계약 사용을 금지하려 한 미국 국방부 조치를 중단시키는 판결을 내리면서, 미국 국방부가 앤트로픽을 공...",
-      "link": "https://www.itworld.co.kr/article/4151566/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%eb%af%b8-%ea%b5%ad%eb%b0%a9%eb%b6%80-%ea%b3%b5%ea%b8%89%eb%a7%9d-%ea%b8%88%ec%a7%80-%ec%a1%b0%ec%b9%98-%ec%9e%a0%ec%a0%95-%ec%a0%9c%eb%8f%99%ec%97%b0.html",
+      "title": "“SSD, 오래 쓰고 싶다면”…윈도우 11에서 지금 바로 바꿔야 할 설정",
+      "desc": "SSD는 전통적인 HDD보다 성능이 빠르고 조용하게 작동하며 전력 소비량도 낮아 데스크톱과 노트북에 널리 쓰인다. 내구성 면에서도 SSD가 HDD보다 우위에 있다.\n\n\n\n그러나 모든 전자 부품이 그렇듯, SSD도 수명이 한정돼 있으며 다양한 요인에 영향을 받는다....",
+      "link": "https://www.itworld.co.kr/article/4152208/ssd-%ec%98%a4%eb%9e%98-%ec%93%b0%ea%b3%a0-%ec%8b%b6%eb%8b%a4%eb%a9%b4%ec%9c%88%eb%8f%84%ec%9a%b0-11%ec%97%90%ec%84%9c-%ec%a7%80%ea%b8%88-%eb%b0%94%eb%a1%9c-%eb%b0%94%ea%bf%94%ec%95%bc.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "“다음은 분산이다” 엣지 클라우드와 로컬 데이터센터가 바꾸는 IT 아키텍처",
-      "desc": "지난 10여 년간 기업의 클라우드 전략은 가능한 한 많은 것을 중앙에 모으는 방향으로 전개됐다. 자체 데이터센터에서 워크로드를 옮기고 하이퍼스케일 플랫폼으로 운영을 통합하며, 규모의 경제를 활용하는 방식이다. 이 전략은 인프라 확산을 줄이고 배포 속도를 높였으며,...",
-      "link": "https://www.itworld.co.kr/article/4151562/%eb%8b%a4%ec%9d%8c%ec%9d%80-%eb%b6%84%ec%82%b0%ec%9d%b4%eb%8b%a4-%ec%97%a3%ec%a7%80-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%99%80-%eb%a1%9c%ec%bb%ac-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
+      "title": "기업 AI 도입의 냉혹할 만큼 불평등한 현실",
+      "desc": "윌리엄 깁슨의 말을 빌리자면, AI의 미래는 이미 도착했다. 다만 아직 고르게 퍼지지는 않았다.\n\n\n\n지난 주 런던에서 필자는 기업 AI를 두고 상반된 두 가지 이야기를 들었다. 잘 알려진 AI 도입 서사를 단번에 무너뜨릴 만큼 대비가 컸다. 첫 번째는 대형 헤지...",
+      "link": "https://www.itworld.co.kr/article/4152201/%ea%b8%b0%ec%97%85-ai-%eb%8f%84%ec%9e%85%ec%9d%98-%eb%83%89%ed%98%b9%ed%95%a0-%eb%a7%8c%ed%81%bc-%eb%b6%88%ed%8f%89%eb%93%b1%ed%95%9c-%ed%98%84%ec%8b%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "맥 프로, 조용히 역사 속으로…애플 실리콘에 자리를 내주다",
-      "desc": "애플의 가장 상징적인 컴퓨터로 꼽힌 맥 프로의 종말은 예견된 수순이었다. 이달 초 프로 디스플레이 XDR 단종과 새 스튜디오 디스플레이 XDR 출시로 이미 신호를 보낸 바 있다. 이제 공식 발표가 났다.\n\n\n\n지난 목요일 애플은 Macworld에 맥 프로 단종을 ...",
-      "link": "https://www.itworld.co.kr/article/4151486/%eb%a7%a5-%ed%94%84%eb%a1%9c-%ec%a1%b0%ec%9a%a9%ed%9e%88-%ec%97%ad%ec%82%ac-%ec%86%8d%ec%9c%bc%eb%a1%9c%ec%95%a0%ed%94%8c-%ec%8b%a4%eb%a6%ac%ec%bd%98%ec%97%90-%ec%9e%90%eb%a6%ac%eb%a5%bc.html",
+      "title": "블루스카이, AI 기반 소셜 피드 빌더 ‘애티’ 공개…”알고리즘 대신 내가 직접 설계”",
+      "desc": "AI 도구인 클로드 코드(Claude Code)나 코덱스(Codex)를 활용한 바이브 코딩이 앱과 웹 페이지 제작에 쓰인다는 소식은 이미 널리 알려졌지만, 활용 범위는 여기에 그치지 않는다. 소셜 피드를 직접 설계하는 것도 가능해졌다.\n\n\n\n블루스카이 개발팀이 애...",
+      "link": "https://www.itworld.co.kr/article/4152197/%eb%b8%94%eb%a3%a8%ec%8a%a4%ec%b9%b4%ec%9d%b4-ai-%ea%b8%b0%eb%b0%98-%ec%86%8c%ec%85%9c-%ed%94%bc%eb%93%9c-%eb%b9%8c%eb%8d%94-%ec%95%a0%ed%8b%b0-%ea%b3%b5%ea%b0%9c%ec%95%8c%ea%b3%a0.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "“AI 시대 진짜 경쟁력은 데이터·인프라·인간” 클라우드 & AI 서밋 2026, 비즈니스 혁신 전략을 총망라하다",
-      "desc": "AI 에이전트가 직원처럼 일하는 시대가 본격화되면서, 기업은 기술 도입 속도보다 더 근본적인 질문 앞에 서게 됐다. AI 에이전트에 대한 기업의 관심과 투자가 사상 최고 수준으로 치솟고 있지만, 실제 업무 현장에 배포된 사례는 여전히 11%에 불과하다. 과대포장의...",
-      "link": "https://www.itworld.co.kr/article/4150313/ai-%ec%8b%9c%eb%8c%80-%ec%a7%84%ec%a7%9c-%ea%b2%bd%ec%9f%81%eb%a0%a5%ec%9d%80-%eb%8d%b0%ec%9d%b4%ed%84%b0%c2%b7%ec%9d%b8%ed%94%84%eb%9d%bc%c2%b7%ec%9d%b8%ea%b0%84-%ed%81%b4%eb%9d%bc%ec%9a%b0.html",
+      "title": "‘수집’ 아닌 ‘연결’이 승패 가른다…디노도가 제안하는 AI 시대의 데이터 전략",
+      "desc": "오늘날 기업의 화두는 단연 AI다. 특히 챗GPT와 같은 생성형 AI 챗봇 서비스를 경험해 본 경영진과 현업 부서에서는 “우리 회사가 지난 수십 년간 쌓아온 방대한 데이터와 엮어서 챗GPT와 함께 쓸 수는 없을까?”라는 고민을 하고 있다. 그러나 지난 2~3년 사...",
+      "link": "https://www.itworld.co.kr/article/4151603/%ec%88%98%ec%a7%91-%ec%95%84%eb%8b%8c-%ec%97%b0%ea%b2%b0%ec%9d%b4-%ec%8a%b9%ed%8c%a8-%ea%b0%80%eb%a5%b8%eb%8b%a4%eb%94%94%eb%85%b8%eb%8f%84%ea%b0%80.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "“레거시 코드 분석, 설계 문서 자동 생성”… 후지쯔, 생성형 AI로 시스템 현대화 ‘97% 시간 단축’",
-      "desc": "후지쯔(Fujitsu Limited)는 30일(현지시간), 생성형 인공지능 기술을 활용해 소스코드를 분석하고 설계 문서를 자동으로 생성하는 서비스인 ‘후지쯔 애플리케이션 트랜스폼(Fujitsu Application Transform)’을 공식 출시했다.이 서비스는...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39332",
+      "title": "심플랫폼, 산업용 AIoT 기반 ‘누비슨 AX 플랫폼’ 공개",
+      "desc": "산업용 AIoT 전문 기업 심플랫폼(대표 임대근, 강태신)이 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)’에 참...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39358",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "'AI 인덱스 2026' 보고서 4월 13일 공개… “글로벌 AI 흐름 한눈에 본다”",
-      "desc": "인공지능(AI) 산업 전반의 흐름을 체계적으로 분석하는 ‘AI 인덱스(AI Index)’의 최신 보고서가 오는 4월 13일(현지시간) 공개된다. 이번 ‘2026년 AI 지수 보고서’는 전 세계 인공지능 발전 현황을 데이터 기반으로 종합 정리하며, 정책·산업·연구 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39331",
+      "title": "슬렉슨, 보안 특화 온프레미스 기반 ‘AI-Native R&D 플랫폼’ 공개",
+      "desc": "AI 기반 소프트웨어 솔루션 기업 슬렉슨(SLEXN)이 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)’에 참가한다...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39357",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "울산정보산업진흥원,  맞춤형 AI 재직자 교육 본격 추진...고용부 ‘AI 특화 공동훈련센터’선정, 국비 18억 확보",
-      "desc": "울산정보산업진흥원(원장 장병태)은 고용노동부가 주관하는 ‘인공지능 특화 공동훈련센터’ 공모사업에 최종 선정되어 국비 18억원을 확보했다고 30일 밝혔다.고용노동부와 한국산업인력공단이 추진하는 ‘AI 특화 공동훈련센터’는 전국 총 20개소를 지정해 운영된다. 센터 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39330",
+      "title": "올빅뎃, 멀티모달 AI 기반 문서 이해 솔루션 ‘DATALUX’ 공개",
+      "desc": "멀티모달 AI 기반 문서 이해 솔루션 기업 올빅뎃(ALLBIGDAT, 대표 이동재)은 지난 25일 개최된 코리아 나라장터 엑스포 2026 혁신제품관에 참가해 자사 문서 이해 솔루션인 DATALUX(데이터럭스)를 전격 선보였다.코리아 나라장터 엑스포는 조달청이 주최...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39356",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "LS전선 역대 최대 실적,  매출 7조5882억, 영업이익 2798억… 글로벌 전력망과 AI 전력 인프라 수요 동인",
-      "desc": "LS전선이 글로벌 전력망 투자 확대와 수주잔 증가를 기반으로 2025년 역대 최대 실적을 달성했다. LS전선은 2025년 연결 기준 매출 7조5882억원, 영업이익 2798억원을 기록했다고 30일 밝혔다.초고압 및 해저케이블 중심의 수요 확대와 LS에코에너지 등 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39328",
+      "title": "텐센트 클라우드, '컴피UI'와 오픈소스 3D 생성형 AI 워크플로우 혁신",
+      "desc": "텐센트의 클라우드 사업부 텐센트 클라우드(Tencent Cloud)는 오픈소스 기반 시각형 인공지능(AI) 플랫폼 '컴피UI(ComfyUI)'와의 협력을 30일(현지시간), 발표하고 3D 생성형 AI 기능 통합에 나섰다.이번 협력의 핵심은 텐센트의 3D 생성 엔진...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39355",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "“오디오 전환 시점 잡는 AI\"… 머신러닝 기반 스트림 분할 기술의 특허적 함의",
-      "desc": "최근 인공지능(AI) 기술은 음성 인식, 음악 추천, 콘텐츠 필터링 등 다양한 오디오 처리 분야에서 핵심적인 역할을 수행하고 있으며, 특히 스트리밍 환경에서는 연속적으로 제공되는 오디오 데이터를 실시간으로 분석하고 구조화하는 기술의 중요성이 크게 증가하고 있다.전...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39326",
+      "title": "카카오, 국민연금과 AI 기반 공공서비스 접근성 및 편의성 높인다",
+      "desc": "카카오가 자사의 인공지능(AI) 기술을 활용해 국민연금 서비스의 접근성 및 편의성을 한 단계 높인다.카카오(대표이사 정신아)는 31일, 전북 전주시에 위치한 국민연금공단 본부에서 국민연금공단(이사장 김성주, 이하 공단)와 ‘AI 기반 공공서비스 혁신 및 업무전환에...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39354",
       "source": "AI Times"
     }
   ]
