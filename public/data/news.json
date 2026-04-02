@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-04-01T23:40:47.197Z",
+  "lastUpdated": "2026-04-02T23:40:03.964Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "“피지컬 AI, 기대는 크지만 10년 후 이야기”…제조업 현장의 냉정한 진단",
+      "desc": "지난달 엔비디아 GTC 개발자 행사에 참석한 여러 IT 리더가 피지컬 AI의 실질적인 생산성 효과가 업계 지지자의 주장만큼 가깝지 않다고 입을 모았다. 로봇은 흥미롭지만, 현실은 다르다는 것이다.\n\n\n\n지멘스 디지털 인더스트리(Siemens Digital Indu...",
+      "link": "https://www.itworld.co.kr/article/4153433/%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ea%b8%b0%eb%8c%80%eb%8a%94-%ed%81%ac%ec%a7%80%eb%a7%8c-10%eb%85%84-%ed%9b%84-%ec%9d%b4%ec%95%bc%ea%b8%b0%ec%a0%9c%ec%a1%b0%ec%97%85-%ed%98%84%ec%9e%a5.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "1997년과 2007년, 애플 역사를 바꾼 두 번의 키노트",
+      "desc": "오랫동안 애플을 취재해온 기자로서 수많은 애플 키노트 프레젠테이션을 직접 경험했다. 지금도 다음 키노트(한국 시간 6월 9일)를 기대하는 마음은 변함없다. 그러나 애플 고객, 개발자, 팬들이 한마디 한마디에 귀를 기울이는 현장에서 키노트를 직접 체험하는 것은 또 ...",
+      "link": "https://www.itworld.co.kr/article/4153413/1997%eb%85%84%ea%b3%bc-2007%eb%85%84-%ec%95%a0%ed%94%8c-%ec%97%ad%ec%82%ac%eb%a5%bc-%eb%b0%94%ea%be%bc-%eb%91%90-%eb%b2%88%ec%9d%98-%ed%82%a4%eb%85%b8%ed%8a%b8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
       "title": "AI 모델도 ‘출처’가 중요하다…마이크로소프트 레드팀의 조언",
       "desc": "웹 초창기, 파일 다운로드는 신기하고 즐거운 경험이었다. 좋아하는 노래의 MIDI 버전처럼 희귀하고 흥미로운 것들이 넘쳐났다. 하지만 인터넷에 자유롭게 접근하는 즐거움만큼이나 위험도 도사리고 있었다. 특히 유료 소프트웨어의 ‘무료’ 버전으로 둔갑한 파일들이 그랬다...",
       "link": "https://www.itworld.co.kr/article/4153405/ai-%eb%aa%a8%eb%8d%b8%eb%8f%84-%ec%b6%9c%ec%b2%98%ea%b0%80-%ec%a4%91%ec%9a%94%ed%95%98%eb%8b%a4%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%eb%a0%88%eb%93%9c%ed%8c%80.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "04",
       "title": "AI 에이전트는 나쁜 데이터도 그냥 쓴다…데이터 정제가 시급한 이유",
       "desc": "기업은 언제나 환경 내 불량 데이터를 처리해야 했다. 누군가 절차를 무시하고 지름길을 택했거나, 아무도 손대기 두려워하는 낡은 데이터베이스가 방치됐거나, 지난 10년간 수십 건의 인수합병 과정에서 흡수된 시스템끼리 충돌을 일으킨 것이 그 원인이다. AI 환경에서는...",
       "link": "https://www.itworld.co.kr/article/4152850/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%8a%94-%eb%82%98%ec%81%9c-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8f%84-%ea%b7%b8%eb%83%a5-%ec%93%b4%eb%8b%a4%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%a0%95%ec%a0%9c.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "05",
       "title": "AI 에이전트의 코드 실행 권한이 부른 보안 사고…오픈AI 취약점 2건 패치",
       "desc": "오픈AI가 AI 스택 내 두 가지 결함을 수정했다. AI 에이전트가 민감한 데이터를 의도치 않은 방식으로 이동시킬 수 있는 취약점이었다.\n\n\n\n비욘드트러스트(BeyondTrust)와 체크포인트 리서치(Check Point Research) 소속 연구진이 각각 공개...",
       "link": "https://www.itworld.co.kr/article/4152843/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%ec%bd%94%eb%93%9c-%ec%8b%a4%ed%96%89-%ea%b6%8c%ed%95%9c%ec%9d%b4-%eb%b6%80%eb%a5%b8-%eb%b3%b4%ec%95%88-%ec%82%ac%ea%b3%a0%ec%98%a4%ed%94%88ai.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
-      "title": "마이크로소프트의 윈도우 11 쇄신 선언…정작 필요한 건 로컬 계정",
-      "desc": "마이크로소프트는 사용자들이 로컬 계정을 원한다는 사실을 알고 있다. 하지만 실제로 복원할 가능성은 낮아 보인다. 이른바 ‘윈도우 11 사과 투어’가 진행 중인 지금도 마찬가지다.\n\n\n\n수년간 윈도우 11 사용자들에게 불만을 쌓아온 마이크로소프트가 이제 변화를 약속...",
-      "link": "https://www.itworld.co.kr/article/4152832/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8%ec%9d%98-%ec%9c%88%eb%8f%84%ec%9a%b0-11-%ec%87%84%ec%8b%a0-%ec%84%a0%ec%96%b8%ec%a0%95%ec%9e%91-%ed%95%84%ec%9a%94%ed%95%9c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "데이터 날리기 전에 알아야 할 개인 백업 계획 7가지",
-      "desc": "데이터 백업은 단순해 보이지만, 데이터를 안전하게 보호하고 손쉽게 복구할 수 있도록 하는 핵심 단계를 놓치기 쉽다. 데이터 백업 계획을 수립할 때 반드시 고려해야 할 사항을 정리했다.\n\n\n\n1. 명확한 목표와 목적 설정\n\n\n\n가장 먼저 데이터 백업 계획의 목적을 ...",
-      "link": "https://www.itworld.co.kr/article/4152804/%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%82%a0%eb%a6%ac%ea%b8%b0-%ec%a0%84%ec%97%90-%ec%95%8c%ec%95%84%ec%95%bc-%ed%95%a0-%ea%b0%9c%ec%9d%b8-%eb%b0%b1%ec%97%85-%ea%b3%84%ed%9a%8d-7%ea%b0%80%ec%a7%80.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "“말로 설명하면 로봇이 찾아낸다”…GIST, 3D 공간 이해 AI 로봇 기술 개발",
-      "desc": "광주과학기술원(GIST·지스트, 총장 임기철)은 AI융합학과 김의환 교수 연구팀이 사람이 문장으로 설명한 물체를 3D 공간 속에서 이해하고 정확히 찾아내는 ‘인공지능(AI) 로봇 내비게이션 기술(Context-Nav)’를 개발했다.이 기술은 물체의 색과 모양 같은...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39377",
+      "title": "EDB, 엔비디아 AI 인프라로 Postgres 분석 성능 최대 100배 향상",
+      "desc": "소버린 AI 및 데이터 선도 기업인 EDB (지사장 김희배)은 오늘, 엔비디아 GPU 가속 기술을 사용하여 아파치 스파크(Apache Spark)의 대규모 데이터 처리 속도를 획기적으로 높여주는 가속기인 ‘아파치 스파크용 NVIDIA cuDF(NVIDIA cuDF...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39401",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "\"커리어는 사다리가 아닌 ‘내비게이션’이다\"... 링크드인 로슬란스키 CEO, AI 시대 생존 지침서 출간",
-      "desc": "라이언 로슬란스키(Ryan Roslansky)가 인공지능 시대의 커리어 전략을 제시하는 신간을 발표하며, AI가 노동시장에 미치는 변화와 대응 방향을 제시했다.링크드인 CEO이자 마이크로소프트 오피스 부문 총괄 부사장을 맡고 있는 라이언 로슬란스키(Ryan Ros...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39376",
+      "title": "AI 의사결정의 ‘보이지 않는 편향’ 찾는다…MIT, 윤리 평가 프레임워크 공개",
+      "desc": "MIT 연구진이 자율 시스템의 윤리적 문제를 사전에 탐지할 수 있는 새로운 평가 프레임워크를 개발했다. 비용·성능 등 정량적 지표와 공정성·형평성과 같은 인간 가치 사이의 균형을 체계적으로 분석하는 것이 핵심이다.이 프레임워크는인공지능(AI)이 전력망 운영, 교통...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39399",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "“AI가 끌어올린 수출, 판을 바꿨다\"…3월 수출 861억 달러, 사상 최대 돌파",
-      "desc": "글로벌 인공지능(AI) 산업 확장이 한국 수출의 폭발적 성장을 견인하고 있다. 3월 수출이 사상 처음으로 800억 달러를 돌파하며 역대 최대 실적을 기록한 가운데, 특히 AI 인프라 수요 확대가 반도체와 IT 품목 전반의 수출 증가를 이끈 것으로 나타났다.산업통상...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39375",
+      "title": "‘AI 미래혁신원’ 신설한 건국대, AI 분야 창업 확 키운다",
+      "desc": "건국대학교(총장 겸 RISE사업단장 원종필)는 캠퍼스타운 창업경진대회와 창업동아리 대상 ‘2026 KU RISE 다과제 융합 프로그램 지역 투어형 창업 프리뷰 캠프(이하 창업 프리뷰 캠프)'를 통해 기술 기반 창업 생태계 구축 성과를 확대하고 있다.2일 건국대에 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39398",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "AI+지역 주도형 AI 대전환 사업 지원... 중기부, ‘강원·충남’ 최종 선정 2년간 연 70억원 지원",
-      "desc": "중소벤처기업부(장관 한성숙, 이하 중기부)와 중소벤처기업진흥공단(이사장 강석진, 이하 중진공)은 '2026년 지역 주도형 AI 대전환' 사업에 참여할 신규 광역지방정부로 강원특별자치도, 충청남도를 최종 선정하였다고 밝혔다.AI+지역 주도형 AI 대전환 사업은 지역...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39374",
+      "title": "슈나이더 일렉트릭 ‘AI 확산 속 에너지 산업, 2030년까지 자율 운영 투자 확대’ 연구 결과 발표",
+      "desc": "에너지 관리 및 자동화 분야의 디지털 혁신을 선도하고 있는 글로벌 기업 슈나이더 일렉트릭(Schneider Electric)이 에너지 및 화학 산업에서 자율 운영(Autonomous Operations)이 핵심 과제로 부상하고 있다는 연구 결과를 최근 발표했다.1...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39397",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "UNIST-근로복지공단, 공공데이터에 AI 입힌다...공동연구·교육·기술사업화 연계 AI 모델 확산",
-      "desc": "UNIST와 근로복지공단이 공공 데이터에 AI를 더해 정책 고도화와 서비스 개선에 힘을 모은다.UNIST(총장 박종래)는 1일, 대학본부 대회의실에서 근로복지공단과 ‘공공분야 AI 혁신 선도를 위한 업무협약(MOU)’을 체결했다. 협약식에는 UNIST 박종래 총장...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39373",
+      "title": "마드라스체크, AI 협업툴 ‘플로우’로 기업 AX 시장 공략 가속",
+      "desc": "협업 플랫폼 전문 기업 마드라스체크가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)’에 참가한다.마드라스체크는 이...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39394",
       "source": "AI Times"
     }
   ]
