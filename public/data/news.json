@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-04-02T23:40:03.964Z",
+  "lastUpdated": "2026-04-03T23:39:43.540Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "“피지컬 AI, 기대는 크지만 10년 후 이야기”…제조업 현장의 냉정한 진단",
-      "desc": "지난달 엔비디아 GTC 개발자 행사에 참석한 여러 IT 리더가 피지컬 AI의 실질적인 생산성 효과가 업계 지지자의 주장만큼 가깝지 않다고 입을 모았다. 로봇은 흥미롭지만, 현실은 다르다는 것이다.\n\n\n\n지멘스 디지털 인더스트리(Siemens Digital Indu...",
-      "link": "https://www.itworld.co.kr/article/4153433/%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ea%b8%b0%eb%8c%80%eb%8a%94-%ed%81%ac%ec%a7%80%eb%a7%8c-10%eb%85%84-%ed%9b%84-%ec%9d%b4%ec%95%bc%ea%b8%b0%ec%a0%9c%ec%a1%b0%ec%97%85-%ed%98%84%ec%9e%a5.html",
+      "title": "AI 공정성, 알고리즘 아닌 데이터 신뢰 점수 프레임워크가 결정한다",
+      "desc": "편향에 대해 비난해야 할 대상은 “알고리즘”이 아니다. 엄격한 신뢰 점수 프레임워크가 없는 AI는 자동화된 불평등을 빠르게 전파하는 엔진에 불과하다.\n\n\n\n오늘날의 디지털 트랜스포메이션은 단순히 작업을 자동화하거나 계산 속도를 높이는 데 그치지 않는다. 사람들이 ...",
+      "link": "https://www.itworld.co.kr/article/4154104/ai-%ea%b3%b5%ec%a0%95%ec%84%b1-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%95%84%eb%8b%8c-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%8b%a0%eb%a2%b0-%ec%a0%90%ec%88%98-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "1997년과 2007년, 애플 역사를 바꾼 두 번의 키노트",
-      "desc": "오랫동안 애플을 취재해온 기자로서 수많은 애플 키노트 프레젠테이션을 직접 경험했다. 지금도 다음 키노트(한국 시간 6월 9일)를 기대하는 마음은 변함없다. 그러나 애플 고객, 개발자, 팬들이 한마디 한마디에 귀를 기울이는 현장에서 키노트를 직접 체험하는 것은 또 ...",
-      "link": "https://www.itworld.co.kr/article/4153413/1997%eb%85%84%ea%b3%bc-2007%eb%85%84-%ec%95%a0%ed%94%8c-%ec%97%ad%ec%82%ac%eb%a5%bc-%eb%b0%94%ea%be%bc-%eb%91%90-%eb%b2%88%ec%9d%98-%ed%82%a4%eb%85%b8%ed%8a%b8.html",
+      "title": "기술은 멀쩡했다…”AI가 아니라 경영진이 실패한 것”",
+      "desc": "생성형 AI와 에이전트 AI가 기업 도입에 아직 준비되지 않았다는 점을 시사하는 AI 프로젝트 실패 보고서가 쏟아지고 있다. 일부 사실이 담겨 있지만, 기업 AI 프로젝트가 실패하는 원인이 결함 있는 알고리즘이나 모델인 경우는 드물다. 대다수 경우 경영진이 기술을...",
+      "link": "https://www.itworld.co.kr/article/4154098/%ea%b8%b0%ec%88%a0%ec%9d%80-%eb%a9%80%ec%a9%a1%ed%96%88%eb%8b%a4ai%ea%b0%80-%ec%95%84%eb%8b%88%eb%9d%bc-%ea%b2%bd%ec%98%81%ec%a7%84%ec%9d%b4-%ec%8b%a4%ed%8c%a8%ed%95%9c-%ea%b2%83.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "AI 모델도 ‘출처’가 중요하다…마이크로소프트 레드팀의 조언",
-      "desc": "웹 초창기, 파일 다운로드는 신기하고 즐거운 경험이었다. 좋아하는 노래의 MIDI 버전처럼 희귀하고 흥미로운 것들이 넘쳐났다. 하지만 인터넷에 자유롭게 접근하는 즐거움만큼이나 위험도 도사리고 있었다. 특히 유료 소프트웨어의 ‘무료’ 버전으로 둔갑한 파일들이 그랬다...",
-      "link": "https://www.itworld.co.kr/article/4153405/ai-%eb%aa%a8%eb%8d%b8%eb%8f%84-%ec%b6%9c%ec%b2%98%ea%b0%80-%ec%a4%91%ec%9a%94%ed%95%98%eb%8b%a4%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%eb%a0%88%eb%93%9c%ed%8c%80.html",
+      "title": "저가 PC가 사라지는 시대, 기업 업그레이드 명분 생겼나",
+      "desc": "저가 PC 시대가 당분간 돌아오지 않을 것으로 보이는 가운데, 최신 사양으로의 업그레이드가 오히려 투자 가치가 있다는 분석이 나온다.\n\n\n\n델과 HP는 인텔의 오랜 기다림 끝에 출시된 팬서 레이크 칩, 즉 코어 울트라 시리즈 3을 탑재한 새 비즈니스 PC를 발표했...",
+      "link": "https://www.itworld.co.kr/article/4154092/%ec%a0%80%ea%b0%80-pc%ea%b0%80-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c-%eb%aa%85%eb%b6%84-%ec%83%9d%ea%b2%bc%eb%82%98.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "AI 에이전트는 나쁜 데이터도 그냥 쓴다…데이터 정제가 시급한 이유",
-      "desc": "기업은 언제나 환경 내 불량 데이터를 처리해야 했다. 누군가 절차를 무시하고 지름길을 택했거나, 아무도 손대기 두려워하는 낡은 데이터베이스가 방치됐거나, 지난 10년간 수십 건의 인수합병 과정에서 흡수된 시스템끼리 충돌을 일으킨 것이 그 원인이다. AI 환경에서는...",
-      "link": "https://www.itworld.co.kr/article/4152850/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%8a%94-%eb%82%98%ec%81%9c-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8f%84-%ea%b7%b8%eb%83%a5-%ec%93%b4%eb%8b%a4%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%a0%95%ec%a0%9c.html",
+      "title": "“코드는 이제 상품이다”…주니어 개발자에게 남은 것",
+      "desc": "주니어 개발자를 걱정하는 목소리가 커지고 있다. AI가 코드를 모두 작성하는 시대에 컴퓨터공학과 신입 졸업생은 무엇을 해야 할까? 타당한 우려다.\n\n\n\n얼마 전까지만 해도 소프트웨어 개발에 관심 있는 초년생에게 줄 수 있는 최선의 조언은 부트캠프에 다니는 것이었다...",
+      "link": "https://www.itworld.co.kr/article/4154085/%ec%bd%94%eb%93%9c%eb%8a%94-%ec%9d%b4%ec%a0%9c-%ec%83%81%ed%92%88%ec%9d%b4%eb%8b%a4%ec%a3%bc%eb%8b%88%ec%96%b4-%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%97%90%ea%b2%8c-%eb%82%a8%ec%9d%80-%ea%b2%83.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "AI 에이전트의 코드 실행 권한이 부른 보안 사고…오픈AI 취약점 2건 패치",
-      "desc": "오픈AI가 AI 스택 내 두 가지 결함을 수정했다. AI 에이전트가 민감한 데이터를 의도치 않은 방식으로 이동시킬 수 있는 취약점이었다.\n\n\n\n비욘드트러스트(BeyondTrust)와 체크포인트 리서치(Check Point Research) 소속 연구진이 각각 공개...",
-      "link": "https://www.itworld.co.kr/article/4152843/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%ec%bd%94%eb%93%9c-%ec%8b%a4%ed%96%89-%ea%b6%8c%ed%95%9c%ec%9d%b4-%eb%b6%80%eb%a5%b8-%eb%b3%b4%ec%95%88-%ec%82%ac%ea%b3%a0%ec%98%a4%ed%94%88ai.html",
+      "title": "‘관찰가능성 표준’ 지금 안 세우면, AI 기술 부채가 몰려온다",
+      "desc": "많은 기업이 AI 에이전트 실험과 개념 증명을 파일럿 단계에서 프로덕션으로 옮겨야 한다는 압박을 받고 있다. 데브옵스 팀은 AI 에이전트가 프로덕션 배포를 위한 필수 요구사항- 관찰가능성 구현, 모니터링, 기타 에이전틱옵스 관행 등-을 충족하도록 보장해야 하는데,...",
+      "link": "https://www.itworld.co.kr/article/4152940/%ea%b4%80%ec%b0%b0%ea%b0%80%eb%8a%a5%ec%84%b1-%ed%91%9c%ec%a4%80-%ec%a7%80%ea%b8%88-%ec%95%88-%ec%84%b8%ec%9a%b0%eb%a9%b4-ai-%ea%b8%b0%ec%88%a0-%eb%b6%80%ec%b1%84%ea%b0%80-%eb%aa%b0%eb%a0%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "EDB, 엔비디아 AI 인프라로 Postgres 분석 성능 최대 100배 향상",
-      "desc": "소버린 AI 및 데이터 선도 기업인 EDB (지사장 김희배)은 오늘, 엔비디아 GPU 가속 기술을 사용하여 아파치 스파크(Apache Spark)의 대규모 데이터 처리 속도를 획기적으로 높여주는 가속기인 ‘아파치 스파크용 NVIDIA cuDF(NVIDIA cuDF...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39401",
+      "title": "“영상 제작도 무료 AI로”…‘구글 비즈’ 전면 개편, '베오 3.1·리리아 3 기반 영상·음악·아바타 통합'",
+      "desc": "구글이 영상 제작 도구 구글 비즈(Google Vids)에 생성형 인공지능(AI) 기능을 대거 통합하며, 누구나 비용 부담 없이 고품질 영상을 제작할 수 있는 환경을 본격적으로 구축했다고 2일(현지시간) 밝혔다.이번 업데이트는 단순 편집 도구를 넘어, 영상 생성부...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39415",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "AI 의사결정의 ‘보이지 않는 편향’ 찾는다…MIT, 윤리 평가 프레임워크 공개",
-      "desc": "MIT 연구진이 자율 시스템의 윤리적 문제를 사전에 탐지할 수 있는 새로운 평가 프레임워크를 개발했다. 비용·성능 등 정량적 지표와 공정성·형평성과 같은 인간 가치 사이의 균형을 체계적으로 분석하는 것이 핵심이다.이 프레임워크는인공지능(AI)이 전력망 운영, 교통...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39399",
+      "title": "삼성전자, DS부문 '2026년 상생협력 DAY' 개최... 64개 협력회사 대표 등 90여 명 참석, 우수 협력회사 17개사 시상",
+      "desc": "삼성전자는 3일, 경기도 용인에 위치한 'The UniverSE'에서 협력회사 협의회(협성회) 회원사들과 함께 '2026년 DS부문 상생협력 DAY'를 개최했다. 상생협력 DAY는 삼성 주요 경영진과 협성회 간 화합을 도모하고, 협력회사와의 소통 및 동반성장 의지...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39414",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "‘AI 미래혁신원’ 신설한 건국대, AI 분야 창업 확 키운다",
-      "desc": "건국대학교(총장 겸 RISE사업단장 원종필)는 캠퍼스타운 창업경진대회와 창업동아리 대상 ‘2026 KU RISE 다과제 융합 프로그램 지역 투어형 창업 프리뷰 캠프(이하 창업 프리뷰 캠프)'를 통해 기술 기반 창업 생태계 구축 성과를 확대하고 있다.2일 건국대에 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39398",
+      "title": "'기업에 AI를 더하여, 기업 경쟁력 높이고 성장 추구'...중기부, AI 정책 통합 브랜드 모두의 “AI+”",
+      "desc": "중소벤처기업부(이하 중기부)는 다양한 AI 정책·지원사업들을 하나의 브랜드로 묶는 AI 정책 통합브랜드 모두의 “AI+”를 개발하고, 이를 시각화한 BI(Brand Identity) 디자인을 확정하여 본격적인 홍보에 나섰다.중기부는 그간 중소·벤처기업 및 소상공인...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39413",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "슈나이더 일렉트릭 ‘AI 확산 속 에너지 산업, 2030년까지 자율 운영 투자 확대’ 연구 결과 발표",
-      "desc": "에너지 관리 및 자동화 분야의 디지털 혁신을 선도하고 있는 글로벌 기업 슈나이더 일렉트릭(Schneider Electric)이 에너지 및 화학 산업에서 자율 운영(Autonomous Operations)이 핵심 과제로 부상하고 있다는 연구 결과를 최근 발표했다.1...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39397",
+      "title": "양자 센싱, 산업 판을 뒤집는 ‘초정밀 혁명’...국내 최고 전문가 3인, ‘양자 센싱 로드맵’ 제시",
+      "desc": "인공지능(AI) 시대를 넘어, 양자기술은 더 이상 연구실에 머무는 개념이 아니라 실제 산업 현장으로 빠르게 확산되고 있다. 특히 기존 센서의 물리적 한계를 뛰어넘는 ‘양자 센싱’ 기술은 반도체, 바이오, 통신 등 다양한 산업 분야에서 초정밀 측정이 가능한 핵심 기...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39412",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "마드라스체크, AI 협업툴 ‘플로우’로 기업 AX 시장 공략 가속",
-      "desc": "협업 플랫폼 전문 기업 마드라스체크가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)’에 참가한다.마드라스체크는 이...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39394",
+      "title": "구글, “가장 강력한 오픈소스 AI 모델, ‘젬마 4’ 공개\"...파라미터당 최고 지능·에이전트 ·온디바이스까지",
+      "desc": "구글은 역대 가장 지능적인 오픈소스 모델인 '젬마 4(Gemma 4)'를 2일(현지시간) 공개했다. 고급 추론과 에이전트 기반 워크플로우(Agentic workflows)를 위해 특수 설계된 젬마 4는 파라미터당 전례 없는 수준의 지능을 제공하는 것이 특징이다.이...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39411",
       "source": "AI Times"
     }
   ]
