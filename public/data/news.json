@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-04-09T23:40:54.893Z",
+  "lastUpdated": "2026-04-10T23:41:12.308Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "SaaS 데브옵스에서 배우는 기업 IT 회복탄력성 전략",
+      "desc": "많은 기업의 데브옵스 팀이 빈번한 배포, 테스트 자동화 확대, 안정적인 릴리즈 보장에 어려움을 겪고 있다. SaaS 기업은 무엇이 다를까? SaaS 기업에서 소프트웨어 개발과 배포는 수많은 고객을 대상으로 이뤄지며, 이는 곧 수익과 비즈니스 운영의 핵심이다.\n\n\n...",
+      "link": "https://www.itworld.co.kr/article/4156953/saas-%eb%8d%b0%eb%b8%8c%ec%98%b5%ec%8a%a4%ec%97%90%ec%84%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%ea%b8%b0%ec%97%85-it-%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1-%ec%a0%84%eb%9e%b5.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "음성 AI 에이전트, 왜 파일럿 단계를 넘지 못하나",
+      "desc": "회의 중에 AI를 향해 크게 소리를 지르는 우스꽝스러운 모습을 보이고 싶은 사람은 없다. 사무실 환경에 음성 에이전트를 잘 구현하기 위한 핵심은 더 좋은 코드가 아니라 “인간적인” 느낌이다.\n\n\n\n음성 AI 에이전트 시장은 2024년 24억 달러에서 2034년 4...",
+      "link": "https://www.itworld.co.kr/article/4156945/%ec%9d%8c%ec%84%b1-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%99%9c-%ed%8c%8c%ec%9d%bc%eb%9f%bf-%eb%8b%a8%ea%b3%84%eb%a5%bc-%eb%84%98%ec%a7%80-%eb%aa%bb%ed%95%98%eb%82%98.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "카프카 4.2, 드디어 큐를 품다 ‘메시지 큐 통합의 새 시대’",
+      "desc": "아파치 카프카는 2011년 처음 출시된 이후 이벤트 스트리밍을 위한 사실상의 플랫폼으로 자리잡았다. 카프카를 열렬히 지지하는 팀 버글런드는 카프카에 대해 “범용 데이터 기판”이라는 표현을 자주 사용한다. 이런 특성을 가능하게 해주는 주된 요소는 카프카와 외부 시스...",
+      "link": "https://www.itworld.co.kr/article/4156935/%ec%b9%b4%ed%94%84%ec%b9%b4-4-2-%eb%93%9c%eb%94%94%ec%96%b4-%ed%81%90%eb%a5%bc-%ed%92%88%eb%8b%a4-%eb%a9%94%ec%8b%9c%ec%a7%80-%ed%81%90-%ed%86%b5%ed%95%a9%ec%9d%98-%ec%83%88-%ec%8b%9c%eb%8c%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "맥북 네오 SSD 업그레이드 가능했다…납땜 실력은 필수",
+      "desc": "맥북 네오가 가격 대비 뛰어난 맥 품질로 큰 인기를 끌고 있지만, 단점도 분명 있다. 가장 눈에 띄는 것은 SSD다. 256GB와 512GB 용량은 많은 사용자에게 부족할 뿐 아니라, 다른 맥과 비교해 속도도 현저히 느리다. 납땜 솜씨가 있다면 이 문제를 직접 해...",
+      "link": "https://www.itworld.co.kr/article/4156928/%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-ssd-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c-%ea%b0%80%eb%8a%a5%ed%96%88%eb%8b%a4%eb%82%a9%eb%95%9c-%ec%8b%a4%eb%a0%a5%ec%9d%80-%ed%95%84%ec%88%98.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "원더풀, 한국 진출 본격화…엔터프라이즈 AI 에이전트 시장 공략 나서",
       "desc": "AI 에이전트 플랫폼 업체 원더풀이 한국 시장에 진출하며 아시아·태평양(APAC) 확장 전략에 속도를 낸다.\n\n\n\n글로벌 엔터프라이즈 AI 에이전트 플랫폼 기업 원더풀은 한국 지사를 공식 설립하고, 초대 지사장으로 정응섭 전 워크데이코리아 지사장을 선임했다고 9일...",
       "link": "https://www.itworld.co.kr/article/4156213/%ec%9b%90%eb%8d%94%ed%92%80-%ed%95%9c%ea%b5%ad-%ec%a7%84%ec%b6%9c-%eb%b3%b8%ea%b2%a9%ed%99%94%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4%ec%a6%88-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "“진작 살걸”…OLED 모니터가 바꿔놓은 것들",
-      "desc": "결국 OLED 신봉자 대열에 합류했다. “OLED 모니터로 게임하지 않으면 뭔가를 놓치고 있는 것”이라고 확신하는 게이머들과 같은 편이 된 것이다. 적어도 예전의 필자에게 그렇게 말해줄 수 있었으면 좋았을 것이다. 오랫동안 미뤄온 업그레이드였지만, 마침내 8년 동...",
-      "link": "https://www.itworld.co.kr/article/4156134/%ec%a7%84%ec%9e%91-%ec%82%b4%ea%b1%b8oled-%eb%aa%a8%eb%8b%88%ed%84%b0%ea%b0%80-%eb%b0%94%ea%bf%94%eb%86%93%ec%9d%80-%ea%b2%83%eb%93%a4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "아이폰 폴드, 지연설 딛고 가을 출시 ‘예정대로’…블룸버그",
-      "desc": "올해 애플 최대 출시작으로 예상되는 아이폰 폴드의 9월 출시 계획에는 변함이 없다. 아이폰 폴드 제조가 난항을 겪고 있으며 출하가 수개월 밀려 12월 또는 2027년 초로 지연될 수 있다는 우려가 제기된 직후 나온 보도다.\n\n\n\n블룸버그의 마크 거먼은 이번 주 기...",
-      "link": "https://www.itworld.co.kr/article/4156131/%ec%95%84%ec%9d%b4%ed%8f%b0-%ed%8f%b4%eb%93%9c-%ec%a7%80%ec%97%b0%ec%84%a4-%eb%94%9b%ea%b3%a0-%ea%b0%80%ec%9d%84-%ec%b6%9c%ec%8b%9c-%ec%98%88%ec%a0%95%eb%8c%80%eb%a1%9c-%eb%b8%94%eb%a3%b8.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "AI 없이도 이렇게 강력하다…비발디 브라우저의 진짜 실력",
-      "desc": "브라우저를 바꾸는 일은 운영체제를 교체하는 것과 비슷하다. 좀 더 현실적인 비유를 들자면, 모든 것이 낯선 새 사무실로 이사하는 것과 같다.\n\n\n\n우리는 브라우저 안에서 엄청난 시간을 보내고 수많은 업무를 처리한다. 어떤 의미에서 브라우저는 그 자체로 데스크톱이나...",
-      "link": "https://www.itworld.co.kr/article/4156115/ai-%ec%97%86%ec%9d%b4%eb%8f%84-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ea%b0%95%eb%a0%a5%ed%95%98%eb%8b%a4%eb%b9%84%eb%b0%9c%eb%94%94-%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80%ec%9d%98-%ec%a7%84%ec%a7%9c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "AI가 만든 비밀번호, 의외로 뚫기 쉽다",
-      "desc": "AI 보안 기업 이레귤러(Irregular)와 카스퍼스키(Kaspersky)의 독립적인 두 연구가 같은 결론에 도달했다. 모든 최전선 대규모 언어 모델은 구조적으로 예측 가능한 비밀번호를 생성하며, 표준 엔트로피 측정 도구는 이를 심각하게 과대평가한다. AI 코딩...",
-      "link": "https://www.itworld.co.kr/article/4156101/ai%ea%b0%80-%eb%a7%8c%eb%93%a0-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ec%9d%98%ec%99%b8%eb%a1%9c-%eb%9a%ab%ea%b8%b0-%ec%89%bd%eb%8b%a4.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "문체부, 인공지능 기반 문화강국으로 나아갈 정책 방향 논의",
-      "desc": "문화체육관광부(장관 최휘영, 이하 문체부)는 한국문화관광연구원과 함께 9일, ‘인공지능 기반 문화강국 방향 수립 세미나’를 개최했다.지난 2월 국가인공지능전략위원회에서 발표한 ‘대한민국 AI 행동계획’은 12대 전략 분야 중 하나로 ‘인공지능 기반 문화강국’을 제...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39493",
+      "title": "아크로즈 테크놀로지, 산업용 고정밀 AI 비전 플랫폼 ‘AIDI’ 생태계 공개",
+      "desc": "산업용 AI 비전 솔루션 전문 기업 아크로즈 테크놀로지(Aqrose Technology)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXP...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39513",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "\"ERP에 AI 적용해 업무 혁신 이끈다\"..LG CNS, SAP와 함께 ‘차세대 ERP AX 전략’ 공개",
-      "desc": "LG CNS(대표 현신균)가 SAP와 함께 국내 전사적자원관리(Enterprise Resource Planning, 이하 ERP) 시장의 AX(AI 전환)에 박차를 가한다고 9일 밝혔다.LG CNS는 지난 8일 서울 강남구 조선팰리스 호텔에서 SAP와 ‘Busin...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39492",
+      "title": "“AI는 이제 인프라”… 롭 토마스 IBM 소프트웨어 수석부사장, 오픈소스 기반 ‘AI 설계 원칙’ 강조",
+      "desc": "IBM이 인공지능(AI)이 ‘제품’을 넘어 ‘인프라’ 단계로 진입하면서, 오픈소스 기반 접근이 더 이상 선택이 아닌 필수 설계 원칙이 되고 있다고 강조했다. AI가 산업과 사회 전반을 지탱하는 핵심 기술로 자리잡는 상황에서, 폐쇄형 모델 중심의 접근만으로는 안전성...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39511",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "오픈엣지테크놀로지, LPDDR6 기반 인터페이스 IP 상업화 착수",
-      "desc": "오픈엣지테크놀로지(대표 이성현. 이하, 오픈엣지)는 LPDDR6 및 LPDDR5X 메모리 표준을 동시 지원하는 인터페이스 IP(반도체 설계자산) 라이선스 계약을 수주했다고 9일 밝혔다. 이번 수주는 회사가 해당 IP 개발에 착수한 이후 첫 성과로, 차세대 메모리 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39491",
+      "title": "퀀텀씨엔에스, 폐쇄망 최적화 AI 인프라 및 사람 중심 AI ‘IKIN’ 공개",
+      "desc": "AI 인프라 및 솔루션 전문 기업 퀀텀씨엔에스(대표 전성주)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)’에 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39510",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "글로벌 AI에이전트 플랫폼 '원더풀', 한국 지사 설립…정응섭 초대 지사장 선임",
-      "desc": "글로벌 엔터프라이즈 AI에이전트 플랫폼 기업, 원더풀(Wonderful)이 9일, 한국 지사를 공식 설립하고 한국 사업을 총괄할 수장으로, IT 영업 및 비즈니스 리더십 분야에서 30년 이상의 경력을 보유한 엔터프라이즈 디지털 트랜스포메이션 전문가 정응섭 지사장을...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39490",
+      "title": "유럽연합, ‘AI 대륙 액션플랜’ 1년…전통 산업에서 AI 혁신 엔진으로, \"AI 팩토리 19곳·데이터 유니온 가동\"",
+      "desc": "유럽연합 집행위원회(European Commission)가 ‘인공지능 대륙 액션플랜(AI Continent Action Plan)’ 발표 1년을 맞아 주요 성과를 9일(현지시간) 공개했다. 이번 발표는 유럽이 보유한 전통 산업 기반과 인재 풀을 인공지능 중심 혁신...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39509",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "‘텍스트와 이미지를 동시에 이해하고 추론’...LG AI연구원, 멀티모달 AI ‘엑사원 4.5’ 오픈 웨이트 공개",
-      "desc": "LG AI연구원이 9일 텍스트와 이미지를 동시에 이해하고 추론하는 멀티모달 인공지능(AI) 모델 ‘엑사원(EXAONE) 4.5’를 공개했다.‘엑사원 4.5’는 LG AI연구원이 2021년 12월 국내 최초 멀티모달 AI 모델 ‘엑사원 1.0’을 개발하며 축적한 기...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39489",
+      "title": "“밀리초 단위 의사결정”…우버, AWS 기반 AI 인프라 확장으로 모빌리티 혁신 가속",
+      "desc": "글로벌 차량 호출 및 온디맨드 배송 플랫폼 우버(Uber)가 인공지능(AI) 기반 서비스 경쟁력을 한층 끌어올리기 위해 클라우드 인프라 전략을 확대하고 있다. 특히 초대형 실시간 처리 시스템과 AI 모델 학습 체계를 동시에 강화하며, 수백만 건의 일일 이동 데이터...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39508",
       "source": "AI Times"
     }
   ]
