@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T23:40:13.833Z",
+  "lastUpdated": "2026-04-12T23:40:49.563Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "UNIST, 조선업 AI 전환 이끌 초거대 산업 AI 개발 본격화...403억원 규모, 조선업 AX 선도",
+      "desc": "UNIST(총장 박종래)는 과학기술정보통신부 ‘초거대산업 AI 연구지원사업’ 공모에서 조선 분야 과제의 총괄연구기관으로 최종 선정돼 조선업 인공지능 전환(AX)을 선도할 연구를 본격 추진한다.이번 사업은 총 403억원 규모(국비 285억원, 울산시 25억원, 기업...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39515",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
+      "title": "트루팍프로덕션 박철우 대표, 스마트폰·AI로 기업 조직문화를 바꾸다",
+      "desc": "트루팍프로덕션 박철우 대표는 국내 유일의 전문 재보험사 코리안리(Korean Re) 임직원 약 400명을 대상으로 스마트폰·AI 기반 영상 제작 워크숍을 2회에 걸쳐 성공적으로 마쳤다고 12일 밝혔다. 이번 워크숍은 실무 기술 습득과 조직문화 혁신을 동시에 이끌어...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39514",
+      "source": "AI Times"
+    },
+    {
+      "number": "08",
       "title": "아크로즈 테크놀로지, 산업용 고정밀 AI 비전 플랫폼 ‘AIDI’ 생태계 공개",
       "desc": "산업용 AI 비전 솔루션 전문 기업 아크로즈 테크놀로지(Aqrose Technology)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXP...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=39513",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "09",
       "title": "“AI는 이제 인프라”… 롭 토마스 IBM 소프트웨어 수석부사장, 오픈소스 기반 ‘AI 설계 원칙’ 강조",
       "desc": "IBM이 인공지능(AI)이 ‘제품’을 넘어 ‘인프라’ 단계로 진입하면서, 오픈소스 기반 접근이 더 이상 선택이 아닌 필수 설계 원칙이 되고 있다고 강조했다. AI가 산업과 사회 전반을 지탱하는 핵심 기술로 자리잡는 상황에서, 폐쇄형 모델 중심의 접근만으로는 안전성...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=39511",
       "source": "AI Times"
     },
     {
-      "number": "08",
-      "title": "퀀텀씨엔에스, 폐쇄망 최적화 AI 인프라 및 사람 중심 AI ‘IKIN’ 공개",
-      "desc": "AI 인프라 및 솔루션 전문 기업 퀀텀씨엔에스(대표 전성주)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)’에 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39510",
-      "source": "AI Times"
-    },
-    {
-      "number": "09",
-      "title": "유럽연합, ‘AI 대륙 액션플랜’ 1년…전통 산업에서 AI 혁신 엔진으로, \"AI 팩토리 19곳·데이터 유니온 가동\"",
-      "desc": "유럽연합 집행위원회(European Commission)가 ‘인공지능 대륙 액션플랜(AI Continent Action Plan)’ 발표 1년을 맞아 주요 성과를 9일(현지시간) 공개했다. 이번 발표는 유럽이 보유한 전통 산업 기반과 인재 풀을 인공지능 중심 혁신...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39509",
-      "source": "AI Times"
-    },
-    {
       "number": "10",
-      "title": "“밀리초 단위 의사결정”…우버, AWS 기반 AI 인프라 확장으로 모빌리티 혁신 가속",
-      "desc": "글로벌 차량 호출 및 온디맨드 배송 플랫폼 우버(Uber)가 인공지능(AI) 기반 서비스 경쟁력을 한층 끌어올리기 위해 클라우드 인프라 전략을 확대하고 있다. 특히 초대형 실시간 처리 시스템과 AI 모델 학습 체계를 동시에 강화하며, 수백만 건의 일일 이동 데이터...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39508",
+      "title": "퀀텀씨엔에스, 폐쇄망 최적화 AI 인프라 및 사람 중심 AI ‘IKIN’ 공개",
+      "desc": "인공지능(AI) 인프라 및 솔루션 전문 기업 퀀텀씨엔에스(대표 전성주)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 20...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39510",
       "source": "AI Times"
     }
   ]
