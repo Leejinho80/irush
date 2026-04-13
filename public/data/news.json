@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-04-12T23:40:49.563Z",
+  "lastUpdated": "2026-04-13T23:50:48.296Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "AI 에이전트에 밀린 어도비, 차기 CEO 선택에 쏠린 시선",
+      "desc": "지난달 어도비의 샨타누 나라옌 CEO가 퇴임 계획을 발표했다. 나라옌은 18년 동안 회사를 이끌며 클라우드, 모바일 컴퓨팅, 초기 AI 도입 등 주요 기술 변화에 대응했다.\n\n\n\n차기 CEO 선임에는 수개월이 소요될 전망이다. 새 리더에게는 에이전트 기반 AI 확...",
+      "link": "https://www.itworld.co.kr/article/4157608/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%97%90-%eb%b0%80%eb%a6%b0-%ec%96%b4%eb%8f%84%eb%b9%84-%ec%b0%a8%ea%b8%b0-ceo-%ec%84%a0%ed%83%9d%ec%97%90-%ec%8f%a0%eb%a6%b0-%ec%8b%9c%ec%84%a0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "개발자 줄이고 AI 도입…기술 부채와 비용 폭증 우려해야",
+      "desc": "AI를 도입하기만 하면 적은 인력으로 기업용 애플리케이션 구축 및 운영이 가능하다고 판단해 소프트웨어 엔지니어링 팀을 감원하는 경영진이 많다. 하지만 이러한 판단은 혁신이 아니라 위험한 선택이며, 단기 실적을 넘어 장기적으로 더 큰 비용을 초래할 가능성이 크다.\n...",
+      "link": "https://www.itworld.co.kr/article/4157594/%ea%b0%9c%eb%b0%9c%ec%9e%90-%ec%a4%84%ec%9d%b4%ea%b3%a0-ai-%eb%8f%84%ec%9e%85-%ea%b8%b0%ec%88%a0-%eb%b6%80%ec%b1%84%ec%99%80-%eb%b9%84%ec%9a%a9-%ed%8f%ad%ec%a6%9d-%ec%9a%b0%eb%a0%a4%ed%95%b4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "코드를 쓰지 않는 시대, 개발자는 어디로 가는가",
+      "desc": "에이전트 기반 코딩이 소프트웨어 개발 환경을 빠르게 바꾸고 있다. 변화 속도가 빨라 흐름을 따라가기 어려운 상황이다. 기존 인터넷 발전 속도와 비교해도 변화 폭이 크게 나타나고 있다. 불과 몇 주 전까지만 해도 개발자가 직접 코드를 작성했지만, 현재는 앤트로픽의 ...",
+      "link": "https://www.itworld.co.kr/article/4157575/%ec%bd%94%eb%93%9c%eb%a5%bc-%ec%93%b0%ec%a7%80-%ec%95%8a%eb%8a%94-%ec%8b%9c%eb%8c%80-%ea%b0%9c%eb%b0%9c%ec%9e%90%eb%8a%94-%ec%96%b4%eb%94%94%eb%a1%9c-%ea%b0%80%eb%8a%94%ea%b0%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "RAM 가격 폭등·AI거품 여파…프레임워크, 생존 시험대 올라",
+      "desc": "사용자 관점에서 ‘AI’의 거품이 얼마나 악영향을 미치는지 확인하려면 RAM 가격을 보면 된다. 노트북, 게임 콘솔, 휴대전화 가격도 상승하고 있지만, 1년 전보다 500%나 비싸진 RAM 모듈은 시장이 받은 충격을 그대로 보여준다. 공급망에서 사용자 바로 위 단...",
+      "link": "https://www.itworld.co.kr/article/4157567/ram-%ea%b0%80%ea%b2%a9-%ed%8f%ad%eb%93%b1%c2%b7ai%ea%b1%b0%ed%92%88-%ec%97%ac%ed%8c%8c%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac-%ec%83%9d%ec%a1%b4-%ec%8b%9c%ed%97%98%eb%8c%80-%ec%98%ac.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "SaaS 데브옵스에서 배우는 기업 IT 회복탄력성 전략",
       "desc": "많은 기업의 데브옵스 팀이 빈번한 배포, 테스트 자동화 확대, 안정적인 릴리즈 보장에 어려움을 겪고 있다. SaaS 기업은 무엇이 다를까? SaaS 기업에서 소프트웨어 개발과 배포는 수많은 고객을 대상으로 이뤄지며, 이는 곧 수익과 비즈니스 운영의 핵심이다.\n\n\n...",
       "link": "https://www.itworld.co.kr/article/4156953/saas-%eb%8d%b0%eb%b8%8c%ec%98%b5%ec%8a%a4%ec%97%90%ec%84%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%ea%b8%b0%ec%97%85-it-%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1-%ec%a0%84%eb%9e%b5.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "음성 AI 에이전트, 왜 파일럿 단계를 넘지 못하나",
-      "desc": "회의 중에 AI를 향해 크게 소리를 지르는 우스꽝스러운 모습을 보이고 싶은 사람은 없다. 사무실 환경에 음성 에이전트를 잘 구현하기 위한 핵심은 더 좋은 코드가 아니라 “인간적인” 느낌이다.\n\n\n\n음성 AI 에이전트 시장은 2024년 24억 달러에서 2034년 4...",
-      "link": "https://www.itworld.co.kr/article/4156945/%ec%9d%8c%ec%84%b1-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%99%9c-%ed%8c%8c%ec%9d%bc%eb%9f%bf-%eb%8b%a8%ea%b3%84%eb%a5%bc-%eb%84%98%ec%a7%80-%eb%aa%bb%ed%95%98%eb%82%98.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "카프카 4.2, 드디어 큐를 품다 ‘메시지 큐 통합의 새 시대’",
-      "desc": "아파치 카프카는 2011년 처음 출시된 이후 이벤트 스트리밍을 위한 사실상의 플랫폼으로 자리잡았다. 카프카를 열렬히 지지하는 팀 버글런드는 카프카에 대해 “범용 데이터 기판”이라는 표현을 자주 사용한다. 이런 특성을 가능하게 해주는 주된 요소는 카프카와 외부 시스...",
-      "link": "https://www.itworld.co.kr/article/4156935/%ec%b9%b4%ed%94%84%ec%b9%b4-4-2-%eb%93%9c%eb%94%94%ec%96%b4-%ed%81%90%eb%a5%bc-%ed%92%88%eb%8b%a4-%eb%a9%94%ec%8b%9c%ec%a7%80-%ed%81%90-%ed%86%b5%ed%95%a9%ec%9d%98-%ec%83%88-%ec%8b%9c%eb%8c%80.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "맥북 네오 SSD 업그레이드 가능했다…납땜 실력은 필수",
-      "desc": "맥북 네오가 가격 대비 뛰어난 맥 품질로 큰 인기를 끌고 있지만, 단점도 분명 있다. 가장 눈에 띄는 것은 SSD다. 256GB와 512GB 용량은 많은 사용자에게 부족할 뿐 아니라, 다른 맥과 비교해 속도도 현저히 느리다. 납땜 솜씨가 있다면 이 문제를 직접 해...",
-      "link": "https://www.itworld.co.kr/article/4156928/%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-ssd-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c-%ea%b0%80%eb%8a%a5%ed%96%88%eb%8b%a4%eb%82%a9%eb%95%9c-%ec%8b%a4%eb%a0%a5%ec%9d%80-%ed%95%84%ec%88%98.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "원더풀, 한국 진출 본격화…엔터프라이즈 AI 에이전트 시장 공략 나서",
-      "desc": "AI 에이전트 플랫폼 업체 원더풀이 한국 시장에 진출하며 아시아·태평양(APAC) 확장 전략에 속도를 낸다.\n\n\n\n글로벌 엔터프라이즈 AI 에이전트 플랫폼 기업 원더풀은 한국 지사를 공식 설립하고, 초대 지사장으로 정응섭 전 워크데이코리아 지사장을 선임했다고 9일...",
-      "link": "https://www.itworld.co.kr/article/4156213/%ec%9b%90%eb%8d%94%ed%92%80-%ed%95%9c%ea%b5%ad-%ec%a7%84%ec%b6%9c-%eb%b3%b8%ea%b2%a9%ed%99%94%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4%ec%a6%88-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "UNIST, 조선업 AI 전환 이끌 초거대 산업 AI 개발 본격화...403억원 규모, 조선업 AX 선도",
-      "desc": "UNIST(총장 박종래)는 과학기술정보통신부 ‘초거대산업 AI 연구지원사업’ 공모에서 조선 분야 과제의 총괄연구기관으로 최종 선정돼 조선업 인공지능 전환(AX)을 선도할 연구를 본격 추진한다.이번 사업은 총 403억원 규모(국비 285억원, 울산시 25억원, 기업...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39515",
+      "title": "KAIST-마이크로소프트연구소, AI ‘시간 오류’ 잡았다...믿고 쓰는 AI 시대 앞당긴다",
+      "desc": "“지난달 취임한 장관이 누구냐”는 질문에 챗GPT가 1년 전 인물을 답한다면 어떨까. 최신 정보를 제대로 반영하지 못하는 AI의 한계를 보여주는 사례다. KAIST 연구진이 변화하는 현실 정보를 자동으로 반영하면서도, 겉으로는 맞아 보이는 ‘시간 오류’까지 잡아내...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39544",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "트루팍프로덕션 박철우 대표, 스마트폰·AI로 기업 조직문화를 바꾸다",
-      "desc": "트루팍프로덕션 박철우 대표는 국내 유일의 전문 재보험사 코리안리(Korean Re) 임직원 약 400명을 대상으로 스마트폰·AI 기반 영상 제작 워크숍을 2회에 걸쳐 성공적으로 마쳤다고 12일 밝혔다. 이번 워크숍은 실무 기술 습득과 조직문화 혁신을 동시에 이끌어...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39514",
+      "title": "중기부, 팹리스 스타트업의 성장 전폭 지원...국내 파운드리 3사와 함께하는 ‘모두의 챌린지 팹리스’ 공고",
+      "desc": "중소벤처기업부(장관 한성숙, 이하 중기부)는 삼성전자, SK키파운드리, DB하이텍 등 국내 파운드리 3사와 함께 유망 팹리스 스타트업의 시제품 공정(Multi-Project Wafer, MPW)을 지원하는 '모두의 챌린지 팹리스'를 14일 공고했다.모두의 챌린지는...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39543",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "아크로즈 테크놀로지, 산업용 고정밀 AI 비전 플랫폼 ‘AIDI’ 생태계 공개",
-      "desc": "산업용 AI 비전 솔루션 전문 기업 아크로즈 테크놀로지(Aqrose Technology)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXP...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39513",
+      "title": "스탠퍼드 HAI, ‘AI 인덱스 2026’...\"생성형 AI, 이제 기술이 아니라 지배 인프라”, 산업·과학·국가 시스템까지 재편",
+      "desc": "인공지능(AI)이 단순한 기술적 도구를 넘어 인류 문명의 패러다임을 통째로 뒤흔드는 ‘빅뱅’의 정점에 섰다. 하지만 화려한 기술적 승전보의 이면에는 이를 제어하고 평가할 사회적 인프라의 부재라는 위태로운 그림자가 드리워져 있다.현지시간 13일, 스탠퍼드 대학교 인...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39542",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "“AI는 이제 인프라”… 롭 토마스 IBM 소프트웨어 수석부사장, 오픈소스 기반 ‘AI 설계 원칙’ 강조",
-      "desc": "IBM이 인공지능(AI)이 ‘제품’을 넘어 ‘인프라’ 단계로 진입하면서, 오픈소스 기반 접근이 더 이상 선택이 아닌 필수 설계 원칙이 되고 있다고 강조했다. AI가 산업과 사회 전반을 지탱하는 핵심 기술로 자리잡는 상황에서, 폐쇄형 모델 중심의 접근만으로는 안전성...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39511",
+      "title": "“생성형 AI, 과학 연구를 재설계하다”… ‘엑사원 디스커버리’ 기반 특허가 여는 신약·신소재 혁신 시대",
+      "desc": "최근 생성형 인공지능(AI) 기술은 단순한 텍스트 생성 기능을 넘어 과학 연구 및 산업 전반에서 핵심적인 역할을 수행하는 단계로 진입하고 있다. 특히 자연과학 분야에서는 방대한 문헌과 실험 데이터를 기반으로 새로운 물질을 설계하거나 화학 반응을 예측하는 작업이 필...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39540",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "퀀텀씨엔에스, 폐쇄망 최적화 AI 인프라 및 사람 중심 AI ‘IKIN’ 공개",
-      "desc": "인공지능(AI) 인프라 및 솔루션 전문 기업 퀀텀씨엔에스(대표 전성주)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 20...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39510",
+      "title": "현대위아, 전 직원 대상 AI 교육 실시… AX 전환 본격화",
+      "desc": "현대위아가 전 직원 인공지능(AI) 활용 능력 향상에 나선다. 인공지능 전환(AX)에 속도를 더한다는 계획이다.현대위아는 오는 7월까지 모든 사무·연구직군 직원을 대상으로 ‘AX Literacy 교육’을 시행한다고 13일 밝혔다. 현대위아는 경상남도 창원시 현대위...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39539",
       "source": "AI Times"
     }
   ]
