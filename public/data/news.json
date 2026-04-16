@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-04-15T23:50:20.272Z",
+  "lastUpdated": "2026-04-16T23:49:08.437Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "AI 없이 보낸 일주일 “오히려 좋았던” 이유",
+      "desc": "새 거실에 서서 이삿짐 박스에 둘러싸인 채 고장 난 식기세척기 앞에 섰을 때, 필자에게 절실했던 것은 딱 세 가지였다. 가위, 짐을 풀 공간, 그리고 배관공. 챗GPT는 그 목록 근처에도 없었다.\n\n\n\n가족과 함께 봄방학 대부분을 맨해튼의 새롭고 훨씬 작은 집으로...",
+      "link": "https://www.itworld.co.kr/article/4159930/ai-%ec%97%86%ec%9d%b4-%eb%b3%b4%eb%82%b8-%ec%9d%bc%ec%a3%bc%ec%9d%bc-%ec%98%a4%ed%9e%88%eb%a0%a4-%ec%a2%8b%ec%95%98%eb%8d%98-%ec%9d%b4%ec%9c%a0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "“맥 중고 시장도 뜨겁다” 기업에까지 번진 애플 하드웨어 재활용 열풍",
+      "desc": "맥북 네오 등 신제품 판매량이 호조를 보이는 가운데 중고 시장 역시 강한 성장 흐름을 보이고 있다. 데이터 삭제 전문기업 블랑코 테크놀로지 그룹(Blancco Technology Group)과 산업용 허브 제조사 캠브리오닉스(Cambrionix)가 대량의 맥을 신...",
+      "link": "https://www.itworld.co.kr/article/4159404/%eb%a7%a5-%ec%a4%91%ea%b3%a0-%ec%8b%9c%ec%9e%a5%eb%8f%84-%eb%9c%a8%ea%b2%81%eb%8b%a4-%ea%b8%b0%ec%97%85%ec%97%90%ea%b9%8c%ec%a7%80-%eb%b2%88%ec%a7%84-%ec%95%a0%ed%94%8c-%ed%95%98%eb%93%9c%ec%9b%a8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "USB 드라이브·SD카드도 가격 폭등…저장 매체 공급난 전방위 확산",
+      "desc": "RAM과 저장 장치 가격이 급등했다는 사실은 이미 널리 알려져 있다. 이들 부품 가격은 지난 수개월간 치솟았고, 일부 데이터는 정점을 찍었을 가능성을 시사하지만 그 반대를 보여주는 지표도 적지 않다. 그런데 이 같은 여파가 컴퓨터, 게임 콘솔, 스마트폰, 그 밖에...",
+      "link": "https://www.itworld.co.kr/article/4159396/usb-%eb%93%9c%eb%9d%bc%ec%9d%b4%eb%b8%8c%c2%b7sd%ec%b9%b4%eb%93%9c%eb%8f%84-%ea%b0%80%ea%b2%a9-%ed%8f%ad%eb%93%b1%ec%a0%80%ec%9e%a5-%eb%a7%a4%ec%b2%b4-%ea%b3%b5%ea%b8%89%eb%82%9c-%ec%a0%84.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "CUDA 20년, AI 혁명을 설계한 엔비디아의 숨은 엔진",
+      "desc": "엔비디아 CEO 젠슨 황은 2016년 오픈AI에 AI 슈퍼컴퓨터를 직접 배달했던 일화를 자주 꺼낸다. 당시 오픈AI는 지금처럼 주목받는 기업이 아니었다. 그 슈퍼컴퓨터 안에는 엔비디아의 CUDA 툴킷이 핵심 구성요소로 탑재돼 있었다. CUDA 툴킷은 오픈AI의 초...",
+      "link": "https://www.itworld.co.kr/article/4159358/cuda-20%eb%85%84-ai-%ed%98%81%eb%aa%85%ec%9d%84-%ec%84%a4%ea%b3%84%ed%95%9c-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%ec%88%a8%ec%9d%80-%ec%97%94%ec%a7%84.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "마이크로소프트, 서피스 가격 인상…애플은 가격 유지 전략",
       "desc": "이미 맥북 네오가 노트북 시장에 변화를 가져왔다는 이야기가 확산됐다. 일부에서는 품질, 성능, 가격을 모두 갖추고도 599달러에 출시된 맥북 네오가 마이크로소프트 같은 기업에 부담을 줄 것이라는 평가로 이어졌다. 다른 PC 제조사는 어떤 대응을 보이고 있을까? 마...",
       "link": "https://www.itworld.co.kr/article/4158953/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%84%9c%ed%94%bc%ec%8a%a4-%ea%b0%80%ea%b2%a9-%ec%9d%b8%ec%83%81%ec%95%a0%ed%94%8c%ec%9d%80-%ea%b0%80%ea%b2%a9-%ec%9c%a0.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "검색 도구보다 제미나이 확장 프로그램에 가까운 구글 데스크톱 앱",
-      "desc": "구글은 검색을 중심으로 사업을 구축한 기업이다. 지메일이 빠르게 과거 이메일을 찾아 다시 불러올 수 있는 기능으로 인기를 얻은 배경도 같은 맥락이다. 하지만 구글의 새로운 윈도우용 앱을 사용하고 나서는, 기대에 미치지 못한다는 판단을 내렸다.\n\n\n\n구글이 새롭게 ...",
-      "link": "https://www.itworld.co.kr/article/4158789/%ec%a6%89%ec%84%9d-%eb%a6%ac%eb%b7%b0-%ea%b2%80%ec%83%89-%eb%8f%84%ea%b5%ac%eb%b3%b4%eb%8b%a4-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ed%99%95%ec%9e%a5-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8%ec%97%90.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "마이크로소프트 계정, 지금 바로 확인해야 할 설정 10가지",
-      "desc": "해커가 마이크로소프트 계정에 침입하면 원드라이브 파일 유출은 물론, 윈도우 PC 보안 우회와 노트북 위치 추적까지 이어질 수 있다. 하지만 계정 설정 점검의 이유는 보안에만 있지 않다. 일부 설정은 일상적인 개인정보 보호에도 직접적인 영향을 미친다.\n\n\n\n최근 마...",
-      "link": "https://www.itworld.co.kr/article/4158180/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ea%b3%84%ec%a0%95-%ec%a7%80%ea%b8%88-%eb%b0%94%eb%a1%9c-%ed%99%95%ec%9d%b8%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%84%a4%ec%a0%95-10%ea%b0%80.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "오픈텍스트, 기업 ‘AI 스프롤’ 확산 경고…“통제 가능한 거버넌스가 경쟁력 좌우”",
-      "desc": "생성형 AI 도입이 빠르게 확산되면서 보안, 중복 투자, 섀도우 AI 등 새로운 리스크 관리가 기업 과제로 떠오르고 있다.\n\n\n\n오픈텍스트는 최근 국내 기업에서 부서·사용자 단위로 AI 도구가 무분별하게 증가하는 ‘AI 스프롤(AI 확산 난립)’ 현상이 새로운 경...",
-      "link": "https://www.itworld.co.kr/article/4157618/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b8%b0%ec%97%85-ai-%ec%8a%a4%ed%94%84%eb%a1%a4-%ed%99%95%ec%82%b0-%ea%b2%bd%ea%b3%a0%ed%86%b5%ec%a0%9c-%ea%b0%80.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "‘애플다운 안경’ 만들기, 디자인에서 답 찾는다",
-      "desc": "애플이 외부 업체에 의존하지 않고 스마트 글래스의 프레임을 자체 개발하며 제품 차별화에 나선 것으로 보인다.\n\n\n\n블룸버그의 마크 거먼은 최신 보고서를 통해 애플의 스마트 글래스에 대한 추가 정보를 공개했다. 마크 거먼은 올해 초 스마트글래스가 메타의 AI 안경과...",
-      "link": "https://www.itworld.co.kr/article/4158152/%ec%95%a0%ed%94%8c%eb%8b%a4%ec%9a%b4-%ec%95%88%ea%b2%bd-%eb%a7%8c%eb%93%a4%ea%b8%b0-%eb%94%94%ec%9e%90%ec%9d%b8%ec%97%90%ec%84%9c-%eb%8b%b5-%ec%b0%be%eb%8a%94%eb%8b%a4.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "쇼츠 자동 편집 AI 스타트업 '알파컷', 8개월 만에 사용자 1만 5천 명 돌파",
-      "desc": "유튜브 숏폼 자동 편집 솔루션을 운영하는 인공지능(AI) 스타트업 알파컷이 서비스 출시 8개월 만에 누적 사용 유튜버 1만 5천 명을 돌파하고, 작년 12월 대비 3개월 만에 월 매출 10배 성장을 기록했다고 16일 밝혔다.알파컷은 실리콘밸리 출신 엔지니어를 주축...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39577",
+      "title": "파네시아, PCIe 6.4·CXL 3.2 ‘퓨전 스위치’ 공개…세계 최초 PBR 구현, AI 인프라 연결 구조 판 바꾼다",
+      "desc": "인공지능(AI) 인프라용 고속 인터커넥트 기술을 개발하는 국내 팹리스 기업 파네시아(Panmnesia. 대표 정명수)가 차세대 데이터센터 아키텍처를 겨냥한 핵심 반도체를 16일 공개하며 글로벌 시장 공략에 나섰다.파네시아는 2026년 하반기 중 PCIe 6.4와 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39590",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "일론 머스크, ‘AI5’ 칩 테이프아웃 공개…테슬라 AI 반도체 로드맵 가속",
-      "desc": "일론 머스크(Elon Musk) CEO가 테슬라의 차세대 인공지능 반도체 개발 진행 상황을 공개하며 AI 하드웨어 경쟁 가속을 예고했다.머스크는 15일(현지시간) 자신의 X(구 트위터)를 통해 “테슬라 AI 칩 설계팀이 AI5 테이프아웃을 완료한 것을 축하한다”며...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39576",
+      "title": "‘미토스 충격’ 현실화, AI 사이버 위협 폭발적 진화…英 정부, 기업에 전면 대응 촉구",
+      "desc": "영국 정부가 인공지능(AI) 기술의 급격한 발전이 사이버 공격의 패러다임을 근본적으로 변화시키고 있다며, 기업 전반에 걸쳐 보안 대응 체계를 전면 재정비할 것을 강력히 촉구했다.현지시간 15일, 리즈 켄달(Liz Kendall) 과학혁신기술부 장관과 댄 자비스(D...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39588",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "세계경제포럼, “AI가 성장 질서 재편”…글로벌 경제 ‘새 성장 공식’ 제시",
-      "desc": "세계경제포럼(World Economic Forum. 이하, WEF)이 인공지능(AI)을 중심으로 글로벌 경제 질서가 구조적으로 재편되고 있다고 진단하고, 향후 10년을 좌우할 새로운 성장 전략을 제시했다.WEF는 15일(현지시간) ‘성장의 새로운 경제: 청사진을 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39575",
+      "title": "구글, 차세대 AI 음성 모델 ‘제미나이 3.1 플래시 TTS’ 공개…음성 “연출 가능한 시대” 진입, 말의 감정까지 조절한다",
+      "desc": "구글이 차세대 텍스트-음성 변환(TTS) 모델 ‘제미나이 3.1 플래시 TTS(Gemini 3.1 Flash TTS)’를 공개하고, 인공지능 음성 기술이 단순 합성을 넘어 ‘연출 가능한 미디어’ 단계로 진화하고 있다.구글은 15일(현지시간) 발표를 통해 해당 모델...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39587",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "AI 보안이 판 흔든다…과기정통부, “위협 넘어, 대응력 강화와 성장의 기회로”",
-      "desc": "과학기술정보통신부(부총리 겸 과학기술정보통신부 장관 배경훈, 이하 과기정통부)는 최근 엔트로픽 및 오픈AI가 자사의 최신 인공지능 모델을 사이버보안에 활용하는 사업(프로젝트)을 출범한 것과 관련하여 정보 보호 기업 등과 긴급 현안 공유회의 등을 개최했다고 15일 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39574",
+      "title": "KTis, 한성자동차·한성모터스 고객센터 AI 전환…상담 효율 28% 개선",
+      "desc": "KTis(대표이사 이선주)가 메르세데스-벤츠 공식 딜러사인 한성자동차·한성모터스 고객센터에 인공지능 컨택센터(AICC) 기반 AI 상담 플랫폼을 구축하고 AI 기반 상담 지원 체계를 도입했다고 16일 밝혔다.KTis는 이번 구축을 통해 실시간 음성인식(STT) 기...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39586",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "과기정통부, ‘AI 3대 강국’ 도약 위한 R&D 체계 전면 개편…PM 6명 신규 위촉",
-      "desc": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 과기정통부)는 대한민국을 글로벌 인공지능(AI) 3대 강국으로 도약하기 위해 정보통신방송(ICT) 연구개발(R&D) 민간전문가(PM, Program Manager) 체계를 AI 중심으로 전면 개편하고, 현...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39573",
+      "title": "\"인공지능과 협업하는 노동자\"...고용부, ‘AI 워커’ 직업훈련 시범사업 추진",
+      "desc": "고용노동부(장관 김영훈)는 산업구조 변화에 따른 기업 채용트렌드를 반영하여, ‘AI 워커’ 직업훈련 시범사업을 올해부터 추진한다고 16일 밝혔다. ‘인공지능 워커(AI Worker)’란 자신의 전문 분야에서 AI 도구를 능숙하게 활용하여 업무 생산성을 높이는 노동...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39585",
       "source": "AI Times"
     }
   ]
