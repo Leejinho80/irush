@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-04-16T23:49:08.437Z",
+  "lastUpdated": "2026-04-17T23:44:55.138Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "사이버 위협 탐지의 새 무기로 떠오른 AI, SOC 번아웃까지 잡는다",
+      "desc": "보안팀이 사이버 위협을 탐지하고 추적하는 방식이 AI로 빠르게 재편되고 있다. AI는 방대한 양의 보안 데이터를 분석하고 포착하기 어려운 악의적 활동 징후를 찾으며, 전통적인 툴이나 인간 애널리스트보다 더 빠르게 잠재적 공격을 식별할 수 있기 때문이다.\n\n\n\n가트...",
+      "link": "https://www.itworld.co.kr/article/4159967/%ec%82%ac%ec%9d%b4%eb%b2%84-%ec%9c%84%ed%98%91-%ed%83%90%ec%a7%80%ec%9d%98-%ec%83%88-%eb%ac%b4%ea%b8%b0%eb%a1%9c-%eb%96%a0%ec%98%a4%eb%a5%b8-ai-soc-%eb%b2%88%ec%95%84%ec%9b%83%ea%b9%8c%ec%a7%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "윈도우 리콜 보안 개편에도 데이터 탈취 가능…연구자 ‘설계 결함’ 지적",
+      "desc": "한 보안 연구자가 대대적인 보안 개편에도 불구하고 마이크로소프트의 윈도우 리콜 기능이 완전한 데이터 탈취에 취약한 상태라고 주장했다. 사용자 컨텍스트에서 실행되는 악성코드가 관리자 권한, 커널 취약점 공격, 암호화 해독 없이도 리콜이 캡처한 모든 데이터를 조용히 ...",
+      "link": "https://www.itworld.co.kr/article/4159953/%ec%9c%88%eb%8f%84%ec%9a%b0-%eb%a6%ac%ec%bd%9c-%eb%b3%b4%ec%95%88-%ea%b0%9c%ed%8e%b8%ec%97%90%eb%8f%84-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%83%88%ec%b7%a8-%ea%b0%80%eb%8a%a5%ec%97%b0%ea%b5%ac.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "훌륭한 맥, 한심한 주변기기…애플의 이상한 온도 차",
+      "desc": "맥북 프로도, 맥북 에어도 아니다. 지금 모두의 입에 오르내리는 것은 맥북 네오다. 이유는 충분하다. 눈길을 사로잡는 맥북 네오는 확실한 흥행작이다. 동급 윈도우 기기가 흉내 내기 어려운 완성도를 합리적인 가격에 구현해냈다.\n\n\n\n애플 생태계에 막 발을 들인 사람...",
+      "link": "https://www.itworld.co.kr/article/4159946/%ed%9b%8c%eb%a5%ad%ed%95%9c-%eb%a7%a5-%ed%95%9c%ec%8b%ac%ed%95%9c-%ec%a3%bc%eb%b3%80%ea%b8%b0%ea%b8%b0%ec%95%a0%ed%94%8c%ec%9d%98-%ec%9d%b4%ec%83%81%ed%95%9c-%ec%98%a8%eb%8f%84-%ec%b0%a8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "멀티 에이전트 AI의 병목, “에이전트 아닌 조정 인프라”",
+      "desc": "필자가 속한 팀에 개발한 멀티 에이전트 AI 시스템은 데모에서는 괜찮았다. 한 에이전트는 고객 문의를 처리하고 다른 에이전트는 일정을 관리하고 세 번째는 문서를 처리했다. 각 에이전트 개별적으로는 아주 잘 작동했다.\n\n\n\n그러나 프로덕션에서는 불협화음을 내기 시작...",
+      "link": "https://www.itworld.co.kr/article/4159938/%eb%a9%80%ed%8b%b0-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-ai%ec%9d%98-%eb%b3%91%eb%aa%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%95%84%eb%8b%8c-%ec%a1%b0%ec%a0%95-%ec%9d%b8%ed%94%84%eb%9d%bc.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "AI 없이 보낸 일주일 “오히려 좋았던” 이유",
       "desc": "새 거실에 서서 이삿짐 박스에 둘러싸인 채 고장 난 식기세척기 앞에 섰을 때, 필자에게 절실했던 것은 딱 세 가지였다. 가위, 짐을 풀 공간, 그리고 배관공. 챗GPT는 그 목록 근처에도 없었다.\n\n\n\n가족과 함께 봄방학 대부분을 맨해튼의 새롭고 훨씬 작은 집으로...",
       "link": "https://www.itworld.co.kr/article/4159930/ai-%ec%97%86%ec%9d%b4-%eb%b3%b4%eb%82%b8-%ec%9d%bc%ec%a3%bc%ec%9d%bc-%ec%98%a4%ed%9e%88%eb%a0%a4-%ec%a2%8b%ec%95%98%eb%8d%98-%ec%9d%b4%ec%9c%a0.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "“맥 중고 시장도 뜨겁다” 기업에까지 번진 애플 하드웨어 재활용 열풍",
-      "desc": "맥북 네오 등 신제품 판매량이 호조를 보이는 가운데 중고 시장 역시 강한 성장 흐름을 보이고 있다. 데이터 삭제 전문기업 블랑코 테크놀로지 그룹(Blancco Technology Group)과 산업용 허브 제조사 캠브리오닉스(Cambrionix)가 대량의 맥을 신...",
-      "link": "https://www.itworld.co.kr/article/4159404/%eb%a7%a5-%ec%a4%91%ea%b3%a0-%ec%8b%9c%ec%9e%a5%eb%8f%84-%eb%9c%a8%ea%b2%81%eb%8b%a4-%ea%b8%b0%ec%97%85%ec%97%90%ea%b9%8c%ec%a7%80-%eb%b2%88%ec%a7%84-%ec%95%a0%ed%94%8c-%ed%95%98%eb%93%9c%ec%9b%a8.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "USB 드라이브·SD카드도 가격 폭등…저장 매체 공급난 전방위 확산",
-      "desc": "RAM과 저장 장치 가격이 급등했다는 사실은 이미 널리 알려져 있다. 이들 부품 가격은 지난 수개월간 치솟았고, 일부 데이터는 정점을 찍었을 가능성을 시사하지만 그 반대를 보여주는 지표도 적지 않다. 그런데 이 같은 여파가 컴퓨터, 게임 콘솔, 스마트폰, 그 밖에...",
-      "link": "https://www.itworld.co.kr/article/4159396/usb-%eb%93%9c%eb%9d%bc%ec%9d%b4%eb%b8%8c%c2%b7sd%ec%b9%b4%eb%93%9c%eb%8f%84-%ea%b0%80%ea%b2%a9-%ed%8f%ad%eb%93%b1%ec%a0%80%ec%9e%a5-%eb%a7%a4%ec%b2%b4-%ea%b3%b5%ea%b8%89%eb%82%9c-%ec%a0%84.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "CUDA 20년, AI 혁명을 설계한 엔비디아의 숨은 엔진",
-      "desc": "엔비디아 CEO 젠슨 황은 2016년 오픈AI에 AI 슈퍼컴퓨터를 직접 배달했던 일화를 자주 꺼낸다. 당시 오픈AI는 지금처럼 주목받는 기업이 아니었다. 그 슈퍼컴퓨터 안에는 엔비디아의 CUDA 툴킷이 핵심 구성요소로 탑재돼 있었다. CUDA 툴킷은 오픈AI의 초...",
-      "link": "https://www.itworld.co.kr/article/4159358/cuda-20%eb%85%84-ai-%ed%98%81%eb%aa%85%ec%9d%84-%ec%84%a4%ea%b3%84%ed%95%9c-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%ec%88%a8%ec%9d%80-%ec%97%94%ec%a7%84.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "마이크로소프트, 서피스 가격 인상…애플은 가격 유지 전략",
-      "desc": "이미 맥북 네오가 노트북 시장에 변화를 가져왔다는 이야기가 확산됐다. 일부에서는 품질, 성능, 가격을 모두 갖추고도 599달러에 출시된 맥북 네오가 마이크로소프트 같은 기업에 부담을 줄 것이라는 평가로 이어졌다. 다른 PC 제조사는 어떤 대응을 보이고 있을까? 마...",
-      "link": "https://www.itworld.co.kr/article/4158953/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%84%9c%ed%94%bc%ec%8a%a4-%ea%b0%80%ea%b2%a9-%ec%9d%b8%ec%83%81%ec%95%a0%ed%94%8c%ec%9d%80-%ea%b0%80%ea%b2%a9-%ec%9c%a0.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "파네시아, PCIe 6.4·CXL 3.2 ‘퓨전 스위치’ 공개…세계 최초 PBR 구현, AI 인프라 연결 구조 판 바꾼다",
-      "desc": "인공지능(AI) 인프라용 고속 인터커넥트 기술을 개발하는 국내 팹리스 기업 파네시아(Panmnesia. 대표 정명수)가 차세대 데이터센터 아키텍처를 겨냥한 핵심 반도체를 16일 공개하며 글로벌 시장 공략에 나섰다.파네시아는 2026년 하반기 중 PCIe 6.4와 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39590",
+      "title": "앤트로픽, ‘클로드 오퍼스 4.7’ 전격 출시… “자율 코딩 성능 극대화 및 시각 지능 강화”",
+      "desc": "앤트로픽(Anthropic)이 자사의 최상위 모델 라인업인 ‘오퍼스(Opus)’의 차세대 버전인 ‘클로드 오퍼스 4.7(Claude Opus 4.7)’을 16일(현지시간) 전격 출시했다. 이번 모델은 이전 버전인 4.6 대비 소프트웨어 엔지니어링과 시각 지능 분야...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39605",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "‘미토스 충격’ 현실화, AI 사이버 위협 폭발적 진화…英 정부, 기업에 전면 대응 촉구",
-      "desc": "영국 정부가 인공지능(AI) 기술의 급격한 발전이 사이버 공격의 패러다임을 근본적으로 변화시키고 있다며, 기업 전반에 걸쳐 보안 대응 체계를 전면 재정비할 것을 강력히 촉구했다.현지시간 15일, 리즈 켄달(Liz Kendall) 과학혁신기술부 장관과 댄 자비스(D...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39588",
+      "title": "구글, 크롬에 ‘AI 모드’ 전격 도입… “탭 이동 없는 혁신적 웹 탐색 시대 열린다”",
+      "desc": "웹 서핑 중 정보 확인을 위해 수십 개의 탭을 오가던 ‘탭 호핑(Tab hopping)’의 시대가 저물고, 인공지능이 브라우저와 완전히 통합된 새로운 탐색 경험이 시작된다. 이는 웹 생태계 내 사용자 경험(UX)의 근본적인 대전환을 의미한다.구글은 16일(현지시간...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39604",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "구글, 차세대 AI 음성 모델 ‘제미나이 3.1 플래시 TTS’ 공개…음성 “연출 가능한 시대” 진입, 말의 감정까지 조절한다",
-      "desc": "구글이 차세대 텍스트-음성 변환(TTS) 모델 ‘제미나이 3.1 플래시 TTS(Gemini 3.1 Flash TTS)’를 공개하고, 인공지능 음성 기술이 단순 합성을 넘어 ‘연출 가능한 미디어’ 단계로 진화하고 있다.구글은 15일(현지시간) 발표를 통해 해당 모델...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39587",
+      "title": "현대로템, 철도차량 에너지 절감 시스템 개발...기술 구현 및 실증 완료",
+      "desc": "현대로템은 한국철도공사(코레일), 한국교통대학교와 함께 지능형 에너지 절감 열차 자동제어 시스템(Intelligent Energy-Efficient Operation System. 이하, IEOS)을 개발했다고 17일 밝혔다.IEOS는 철도 선로 조건과 운행 환경...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39603",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "KTis, 한성자동차·한성모터스 고객센터 AI 전환…상담 효율 28% 개선",
-      "desc": "KTis(대표이사 이선주)가 메르세데스-벤츠 공식 딜러사인 한성자동차·한성모터스 고객센터에 인공지능 컨택센터(AICC) 기반 AI 상담 플랫폼을 구축하고 AI 기반 상담 지원 체계를 도입했다고 16일 밝혔다.KTis는 이번 구축을 통해 실시간 음성인식(STT) 기...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39586",
+      "title": "순찰 로봇이 국민의 안전 지킨다...조달청, AI 자율주행 기반의 순찰로봇 임대서비스 나라장터서 공급",
+      "desc": "조달청(청장 백승보)은 ‘인공지능(AI) 기반 순찰(경비) 로봇 임대서비스’ 공급을 위한 카탈로그 계약 입찰 공고를 게시했다고 17일 밝혔다. 순찰(경비) 로봇은 AI에 기반하여 정해진 구역을 스스로 주행하면서 화재·안전사고·범죄 등 이상 상황을 감지하고 신고·경...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39602",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "\"인공지능과 협업하는 노동자\"...고용부, ‘AI 워커’ 직업훈련 시범사업 추진",
-      "desc": "고용노동부(장관 김영훈)는 산업구조 변화에 따른 기업 채용트렌드를 반영하여, ‘AI 워커’ 직업훈련 시범사업을 올해부터 추진한다고 16일 밝혔다. ‘인공지능 워커(AI Worker)’란 자신의 전문 분야에서 AI 도구를 능숙하게 활용하여 업무 생산성을 높이는 노동...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39585",
+      "title": "강원대병원, ‘AI 기반 진료시스템 지원사업’ 선정...환자안전·진료정밀·운영효율 전반 디지털 전환 본격화",
+      "desc": "강원대학교병원(병원장 남우동)은 보건복지부가 추진하는 2026년 권역책임의료기관 AI 기반 진료시스템 지원사업에 선정되었다고 17일 밝혔다.이번 ‘권역책임의료기관 AI 기반 진료시스템 지원사업’은 보건복지부가 권역책임의료기관의 AI 기반 진료 및 운영체계 구축을 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39601",
       "source": "AI Times"
     }
   ]
