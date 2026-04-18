@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T23:44:55.138Z",
+  "lastUpdated": "2026-04-18T23:41:04.318Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "앤트로픽, ‘클로드 오퍼스 4.7’ 전격 출시… “자율 코딩 성능 극대화 및 시각 지능 강화”",
-      "desc": "앤트로픽(Anthropic)이 자사의 최상위 모델 라인업인 ‘오퍼스(Opus)’의 차세대 버전인 ‘클로드 오퍼스 4.7(Claude Opus 4.7)’을 16일(현지시간) 전격 출시했다. 이번 모델은 이전 버전인 4.6 대비 소프트웨어 엔지니어링과 시각 지능 분야...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39605",
+      "title": "“코드 주면 취약점 자동 탐지”…‘클로드 미토스’가 촉발한 AI 보안 패러다임 변화",
+      "desc": "앤트로픽(Anthropic)이 최근 공개한 차세대 인공지능(AI) 모델 ‘클로드 미토스(Claude Mythos Preview)’가 사이버보안 지형을 뒤흔들고 있다. 소프트웨어의 취약점을 스스로 찾아내고 일부는 악용 가능성까지 제시하는 이 모델은, 보안 방어와 공...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39612",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "구글, 크롬에 ‘AI 모드’ 전격 도입… “탭 이동 없는 혁신적 웹 탐색 시대 열린다”",
-      "desc": "웹 서핑 중 정보 확인을 위해 수십 개의 탭을 오가던 ‘탭 호핑(Tab hopping)’의 시대가 저물고, 인공지능이 브라우저와 완전히 통합된 새로운 탐색 경험이 시작된다. 이는 웹 생태계 내 사용자 경험(UX)의 근본적인 대전환을 의미한다.구글은 16일(현지시간...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39604",
+      "title": "[AI 리뷰] “시각장애인 돕는 AI, 아직은 반쪽”…코넬대 연구진 “정확성·맥락 이해 개선 시급”",
+      "desc": "시각장애인과 저시력자(Blind and Low Vision, BLV)를 지원하는 인공지능(AI) 기술이 빠르게 발전하고 있지만, 실제 사용 환경에서는 여전히 한계가 존재한다는 연구 결과가 나왔다. 특히 복잡한 상황에서의 정확성과 맥락 이해 능력이 개선 과제로 지목...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39611",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "현대로템, 철도차량 에너지 절감 시스템 개발...기술 구현 및 실증 완료",
-      "desc": "현대로템은 한국철도공사(코레일), 한국교통대학교와 함께 지능형 에너지 절감 열차 자동제어 시스템(Intelligent Energy-Efficient Operation System. 이하, IEOS)을 개발했다고 17일 밝혔다.IEOS는 철도 선로 조건과 운행 환경...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39603",
+      "title": "“세포 식별도 AI가 한다”…칼텍, 범용 생물 이미지 분석 모델 ‘셀SAM’ 오픈소스로 공개",
+      "desc": "생물학 연구의 핵심 도구인 이미지 분석 분야에서 인공지능(AI)이 결정적인 돌파구를 마련했다. 그동안 연구자들이 수작업으로 수행해온 세포 식별 및 라벨링 작업을 자동화하는 범용 AI 모델이 등장하면서, 생명과학 연구의 속도와 범위가 크게 확장될 전망이다.미국 캘리...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39610",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "순찰 로봇이 국민의 안전 지킨다...조달청, AI 자율주행 기반의 순찰로봇 임대서비스 나라장터서 공급",
-      "desc": "조달청(청장 백승보)은 ‘인공지능(AI) 기반 순찰(경비) 로봇 임대서비스’ 공급을 위한 카탈로그 계약 입찰 공고를 게시했다고 17일 밝혔다. 순찰(경비) 로봇은 AI에 기반하여 정해진 구역을 스스로 주행하면서 화재·안전사고·범죄 등 이상 상황을 감지하고 신고·경...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39602",
+      "title": "“코딩 몰라도 단백질 설계한다”... 오픈프로틴AI, 연구자 위한 노코드 플랫폼 오픈소스로 공개",
+      "desc": "인공지능(AI)이 신약 개발과 질병 이해를 가속화하는 핵심 기술로 부상하는 가운데, 생명과학 연구 현장에 AI를 보다 쉽게 접목할 수 있도록 하는 플랫폼이 등장해 주목받고 있다. 특히 머신러닝 전문 지식 없이도 단백질 설계와 분석을 수행할 수 있는 ‘노코드(No-...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39608",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "강원대병원, ‘AI 기반 진료시스템 지원사업’ 선정...환자안전·진료정밀·운영효율 전반 디지털 전환 본격화",
-      "desc": "강원대학교병원(병원장 남우동)은 보건복지부가 추진하는 2026년 권역책임의료기관 AI 기반 진료시스템 지원사업에 선정되었다고 17일 밝혔다.이번 ‘권역책임의료기관 AI 기반 진료시스템 지원사업’은 보건복지부가 권역책임의료기관의 AI 기반 진료 및 운영체계 구축을 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39601",
+      "title": "“아이디어만 말하면 디자인 완성”...‘클로드 디자인’ 공개, 디자인부터 프로토타입까지 AI와 협업",
+      "desc": "앤트로픽(Anthropic)은 새로운 비주얼 생성 및 협업 도구 ‘클로드 디자인(Claude Design)’을 17일(현지시간) 공개했다. 이 플랫폼은 디자인, 프로토타입, 프레젠테이션, 원페이지 문서 등 다양한 시각적 결과물을 인공지능(AI)과 협업해 제작할 수...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39607",
       "source": "AI Times"
     }
   ]
