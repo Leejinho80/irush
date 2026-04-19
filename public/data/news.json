@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T23:41:04.318Z",
+  "lastUpdated": "2026-04-19T23:42:34.152Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "“코드 주면 취약점 자동 탐지”…‘클로드 미토스’가 촉발한 AI 보안 패러다임 변화",
-      "desc": "앤트로픽(Anthropic)이 최근 공개한 차세대 인공지능(AI) 모델 ‘클로드 미토스(Claude Mythos Preview)’가 사이버보안 지형을 뒤흔들고 있다. 소프트웨어의 취약점을 스스로 찾아내고 일부는 악용 가능성까지 제시하는 이 모델은, 보안 방어와 공...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39612",
+      "title": "뉴로클, 공식 홈페이지 리뉴얼 오픈… ‘딥러닝 비전검사’ 초격차 전략 가속",
+      "desc": "AI 딥러닝 비전검사 소프트웨어 기업 뉴로클(대표 이홍석)이 지난 7년간 축적해온 기술력과 산업 현장 경험을 바탕으로 공식 홈페이지를 전면 리뉴얼했다고 14일 밝혔다. 이번 리뉴얼은 뉴로클의 브랜드 정체성과 제품 전략을 재정립하는 리브랜딩의 일환으로 추진됐다.뉴로...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39622",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "[AI 리뷰] “시각장애인 돕는 AI, 아직은 반쪽”…코넬대 연구진 “정확성·맥락 이해 개선 시급”",
-      "desc": "시각장애인과 저시력자(Blind and Low Vision, BLV)를 지원하는 인공지능(AI) 기술이 빠르게 발전하고 있지만, 실제 사용 환경에서는 여전히 한계가 존재한다는 연구 결과가 나왔다. 특히 복잡한 상황에서의 정확성과 맥락 이해 능력이 개선 과제로 지목...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39611",
+      "title": "클루닉스, 차세대 AI 통합 플랫폼 ‘노바티어’ 공개… 인프라 효율 극대화",
+      "desc": "AI 인프라 및 고성능 컴퓨팅(HPC) 전문 기업 클루닉스(대표이사 서진우)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39621",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "“세포 식별도 AI가 한다”…칼텍, 범용 생물 이미지 분석 모델 ‘셀SAM’ 오픈소스로 공개",
-      "desc": "생물학 연구의 핵심 도구인 이미지 분석 분야에서 인공지능(AI)이 결정적인 돌파구를 마련했다. 그동안 연구자들이 수작업으로 수행해온 세포 식별 및 라벨링 작업을 자동화하는 범용 AI 모델이 등장하면서, 생명과학 연구의 속도와 범위가 크게 확장될 전망이다.미국 캘리...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39610",
+      "title": "유니닥스, 전자문서 넘어 AI 데이터 자산화 솔루션 공개",
+      "desc": "인공지능 전자문서 전문 기업 유니닥스(대표 정기태)는 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)’에 참가한다....",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39620",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "“코딩 몰라도 단백질 설계한다”... 오픈프로틴AI, 연구자 위한 노코드 플랫폼 오픈소스로 공개",
-      "desc": "인공지능(AI)이 신약 개발과 질병 이해를 가속화하는 핵심 기술로 부상하는 가운데, 생명과학 연구 현장에 AI를 보다 쉽게 접목할 수 있도록 하는 플랫폼이 등장해 주목받고 있다. 특히 머신러닝 전문 지식 없이도 단백질 설계와 분석을 수행할 수 있는 ‘노코드(No-...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39608",
+      "title": "솔트웨어, 생성형 AI 보안 솔루션 ‘사피가디언’ 공개… 데이터 유출 방지 주력",
+      "desc": "AI 클라우드 전문 기업 솔트웨어가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)’에 참가한다.이번 전시에서 AI...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39619",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "“아이디어만 말하면 디자인 완성”...‘클로드 디자인’ 공개, 디자인부터 프로토타입까지 AI와 협업",
-      "desc": "앤트로픽(Anthropic)은 새로운 비주얼 생성 및 협업 도구 ‘클로드 디자인(Claude Design)’을 17일(현지시간) 공개했다. 이 플랫폼은 디자인, 프로토타입, 프레젠테이션, 원페이지 문서 등 다양한 시각적 결과물을 인공지능(AI)과 협업해 제작할 수...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39607",
+      "title": "몬드리안에이아이, 네이버클라우드 마켓플레이스 입점… ‘B300 GPU’ 공급 확대",
+      "desc": "AI 인프라 및 기술 솔루션 전문 기업 몬드리안에이아이(대표이사 홍대의)가 자사의 고성능 AI 인프라 서비스 ‘런유어에이아이(Runyour AI)’를 네이버 클라우드 플랫폼 마켓플레이스에 공식 등록했다고 지난 15일 밝혔다.이번 입점은 단순한 클라우드 서비스 등록...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39618",
       "source": "AI Times"
     }
   ]
