@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-04-19T23:42:34.152Z",
+  "lastUpdated": "2026-04-20T23:50:29.557Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "클라우드 기업이 복원력을 외면하면",
+      "desc": "마이크로소프트 애저의 역사와 최근 심화되는 문제를 지적한 기사에서 수년 동안 업계 전반에 걸쳐 계속되고 있는 이야기를 확인할 수 있다. 클라우드 컴퓨팅이 단순한 유행어에서 디지털 인프라의 중추로까지 발전하면서 마이크로소프트, 아마존, 구글 등 주요 업체는 타협을 ...",
+      "link": "https://www.itworld.co.kr/article/4161072/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ea%b8%b0%ec%97%85%ec%9d%b4-%eb%b3%b5%ec%9b%90%eb%a0%a5%ec%9d%84-%ec%99%b8%eb%a9%b4%ed%95%98%eb%a9%b4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "크롬북의 가격과 서피스의 성능…그 틈을 파고든 맥북 네오의 ‘가격 기준선’",
+      "desc": "마이크로소프트는 지난주 서피스 제품군의 가격을 인상했다. 다른 PC 업체도 메모리, 스토리지, 인텔 프로세서 가격 상승으로 압박을 받고 있다. 그러나 애플은 일상적인 작업에 충분한 수준의 성능을 약속하는 맥북 네오를 발표하면서 그 반대 방향으로 나아가고 있다. 맥...",
+      "link": "https://www.itworld.co.kr/article/4160606/%ed%81%ac%eb%a1%ac%eb%b6%81%ec%9d%98-%ea%b0%80%ea%b2%a9%ea%b3%bc-%ec%84%9c%ed%94%bc%ec%8a%a4%ec%9d%98-%ec%84%b1%eb%8a%a5-%ea%b7%b8-%ed%8b%88%ec%9d%84-%ed%8c%8c%ea%b3%a0%eb%93%a0-%eb%a7%a5%eb%b6%81.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "챗GPT·클로드·제미나이와 나눈 대화, 법적 증거 될 수도",
+      "desc": "챗GPT, 클로드, 제미나이는 사람의 속마음을 털어놓을 수 있는 상대로 여기기 쉽다. 친근하고, 개성이 있고, 호기심이 넘치며, 때로는 친밀하기까지 하다. 그러나 챗봇에 공유한 비밀이 반드시 비공개로 유지된다는 보장은 없다. 특히 법원이 개입하면 더욱 그렇다.\n\n...",
+      "link": "https://www.itworld.co.kr/article/4160590/%ec%b1%97gpt%c2%b7%ed%81%b4%eb%a1%9c%eb%93%9c%c2%b7%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%ec%99%80-%eb%82%98%eb%88%88-%eb%8c%80%ed%99%94-%eb%b2%95%ec%a0%81-%ec%a6%9d%ea%b1%b0-%eb%90%a0-%ec%88%98.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "사이버 위협 탐지의 새 무기로 떠오른 AI, SOC 번아웃까지 잡는다",
       "desc": "보안팀이 사이버 위협을 탐지하고 추적하는 방식이 AI로 빠르게 재편되고 있다. AI는 방대한 양의 보안 데이터를 분석하고 포착하기 어려운 악의적 활동 징후를 찾으며, 전통적인 툴이나 인간 애널리스트보다 더 빠르게 잠재적 공격을 식별할 수 있기 때문이다.\n\n\n\n가트...",
       "link": "https://www.itworld.co.kr/article/4159967/%ec%82%ac%ec%9d%b4%eb%b2%84-%ec%9c%84%ed%98%91-%ed%83%90%ec%a7%80%ec%9d%98-%ec%83%88-%eb%ac%b4%ea%b8%b0%eb%a1%9c-%eb%96%a0%ec%98%a4%eb%a5%b8-ai-soc-%eb%b2%88%ec%95%84%ec%9b%83%ea%b9%8c%ec%a7%80.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "윈도우 리콜 보안 개편에도 데이터 탈취 가능…연구자 ‘설계 결함’ 지적",
       "desc": "한 보안 연구자가 대대적인 보안 개편에도 불구하고 마이크로소프트의 윈도우 리콜 기능이 완전한 데이터 탈취에 취약한 상태라고 주장했다. 사용자 컨텍스트에서 실행되는 악성코드가 관리자 권한, 커널 취약점 공격, 암호화 해독 없이도 리콜이 캡처한 모든 데이터를 조용히 ...",
       "link": "https://www.itworld.co.kr/article/4159953/%ec%9c%88%eb%8f%84%ec%9a%b0-%eb%a6%ac%ec%bd%9c-%eb%b3%b4%ec%95%88-%ea%b0%9c%ed%8e%b8%ec%97%90%eb%8f%84-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%83%88%ec%b7%a8-%ea%b0%80%eb%8a%a5%ec%97%b0%ea%b5%ac.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "훌륭한 맥, 한심한 주변기기…애플의 이상한 온도 차",
-      "desc": "맥북 프로도, 맥북 에어도 아니다. 지금 모두의 입에 오르내리는 것은 맥북 네오다. 이유는 충분하다. 눈길을 사로잡는 맥북 네오는 확실한 흥행작이다. 동급 윈도우 기기가 흉내 내기 어려운 완성도를 합리적인 가격에 구현해냈다.\n\n\n\n애플 생태계에 막 발을 들인 사람...",
-      "link": "https://www.itworld.co.kr/article/4159946/%ed%9b%8c%eb%a5%ad%ed%95%9c-%eb%a7%a5-%ed%95%9c%ec%8b%ac%ed%95%9c-%ec%a3%bc%eb%b3%80%ea%b8%b0%ea%b8%b0%ec%95%a0%ed%94%8c%ec%9d%98-%ec%9d%b4%ec%83%81%ed%95%9c-%ec%98%a8%eb%8f%84-%ec%b0%a8.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "멀티 에이전트 AI의 병목, “에이전트 아닌 조정 인프라”",
-      "desc": "필자가 속한 팀에 개발한 멀티 에이전트 AI 시스템은 데모에서는 괜찮았다. 한 에이전트는 고객 문의를 처리하고 다른 에이전트는 일정을 관리하고 세 번째는 문서를 처리했다. 각 에이전트 개별적으로는 아주 잘 작동했다.\n\n\n\n그러나 프로덕션에서는 불협화음을 내기 시작...",
-      "link": "https://www.itworld.co.kr/article/4159938/%eb%a9%80%ed%8b%b0-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-ai%ec%9d%98-%eb%b3%91%eb%aa%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%95%84%eb%8b%8c-%ec%a1%b0%ec%a0%95-%ec%9d%b8%ed%94%84%eb%9d%bc.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "AI 없이 보낸 일주일 “오히려 좋았던” 이유",
-      "desc": "새 거실에 서서 이삿짐 박스에 둘러싸인 채 고장 난 식기세척기 앞에 섰을 때, 필자에게 절실했던 것은 딱 세 가지였다. 가위, 짐을 풀 공간, 그리고 배관공. 챗GPT는 그 목록 근처에도 없었다.\n\n\n\n가족과 함께 봄방학 대부분을 맨해튼의 새롭고 훨씬 작은 집으로...",
-      "link": "https://www.itworld.co.kr/article/4159930/ai-%ec%97%86%ec%9d%b4-%eb%b3%b4%eb%82%b8-%ec%9d%bc%ec%a3%bc%ec%9d%bc-%ec%98%a4%ed%9e%88%eb%a0%a4-%ec%a2%8b%ec%95%98%eb%8d%98-%ec%9d%b4%ec%9c%a0.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "뉴로클, 공식 홈페이지 리뉴얼 오픈… ‘딥러닝 비전검사’ 초격차 전략 가속",
-      "desc": "AI 딥러닝 비전검사 소프트웨어 기업 뉴로클(대표 이홍석)이 지난 7년간 축적해온 기술력과 산업 현장 경험을 바탕으로 공식 홈페이지를 전면 리뉴얼했다고 14일 밝혔다. 이번 리뉴얼은 뉴로클의 브랜드 정체성과 제품 전략을 재정립하는 리브랜딩의 일환으로 추진됐다.뉴로...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39622",
+      "title": "한-인도 경제 협력 ‘새로운 프레임워크’ 구축…AI·반도체·조선까지 전방위 확대",
+      "desc": "이재명 대통령은 20일(현지시간) 인도 뉴델리 하이데라바드 하우스에서 나렌드라 모디(Narendra Damodardas Modi) 인도 총리와 정상회담을 갖고 그 성과를 공동으로 발표했다.이번 이재명 대통령의 인도 국빈 방문은 단순한 외교 일정을 넘어, 한-인도 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39647",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "클루닉스, 차세대 AI 통합 플랫폼 ‘노바티어’ 공개… 인프라 효율 극대화",
-      "desc": "AI 인프라 및 고성능 컴퓨팅(HPC) 전문 기업 클루닉스(대표이사 서진우)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39621",
+      "title": "베이스스톤 박유신 대표, “AI기반 공격, 예측 불가능한 ‘양자엔트로피’로 막는다”",
+      "desc": "양자보안 전문기업 베이스스톤(Basestone, 대표 박유신)은 중앙대학교 보안대학원 교수진 및 산업계 최고 전문가들과 함께 인공지능 시대의 보안 패러다임을 새롭게 정의한 전략서 'AI 발전과 차세대 보안전략'을 공동 집필·출간했다.이번 도서는 AI 기술의 급격한...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39646",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "유니닥스, 전자문서 넘어 AI 데이터 자산화 솔루션 공개",
-      "desc": "인공지능 전자문서 전문 기업 유니닥스(대표 정기태)는 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)’에 참가한다....",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39620",
+      "title": "네이버, 印 최대 IT기업 타타 컨설팅 서비스와 전략 MOU… 인도에서 다양한 사업 기회 탐색 나선다",
+      "desc": "네이버(대표이사 최수연)가 인도 최대 기업집단 타타그룹의 IT 계열사인 타타 컨설턴시 서비스(Tata Consultancy Services Limited, 이하 TCS)와 업무협약(MOU)을 체결하고 전략적 파트너십을 구축했다.이번 업무협약식은 현지시간 20일, ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39645",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "솔트웨어, 생성형 AI 보안 솔루션 ‘사피가디언’ 공개… 데이터 유출 방지 주력",
-      "desc": "AI 클라우드 전문 기업 솔트웨어가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)’에 참가한다.이번 전시에서 AI...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39619",
+      "title": "美 국방부 블랙리스트에도…국가안보국, 앤트로픽 ‘미토스 AI’ 사용 논란 확산",
+      "desc": "미국 국가안보국(이하, NSA)이 美 국방부의 공급망 블랙리스트에 포함된 기술과 연관된 인공지능(AI)을 활용하고 있다는 사실이 알려지며 논란이 확산되고 있다. 문제의 중심에는 앤트로픽이 최근 공개한 차세대 인공지능 모델 ‘클로드 미토스(Claude Mythos ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39644",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "몬드리안에이아이, 네이버클라우드 마켓플레이스 입점… ‘B300 GPU’ 공급 확대",
-      "desc": "AI 인프라 및 기술 솔루션 전문 기업 몬드리안에이아이(대표이사 홍대의)가 자사의 고성능 AI 인프라 서비스 ‘런유어에이아이(Runyour AI)’를 네이버 클라우드 플랫폼 마켓플레이스에 공식 등록했다고 지난 15일 밝혔다.이번 입점은 단순한 클라우드 서비스 등록...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39618",
+      "title": "AI로 배터리 셀 생산 혁신 가속…BMW, 자그레브대와 공동 연구 성과 본격화",
+      "desc": "BMW 그룹이 크로아티아 자그레브 대학교(University of Zagreb)의 로봇 기술 지역 우수 센터(CRTA)와 협력해 인공지능(AI)을 활용한 배터리 셀 생산 혁신에 속도를 내고 있다. 양측은 공동 연구 프로젝트 ‘인사이트(Insight)’를 통해 배터...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39643",
       "source": "AI Times"
     }
   ]
