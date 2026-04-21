@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-04-20T23:50:29.557Z",
+  "lastUpdated": "2026-04-21T23:39:44.049Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "14년만의 CEO 교체…존 터너스 체제로 전환하는 애플",
+      "desc": "애플이 월요일, 2011년부터 회사를 이끌어 온 팀 쿡 CEO가 9월 1일부로 사임하고 후임으로 존 터너스가 선임된다고 발표했다. 쿡은 이사회 집행 의장을 맡게 된다.\n\n\n\n올해 65세인 쿡은 인수인계를 지원하기 위해 8월 말까지 CEO직을 유지한다. 애플은 이번...",
+      "link": "https://www.itworld.co.kr/article/4161146/14%eb%85%84%eb%a7%8c%ec%9d%98-ceo-%ea%b5%90%ec%b2%b4%ec%a1%b4-%ed%84%b0%eb%84%88%ec%8a%a4-%ec%b2%b4%ec%a0%9c%eb%a1%9c-%ec%a0%84%ed%99%98%ed%95%98%eb%8a%94-%ec%95%a0%ed%94%8c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "“프롬프트 교육만으론 안 돼” 기업과 직원의 ‘AI 레디’ 변화",
+      "desc": "지난 2년간 기업은 인력을 ‘AI 레디(AI-Ready)’ 상태로 만들기 위해 분주히 움직였다. 그러나 프롬프트 작성이나 챗봇 활용에 초점을 맞춘 초기 교육 프로그램 상당수는 실제 AI 기반 업무 환경에 적합하지 않다는 사실이 드러나고 있다.\n\n\n\n이유는 단순하다...",
+      "link": "https://www.itworld.co.kr/article/4161137/%ed%94%84%eb%a1%ac%ed%94%84%ed%8a%b8-%ea%b5%90%ec%9c%a1%eb%a7%8c%ec%9c%bc%eb%a1%a0-%ec%95%88-%eb%8f%bc-%ea%b8%b0%ec%97%85%ea%b3%bc-%ec%a7%81%ec%9b%90%ec%9d%98-ai-%eb%a0%88%eb%94%94-%eb%b3%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "RAM 가격 정상화는 언제쯤? ‘메모리 뉴 노멀’ 전망",
+      "desc": "2026년 IT 업계의 가장 큰 화제는 가격 상승이다. 더 넓게 보면 가장 큰 문제는 AI 그 자체이고 AI가 바로 가격 상승의 원인이다.\n\n\n\nAI 데이터센터는 메모리 생산 역량을 대거 흡수하고 있다. 이런 추세는 상당 기간 지속될 전망이며, 개인용 RAM과 스...",
+      "link": "https://www.itworld.co.kr/article/4161093/ram-%ea%b0%80%ea%b2%a9-%ec%a0%95%ec%83%81%ed%99%94%eb%8a%94-%ec%96%b8%ec%a0%9c%ec%af%a4-%eb%a9%94%eb%aa%a8%eb%a6%ac-%eb%89%b4-%eb%85%b8%eb%a9%80-%ec%a0%84%eb%a7%9d.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "오픈텍스트, SAP 파트너 어워드서 SAP 솔루션 확장·HCM 부문 수상",
+      "desc": "오픈텍스트(OpenText)가 SAP가 주관하는 ‘2026 SAP 글로벌 파트너 어워드’의 2개 부문에서 수상했다고 밝혔다.\n\n\n\nSAP 파트너 어워드는 한 해 동안 고객사의 비즈니스 혁신과 성과 창출에 기여한 글로벌 파트너를 선정하는 권위 있는 프로그램으로, 성...",
+      "link": "https://www.itworld.co.kr/article/4160653/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-sap-%ed%8c%8c%ed%8a%b8%eb%84%88-%ec%96%b4%ec%9b%8c%eb%93%9c%ec%84%9c-sap-%ec%86%94%eb%a3%a8%ec%85%98-%ed%99%95%ec%9e%a5%c2%b7hcm-%eb%b6%80%eb%ac%b8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "클라우드 기업이 복원력을 외면하면",
       "desc": "마이크로소프트 애저의 역사와 최근 심화되는 문제를 지적한 기사에서 수년 동안 업계 전반에 걸쳐 계속되고 있는 이야기를 확인할 수 있다. 클라우드 컴퓨팅이 단순한 유행어에서 디지털 인프라의 중추로까지 발전하면서 마이크로소프트, 아마존, 구글 등 주요 업체는 타협을 ...",
       "link": "https://www.itworld.co.kr/article/4161072/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ea%b8%b0%ec%97%85%ec%9d%b4-%eb%b3%b5%ec%9b%90%eb%a0%a5%ec%9d%84-%ec%99%b8%eb%a9%b4%ed%95%98%eb%a9%b4.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "크롬북의 가격과 서피스의 성능…그 틈을 파고든 맥북 네오의 ‘가격 기준선’",
-      "desc": "마이크로소프트는 지난주 서피스 제품군의 가격을 인상했다. 다른 PC 업체도 메모리, 스토리지, 인텔 프로세서 가격 상승으로 압박을 받고 있다. 그러나 애플은 일상적인 작업에 충분한 수준의 성능을 약속하는 맥북 네오를 발표하면서 그 반대 방향으로 나아가고 있다. 맥...",
-      "link": "https://www.itworld.co.kr/article/4160606/%ed%81%ac%eb%a1%ac%eb%b6%81%ec%9d%98-%ea%b0%80%ea%b2%a9%ea%b3%bc-%ec%84%9c%ed%94%bc%ec%8a%a4%ec%9d%98-%ec%84%b1%eb%8a%a5-%ea%b7%b8-%ed%8b%88%ec%9d%84-%ed%8c%8c%ea%b3%a0%eb%93%a0-%eb%a7%a5%eb%b6%81.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "챗GPT·클로드·제미나이와 나눈 대화, 법적 증거 될 수도",
-      "desc": "챗GPT, 클로드, 제미나이는 사람의 속마음을 털어놓을 수 있는 상대로 여기기 쉽다. 친근하고, 개성이 있고, 호기심이 넘치며, 때로는 친밀하기까지 하다. 그러나 챗봇에 공유한 비밀이 반드시 비공개로 유지된다는 보장은 없다. 특히 법원이 개입하면 더욱 그렇다.\n\n...",
-      "link": "https://www.itworld.co.kr/article/4160590/%ec%b1%97gpt%c2%b7%ed%81%b4%eb%a1%9c%eb%93%9c%c2%b7%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%ec%99%80-%eb%82%98%eb%88%88-%eb%8c%80%ed%99%94-%eb%b2%95%ec%a0%81-%ec%a6%9d%ea%b1%b0-%eb%90%a0-%ec%88%98.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "사이버 위협 탐지의 새 무기로 떠오른 AI, SOC 번아웃까지 잡는다",
-      "desc": "보안팀이 사이버 위협을 탐지하고 추적하는 방식이 AI로 빠르게 재편되고 있다. AI는 방대한 양의 보안 데이터를 분석하고 포착하기 어려운 악의적 활동 징후를 찾으며, 전통적인 툴이나 인간 애널리스트보다 더 빠르게 잠재적 공격을 식별할 수 있기 때문이다.\n\n\n\n가트...",
-      "link": "https://www.itworld.co.kr/article/4159967/%ec%82%ac%ec%9d%b4%eb%b2%84-%ec%9c%84%ed%98%91-%ed%83%90%ec%a7%80%ec%9d%98-%ec%83%88-%eb%ac%b4%ea%b8%b0%eb%a1%9c-%eb%96%a0%ec%98%a4%eb%a5%b8-ai-soc-%eb%b2%88%ec%95%84%ec%9b%83%ea%b9%8c%ec%a7%80.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "윈도우 리콜 보안 개편에도 데이터 탈취 가능…연구자 ‘설계 결함’ 지적",
-      "desc": "한 보안 연구자가 대대적인 보안 개편에도 불구하고 마이크로소프트의 윈도우 리콜 기능이 완전한 데이터 탈취에 취약한 상태라고 주장했다. 사용자 컨텍스트에서 실행되는 악성코드가 관리자 권한, 커널 취약점 공격, 암호화 해독 없이도 리콜이 캡처한 모든 데이터를 조용히 ...",
-      "link": "https://www.itworld.co.kr/article/4159953/%ec%9c%88%eb%8f%84%ec%9a%b0-%eb%a6%ac%ec%bd%9c-%eb%b3%b4%ec%95%88-%ea%b0%9c%ed%8e%b8%ec%97%90%eb%8f%84-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%83%88%ec%b7%a8-%ea%b0%80%eb%8a%a5%ec%97%b0%ea%b5%ac.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "한-인도 경제 협력 ‘새로운 프레임워크’ 구축…AI·반도체·조선까지 전방위 확대",
-      "desc": "이재명 대통령은 20일(현지시간) 인도 뉴델리 하이데라바드 하우스에서 나렌드라 모디(Narendra Damodardas Modi) 인도 총리와 정상회담을 갖고 그 성과를 공동으로 발표했다.이번 이재명 대통령의 인도 국빈 방문은 단순한 외교 일정을 넘어, 한-인도 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39647",
+      "title": "UNIST 성락경 교수, 끈이론 비섭동 난제에 머신러닝 도입...2026 한국물리학회 백천물리학상 수상",
+      "desc": "UNIST(총장 박종래) 수리과학과 성락경 교수가 22일 한국물리학회가 수여하는 ‘2026년 백천물리학상’을 수상했다.성 교수는 양자장론과 끈이론에서 기존 계산만으로 풀기 어려운 비섭동(non-perturbative) 현상에 인공지능(AI) 머신러닝을 적용해 국내...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39676",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "베이스스톤 박유신 대표, “AI기반 공격, 예측 불가능한 ‘양자엔트로피’로 막는다”",
-      "desc": "양자보안 전문기업 베이스스톤(Basestone, 대표 박유신)은 중앙대학교 보안대학원 교수진 및 산업계 최고 전문가들과 함께 인공지능 시대의 보안 패러다임을 새롭게 정의한 전략서 'AI 발전과 차세대 보안전략'을 공동 집필·출간했다.이번 도서는 AI 기술의 급격한...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39646",
+      "title": "애플, AI·반도체 경쟁력 강화…실리콘 설계 핵심, ‘조니 스루지’ 최고 하드웨어 책임자 선임",
+      "desc": "애플(Apple)은 20릴(현지시간) 리더십 개편과 함께 조니 스루지(Johny Srouji)를 최고 하드웨어 책임자(Chief Hardware Officer)로 임명하며, 차세대 반도체 및 하드웨어 전략 강화에도 속도를 낸다.팀 쿡(Tim Cook) CEO는 “...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39675",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "네이버, 印 최대 IT기업 타타 컨설팅 서비스와 전략 MOU… 인도에서 다양한 사업 기회 탐색 나선다",
-      "desc": "네이버(대표이사 최수연)가 인도 최대 기업집단 타타그룹의 IT 계열사인 타타 컨설턴시 서비스(Tata Consultancy Services Limited, 이하 TCS)와 업무협약(MOU)을 체결하고 전략적 파트너십을 구축했다.이번 업무협약식은 현지시간 20일, ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39645",
+      "title": "\"팀 쿡 시대 막 내린다\"…애플, 존 터너스 CEO 체제로 ‘AI·하드웨어 혁신 2막’ 개막",
+      "desc": "애플(Apple)이 약 15년간 회사를 이끌어온 팀 쿡(Tim Cook) 최고경영자(CEO)를 이사회 의장으로 승진시키고, 존 터너스(John Ternus) 하드웨어 엔지니어링 총괄을 차기 CEO로 선임하는 대규모 리더십 전환을 단행한다.애플은 20일(현지시간) ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39674",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "美 국방부 블랙리스트에도…국가안보국, 앤트로픽 ‘미토스 AI’ 사용 논란 확산",
-      "desc": "미국 국가안보국(이하, NSA)이 美 국방부의 공급망 블랙리스트에 포함된 기술과 연관된 인공지능(AI)을 활용하고 있다는 사실이 알려지며 논란이 확산되고 있다. 문제의 중심에는 앤트로픽이 최근 공개한 차세대 인공지능 모델 ‘클로드 미토스(Claude Mythos ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39644",
+      "title": "안두릴, HD현대와 ‘자율 수상함’ 본격 생산…미 해군 AI 전력 재편 가속",
+      "desc": "미국 방산 인공지능 기업 안두릴(Anduril)이 HD현대와 협력해 자율 수상함( Autonomous Surface Vessel, ASV) 생산에 본격 착수하며, 미 해군의 AI 기반 해양 전력 전환이 속도를 내고 있다.안두릴은 20일(현지시간) 발표를 통해 HD...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39673",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "AI로 배터리 셀 생산 혁신 가속…BMW, 자그레브대와 공동 연구 성과 본격화",
-      "desc": "BMW 그룹이 크로아티아 자그레브 대학교(University of Zagreb)의 로봇 기술 지역 우수 센터(CRTA)와 협력해 인공지능(AI)을 활용한 배터리 셀 생산 혁신에 속도를 내고 있다. 양측은 공동 연구 프로젝트 ‘인사이트(Insight)’를 통해 배터...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39643",
+      "title": "아마존·앤트로픽, 10년간 1000억 달러 AI 동맹…“트레이니움으로 패권 경쟁 가속”",
+      "desc": "아마존(Amazon)과 앤트로픽(Anthropic)이 생성형 AI 시장 주도권 확보를 위해 초대형 협력에 나섰다.양사는 향후 10년간 1,000억 달러(약 146조 원) 이상을 아마존웹서비스(Amazon Web Services, AWS) 인프라에 투입하고, 최대 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39672",
       "source": "AI Times"
     }
   ]
