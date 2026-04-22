@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-04-21T23:39:44.049Z",
+  "lastUpdated": "2026-04-22T23:51:01.734Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "존 터너스 체제의 애플, 플랫폼은 더욱 확장될 것이다",
+      "desc": "애플에 새로운 ‘iCEO’가 등장했다. 이번주 월요일 애플은 현 CEO인 팀 쿡이 이사회 의장으로 물러나고 현재 하드웨어 엔지니어링 책임자인 존 터너스가 9월 1일부터 CEO를 맡게 된다고 발표했다.\n\n\n\n세계에서 가장 성공한 기업에서 오랜만에 일어난 리더십 교체...",
+      "link": "https://www.itworld.co.kr/article/4161777/%ec%a1%b4-%ed%84%b0%eb%84%88%ec%8a%a4-%ec%b2%b4%ec%a0%9c%ec%9d%98-%ec%95%a0%ed%94%8c-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9d%80-%eb%8d%94%ec%9a%b1-%ed%99%95%ec%9e%a5%eb%90%a0-%ea%b2%83%ec%9d%b4%eb%8b%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "코스믹 오렌지를 잇는 아이폰 18 프로 전용 새 색상은 ‘다크 체리’",
+      "desc": "다시 아이폰 유출 시즌이 돌아왔다. 아이폰 18 프로와 18 프로 맥스, 아이폰 울트라라는 이름이 붙는다는 소문이 있는 폴더블 아이폰까지 3가지 신제품이 공개되기까지 몇 개월 남지 않았다. 그러나 언제나 그렇듯 사용자에게 가장 중요한 질문은 “어떤 색상이 출시될까...",
+      "link": "https://www.itworld.co.kr/article/4161768/%ec%bd%94%ec%8a%a4%eb%af%b9-%ec%98%a4%eb%a0%8c%ec%a7%80%eb%a5%bc-%ec%9e%87%eb%8a%94-%ec%95%84%ec%9d%b4%ed%8f%b0-18-%ed%94%84%eb%a1%9c-%ec%a0%84%ec%9a%a9-%ec%83%88-%ec%83%89%ec%83%81%ec%9d%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "“AI 요약에 지쳤다면” 더 ‘사람 같은’ 검색은 구글보다 빙",
+      "desc": "많은 사용자가 AI를 싫어한다고 하지만, 검색 엔진이 검색의 첫 관문에 AI를 배치한 후 기술 매체의 트래픽은 급감했다. 많은 사람이 질문에 대한 답을 얻기 위해 챗GPT나 클로드를 찾고, 이런 검색 방식으로 시간을 더 효율적으로 쓸 수 있다고 주장한다.\n\n\n\n그...",
+      "link": "https://www.itworld.co.kr/article/4161679/ai-%ec%9a%94%ec%95%bd%ec%97%90-%ec%a7%80%ec%b3%a4%eb%8b%a4%eb%a9%b4-%eb%8d%94-%ec%82%ac%eb%9e%8c-%ea%b0%99%ec%9d%80-%ea%b2%80%ec%83%89%ec%9d%80-%ea%b5%ac%ea%b8%80%eb%b3%b4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "14년만의 CEO 교체…존 터너스 체제로 전환하는 애플",
       "desc": "애플이 월요일, 2011년부터 회사를 이끌어 온 팀 쿡 CEO가 9월 1일부로 사임하고 후임으로 존 터너스가 선임된다고 발표했다. 쿡은 이사회 집행 의장을 맡게 된다.\n\n\n\n올해 65세인 쿡은 인수인계를 지원하기 위해 8월 말까지 CEO직을 유지한다. 애플은 이번...",
       "link": "https://www.itworld.co.kr/article/4161146/14%eb%85%84%eb%a7%8c%ec%9d%98-ceo-%ea%b5%90%ec%b2%b4%ec%a1%b4-%ed%84%b0%eb%84%88%ec%8a%a4-%ec%b2%b4%ec%a0%9c%eb%a1%9c-%ec%a0%84%ed%99%98%ed%95%98%eb%8a%94-%ec%95%a0%ed%94%8c.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "“프롬프트 교육만으론 안 돼” 기업과 직원의 ‘AI 레디’ 변화",
       "desc": "지난 2년간 기업은 인력을 ‘AI 레디(AI-Ready)’ 상태로 만들기 위해 분주히 움직였다. 그러나 프롬프트 작성이나 챗봇 활용에 초점을 맞춘 초기 교육 프로그램 상당수는 실제 AI 기반 업무 환경에 적합하지 않다는 사실이 드러나고 있다.\n\n\n\n이유는 단순하다...",
       "link": "https://www.itworld.co.kr/article/4161137/%ed%94%84%eb%a1%ac%ed%94%84%ed%8a%b8-%ea%b5%90%ec%9c%a1%eb%a7%8c%ec%9c%bc%eb%a1%a0-%ec%95%88-%eb%8f%bc-%ea%b8%b0%ec%97%85%ea%b3%bc-%ec%a7%81%ec%9b%90%ec%9d%98-ai-%eb%a0%88%eb%94%94-%eb%b3%80.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "RAM 가격 정상화는 언제쯤? ‘메모리 뉴 노멀’ 전망",
-      "desc": "2026년 IT 업계의 가장 큰 화제는 가격 상승이다. 더 넓게 보면 가장 큰 문제는 AI 그 자체이고 AI가 바로 가격 상승의 원인이다.\n\n\n\nAI 데이터센터는 메모리 생산 역량을 대거 흡수하고 있다. 이런 추세는 상당 기간 지속될 전망이며, 개인용 RAM과 스...",
-      "link": "https://www.itworld.co.kr/article/4161093/ram-%ea%b0%80%ea%b2%a9-%ec%a0%95%ec%83%81%ed%99%94%eb%8a%94-%ec%96%b8%ec%a0%9c%ec%af%a4-%eb%a9%94%eb%aa%a8%eb%a6%ac-%eb%89%b4-%eb%85%b8%eb%a9%80-%ec%a0%84%eb%a7%9d.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "오픈텍스트, SAP 파트너 어워드서 SAP 솔루션 확장·HCM 부문 수상",
-      "desc": "오픈텍스트(OpenText)가 SAP가 주관하는 ‘2026 SAP 글로벌 파트너 어워드’의 2개 부문에서 수상했다고 밝혔다.\n\n\n\nSAP 파트너 어워드는 한 해 동안 고객사의 비즈니스 혁신과 성과 창출에 기여한 글로벌 파트너를 선정하는 권위 있는 프로그램으로, 성...",
-      "link": "https://www.itworld.co.kr/article/4160653/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-sap-%ed%8c%8c%ed%8a%b8%eb%84%88-%ec%96%b4%ec%9b%8c%eb%93%9c%ec%84%9c-sap-%ec%86%94%eb%a3%a8%ec%85%98-%ed%99%95%ec%9e%a5%c2%b7hcm-%eb%b6%80%eb%ac%b8.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "클라우드 기업이 복원력을 외면하면",
-      "desc": "마이크로소프트 애저의 역사와 최근 심화되는 문제를 지적한 기사에서 수년 동안 업계 전반에 걸쳐 계속되고 있는 이야기를 확인할 수 있다. 클라우드 컴퓨팅이 단순한 유행어에서 디지털 인프라의 중추로까지 발전하면서 마이크로소프트, 아마존, 구글 등 주요 업체는 타협을 ...",
-      "link": "https://www.itworld.co.kr/article/4161072/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ea%b8%b0%ec%97%85%ec%9d%b4-%eb%b3%b5%ec%9b%90%eb%a0%a5%ec%9d%84-%ec%99%b8%eb%a9%b4%ed%95%98%eb%a9%b4.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "UNIST 성락경 교수, 끈이론 비섭동 난제에 머신러닝 도입...2026 한국물리학회 백천물리학상 수상",
-      "desc": "UNIST(총장 박종래) 수리과학과 성락경 교수가 22일 한국물리학회가 수여하는 ‘2026년 백천물리학상’을 수상했다.성 교수는 양자장론과 끈이론에서 기존 계산만으로 풀기 어려운 비섭동(non-perturbative) 현상에 인공지능(AI) 머신러닝을 적용해 국내...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39676",
+      "title": "구글, 8세대 TPU ‘TPU 8t·8i’ 전격 공개…에이전틱 AI 시대 겨냥한 초고성능 인프라 제시",
+      "desc": "구글이 에이전틱 AI(Agentic AI) 시대를 겨냥한 차세대 반도체를 공개하며 인공지능(AI) 인프라 경쟁력 강화에 나섰다.구글은 22일(현지시간), ‘구글 클라우드 넥스트(Google Cloud Next)’ 행사에서 8세대 텐서처리장치(Tensor Proce...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39702",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "애플, AI·반도체 경쟁력 강화…실리콘 설계 핵심, ‘조니 스루지’ 최고 하드웨어 책임자 선임",
-      "desc": "애플(Apple)은 20릴(현지시간) 리더십 개편과 함께 조니 스루지(Johny Srouji)를 최고 하드웨어 책임자(Chief Hardware Officer)로 임명하며, 차세대 반도체 및 하드웨어 전략 강화에도 속도를 낸다.팀 쿡(Tim Cook) CEO는 “...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39675",
+      "title": "구글 '버텍스 AI'의 진화, ‘제미나이 엔터프라이즈 에이전트 플랫폼’ 출시… 개발·확장·통제·최적화 통합 플랫폼, 기업 AI 전환 가속",
+      "desc": "구글이 에이전틱 AI(Agentic AI) 시대를 겨냥한 통합 플랫폼을 공개하며 기업용 AI 시장 주도권 강화에 나섰다.구글은 22일(현지시간) ‘제미나이 엔터프라이즈 에이전트 플랫폼(Gemini Enterprise Agent Platform)’을 공식 발표하고,...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39701",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "\"팀 쿡 시대 막 내린다\"…애플, 존 터너스 CEO 체제로 ‘AI·하드웨어 혁신 2막’ 개막",
-      "desc": "애플(Apple)이 약 15년간 회사를 이끌어온 팀 쿡(Tim Cook) 최고경영자(CEO)를 이사회 의장으로 승진시키고, 존 터너스(John Ternus) 하드웨어 엔지니어링 총괄을 차기 CEO로 선임하는 대규모 리더십 전환을 단행한다.애플은 20일(현지시간) ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39674",
+      "title": "구글, 스티치 핵심 포맷 ‘DESIGN md’ 오픈소스로 공개…AI 기반 UI 디자인 표준화 나선다",
+      "desc": "구글은 디자인 시스템을 보다 구조적으로 활용할 수 있도록 하기 위해 자사의 디자인 시스템 플랫폼 '스티치(Stitch)'에서 활용되던 핵심 포맷 ‘DESIGN.md’를 21일(현지시간) 오픈소스로 공개했다. 이 포맷은 기존 디자인 작업에서 반복적으로 정의해야 했던...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39698",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "안두릴, HD현대와 ‘자율 수상함’ 본격 생산…미 해군 AI 전력 재편 가속",
-      "desc": "미국 방산 인공지능 기업 안두릴(Anduril)이 HD현대와 협력해 자율 수상함( Autonomous Surface Vessel, ASV) 생산에 본격 착수하며, 미 해군의 AI 기반 해양 전력 전환이 속도를 내고 있다.안두릴은 20일(현지시간) 발표를 통해 HD...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39673",
+      "title": "댄 자비스 英  안보장관 “AI 기업, 정부와 협력해야”…사이버 안보 ‘세대적 과제’ 선언",
+      "desc": "영국 정부가 인공지능(AI) 시대 사이버 위협 대응을 위해 민관 협력을 대폭 강화한다.영국 댄 자비스(Dan Jarvis) 안보(Minister of State for Security)장관은 22일(현지시간) 영국 국가사이버보안센터(NCSC)가 주관하는 'CYBE...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39697",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "아마존·앤트로픽, 10년간 1000억 달러 AI 동맹…“트레이니움으로 패권 경쟁 가속”",
-      "desc": "아마존(Amazon)과 앤트로픽(Anthropic)이 생성형 AI 시장 주도권 확보를 위해 초대형 협력에 나섰다.양사는 향후 10년간 1,000억 달러(약 146조 원) 이상을 아마존웹서비스(Amazon Web Services, AWS) 인프라에 투입하고, 최대 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39672",
+      "title": "세계 최대 AI 칩 '세레브라스' 나스닥 입성 가시화...증권신고서 제출, IPO 본격 추진",
+      "desc": "미국 인공지능(AI) 반도체 스타트업 세레브라스 시스템즈(Cerebras Systems)가 미국 증권거래위원회(SEC)에 기업공개(IPO)를 위한 증권신고서(Form S-1)를 제출하며 상장 절차에 공식 착수했다.세레브라스는 자사 클래스A 보통주 상장을 추진한다고...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39696",
       "source": "AI Times"
     }
   ]
