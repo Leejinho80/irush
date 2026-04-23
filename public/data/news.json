@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-04-22T23:51:01.734Z",
+  "lastUpdated": "2026-04-23T23:52:53.590Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "존 터너스 체제의 애플, 플랫폼은 더욱 확장될 것이다",
-      "desc": "애플에 새로운 ‘iCEO’가 등장했다. 이번주 월요일 애플은 현 CEO인 팀 쿡이 이사회 의장으로 물러나고 현재 하드웨어 엔지니어링 책임자인 존 터너스가 9월 1일부터 CEO를 맡게 된다고 발표했다.\n\n\n\n세계에서 가장 성공한 기업에서 오랜만에 일어난 리더십 교체...",
-      "link": "https://www.itworld.co.kr/article/4161777/%ec%a1%b4-%ed%84%b0%eb%84%88%ec%8a%a4-%ec%b2%b4%ec%a0%9c%ec%9d%98-%ec%95%a0%ed%94%8c-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9d%80-%eb%8d%94%ec%9a%b1-%ed%99%95%ec%9e%a5%eb%90%a0-%ea%b2%83%ec%9d%b4%eb%8b%a4.html",
+      "title": "클로드 코드 제외되나…앤트로픽 테스트가 드러낸 개인용 AI 요금제의 한계",
+      "desc": "정액형 AI 요금제가 한계에 다다랐다는 기사를 쓴 직후 클로드를 개발한 앤트로픽에서 직접 중요한 신호가 발신됐다.\n\n\n\n일부 클로드 사용자가 앤트로픽이 개인용 클로드 프로와 맥스 요금제 가입 페이지 수정을 포착했다. 특히 클로드 프로가 제공하는 기능 목록에서 클로...",
+      "link": "https://www.itworld.co.kr/article/4162231/%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%a0%9c%ec%99%b8%eb%90%98%eb%82%98-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%85%8c%ec%8a%a4%ed%8a%b8%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%ea%b0%9c.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "코스믹 오렌지를 잇는 아이폰 18 프로 전용 새 색상은 ‘다크 체리’",
-      "desc": "다시 아이폰 유출 시즌이 돌아왔다. 아이폰 18 프로와 18 프로 맥스, 아이폰 울트라라는 이름이 붙는다는 소문이 있는 폴더블 아이폰까지 3가지 신제품이 공개되기까지 몇 개월 남지 않았다. 그러나 언제나 그렇듯 사용자에게 가장 중요한 질문은 “어떤 색상이 출시될까...",
-      "link": "https://www.itworld.co.kr/article/4161768/%ec%bd%94%ec%8a%a4%eb%af%b9-%ec%98%a4%eb%a0%8c%ec%a7%80%eb%a5%bc-%ec%9e%87%eb%8a%94-%ec%95%84%ec%9d%b4%ed%8f%b0-18-%ed%94%84%eb%a1%9c-%ec%a0%84%ec%9a%a9-%ec%83%88-%ec%83%89%ec%83%81%ec%9d%80.html",
+      "title": "아마존의 50억 달러 앤트로픽 투자, 핵심은 ‘현금’이 아니라 ‘컴퓨트’",
+      "desc": "아마존이 월요일, 앤트로픽에 50억 달러를 추가 투자한다고 밝혔다. 여러 애널리스트는 이번 결정이 양사 간 전략적 파트너십 강화뿐 아니라, AI 신생업체가 직면한 인프라 병목을 완화하려는 목적도 크다고 보고 있다.\n\n\n\n공동 발표에 따르면, 앤트로픽은 AWS의 트...",
+      "link": "https://www.itworld.co.kr/article/4161802/%ec%95%84%eb%a7%88%ec%a1%b4%ec%9d%98-50%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%88%ac%ec%9e%90-%ed%95%b5%ec%8b%ac%ec%9d%80-%ed%98%84%ea%b8%88%ec%9d%b4.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "“AI 요약에 지쳤다면” 더 ‘사람 같은’ 검색은 구글보다 빙",
-      "desc": "많은 사용자가 AI를 싫어한다고 하지만, 검색 엔진이 검색의 첫 관문에 AI를 배치한 후 기술 매체의 트래픽은 급감했다. 많은 사람이 질문에 대한 답을 얻기 위해 챗GPT나 클로드를 찾고, 이런 검색 방식으로 시간을 더 효율적으로 쓸 수 있다고 주장한다.\n\n\n\n그...",
-      "link": "https://www.itworld.co.kr/article/4161679/ai-%ec%9a%94%ec%95%bd%ec%97%90-%ec%a7%80%ec%b3%a4%eb%8b%a4%eb%a9%b4-%eb%8d%94-%ec%82%ac%eb%9e%8c-%ea%b0%99%ec%9d%80-%ea%b2%80%ec%83%89%ec%9d%80-%ea%b5%ac%ea%b8%80%eb%b3%b4.html",
+      "title": "‘콜 오브 듀티’ 빼고 요금 낮춘 게임 패스, 엑스박스 회생 전략의 다음 수는?",
+      "desc": "엑스박스 게임 패스는 원래 게임 플레이에서 가격 대비 성능을 원하는 게이머들에게 한 줄기 희망이었다. AAA 타이틀과 인디 게임이 모두 들어 있는 방대한 라이브러리를 스트리밍까지 무제한으로 저렴하게 사용할 수 있는 뷔페 같은 서비스였다. 그러나 ‘저렴하다’는 전제...",
+      "link": "https://www.itworld.co.kr/article/4162266/%ec%bd%9c-%ec%98%a4%eb%b8%8c-%eb%93%80%ed%8b%b0-%eb%b9%bc%ea%b3%a0-%ec%9a%94%ea%b8%88-%eb%82%ae%ec%b6%98-%ea%b2%8c%ec%9e%84-%ed%8c%a8%ec%8a%a4-%ec%97%91%ec%8a%a4%eb%b0%95%ec%8a%a4-%ed%9a%8c.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "14년만의 CEO 교체…존 터너스 체제로 전환하는 애플",
-      "desc": "애플이 월요일, 2011년부터 회사를 이끌어 온 팀 쿡 CEO가 9월 1일부로 사임하고 후임으로 존 터너스가 선임된다고 발표했다. 쿡은 이사회 집행 의장을 맡게 된다.\n\n\n\n올해 65세인 쿡은 인수인계를 지원하기 위해 8월 말까지 CEO직을 유지한다. 애플은 이번...",
-      "link": "https://www.itworld.co.kr/article/4161146/14%eb%85%84%eb%a7%8c%ec%9d%98-ceo-%ea%b5%90%ec%b2%b4%ec%a1%b4-%ed%84%b0%eb%84%88%ec%8a%a4-%ec%b2%b4%ec%a0%9c%eb%a1%9c-%ec%a0%84%ed%99%98%ed%95%98%eb%8a%94-%ec%95%a0%ed%94%8c.html",
+      "title": "‘과잉 설계의 역설’ 왜 엔터프라이즈는 쿠버네티스를 재고하는가",
+      "desc": "수년간 쿠버네티스는 엔터프라이즈 IT에서 거의 신화적인 지위를 누렸다. 미래의 컨트롤 플레인, 클라우드 네이티브 시스템의 표준 추상화, 인프라 종속에서 기업을 해방시켜 줄 플랫폼으로 포지셔닝됐다. 실제로 일부는 사실이었다. 쿠버네티스는 컨테이너 오케스트레이션에 질...",
+      "link": "https://www.itworld.co.kr/article/4162249/%ea%b3%bc%ec%9e%89-%ec%84%a4%ea%b3%84%ec%9d%98-%ec%97%ad%ec%84%a4-%ec%99%9c-%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4%ec%a6%88%eb%8a%94-%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4%eb%a5%bc.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "“프롬프트 교육만으론 안 돼” 기업과 직원의 ‘AI 레디’ 변화",
-      "desc": "지난 2년간 기업은 인력을 ‘AI 레디(AI-Ready)’ 상태로 만들기 위해 분주히 움직였다. 그러나 프롬프트 작성이나 챗봇 활용에 초점을 맞춘 초기 교육 프로그램 상당수는 실제 AI 기반 업무 환경에 적합하지 않다는 사실이 드러나고 있다.\n\n\n\n이유는 단순하다...",
-      "link": "https://www.itworld.co.kr/article/4161137/%ed%94%84%eb%a1%ac%ed%94%84%ed%8a%b8-%ea%b5%90%ec%9c%a1%eb%a7%8c%ec%9c%bc%eb%a1%a0-%ec%95%88-%eb%8f%bc-%ea%b8%b0%ec%97%85%ea%b3%bc-%ec%a7%81%ec%9b%90%ec%9d%98-ai-%eb%a0%88%eb%94%94-%eb%b3%80.html",
+      "title": "“AI가 업무를, 직원은 감독을” 메타의 MCI 실험이 던진 거버넌스 과제",
+      "desc": "메타가 직원의 마우스 움직임, 클릭, 키 입력, 화면 활동을 추적해 업무용 AI 에이전트를 학습시키려는 계획을 세운 것으로 전해졌다. 이데이터는 AI 에이전트가 소프트웨어를 탐색하고 실제 업무를 수행하는 능력을 개선하는 데 사용될 예정이지만, 동시에 거버넌스와 직...",
+      "link": "https://www.itworld.co.kr/article/4162242/ai%ea%b0%80-%ec%97%85%eb%ac%b4%eb%a5%bc-%ec%a7%81%ec%9b%90%ec%9d%80-%ea%b0%90%eb%8f%85%ec%9d%84-%eb%a9%94%ed%83%80%ec%9d%98-mci-%ec%8b%a4%ed%97%98%ec%9d%b4-%eb%8d%98%ec%a7%84.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "구글, 8세대 TPU ‘TPU 8t·8i’ 전격 공개…에이전틱 AI 시대 겨냥한 초고성능 인프라 제시",
-      "desc": "구글이 에이전틱 AI(Agentic AI) 시대를 겨냥한 차세대 반도체를 공개하며 인공지능(AI) 인프라 경쟁력 강화에 나섰다.구글은 22일(현지시간), ‘구글 클라우드 넥스트(Google Cloud Next)’ 행사에서 8세대 텐서처리장치(Tensor Proce...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39702",
+      "title": "노타, 엔비디아 ‘네모트론 해커톤’ 종합 우승… 합성 데이터 기반 MoE 양자화 기술력 입증",
+      "desc": "인공지능(AI) 모델 경량화 및 최적화 기술 기업 노타(대표 채명수)가 엔비디아 네모트론 해커톤(NVIDIA Nemotron Hackathon)에서 MoE(Mixture of Experts) 양자화에 특화된 합성 데이터 생성 기술로 Track C 1위를 차지하고,...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39724",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "구글 '버텍스 AI'의 진화, ‘제미나이 엔터프라이즈 에이전트 플랫폼’ 출시… 개발·확장·통제·최적화 통합 플랫폼, 기업 AI 전환 가속",
-      "desc": "구글이 에이전틱 AI(Agentic AI) 시대를 겨냥한 통합 플랫폼을 공개하며 기업용 AI 시장 주도권 강화에 나섰다.구글은 22일(현지시간) ‘제미나이 엔터프라이즈 에이전트 플랫폼(Gemini Enterprise Agent Platform)’을 공식 발표하고,...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39701",
+      "title": "사우디 디지털 인프라 수요 잡는다...네이버클라우드-한미글로벌, 사우디 데이터센터 사업 연합",
+      "desc": "네이버클라우드(대표 김유원)와 한미글로벌(회장 김종훈)이 지난 22일 사우디아라비아를 포함한 글로벌 대규모 데이터센터 사업의 공동 참여를 위한 전략적 업무 협약을 체결했다고 24일 밝혔다.이번 협약은 양사의 핵심 역량을 결합해 사우디를 포함한 중동 및 해외 데이터...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39723",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "구글, 스티치 핵심 포맷 ‘DESIGN md’ 오픈소스로 공개…AI 기반 UI 디자인 표준화 나선다",
-      "desc": "구글은 디자인 시스템을 보다 구조적으로 활용할 수 있도록 하기 위해 자사의 디자인 시스템 플랫폼 '스티치(Stitch)'에서 활용되던 핵심 포맷 ‘DESIGN.md’를 21일(현지시간) 오픈소스로 공개했다. 이 포맷은 기존 디자인 작업에서 반복적으로 정의해야 했던...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39698",
+      "title": "GPU 의존성 타파하는 ‘넘프(NUMP)’, 온프레미스 추론·이기종 AI 인프라로 산업 생태계 재편",
+      "desc": "인공지능(AI) 시대, 고가의 그래픽 처리 장치(GPU) 장비와 전문 인력 부족이라는 현실적 장벽은 여전히 많은 지역 산업과 중소기업의 AI 도입을 가로막고 있다. 이러한 상황에서 시스템 통합 및 AI 최적화 전문 기업 넘프(NUMP)가 ‘온프레미스(On-Prem...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39722",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "댄 자비스 英  안보장관 “AI 기업, 정부와 협력해야”…사이버 안보 ‘세대적 과제’ 선언",
-      "desc": "영국 정부가 인공지능(AI) 시대 사이버 위협 대응을 위해 민관 협력을 대폭 강화한다.영국 댄 자비스(Dan Jarvis) 안보(Minister of State for Security)장관은 22일(현지시간) 영국 국가사이버보안센터(NCSC)가 주관하는 'CYBE...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39697",
+      "title": "마이크로소프트, 호주에 26조원 ‘AI 풀스택’ 투자…인프라·보안·인재까지 국가 단위 전략 가속",
+      "desc": "마이크로소프트(Microsoft)가 호주(Australia)의 인공지능(AI) 경쟁력 강화와 국가 안보를 위해 사상 최대 규모인 250억 호주달러(약 26조 억원)를 투입한다.이는 마이크로소프트가 호주에 진출한 이래 단행하는 최대 규모의 단일 기업 투자로, 202...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39719",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "세계 최대 AI 칩 '세레브라스' 나스닥 입성 가시화...증권신고서 제출, IPO 본격 추진",
-      "desc": "미국 인공지능(AI) 반도체 스타트업 세레브라스 시스템즈(Cerebras Systems)가 미국 증권거래위원회(SEC)에 기업공개(IPO)를 위한 증권신고서(Form S-1)를 제출하며 상장 절차에 공식 착수했다.세레브라스는 자사 클래스A 보통주 상장을 추진한다고...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39696",
+      "title": "알리바바, ‘큐웬 앱’ 외부 첫 개방…AI가 항공 예약부터 이동까지 ‘원스톱 처리’",
+      "desc": "알리바바가 자사의 AI 애플리케이션인 큐웬(Qwen) 앱 기반으로 한 인공지능 서비스 확장에 본격 나섰다.알리바바는 23일(현지시간) 큐웬 앱의 핵심 기능인 ‘AI 업무 처리(Agentic Service)’ 역량을 처음으로 외부 파트너에 개방하고, 중국동방항공 (...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39717",
       "source": "AI Times"
     }
   ]
