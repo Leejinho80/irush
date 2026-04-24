@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-04-23T23:52:53.590Z",
+  "lastUpdated": "2026-04-24T23:45:48.517Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "구글 에이전트 개발 키트 사용기",
+      "desc": "구글 에이전트 개발 키트(ADK)는 AI 에이전트를 개발하고 배포하기 위한 유연하고 모듈화된 오픈소스 프레임워크다. 제미나이와 구글 생태계에 맞춰 최적화됐지만 모델과 배포 환경 모두 무엇을 사용하든 가리지 않으며, 다른 프레임워크와의 호환성도 고려해 만들어졌다. ...",
+      "link": "https://www.itworld.co.kr/article/4161784/%ea%b5%ac%ea%b8%80-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ea%b0%9c%eb%b0%9c-%ed%82%a4%ed%8a%b8-%ec%82%ac%ec%9a%a9%ea%b8%b0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "예측 불가능한 소비자 여정, AI가 돕는다…크리테오, 에이전틱 AI 활용 전략 제안",
+      "desc": "글로벌 커머스 인텔리전스 플랫폼 크리테오가 서울 강남구 코엑스에서 열린 ‘크리테오 커머스 포럼 2026’에서 에이전틱 AI를 중심으로 한 AI 기반 커머스 전략을 공개했다. ‘The Next Chapter: Commerce Intelligence’를 주제로 열린 ...",
+      "link": "https://www.itworld.co.kr/article/4162912/%ec%98%88%ec%b8%a1-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%86%8c%eb%b9%84%ec%9e%90-%ec%97%ac%ec%a0%95-ai%ea%b0%80-%eb%8f%95%eb%8a%94%eb%8b%a4%ed%81%ac%eb%a6%ac%ed%85%8c%ec%98%a4-%ec%97%90.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "AI 확장의 숨은 걸림돌 ‘GPU 비용’ 해결책…데이터독 GPU 모니터링 출시",
+      "desc": "AI 기반 옵저버빌리티와 보안 플랫폼 전문 업체 데이터독(Datadog, Inc.)이 계속 증가하는 AI 비용을 확장 가능하고 효과적으로 관리하려는 기업의 핵심 과제를 해결할 방안으로 GPU 모니터링을 정식 출시했다.\n\n\n\n데이터독 CPO 얀빙 리는 전체 컴퓨팅 ...",
+      "link": "https://www.itworld.co.kr/article/4162923/ai-%ed%99%95%ec%9e%a5%ec%9d%98-%ec%88%a8%ec%9d%80-%ea%b1%b8%eb%a6%bc%eb%8f%8c-gpu-%eb%b9%84%ec%9a%a9-%ed%95%b4%ea%b2%b0%ec%b1%85-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8f%85-gpu-%eb%aa%a8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "실패하는 파일럿 Vs. 성공하는 에이전틱 시스템",
+      "desc": "에이전트 중심 개발에는 비결정성, 토큰 비대화 같은 함정을 피하기 위해 새로운 형태의 시스템 사고가 필요하다. 또한 모델이 목표를 달성하기 위해 거짓말을 하거나 정보를 임의로 만들어내는 현상과 같은, LLM으로 인해 발생하는 시급한 보안 공백도 존재한다. 연구자들...",
+      "link": "https://www.itworld.co.kr/article/4162345/%ec%8b%a4%ed%8c%a8%ed%95%98%eb%8a%94-%ed%8c%8c%ec%9d%bc%eb%9f%bf-vs-%ec%84%b1%ea%b3%b5%ed%95%98%eb%8a%94-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-%ec%8b%9c%ec%8a%a4%ed%85%9c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "클로드 코드 제외되나…앤트로픽 테스트가 드러낸 개인용 AI 요금제의 한계",
       "desc": "정액형 AI 요금제가 한계에 다다랐다는 기사를 쓴 직후 클로드를 개발한 앤트로픽에서 직접 중요한 신호가 발신됐다.\n\n\n\n일부 클로드 사용자가 앤트로픽이 개인용 클로드 프로와 맥스 요금제 가입 페이지 수정을 포착했다. 특히 클로드 프로가 제공하는 기능 목록에서 클로...",
       "link": "https://www.itworld.co.kr/article/4162231/%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%a0%9c%ec%99%b8%eb%90%98%eb%82%98-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%85%8c%ec%8a%a4%ed%8a%b8%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%ea%b0%9c.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "아마존의 50억 달러 앤트로픽 투자, 핵심은 ‘현금’이 아니라 ‘컴퓨트’",
-      "desc": "아마존이 월요일, 앤트로픽에 50억 달러를 추가 투자한다고 밝혔다. 여러 애널리스트는 이번 결정이 양사 간 전략적 파트너십 강화뿐 아니라, AI 신생업체가 직면한 인프라 병목을 완화하려는 목적도 크다고 보고 있다.\n\n\n\n공동 발표에 따르면, 앤트로픽은 AWS의 트...",
-      "link": "https://www.itworld.co.kr/article/4161802/%ec%95%84%eb%a7%88%ec%a1%b4%ec%9d%98-50%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%88%ac%ec%9e%90-%ed%95%b5%ec%8b%ac%ec%9d%80-%ed%98%84%ea%b8%88%ec%9d%b4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "‘콜 오브 듀티’ 빼고 요금 낮춘 게임 패스, 엑스박스 회생 전략의 다음 수는?",
-      "desc": "엑스박스 게임 패스는 원래 게임 플레이에서 가격 대비 성능을 원하는 게이머들에게 한 줄기 희망이었다. AAA 타이틀과 인디 게임이 모두 들어 있는 방대한 라이브러리를 스트리밍까지 무제한으로 저렴하게 사용할 수 있는 뷔페 같은 서비스였다. 그러나 ‘저렴하다’는 전제...",
-      "link": "https://www.itworld.co.kr/article/4162266/%ec%bd%9c-%ec%98%a4%eb%b8%8c-%eb%93%80%ed%8b%b0-%eb%b9%bc%ea%b3%a0-%ec%9a%94%ea%b8%88-%eb%82%ae%ec%b6%98-%ea%b2%8c%ec%9e%84-%ed%8c%a8%ec%8a%a4-%ec%97%91%ec%8a%a4%eb%b0%95%ec%8a%a4-%ed%9a%8c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "‘과잉 설계의 역설’ 왜 엔터프라이즈는 쿠버네티스를 재고하는가",
-      "desc": "수년간 쿠버네티스는 엔터프라이즈 IT에서 거의 신화적인 지위를 누렸다. 미래의 컨트롤 플레인, 클라우드 네이티브 시스템의 표준 추상화, 인프라 종속에서 기업을 해방시켜 줄 플랫폼으로 포지셔닝됐다. 실제로 일부는 사실이었다. 쿠버네티스는 컨테이너 오케스트레이션에 질...",
-      "link": "https://www.itworld.co.kr/article/4162249/%ea%b3%bc%ec%9e%89-%ec%84%a4%ea%b3%84%ec%9d%98-%ec%97%ad%ec%84%a4-%ec%99%9c-%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4%ec%a6%88%eb%8a%94-%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4%eb%a5%bc.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "“AI가 업무를, 직원은 감독을” 메타의 MCI 실험이 던진 거버넌스 과제",
-      "desc": "메타가 직원의 마우스 움직임, 클릭, 키 입력, 화면 활동을 추적해 업무용 AI 에이전트를 학습시키려는 계획을 세운 것으로 전해졌다. 이데이터는 AI 에이전트가 소프트웨어를 탐색하고 실제 업무를 수행하는 능력을 개선하는 데 사용될 예정이지만, 동시에 거버넌스와 직...",
-      "link": "https://www.itworld.co.kr/article/4162242/ai%ea%b0%80-%ec%97%85%eb%ac%b4%eb%a5%bc-%ec%a7%81%ec%9b%90%ec%9d%80-%ea%b0%90%eb%8f%85%ec%9d%84-%eb%a9%94%ed%83%80%ec%9d%98-mci-%ec%8b%a4%ed%97%98%ec%9d%b4-%eb%8d%98%ec%a7%84.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "노타, 엔비디아 ‘네모트론 해커톤’ 종합 우승… 합성 데이터 기반 MoE 양자화 기술력 입증",
-      "desc": "인공지능(AI) 모델 경량화 및 최적화 기술 기업 노타(대표 채명수)가 엔비디아 네모트론 해커톤(NVIDIA Nemotron Hackathon)에서 MoE(Mixture of Experts) 양자화에 특화된 합성 데이터 생성 기술로 Track C 1위를 차지하고,...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39724",
+      "title": "메타, ‘에이전틱 AI’ 인프라에 CPU 대규모 확장… AWS, 수천만 개 '그라비톤 칩' 도입",
+      "desc": "메타(Meta)는 24일(현지시간) 아마존 웹 서비스(AWS)와 협력해 자사 AI 인프라에 수천만 개 규모의 ‘그라비톤(Graviton)’ CPU 코어를 도입한다고 발표했다. 이를 통해 메타는 세계 최대 수준의 AWS 그라비톤 고객 중 하나로 올라서게 되며, 차세...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39760",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "사우디 디지털 인프라 수요 잡는다...네이버클라우드-한미글로벌, 사우디 데이터센터 사업 연합",
-      "desc": "네이버클라우드(대표 김유원)와 한미글로벌(회장 김종훈)이 지난 22일 사우디아라비아를 포함한 글로벌 대규모 데이터센터 사업의 공동 참여를 위한 전략적 업무 협약을 체결했다고 24일 밝혔다.이번 협약은 양사의 핵심 역량을 결합해 사우디를 포함한 중동 및 해외 데이터...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39723",
+      "title": "새만금, ‘AI 혁신 스마트도시’로 도약한다...'새만금 스마트도시계획', 국토부 최종 승인",
+      "desc": "새만금개발청(청장 직무대리 정인권)은 새만금을 미래형 첨단 인공지능(AI) 스마트도시로 본격 조성하기 위해 법정계획인 ‘새만금 스마트도시계획(2026~2030년)’을 국토교통부의 최종 승인을 거쳐 24일, 공고하였다고 밝혔다.이번 계획은 새만금을 탄소중립과 AI ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39759",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "GPU 의존성 타파하는 ‘넘프(NUMP)’, 온프레미스 추론·이기종 AI 인프라로 산업 생태계 재편",
-      "desc": "인공지능(AI) 시대, 고가의 그래픽 처리 장치(GPU) 장비와 전문 인력 부족이라는 현실적 장벽은 여전히 많은 지역 산업과 중소기업의 AI 도입을 가로막고 있다. 이러한 상황에서 시스템 통합 및 AI 최적화 전문 기업 넘프(NUMP)가 ‘온프레미스(On-Prem...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39722",
+      "title": "바로AI, 수냉식 GPU 서버 ‘포세이돈’ 공개… 공랭식 대비 전력 효율 30% 향상",
+      "desc": "AI 인프라 솔루션 전문기업 바로AI(대표 이용덕)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)'에 참가해 수냉식 Multi-GPU 서버와 구독형 GP...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39756",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "마이크로소프트, 호주에 26조원 ‘AI 풀스택’ 투자…인프라·보안·인재까지 국가 단위 전략 가속",
-      "desc": "마이크로소프트(Microsoft)가 호주(Australia)의 인공지능(AI) 경쟁력 강화와 국가 안보를 위해 사상 최대 규모인 250억 호주달러(약 26조 억원)를 투입한다.이는 마이크로소프트가 호주에 진출한 이래 단행하는 최대 규모의 단일 기업 투자로, 202...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39719",
+      "title": "AI 시스템 안정성, 전원과 쿨링이 좌우\" 마이크로닉스 인프라 솔루션",
+      "desc": "컴퓨팅 기기 디자인 및 제조 전문기업 한미마이크로닉스(대표 강현민, 이하 마이크로닉스)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39755",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "알리바바, ‘큐웬 앱’ 외부 첫 개방…AI가 항공 예약부터 이동까지 ‘원스톱 처리’",
-      "desc": "알리바바가 자사의 AI 애플리케이션인 큐웬(Qwen) 앱 기반으로 한 인공지능 서비스 확장에 본격 나섰다.알리바바는 23일(현지시간) 큐웬 앱의 핵심 기능인 ‘AI 업무 처리(Agentic Service)’ 역량을 처음으로 외부 파트너에 개방하고, 중국동방항공 (...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39717",
+      "title": "디윅스, '온토젠틱 AI' 통합 플랫폼 WEA 출품… \"설명 가능한 자율 완결형 AI\"",
+      "desc": "인공지능 전문기업 ㈜디윅스(대표 안준형)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)’에 참가해 자사의 통합 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39754",
       "source": "AI Times"
     }
   ]
