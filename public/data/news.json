@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T23:45:48.517Z",
+  "lastUpdated": "2026-04-25T23:44:23.141Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "세계 최대 규모 올림피아드 수학 데이터셋 ‘매스넷(MathNet)’ 오픈소스로 공개...MIT, AI 추론 능력 검증과 교육 민주화",
+      "desc": "인공지능의 수학적 추론 능력을 한 단계 끌어올릴 세계 최대 규모의 올림피아드 수준 수학 데이터셋이 공개되었다. 매년 국제수학올림피아드(IMO) 참가국들이 제출한 뒤 흩어졌던 독창적인 문제들이 체계적으로 수집·정리되어 AI 연구자와 전 세계 학생들에게 무료로 개방된...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39762",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
+      "title": "교육부-과기부, AI 인재양성 협력과제의 실행을 위한 전담팀 첫 회의 개최",
+      "desc": "교육부(장관 최교진)와 과학기술정보통신부(부총리 겸 장관 배경훈, 이하 ‘과기정통부’)는 지난 24일, 국가과학기술자문회의 대회의실에서 인공지능(AI) 인재양성 협력 전담팀(TF) 첫 회의를 열었다.인공지능 인재양성 전담팀(TF)은 3월 19일(목)에 최교진 교육...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39761",
+      "source": "AI Times"
+    },
+    {
+      "number": "08",
       "title": "메타, ‘에이전틱 AI’ 인프라에 CPU 대규모 확장… AWS, 수천만 개 '그라비톤 칩' 도입",
       "desc": "메타(Meta)는 24일(현지시간) 아마존 웹 서비스(AWS)와 협력해 자사 AI 인프라에 수천만 개 규모의 ‘그라비톤(Graviton)’ CPU 코어를 도입한다고 발표했다. 이를 통해 메타는 세계 최대 수준의 AWS 그라비톤 고객 중 하나로 올라서게 되며, 차세...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=39760",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "09",
       "title": "새만금, ‘AI 혁신 스마트도시’로 도약한다...'새만금 스마트도시계획', 국토부 최종 승인",
       "desc": "새만금개발청(청장 직무대리 정인권)은 새만금을 미래형 첨단 인공지능(AI) 스마트도시로 본격 조성하기 위해 법정계획인 ‘새만금 스마트도시계획(2026~2030년)’을 국토교통부의 최종 승인을 거쳐 24일, 공고하였다고 밝혔다.이번 계획은 새만금을 탄소중립과 AI ...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=39759",
       "source": "AI Times"
     },
     {
-      "number": "08",
+      "number": "10",
       "title": "바로AI, 수냉식 GPU 서버 ‘포세이돈’ 공개… 공랭식 대비 전력 효율 30% 향상",
       "desc": "AI 인프라 솔루션 전문기업 바로AI(대표 이용덕)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)'에 참가해 수냉식 Multi-GPU 서버와 구독형 GP...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=39756",
-      "source": "AI Times"
-    },
-    {
-      "number": "09",
-      "title": "AI 시스템 안정성, 전원과 쿨링이 좌우\" 마이크로닉스 인프라 솔루션",
-      "desc": "컴퓨팅 기기 디자인 및 제조 전문기업 한미마이크로닉스(대표 강현민, 이하 마이크로닉스)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39755",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "디윅스, '온토젠틱 AI' 통합 플랫폼 WEA 출품… \"설명 가능한 자율 완결형 AI\"",
-      "desc": "인공지능 전문기업 ㈜디윅스(대표 안준형)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)’에 참가해 자사의 통합 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39754",
       "source": "AI Times"
     }
   ]
