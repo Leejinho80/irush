@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-04-26T23:45:47.912Z",
+  "lastUpdated": "2026-04-27T23:57:33.075Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "밸브, 스팀 덱 게임 개발사에 실제 플레이어 체감 성능 데이터 제공",
-      "desc": "스팀 덱과 기타 핸드헬드 PC는 비교적 오래된 내장 그래픽 하드웨어로도 놀라울 만큼의 성능을 끌어낼 수 있다. 하지만 본질적으로는 전용 GPU가 없는 작은 노트북과 다르지 않다. 예를 들어 언리얼 엔진 기반의 3D 게임을 개발한다면, 핸드헬드에서 원활히 구동되도록...",
-      "link": "https://www.itworld.co.kr/article/4163468/%eb%b0%b8%eb%b8%8c-%ec%8a%a4%ed%8c%80-%eb%8d%b1-%ea%b2%8c%ec%9e%84-%ea%b0%9c%eb%b0%9c%ec%82%ac%ec%97%90-%ec%8b%a4%ec%a0%9c-%ed%94%8c%eb%a0%88%ec%9d%b4%ec%96%b4-%ec%b2%b4%ea%b0%90-%ec%84%b1%eb%8a%a5.html",
+      "title": "애플 ‘울트라’ 로드맵 확인…아이폰·맥북까지 확대",
+      "desc": "올해 애플 아이폰 라인업에는 역대 가장 큰 변화가 예고돼 있다. 첫 폴더블 아이폰의 등장이다. 그동안 다수 매체는 이 기기를 ‘아이폰 폴드’로 불러왔지만, Macworld는 애플이 이 신제품에 ‘울트라’ 브랜드를 적용할 것이라는 정황을 확인했다.\n\n\n\n애플 계획에...",
+      "link": "https://www.itworld.co.kr/article/4163930/%ec%95%a0%ed%94%8c-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%eb%a1%9c%eb%93%9c%eb%a7%b5-%ed%99%95%ec%9d%b8%ec%95%84%ec%9d%b4%ed%8f%b0%c2%b7%eb%a7%a5%eb%b6%81%ea%b9%8c%ec%a7%80-%ed%99%95.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "구글 에이전트 개발 키트 사용기",
-      "desc": "구글 에이전트 개발 키트(ADK)는 AI 에이전트를 개발하고 배포하기 위한 유연하고 모듈화된 오픈소스 프레임워크다. 제미나이와 구글 생태계에 맞춰 최적화됐지만 모델과 배포 환경 모두 무엇을 사용하든 가리지 않으며, 다른 프레임워크와의 호환성도 고려해 만들어졌다. ...",
-      "link": "https://www.itworld.co.kr/article/4161784/%ea%b5%ac%ea%b8%80-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ea%b0%9c%eb%b0%9c-%ed%82%a4%ed%8a%b8-%ec%82%ac%ec%9a%a9%ea%b8%b0.html",
+      "title": "“정액은 끝났다” 깃허브 코파일럿, AI 크레딧 체계 도입",
+      "desc": "정액 요금으로 AI를 마음껏 쓰던 시대가 끝나가고 있다. 그 시작을 깃허브가 알렸다. 깃허브 코파일럿 요금제가 사용량 기반 과금 체계로 전환된다.\n\n\n\n깃허브는 최근 코파일럿 프로와 코파일럿 프로 플러스 정액 요금제의 신규 가입을 중단한다고 발표한 데 이어, 6월...",
+      "link": "https://www.itworld.co.kr/article/4163921/%ec%a0%95%ec%95%a1%ec%9d%80-%eb%81%9d%eb%82%ac%eb%8b%a4-%ea%b9%83%ed%97%88%eb%b8%8c-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-ai-%ed%81%ac%eb%a0%88%eb%94%a7-%ec%b2%b4%ea%b3%84-%eb%8f%84.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "예측 불가능한 소비자 여정, AI가 돕는다…크리테오, 에이전틱 AI 활용 전략 제안",
-      "desc": "글로벌 커머스 인텔리전스 플랫폼 크리테오가 서울 강남구 코엑스에서 열린 ‘크리테오 커머스 포럼 2026’에서 에이전틱 AI를 중심으로 한 AI 기반 커머스 전략을 공개했다. ‘The Next Chapter: Commerce Intelligence’를 주제로 열린 ...",
-      "link": "https://www.itworld.co.kr/article/4162912/%ec%98%88%ec%b8%a1-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%86%8c%eb%b9%84%ec%9e%90-%ec%97%ac%ec%a0%95-ai%ea%b0%80-%eb%8f%95%eb%8a%94%eb%8b%a4%ed%81%ac%eb%a6%ac%ed%85%8c%ec%98%a4-%ec%97%90.html",
+      "title": "더 빨라진 업무, 더 커진 역할, 현장의 불안…AI가 바꾸는 경력 구도",
+      "desc": "직원들은 난감한 상황에 놓여 있다. AI가 업무 생산성을 극적으로 높여주는 동시에, 결국 직장에서의 역할을 대체할 가능성도 체감하고 있기 때문이다.\n\n\n\n앤트로픽의 새로운 설문조사에 따르면, AI에 의해 대체될 가능성이 높은 직군(예 : 개발자, IT 인력)일수록...",
+      "link": "https://www.itworld.co.kr/article/4163483/%eb%8d%94-%eb%b9%a8%eb%9d%bc%ec%a7%84-%ec%97%85%eb%ac%b4-%eb%8d%94-%ec%bb%a4%ec%a7%84-%ec%97%ad%ed%95%a0-%ed%98%84%ec%9e%a5%ec%9d%98-%eb%b6%88%ec%95%88-ai%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "AI 확장의 숨은 걸림돌 ‘GPU 비용’ 해결책…데이터독 GPU 모니터링 출시",
-      "desc": "AI 기반 옵저버빌리티와 보안 플랫폼 전문 업체 데이터독(Datadog, Inc.)이 계속 증가하는 AI 비용을 확장 가능하고 효과적으로 관리하려는 기업의 핵심 과제를 해결할 방안으로 GPU 모니터링을 정식 출시했다.\n\n\n\n데이터독 CPO 얀빙 리는 전체 컴퓨팅 ...",
-      "link": "https://www.itworld.co.kr/article/4162923/ai-%ed%99%95%ec%9e%a5%ec%9d%98-%ec%88%a8%ec%9d%80-%ea%b1%b8%eb%a6%bc%eb%8f%8c-gpu-%eb%b9%84%ec%9a%a9-%ed%95%b4%ea%b2%b0%ec%b1%85-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8f%85-gpu-%eb%aa%a8.html",
+      "title": "어도비, 에이전틱 AI로 마케팅 워크플로 주도권 사수",
+      "desc": "경쟁 디자인 소프트웨어 업체들과 범용 AI 비서의 압박이 커지는 가운데, 어도비가 여러 애플리케이션과 워크플로 전반에서 창작 업무를 조율하고 실행하는 에이전틱 시스템을 전면에 내세우고 있다.\n\n\n\n여러 업계 전문가는 어도비가 자사 애플리케이션 전반에서 작업을 조율...",
+      "link": "https://www.itworld.co.kr/article/4163480/%ec%96%b4%eb%8f%84%eb%b9%84-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%eb%a1%9c-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%9b%8c%ed%81%ac%ed%94%8c%eb%a1%9c-%ec%a3%bc%eb%8f%84%ea%b6%8c-%ec%82%ac%ec%88%98.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "실패하는 파일럿 Vs. 성공하는 에이전틱 시스템",
-      "desc": "에이전트 중심 개발에는 비결정성, 토큰 비대화 같은 함정을 피하기 위해 새로운 형태의 시스템 사고가 필요하다. 또한 모델이 목표를 달성하기 위해 거짓말을 하거나 정보를 임의로 만들어내는 현상과 같은, LLM으로 인해 발생하는 시급한 보안 공백도 존재한다. 연구자들...",
-      "link": "https://www.itworld.co.kr/article/4162345/%ec%8b%a4%ed%8c%a8%ed%95%98%eb%8a%94-%ed%8c%8c%ec%9d%bc%eb%9f%bf-vs-%ec%84%b1%ea%b3%b5%ed%95%98%eb%8a%94-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-%ec%8b%9c%ec%8a%a4%ed%85%9c.html",
+      "title": "AI 코딩 에이전트의 등장, 아이폰·맥 보안의 판을 바꾸다",
+      "desc": "소프트웨어 부문의 보안은 악몽에 가깝다. 몇 주 간격으로 애플 기기에 수십 개의 취약점을 패치하는 업데이트가 이어지는 것만 봐도 알 수 있다. 현대 소프트웨어는 지나치게 복잡하고, 다른 소프트웨어와 긴밀하게 얽혀 있어 위협을 따라잡는 것이 거의 불가능하다.\n\n\n\n...",
+      "link": "https://www.itworld.co.kr/article/4163474/ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%eb%93%b1%ec%9e%a5-%ec%95%84%ec%9d%b4%ed%8f%b0%c2%b7%eb%a7%a5-%eb%b3%b4%ec%95%88%ec%9d%98-%ed%8c%90%ec%9d%84-%eb%b0%94%ea%be%b8.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "문체부, ‘2026 문화체육관광 인공지능·데이터 활용 공모전’ 개최",
-      "desc": "문화체육관광부(장관 최휘영, 이하 문체부)는 한국문화정보원(원장 정운현, 이하 문정원), 문화·체육·관광 분야 대표기관(한국문화예술위원회, 한국콘텐츠진흥원, 국민체육진흥공단, 한국관광공사) 등과 함께 27일부터 오는 6월 26일까지 ‘2026 문화체육관광 인공지능...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39770",
+      "title": "구글 딥마인드, 한국과 AI 전략 파트너십 체결…“과학 혁신·국가 경쟁력 동시 견인”",
+      "desc": "구글 딥마인드(Google DeepMind)가 대한민국 과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈)의 전략적 파트너십을 27일(현지시간) 공식 발표하고 한국과의 인공지능(AI) 협력을 본격화했다. 양측은 첨단 인공지능 기술을 기반으로 과학적 발견을 가속화...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39786",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "AI 공간정보 플랫폼 ​​​​​​​ '메이사', 신세계건설 전국 모든 건설현장에 드론 공간정보 솔루션 공급",
-      "desc": "공간정보 인공지능(AI) 기업 메이사(대표 최석원·김동영)가 신세계건설과 드론 기반 공간정보 솔루션 전사 도입 계약을 체결했다고 27일 밝혔다. 이번 계약으로 신세계건설의 진행 중인 전국 모든 건설현장에 메이사 플랫폼이 적용되며, 특히 자율주행 드론 스테이션을 기...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39769",
+      "title": "과기정통부-구글 딥마인드, 'K-문샷' 협력 본격화...AI 기반 과학기술 혁신·인재 양성·책임있는 AI 활용 등 전방위 협력",
+      "desc": "과학기술정보통신부가 세계 최고 수준의 인공지능(AI) 연구 역량을 보유한 구글 딥마인드와 손잡고, 'K-문샷'과 책임있는 AI 활용을 위한 협력체계를 구축하기로 하였다.과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 과기정통부)는 27일 16시, 201...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39785",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "삼성SDS, 오픈AI와 협력 강화...'챗GPT 에듀'로 교육기관 대상 안전한 AI 활용 환경 제공",
-      "desc": "삼성SDS가 '챗GPT 에듀' 상품 판매 권한을 추가로 확보하며 오픈AI와의 협력을 한층 강화한다.챗GPT 에듀는 학교, 출판사 등 교육관련 기관을 대상으로 제공되는 서비스로, 교사와 학생 등 사용자가 서비스 내에서 주고받는 대화와 응답이 인공지능(AI) 학습 데...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39768",
+      "title": "“AGI 2030년 가시화”… 이재명 대통령, 데미스 하사비스와 ‘AI 미래·규범’ 논의",
+      "desc": "이재명 대통령이 27일 오후 3시, 데미스 하사비스(Demis Hassabis) 구글 딥마인드 공동 창업자 겸 CEO를 접견하고 인공지능(AI) 기술의 미래와 글로벌 협력 방안을 논의했다.이번 면담은 최근 AI 기술의 급격한 발전 흐름 속에서 책임 있는 활용과 국...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39784",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "현대차·기아, 통학길 교통안전 지키는 ‘비전 펄스’ 기술 캠페인으로 국제 광고제 수상",
-      "desc": "기술을 토대로 인류의 더 나은 삶에 기여하고자 하는 현대자동차·기아의 노력이 세계인의 마음을 사로잡았다.현대자동차·기아는 세계 최고 권위의 국제 광고제 ‘원쇼(The One Show)’와 ‘스파이크아시아(Spikes Asia)’에서 ‘비전 펄스(Vision Pul...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39766",
+      "title": "NEC-앤트로픽, 전략적 파트너십 체결… 일본 최대 규모 ‘AI 엔지니어링 군단’ 구축",
+      "desc": "일본의 대표적인 IT 기업 NEC 코퍼레이션(NEC)이 앤트로픽(Anthropic)과 손잡고 일본 최대 규모의 ‘AI 네이티브 엔지니어링 조직’ 구축에 나선다. 이번 협력을 통해 NEC는 앤스로픽의 첫 번째 일본 기반 글로벌 파트너로 자리매김하며, 일본 시장에 최...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39783",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "삼성전자, 갤럭시 카메라 기술 활용한 산호초 보호 프로젝트 '코랄 인 포커스'로 국제 어워드 수상",
-      "desc": "삼성전자가 갤럭시 카메라 기술인 '오션 모드(Ocean Mode)'를 활용한 산호초 보호 프로젝트 '코랄 인 포커스(Coral in Focus)'로 주요 국제 어워드에서 잇따라 수상했다고 26일 밝혔다.이번 어워드 수상은 삼성전자의 환경 비전 '지구를 위한 갤럭시...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39765",
+      "title": "LG CNS, ‘챗GPT 에듀’ 리셀러 파트너 선정...국내 AX 시장에서 오픈AI와 협력 확대",
+      "desc": "LG CNS(대표 현신균)가 오픈AI의 ‘챗GPT 에듀(Edu)’를 교육기관에 제공할 수 있는 리셀러 파트너 계약을 체결했다고 27일 밝혔다. LG CNS는 앞서 체결한 챗GPT 엔터프라이즈 리셀러 파트너 계약에 이어 챗GPT 에듀 리셀러 파트너까지 확대하며, 교...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39782",
       "source": "AI Times"
     }
   ]
