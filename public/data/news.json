@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-04-27T23:57:33.075Z",
+  "lastUpdated": "2026-04-28T23:58:22.115Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "규제 많은 기업 환경 겨냥…오픈텍스트, 오프라인 앱 보안 실습 교육",
+      "desc": "4월 28일 오픈텍스트(OpenText)가 자사 파트너사인 인섹시큐리티 서울 독산교육센터에서 ‘오픈텍스트 애플리케이션 시큐리티 애비에이터(OpenText Application Security Aviator) 오프라인 모드 소개 및 핸즈온 교육’을 성공적으로 개최했...",
+      "link": "https://www.itworld.co.kr/article/4163976/%ea%b7%9c%ec%a0%9c-%eb%a7%8e%ec%9d%80-%ea%b8%b0%ec%97%85-%ed%99%98%ea%b2%bd-%ea%b2%a8%eb%83%a5%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-%ec%95%b1.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "“사람을 남겨야 성과가 커진다”…해법은 AI와의 ‘지식 생태계’ 재설계",
+      "desc": "AI가 생산성을 폭발적으로 끌어올릴 것이라는 기대 속에 인력 감축에 나서는 CEO와 경영진이라면, 영국의 로열 닥스 경영법대학(Royal Docks School of Business and Law)이 발표한 새로운 메타 분석 보고서를 반드시 읽어볼 필요가 있다. ...",
+      "link": "https://www.itworld.co.kr/article/4164038/%ec%82%ac%eb%9e%8c%ec%9d%84-%eb%82%a8%ea%b2%a8%ec%95%bc-%ec%84%b1%ea%b3%bc%ea%b0%80-%ec%bb%a4%ec%a7%84%eb%8b%a4-%ed%95%b4%eb%b2%95%ec%9d%80-ai%ec%99%80%ec%9d%98-%ec%a7%80%ec%8b%9d.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "단어 예측을 넘어 세계를 이해하는 AI, 월드 모델",
+      "desc": "많은 사람들에게 AI는 인간의 감독 없이 사고하고 행동하는 기계를 그리는 공상과학의 중심 서사를 현실로 옮겨온 존재처럼 보인다. 그러나 필자의 관점에서 보면, 우리는 아직 그 비전을 완전히 실현하지 못했다. 이런 이유로 많은 사상가들은 월드 모델을 AI의 다음 중...",
+      "link": "https://www.itworld.co.kr/article/4163969/%eb%8b%a8%ec%96%b4-%ec%98%88%ec%b8%a1%ec%9d%84-%eb%84%98%ec%96%b4-%ec%84%b8%ea%b3%84%eb%a5%bc-%ec%9d%b4%ed%95%b4%ed%95%98%eb%8a%94-ai-%ec%9b%94%eb%93%9c-%eb%aa%a8%eb%8d%b8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "애플 ‘울트라’ 로드맵 확인…아이폰·맥북까지 확대",
       "desc": "올해 애플 아이폰 라인업에는 역대 가장 큰 변화가 예고돼 있다. 첫 폴더블 아이폰의 등장이다. 그동안 다수 매체는 이 기기를 ‘아이폰 폴드’로 불러왔지만, Macworld는 애플이 이 신제품에 ‘울트라’ 브랜드를 적용할 것이라는 정황을 확인했다.\n\n\n\n애플 계획에...",
       "link": "https://www.itworld.co.kr/article/4163930/%ec%95%a0%ed%94%8c-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%eb%a1%9c%eb%93%9c%eb%a7%b5-%ed%99%95%ec%9d%b8%ec%95%84%ec%9d%b4%ed%8f%b0%c2%b7%eb%a7%a5%eb%b6%81%ea%b9%8c%ec%a7%80-%ed%99%95.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "“정액은 끝났다” 깃허브 코파일럿, AI 크레딧 체계 도입",
       "desc": "정액 요금으로 AI를 마음껏 쓰던 시대가 끝나가고 있다. 그 시작을 깃허브가 알렸다. 깃허브 코파일럿 요금제가 사용량 기반 과금 체계로 전환된다.\n\n\n\n깃허브는 최근 코파일럿 프로와 코파일럿 프로 플러스 정액 요금제의 신규 가입을 중단한다고 발표한 데 이어, 6월...",
       "link": "https://www.itworld.co.kr/article/4163921/%ec%a0%95%ec%95%a1%ec%9d%80-%eb%81%9d%eb%82%ac%eb%8b%a4-%ea%b9%83%ed%97%88%eb%b8%8c-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-ai-%ed%81%ac%eb%a0%88%eb%94%a7-%ec%b2%b4%ea%b3%84-%eb%8f%84.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "더 빨라진 업무, 더 커진 역할, 현장의 불안…AI가 바꾸는 경력 구도",
-      "desc": "직원들은 난감한 상황에 놓여 있다. AI가 업무 생산성을 극적으로 높여주는 동시에, 결국 직장에서의 역할을 대체할 가능성도 체감하고 있기 때문이다.\n\n\n\n앤트로픽의 새로운 설문조사에 따르면, AI에 의해 대체될 가능성이 높은 직군(예 : 개발자, IT 인력)일수록...",
-      "link": "https://www.itworld.co.kr/article/4163483/%eb%8d%94-%eb%b9%a8%eb%9d%bc%ec%a7%84-%ec%97%85%eb%ac%b4-%eb%8d%94-%ec%bb%a4%ec%a7%84-%ec%97%ad%ed%95%a0-%ed%98%84%ec%9e%a5%ec%9d%98-%eb%b6%88%ec%95%88-ai%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "어도비, 에이전틱 AI로 마케팅 워크플로 주도권 사수",
-      "desc": "경쟁 디자인 소프트웨어 업체들과 범용 AI 비서의 압박이 커지는 가운데, 어도비가 여러 애플리케이션과 워크플로 전반에서 창작 업무를 조율하고 실행하는 에이전틱 시스템을 전면에 내세우고 있다.\n\n\n\n여러 업계 전문가는 어도비가 자사 애플리케이션 전반에서 작업을 조율...",
-      "link": "https://www.itworld.co.kr/article/4163480/%ec%96%b4%eb%8f%84%eb%b9%84-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%eb%a1%9c-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%9b%8c%ed%81%ac%ed%94%8c%eb%a1%9c-%ec%a3%bc%eb%8f%84%ea%b6%8c-%ec%82%ac%ec%88%98.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "AI 코딩 에이전트의 등장, 아이폰·맥 보안의 판을 바꾸다",
-      "desc": "소프트웨어 부문의 보안은 악몽에 가깝다. 몇 주 간격으로 애플 기기에 수십 개의 취약점을 패치하는 업데이트가 이어지는 것만 봐도 알 수 있다. 현대 소프트웨어는 지나치게 복잡하고, 다른 소프트웨어와 긴밀하게 얽혀 있어 위협을 따라잡는 것이 거의 불가능하다.\n\n\n\n...",
-      "link": "https://www.itworld.co.kr/article/4163474/ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%eb%93%b1%ec%9e%a5-%ec%95%84%ec%9d%b4%ed%8f%b0%c2%b7%eb%a7%a5-%eb%b3%b4%ec%95%88%ec%9d%98-%ed%8c%90%ec%9d%84-%eb%b0%94%ea%be%b8.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "구글 딥마인드, 한국과 AI 전략 파트너십 체결…“과학 혁신·국가 경쟁력 동시 견인”",
-      "desc": "구글 딥마인드(Google DeepMind)가 대한민국 과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈)의 전략적 파트너십을 27일(현지시간) 공식 발표하고 한국과의 인공지능(AI) 협력을 본격화했다. 양측은 첨단 인공지능 기술을 기반으로 과학적 발견을 가속화...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39786",
+      "title": "엘리스그룹-마키나락스, AI 풀스택 인프라 기반 국방∙산업 AX 협력",
+      "desc": "인공지능(AI) 인프라와 클라우드, 산업별 솔루션을 제공하는 AI 풀스택 기업 ㈜엘리스그룹(대표 김재원)이 피지컬 AI 기업 마키나락스(대표 윤성호)와 국방 및 산업 분야의 AX(AI Transformation)를 위한 업무협약(MOU)을 체결했다고 29일 밝혔다...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39808",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "과기정통부-구글 딥마인드, 'K-문샷' 협력 본격화...AI 기반 과학기술 혁신·인재 양성·책임있는 AI 활용 등 전방위 협력",
-      "desc": "과학기술정보통신부가 세계 최고 수준의 인공지능(AI) 연구 역량을 보유한 구글 딥마인드와 손잡고, 'K-문샷'과 책임있는 AI 활용을 위한 협력체계를 구축하기로 하였다.과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 과기정통부)는 27일 16시, 201...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39785",
+      "title": "스퀘어스, ‘모두의 창업’ AI 솔루션 선정... 큐샵으로 창업자 웹 제작 지원",
+      "desc": "스퀘어스의 인공지능(AI) 기반 노코드 웹사이트 빌더 ‘큐샵’이 28일 중소벤처기업부와 창업진흥원이 추진하는 2026년 모두의 창업 프로젝트 AI 솔루션 공급기업으로 선정됐다. 큐샵은 오는 5월 15일 공개되는 최종 인공지능 솔루션 서비스 목록을 통해 아이디어 심...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39807",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "“AGI 2030년 가시화”… 이재명 대통령, 데미스 하사비스와 ‘AI 미래·규범’ 논의",
-      "desc": "이재명 대통령이 27일 오후 3시, 데미스 하사비스(Demis Hassabis) 구글 딥마인드 공동 창업자 겸 CEO를 접견하고 인공지능(AI) 기술의 미래와 글로벌 협력 방안을 논의했다.이번 면담은 최근 AI 기술의 급격한 발전 흐름 속에서 책임 있는 활용과 국...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39784",
+      "title": "스냅태그, AI 기본법 준수 위한 비가시성 워터마크 플랫폼 'K-Safe AI' 출시",
+      "desc": "비가시성 워터마크 기술 선도 기업 스냅태그(대표 민경웅)는 인공지능(AI) 기본법 대응 부담이 증가한 기업들을 지원하기 위해, 무상으로 비가시성 워터마크를 적용할 수 있는 플랫폼 ‘K-Safe AI’를 공식 출시했다고 29일 밝혔다.AI 기본법은 인공지능의 안전성...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39806",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "NEC-앤트로픽, 전략적 파트너십 체결… 일본 최대 규모 ‘AI 엔지니어링 군단’ 구축",
-      "desc": "일본의 대표적인 IT 기업 NEC 코퍼레이션(NEC)이 앤트로픽(Anthropic)과 손잡고 일본 최대 규모의 ‘AI 네이티브 엔지니어링 조직’ 구축에 나선다. 이번 협력을 통해 NEC는 앤스로픽의 첫 번째 일본 기반 글로벌 파트너로 자리매김하며, 일본 시장에 최...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39783",
+      "title": "네이버클라우드 김유원 대표, 국가 AI 민관 협력체 'K-AI 파트너십' 공동의장 맡아... AI 생태계 확장 이끈다",
+      "desc": "네이버클라우드(대표 김유원)는 과학기술정보통신부(이하 과기부)가 주관하는 'K-AI 파트너십(대한민국 인공지능 연합)'에 한국인공지능·소프트웨어산업협회(이하 KOSA)와 공동의장사로 선임됐다고 29일 밝혔다.K-AI 파트너십은 글로벌 AI 패권 경쟁 속에서 국가 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39805",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "LG CNS, ‘챗GPT 에듀’ 리셀러 파트너 선정...국내 AX 시장에서 오픈AI와 협력 확대",
-      "desc": "LG CNS(대표 현신균)가 오픈AI의 ‘챗GPT 에듀(Edu)’를 교육기관에 제공할 수 있는 리셀러 파트너 계약을 체결했다고 27일 밝혔다. LG CNS는 앞서 체결한 챗GPT 엔터프라이즈 리셀러 파트너 계약에 이어 챗GPT 에듀 리셀러 파트너까지 확대하며, 교...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39782",
+      "title": "집 고민 덜어주는 나만의 AI 비서...빅밸류, AI 부동산 비서 ‘복덕방 가재’ 공개",
+      "desc": "데이터테크(Data Tech) 기업 빅밸류(공동 대표 구름, 이병욱)가 홈페이지 내 신규 메뉴인 ‘실험실(Lab)’을 개설하고, 첫 번째 프로젝트로 인공지능(AI) 부동산 상담 에이전트 ‘복덕방 가재’를 29일 선보였다.이번에 신설된 ‘실험실’은 빅밸류가 보유한 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39803",
       "source": "AI Times"
     }
   ]
