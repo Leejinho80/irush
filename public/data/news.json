@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-04-28T23:58:22.115Z",
+  "lastUpdated": "2026-04-29T23:58:49.623Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "규제 많은 기업 환경 겨냥…오픈텍스트, 오프라인 앱 보안 실습 교육",
-      "desc": "4월 28일 오픈텍스트(OpenText)가 자사 파트너사인 인섹시큐리티 서울 독산교육센터에서 ‘오픈텍스트 애플리케이션 시큐리티 애비에이터(OpenText Application Security Aviator) 오프라인 모드 소개 및 핸즈온 교육’을 성공적으로 개최했...",
-      "link": "https://www.itworld.co.kr/article/4163976/%ea%b7%9c%ec%a0%9c-%eb%a7%8e%ec%9d%80-%ea%b8%b0%ec%97%85-%ed%99%98%ea%b2%bd-%ea%b2%a8%eb%83%a5%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-%ec%95%b1.html",
+      "title": "AI를 위한 비정형 데이터 거버넌스 과제에 대처하기",
+      "desc": "규제 대상 산업의 대기업, 특히 풍부한 데이터를 다루는 금융 서비스와 보험 부문의 대기업은 지금까지 데이터 거버넌스 프로그램에 상당한 투자를 해왔다. 다른 기업들 역시 데이터 중심 조직이 되기 위한 노력을 기울이며 뒤따르고 있다. 많은 경우 데이터 거버넌스는 정책...",
+      "link": "https://www.itworld.co.kr/article/4164805/ai%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%b9%84%ec%a0%95%ed%98%95-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4-%ea%b3%bc%ec%a0%9c%ec%97%90-%eb%8c%80%ec%b2%98%ed%95%98%ea%b8%b0.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "“사람을 남겨야 성과가 커진다”…해법은 AI와의 ‘지식 생태계’ 재설계",
-      "desc": "AI가 생산성을 폭발적으로 끌어올릴 것이라는 기대 속에 인력 감축에 나서는 CEO와 경영진이라면, 영국의 로열 닥스 경영법대학(Royal Docks School of Business and Law)이 발표한 새로운 메타 분석 보고서를 반드시 읽어볼 필요가 있다. ...",
-      "link": "https://www.itworld.co.kr/article/4164038/%ec%82%ac%eb%9e%8c%ec%9d%84-%eb%82%a8%ea%b2%a8%ec%95%bc-%ec%84%b1%ea%b3%bc%ea%b0%80-%ec%bb%a4%ec%a7%84%eb%8b%a4-%ed%95%b4%eb%b2%95%ec%9d%80-ai%ec%99%80%ec%9d%98-%ec%a7%80%ec%8b%9d.html",
+      "title": "오픈AI–MS 관계 재편…비독점 라이선스와 수익 구조 변화",
+      "desc": "마이크로소프트와 오픈AI가 월요일 기존 계약을 다시 수정하며, 독점성과 수익 공유 조건을 완화했다. 성능 경쟁이 빠르게 전개되고, 동맹 관계가 계속 바뀌는 상황에서 기업이 특정 AI 업체에만 의존해서는 안 된다는 점을 분명히 보여준다.\n\n\n\n양사는 사실상 동일한 ...",
+      "link": "https://www.itworld.co.kr/article/4164694/%ec%98%a4%ed%94%88ai-ms-%ea%b4%80%ea%b3%84-%ec%9e%ac%ed%8e%b8-%eb%b9%84%eb%8f%85%ec%a0%90-%eb%9d%bc%ec%9d%b4%ec%84%a0%ec%8a%a4%ec%99%80-%ec%88%98%ec%9d%b5-%ea%b5%ac%ec%a1%b0-%eb%b3%80.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "단어 예측을 넘어 세계를 이해하는 AI, 월드 모델",
-      "desc": "많은 사람들에게 AI는 인간의 감독 없이 사고하고 행동하는 기계를 그리는 공상과학의 중심 서사를 현실로 옮겨온 존재처럼 보인다. 그러나 필자의 관점에서 보면, 우리는 아직 그 비전을 완전히 실현하지 못했다. 이런 이유로 많은 사상가들은 월드 모델을 AI의 다음 중...",
-      "link": "https://www.itworld.co.kr/article/4163969/%eb%8b%a8%ec%96%b4-%ec%98%88%ec%b8%a1%ec%9d%84-%eb%84%98%ec%96%b4-%ec%84%b8%ea%b3%84%eb%a5%bc-%ec%9d%b4%ed%95%b4%ed%95%98%eb%8a%94-ai-%ec%9b%94%eb%93%9c-%eb%aa%a8%eb%8d%b8.html",
+      "title": "에이전틱 AI 확산, CISO의 해법은 ‘아이덴티티 퍼스트’",
+      "desc": "아이덴티티는 항상 보안의 핵심이었지만, AI 에이전트의 확산은 아이덴티티를 관리하고 보호하는 과제를 빠르게 변화시키고 있다. 이에 따라 CISO는 아이덴티티 전략은 물론, 아이덴티티의 정의 자체까지 재고해야 하는 상황에 놓였다.\n\n\n\n윌콕스는 “아이덴티티는 이제 ...",
+      "link": "https://www.itworld.co.kr/article/4164682/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%ed%99%95%ec%82%b0-ciso%ec%9d%98-%ed%95%b4%eb%b2%95%ec%9d%80-%ec%95%84%ec%9d%b4%eb%8d%b4%ed%8b%b0%ed%8b%b0-%ed%8d%bc%ec%8a%a4%ed%8a%b8.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "애플 ‘울트라’ 로드맵 확인…아이폰·맥북까지 확대",
-      "desc": "올해 애플 아이폰 라인업에는 역대 가장 큰 변화가 예고돼 있다. 첫 폴더블 아이폰의 등장이다. 그동안 다수 매체는 이 기기를 ‘아이폰 폴드’로 불러왔지만, Macworld는 애플이 이 신제품에 ‘울트라’ 브랜드를 적용할 것이라는 정황을 확인했다.\n\n\n\n애플 계획에...",
-      "link": "https://www.itworld.co.kr/article/4163930/%ec%95%a0%ed%94%8c-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%eb%a1%9c%eb%93%9c%eb%a7%b5-%ed%99%95%ec%9d%b8%ec%95%84%ec%9d%b4%ed%8f%b0%c2%b7%eb%a7%a5%eb%b6%81%ea%b9%8c%ec%a7%80-%ed%99%95.html",
+      "title": "‘AI=GPU’ 공식의 붕괴…기업 인프라는 GPU를 넘어 CPU로 이동한다",
+      "desc": "에이전틱 AI 도구는 값비싼 클라우드 GPU가 아니라, CPU에서도 구동 가능한 내장형 프로세스와 워크플로우에 더 가깝다.\n\n\n\n초기 AI 모델은 대체로 엔비디아와 AMD의 고가 GPU를 기반으로 구축됐다. 강력한 연산 성능이 필요했기 때문이다. 그러나 비즈니스 ...",
+      "link": "https://www.itworld.co.kr/article/4164642/aigpu-%ea%b3%b5%ec%8b%9d%ec%9d%98-%eb%b6%95%ea%b4%b4%ea%b8%b0%ec%97%85-%ec%9d%b8%ed%94%84%eb%9d%bc%eb%8a%94-gpu%eb%a5%bc-%eb%84%98%ec%96%b4-cpu%eb%a1%9c-%ec%9d%b4%eb%8f%99.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "“정액은 끝났다” 깃허브 코파일럿, AI 크레딧 체계 도입",
-      "desc": "정액 요금으로 AI를 마음껏 쓰던 시대가 끝나가고 있다. 그 시작을 깃허브가 알렸다. 깃허브 코파일럿 요금제가 사용량 기반 과금 체계로 전환된다.\n\n\n\n깃허브는 최근 코파일럿 프로와 코파일럿 프로 플러스 정액 요금제의 신규 가입을 중단한다고 발표한 데 이어, 6월...",
-      "link": "https://www.itworld.co.kr/article/4163921/%ec%a0%95%ec%95%a1%ec%9d%80-%eb%81%9d%eb%82%ac%eb%8b%a4-%ea%b9%83%ed%97%88%eb%b8%8c-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-ai-%ed%81%ac%eb%a0%88%eb%94%a7-%ec%b2%b4%ea%b3%84-%eb%8f%84.html",
+      "title": "존 터너스 시대의 애플, ‘아이폰 인텔리전스’가 시험대에 오르다",
+      "desc": "9월 1일 취임하는 신임 CEO 존 터너스는 회사 밖에서는 다소 베일에 싸인 인물이다. 분명한 사실은 애플이 AI 분야에서 고전해왔다는 점이며, 이제 애플을 ‘진짜 AI 기업’으로 만드는 일은 터너스의 몫이 됐다.\n\n\n\n애플이 팀 쿡의 뒤를 이을 CEO로 하드웨어...",
+      "link": "https://www.itworld.co.kr/article/4164627/%ec%a1%b4-%ed%84%b0%eb%84%88%ec%8a%a4-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%95%a0%ed%94%8c-%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%9d%b8%ed%85%94%eb%a6%ac%ec%a0%84%ec%8a%a4%ea%b0%80-%ec%8b%9c.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "엘리스그룹-마키나락스, AI 풀스택 인프라 기반 국방∙산업 AX 협력",
-      "desc": "인공지능(AI) 인프라와 클라우드, 산업별 솔루션을 제공하는 AI 풀스택 기업 ㈜엘리스그룹(대표 김재원)이 피지컬 AI 기업 마키나락스(대표 윤성호)와 국방 및 산업 분야의 AX(AI Transformation)를 위한 업무협약(MOU)을 체결했다고 29일 밝혔다...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39808",
+      "title": "AI 전문가들 ‘구글 포 코리아 2026’ 모여 구글의 AI 성과 및 비전 공유",
+      "desc": "구글코리아는 29일, ‘인공지능(AI)의 지난 10년과 미래 방향성’를 주제로 ‘구글 포 코리아(Google for Korea) 2026’ 를 개최했다. 올해 6번째로 진행된 ‘구글 포 코리아’ 행사는 구글의 대표적인 연례 행사로, 한국 사회와 함께 하는 구글의 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39849",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "스퀘어스, ‘모두의 창업’ AI 솔루션 선정... 큐샵으로 창업자 웹 제작 지원",
-      "desc": "스퀘어스의 인공지능(AI) 기반 노코드 웹사이트 빌더 ‘큐샵’이 28일 중소벤처기업부와 창업진흥원이 추진하는 2026년 모두의 창업 프로젝트 AI 솔루션 공급기업으로 선정됐다. 큐샵은 오는 5월 15일 공개되는 최종 인공지능 솔루션 서비스 목록을 통해 아이디어 심...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39807",
+      "title": "김윤덕 장관, 새만금개발청 방문...“첨단산업 거점 새만금, 새판짜기 속도 높인다”",
+      "desc": "김윤덕 국토교통부 장관은 29일, 오후 새만금개발청을 방문하여 인프라 개발 현황과 현대차그룹 투자에 따른 새만금 개발 청사진 재수립 상황을 점검하였다. 김 장관은 사업 추진현황과 새만금 개발에 속도를 내기 위한 기본계획 변경 방향을 확인한 후, “RE100 기반의...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39848",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "스냅태그, AI 기본법 준수 위한 비가시성 워터마크 플랫폼 'K-Safe AI' 출시",
-      "desc": "비가시성 워터마크 기술 선도 기업 스냅태그(대표 민경웅)는 인공지능(AI) 기본법 대응 부담이 증가한 기업들을 지원하기 위해, 무상으로 비가시성 워터마크를 적용할 수 있는 플랫폼 ‘K-Safe AI’를 공식 출시했다고 29일 밝혔다.AI 기본법은 인공지능의 안전성...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39806",
+      "title": "한국인공지능협회, \"체인저스, 시선은 미래를 향하고 행동은 미래를 앞당긴다\"...창립 10주년 맞아 '비전 선포식' 개최",
+      "desc": "한국인공지능협회(회장 김현철)는 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)'에서 7일(목), 협회 창립 10주...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39847",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "네이버클라우드 김유원 대표, 국가 AI 민관 협력체 'K-AI 파트너십' 공동의장 맡아... AI 생태계 확장 이끈다",
-      "desc": "네이버클라우드(대표 김유원)는 과학기술정보통신부(이하 과기부)가 주관하는 'K-AI 파트너십(대한민국 인공지능 연합)'에 한국인공지능·소프트웨어산업협회(이하 KOSA)와 공동의장사로 선임됐다고 29일 밝혔다.K-AI 파트너십은 글로벌 AI 패권 경쟁 속에서 국가 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39805",
+      "title": "\"AI 주권은 인프라부터\" 몬드리안에이아이가 제시하는 차세대 AX 로드맵",
+      "desc": "인공지능 전환(AX) 전문 기업 몬드리안에이아이(Mondrian AI, 대표 홍대의)가 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39845",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "집 고민 덜어주는 나만의 AI 비서...빅밸류, AI 부동산 비서 ‘복덕방 가재’ 공개",
-      "desc": "데이터테크(Data Tech) 기업 빅밸류(공동 대표 구름, 이병욱)가 홈페이지 내 신규 메뉴인 ‘실험실(Lab)’을 개설하고, 첫 번째 프로젝트로 인공지능(AI) 부동산 상담 에이전트 ‘복덕방 가재’를 29일 선보였다.이번에 신설된 ‘실험실’은 빅밸류가 보유한 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39803",
+      "title": "제조업 최적화부터 데이터 주권 확보까지, 한국 맞춤형 대만 AI 솔루션 생태계 제시",
+      "desc": "최근 한국 정부가 'AI 내각' 및 'AI 반도체 이니셔티브'를 본격화하며 산업 전반의 고성능 컴퓨팅 수요가 급증하는 가운데, 대만을 대표하는 16개 기업이 오는 5월 6일(수)부터 8일(금)까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 단일 인공지능 행사로...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39844",
       "source": "AI Times"
     }
   ]
