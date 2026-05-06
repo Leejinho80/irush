@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-05-05T23:53:46.922Z",
+  "lastUpdated": "2026-05-06T23:54:54.835Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "사이버 보안 인력 34%만 현직 유지…급여보다 경력 발전이 중요",
-      "desc": "직무 만족도가 하락하면서 현 직장에 남기로 결정한 사이버 보안 전문가가 3명 중 1명(34%)에 그쳤다. 최고정보보안책임자(CISO) 인력 유지 전략의 중요성이 그 어느 때보다 커지고 있다.\n\n\n\nIANS와 아르티코 서치(Artico Search)가 사이버 보안 ...",
-      "link": "https://www.itworld.co.kr/article/4166273/%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b4%ec%95%88-%ec%9d%b8%eb%a0%a5-34%eb%a7%8c-%ed%98%84%ec%a7%81-%ec%9c%a0%ec%a7%80-%ea%b8%89%ec%97%ac%eb%b3%b4%eb%8b%a4-%ea%b2%bd%eb%a0%a5-%eb%b0%9c%ec%a0%84.html",
+      "title": "보안·복잡성 높은 환경에서도 통했다…오픈텍스트의 AI 기반 콘텐츠 관리",
+      "desc": "오픈텍스트가 전략 실행 전문 기업 원얼라인드(One Aligned)와 협력해 미 해군(NAVSEA)의 작전 준비태세를 강화한 AI 기반 콘텐츠 관리 혁신 사례를 공개했다.\n\n\n\n국내에서도 제조, 방산, 에너지, 공공 부문을 중심으로 디지털 전환이 빨라지면서 기술 ...",
+      "link": "https://www.itworld.co.kr/article/4166282/%eb%b3%b4%ec%95%88%c2%b7%eb%b3%b5%ec%9e%a1%ec%84%b1-%eb%86%92%ec%9d%80-%ed%99%98%ea%b2%bd%ec%97%90%ec%84%9c%eb%8f%84-%ed%86%b5%ed%96%88%eb%8b%a4-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "친절한 AI 챗봇이 더 많이 틀린다…옥스퍼드 연구",
-      "desc": "옥스퍼드 인터넷 인스티튜트(Oxford Internet Institute)의 새 연구에 따르면, 더 따뜻하고 친절하며 공감적으로 훈련된 ‘친근한’ AI 챗봇일수록 답변의 질이 낮고 정확도도 떨어지는 것으로 나타났다. 해당 연구는 BBC가 최초로 보도했다.\n\n\n\n연...",
-      "link": "https://www.itworld.co.kr/article/4166253/%ec%b9%9c%ec%a0%88%ed%95%9c-ai-%ec%b1%97%eb%b4%87%ec%9d%b4-%eb%8d%94-%eb%a7%8e%ec%9d%b4-%ed%8b%80%eb%a6%b0%eb%8b%a4-%ec%98%a5%ec%8a%a4%ed%8d%bc%eb%93%9c-%ec%97%b0%ea%b5%ac.html",
+      "title": "AI로 자르면 ROI가 오른다? 가트너 “그렇지 않다”",
+      "desc": "가트너는 최근 AI 에이전트와 지능형 자동화 도구를 이미 사용 중인 대형 기업의 글로벌 비즈니스 리더 350명을 대상으로 설문 조사를 실시했다. 응답자의 80%가 AI 도입으로 인원이 감소했다고 밝혔으며, 최대 20%까지 줄었다는 사례도 있었다.\n\n\n\n그러나 이 ...",
+      "link": "https://www.itworld.co.kr/article/4167561/ai%eb%a1%9c-%ec%9e%90%eb%a5%b4%eb%a9%b4-roi%ea%b0%80-%ec%98%a4%eb%a5%b8%eb%8b%a4-%ea%b0%80%ed%8a%b8%eb%84%88-%ea%b7%b8%eb%a0%87%ec%a7%80-%ec%95%8a%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "치명적 깃허브 RCE 취약점, 수백만 개 저장소 노출",
-      "desc": "깃허브에서 발생한 치명적인 원격 코드 실행(RCE) 취약점으로 인해 공격자가 깃허브닷컴과 깃허브 엔터프라이즈 서버에서 임의 코드를 실행할 수 있었던 것으로 나타났다.\n\n\n\n이 취약점은 위즈 연구진에 의해 발견됐으며, 깃허브가 서버 측에서 git push 작업을 처...",
-      "link": "https://www.itworld.co.kr/article/4165223/%ec%b9%98%eb%aa%85%ec%a0%81-%ea%b9%83%ed%97%88%eb%b8%8c-rce-%ec%b7%a8%ec%95%bd%ec%a0%90-%ec%88%98%eb%b0%b1%eb%a7%8c-%ea%b0%9c-%ec%a0%80%ec%9e%a5%ec%86%8c-%eb%85%b8%ec%b6%9c.html",
+      "title": "20년 묵은 버그가 깨어났다…AI가 포스트그레SQL·마리아DB 취약점 발굴",
+      "desc": "AI가 수십 년 된 버퍼 오버플로 문제를 광범위하게 사용되는 구성요소에서 발굴하면서 오픈소스 데이터베이스가 오래된 메모리 문제에 직면하고 있다. 보안 연구자가 포스트그레SQL(PostgreSQL)과 마리아DB(MariaDB)에 영향을 미치는 고심각도·심각 등급 취...",
+      "link": "https://www.itworld.co.kr/article/4167545/20%eb%85%84-%eb%ac%b5%ec%9d%80-%eb%b2%84%ea%b7%b8%ea%b0%80-%ea%b9%a8%ec%96%b4%eb%82%ac%eb%8b%a4ai%ea%b0%80-%ed%8f%ac%ec%8a%a4%ed%8a%b8%ea%b7%b8%eb%a0%88sql%c2%b7%eb%a7%88%eb%a6%ac%ec%95%84db.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "더하기보다 빼기가 어려운 AI 시대의 제품 관리",
-      "desc": "한때 마이크로소프트 워드는 세계에서 가장 널리 사용되는 소프트웨어였다. .doc 파일은 컴퓨팅 세계의 공용어였고, “워드 파일로 보내주세요”라는 표현은 비즈니스 용어로 자리 잡았다. 워드와의 경쟁에 패배한 경쟁 프로그램 워드퍼펙트(WordPerfect)는 결국 윈...",
-      "link": "https://www.itworld.co.kr/article/4165212/%eb%8d%94%ed%95%98%ea%b8%b0%eb%b3%b4%eb%8b%a4-%eb%b9%bc%ea%b8%b0%ea%b0%80-%ec%96%b4%eb%a0%a4%ec%9a%b4-ai-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%a0%9c%ed%92%88-%ea%b4%80%eb%a6%ac.html",
+      "title": "엣지 브라우저, 비밀번호 평문 노출…마이크로소프트 “설계 의도”",
+      "desc": "한 노르웨이 연구자가 엣지에 비밀번호를 저장하면 브라우저가 시작 시 모든 자격증명을 복호화하고 사용자가 해당 사이트를 방문하지 않더라도 프로세스 메모리에 평문으로 상주시킨다는 사실을 엑스(X) 게시물을 통해 밝혔다.\n\n\n\n톰 예란 쇤스테뷔세테르 뢰닝의 발견은 독일...",
+      "link": "https://www.itworld.co.kr/article/4167538/%ec%97%a3%ec%a7%80-%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ed%8f%89%eb%ac%b8-%eb%85%b8%ec%b6%9c%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "AI도 ‘기분’이 있다? 사용자 태도가 만드는 차이",
-      "desc": "AI에게 “고맙다”고 말하는 게 이상할까? 그동안 오픈AI의 챗GPT, 앤트로픽의 클로드, 구글의 제미나이에게 “부탁해”나 “고마워”라고 말한다는 이유로 핀잔을 들은 적이 있다. AI가 인간처럼 감정을 갖고 있지 않다는 걸 알면서도 여전히 그렇게 한다.\n\n\n\nAI...",
-      "link": "https://www.itworld.co.kr/article/4165199/ai%eb%8f%84-%ea%b8%b0%eb%b6%84%ec%9d%b4-%ec%9e%88%eb%8b%a4-%ec%82%ac%ec%9a%a9%ec%9e%90-%ed%83%9c%eb%8f%84%ea%b0%80-%eb%a7%8c%eb%93%9c%eb%8a%94-%ec%b0%a8%ec%9d%b4.html",
+      "title": "이력서부터 면접까지 AI로 속인다…기업을 파고드는 가짜 IT 직원",
+      "desc": "가짜 IT 직원 채용이 최근 몇 년 사이 심각한 문제로 떠오르고 있다. 그러나 인정하려는 기업은 거의 없다. 포춘 500대 기업부터 소규모 기업까지 원격 채용 관행이 악용되면서, 실제 신원을 숨긴 사람들이 신뢰받는 내부자로 접근 권한을 얻는 내부 위협이 현실화되고...",
+      "link": "https://www.itworld.co.kr/article/4167528/%ec%9d%b4%eb%a0%a5%ec%84%9c%eb%b6%80%ed%84%b0-%eb%a9%b4%ec%a0%91%ea%b9%8c%ec%a7%80-ai%eb%a1%9c-%ec%86%8d%ec%9d%b8%eb%8b%a4%ea%b8%b0%ec%97%85%ec%9d%84-%ed%8c%8c%ea%b3%a0%eb%93%9c%eb%8a%94.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "KAIST, ‘AI 기술설명회 2026’ 개최...AI EXPO KOREA 2026 현장서 최신 AI 성과 공개",
-      "desc": "KAIST(총장 이광형)는 김재철AI대학원이 6일부터 8일까지 서울 삼성동 코엑스(COEX)에서 개최되는 아시아 최대 규모의 인공지능 전시회, ‘제9회 국제인공지능대전(AI EXPO KOREA 2026)’ 현장, 컨퍼런스룸에서 7일(목) ‘KAIST AI 기술설명...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39924",
+      "title": "매스웍스-기초과학연구원, 국내 기초과학 연구를 위한 고성능 컴퓨팅 접근성 확대를 위한 호스팅 계약 체결",
+      "desc": "인공지능(AI) 및 테크니컬 컴퓨팅 소프트웨어 분야의 선도 기업 매스웍스(MathWorks)가 국내 기초과학 분야 종합연구기관인 기초과학연구원과 호스팅 계약(HPA Host Provider Agreemen)을 체결했다고 7일 밝혔다.이번 협력은 국내 매스웍스 라이...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39937",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "플래티어, 오픈AI ‘100억 토큰’ 실버 어워드 수상…글로벌 AI 혁신 선도 기업 입증",
-      "desc": "버티컬 AI·DX 솔루션 전문기업 플래티어(대표 이상훈)가 오픈AI(OpenAI)로부터 누적 API 사용량 100억 토큰을 돌파한 기업에 수여되는 ‘10B 토큰 어워드(실버 토큰)’를 수상했다고 6일 밝혔다.오픈AI의 ‘감사 토큰(Tokens of Apprecia...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39923",
+      "title": "마이크로소프트, AI 에이전트 보안·거버넌스 통합 관제 플랫폼 ‘에이전트 365’ 정식 출시",
+      "desc": "마이크로소프트가 인공지능(AI) 에이전트의 안전한 운용과 보안 및 거버넌스 강화를 지원하는 마이크로소프트 에이전트 365(Microsoft Agent 365)를 정식 출시했다.최근 AI 에이전트가 앱, 엔드포인트, 클라우드 전반에 걸쳐 빠르게 확산됨에 따라, 보안...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39936",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "한국로봇융합연구원, 산림청 AI 기반 ‘수실류 수확 로봇’ 국책사업 주관기관 선정",
-      "desc": "한국로봇융합연구원(이하 KIRO, 원장 강기원)이 인구 감소와 고령화로 소멸 위기에 처한 국내 임업 현장 난제를 해결하기 위해 인공지능(AI) 로봇 기술 개발에 나선다.KIRO는 산림청과 한국임업진흥원이 지원하는 ‘2026년도 임업현장 맞춤형 푸드테크 기술개발 사...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39922",
+      "title": "NIA, AI윤리 기반 공공 AX 선도...기보 AI윤리 준수기관 확인마크 수여, 중소·벤처기업 AI윤리 확산 협력 강화",
+      "desc": "한국지능정보사회진흥원(원장 김형철, 이하 NIA)은 기술보증기금(이사장 김종호, 이하 기보)과 ‘신뢰받는 공공 인공지능 전환(AX) 선도’를 위한 업무협약을 체결하고, 기보에 ‘AI윤리 준수기관’ 확인마크를 수여했다고 7일 밝혔다.최근 인공지능(AI) 기술이 사회...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39935",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "흩어진 AI 서비스 ‘한 곳에’…제논, AI 에이전트 포털 ‘제나(GenA)’ 베타 서비스 오픈",
-      "desc": "생성형 AI 솔루션 전문 기업 제논(대표 고석태)이 다양한 AI 에이전트를 하나의 인터페이스에서 활용할 수 있는 AI 에이전트 포털 ‘제나(GenA)’의 베타 서비스를 오픈한다고 6일 밝혔다.제나는 챗봇, 슬라이드 제작, 번역, 이미지 생성 등 개별적으로 흩어져 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39921",
+      "title": "‘환각 제로’ 문서 AI로 업무 자동화 혁신…한국딥러닝, AI EXPO KOREA 2026서 차세대 문서 에이전트 플랫폼 ‘딥에이전트’ 공개",
+      "desc": "공공·기업용 시각지능 통합 솔루션 전문기업 한국딥러닝(대표 김지현)이 서울 삼성동 코엑스에서 6일부터 8일까지 사흘간 펼쳐지는 아시아 최대 인공지능 전문 전시회 제 9회 국제인공지능대전(AI EXPO KOREA 2026)에 참가해 차세대 문서 에이전트 플랫폼 ‘딥...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39934",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "수천 년 걸리던 컴퓨터 난제를 반도체로 푼다...KAIST, 실리콘 기반 차세대 최적화 연산 하드웨어 개발",
-      "desc": "빅데이터와 인공지능(AI) 시대, 수천 년이 걸리는 ‘조합 최적화 문제(가능한 모든 경우 중 가장 효율적인 답을 찾는 문제)’를 해결할 수 있는 길이 열렸다.KAIST 연구진이 기존 실리콘 공정만으로 구현 가능한 연산 하드웨어를 개발해, 별도 설비 없이 바로 생산...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39920",
+      "title": "야놀자, ‘AI EXPO KOREA 2026’ 참가…AI로 여는 차세대 여행 생태계 공개",
+      "desc": "글로벌 트래블 테크 기업 야놀자(총괄대표 이수진)가 6일부터 8일까지 서울 삼성동 코엑스(COEX)에서 개최된 아시아 최대 규모의 인공지능 전문 전시회, ‘제9회 국제인공지능대전(AI EXPO KOREA 2026)’ 참가해 여행 산업 특화 AI 기술을 선보였다.야...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39933",
       "source": "AI Times"
     }
   ]
