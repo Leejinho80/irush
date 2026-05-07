@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-05-06T23:54:54.835Z",
+  "lastUpdated": "2026-05-07T23:57:39.966Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "“소프트웨어는 더 배고파질 것” AI 시대에도 개발자는 사라지지 않아",
+      "desc": "필자는 AI가 소프트웨어 개발자의 일자리를 없애는 미래를 전혀 걱정하지 않는다. 실제로 곧 소프트웨어 개발 일자리와 모든 사람이 접할 수 있는 소프트웨어 양 모두 폭발적으로 증가할 것이라고 확신한다.\n\n\n\n사람들은 항상 자동화가 대량 실업을 초래할까봐 걱정해왔다....",
+      "link": "https://www.itworld.co.kr/article/4168148/ai%ea%b0%80-%ec%bd%94%eb%93%9c%eb%a5%bc-%ec%93%b0%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%98%a4%ed%9e%88%eb%a0%a4-%ed%8f%ad%ec%a6%9d%ed%95%a0-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ea%b0%9c%eb%b0%9c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "앤트로픽, 스페이스X와 제휴로 클로드 코드 사용량 2배 확대",
+      "desc": "앤트로픽이 클로드 코드 접근권을 없애는 방식으로 저가형 구독 요금제를 축소하는 대신, 구독자를 위해 클로드 코드 사용량을 2배로 늘리기로 했다. 이례적인 협력 관계 덕분에 가능했다.\n\n\n\n샌프란시스코에서 열린 ‘클로드로 코딩하기’ 개발자 컨퍼런스 첫날, 앤트로픽은...",
+      "link": "https://www.itworld.co.kr/article/4168139/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4x%ec%99%80-%ec%a0%9c%ed%9c%b4%eb%a1%9c-%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%82%ac%ec%9a%a9%eb%9f%89-2%eb%b0%b0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "“핵심 사용자 먼저”…테이크투, GTA 6 출시 전략 밝혀",
+      "desc": "테이크투의 CEO 스트라우스 젤닉이 최근 블룸버그와의 인터뷰에서 차기작 그랜드 테프트 오토 6(GTA 6)을 두고 PC가 ‘핵심 사용자’ 층이 아니라고 말했다.\n\n\n\n젤닉은 블룸버그에 “록스타는 항상 신작을 콘솔부터 출시한다. 왜냐하면 핵심 사용자를 제대로 최우선...",
+      "link": "https://www.itworld.co.kr/article/4168105/%ed%95%b5%ec%8b%ac-%ec%82%ac%ec%9a%a9%ec%9e%90-%eb%a8%bc%ec%a0%80%ed%85%8c%ec%9d%b4%ed%81%ac%ed%88%ac-gta-6-%ec%b6%9c%ec%8b%9c-%ec%a0%84%eb%9e%b5-%eb%b0%9d%ed%98%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "“자연스러운 대화부터 멀티태스킹까지”…iOS 27 시리 신기능 총정리",
+      "desc": "지금까지 시리는 날씨 확인, 음악 재생, 위키피디아 데이터 검색 등 기본적인 작업을 아이폰에서 수행해왔다. 이런 용도만이라면 충분하지만, 시리의 이해 능력은 제한적이어서 단어를 신중히 선택하여 간결하게 표현해야만 올바르게 이해한다.\n\n\n\n경쟁사의 음성 어시스턴트도...",
+      "link": "https://www.itworld.co.kr/article/4168099/%ec%9e%90%ec%97%b0%ec%8a%a4%eb%9f%ac%ec%9a%b4-%eb%8c%80%ed%99%94%eb%b6%80%ed%84%b0-%eb%a9%80%ed%8b%b0%ed%83%9c%ec%8a%a4%ed%82%b9%ea%b9%8c%ec%a7%80ios-27-%ec%8b%9c%eb%a6%ac-%ec%8b%a0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "보안·복잡성 높은 환경에서도 통했다…오픈텍스트의 AI 기반 콘텐츠 관리",
       "desc": "오픈텍스트가 전략 실행 전문 기업 원얼라인드(One Aligned)와 협력해 미 해군(NAVSEA)의 작전 준비태세를 강화한 AI 기반 콘텐츠 관리 혁신 사례를 공개했다.\n\n\n\n국내에서도 제조, 방산, 에너지, 공공 부문을 중심으로 디지털 전환이 빨라지면서 기술 ...",
       "link": "https://www.itworld.co.kr/article/4166282/%eb%b3%b4%ec%95%88%c2%b7%eb%b3%b5%ec%9e%a1%ec%84%b1-%eb%86%92%ec%9d%80-%ed%99%98%ea%b2%bd%ec%97%90%ec%84%9c%eb%8f%84-%ed%86%b5%ed%96%88%eb%8b%a4-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "AI로 자르면 ROI가 오른다? 가트너 “그렇지 않다”",
-      "desc": "가트너는 최근 AI 에이전트와 지능형 자동화 도구를 이미 사용 중인 대형 기업의 글로벌 비즈니스 리더 350명을 대상으로 설문 조사를 실시했다. 응답자의 80%가 AI 도입으로 인원이 감소했다고 밝혔으며, 최대 20%까지 줄었다는 사례도 있었다.\n\n\n\n그러나 이 ...",
-      "link": "https://www.itworld.co.kr/article/4167561/ai%eb%a1%9c-%ec%9e%90%eb%a5%b4%eb%a9%b4-roi%ea%b0%80-%ec%98%a4%eb%a5%b8%eb%8b%a4-%ea%b0%80%ed%8a%b8%eb%84%88-%ea%b7%b8%eb%a0%87%ec%a7%80-%ec%95%8a%eb%8b%a4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "20년 묵은 버그가 깨어났다…AI가 포스트그레SQL·마리아DB 취약점 발굴",
-      "desc": "AI가 수십 년 된 버퍼 오버플로 문제를 광범위하게 사용되는 구성요소에서 발굴하면서 오픈소스 데이터베이스가 오래된 메모리 문제에 직면하고 있다. 보안 연구자가 포스트그레SQL(PostgreSQL)과 마리아DB(MariaDB)에 영향을 미치는 고심각도·심각 등급 취...",
-      "link": "https://www.itworld.co.kr/article/4167545/20%eb%85%84-%eb%ac%b5%ec%9d%80-%eb%b2%84%ea%b7%b8%ea%b0%80-%ea%b9%a8%ec%96%b4%eb%82%ac%eb%8b%a4ai%ea%b0%80-%ed%8f%ac%ec%8a%a4%ed%8a%b8%ea%b7%b8%eb%a0%88sql%c2%b7%eb%a7%88%eb%a6%ac%ec%95%84db.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "엣지 브라우저, 비밀번호 평문 노출…마이크로소프트 “설계 의도”",
-      "desc": "한 노르웨이 연구자가 엣지에 비밀번호를 저장하면 브라우저가 시작 시 모든 자격증명을 복호화하고 사용자가 해당 사이트를 방문하지 않더라도 프로세스 메모리에 평문으로 상주시킨다는 사실을 엑스(X) 게시물을 통해 밝혔다.\n\n\n\n톰 예란 쇤스테뷔세테르 뢰닝의 발견은 독일...",
-      "link": "https://www.itworld.co.kr/article/4167538/%ec%97%a3%ec%a7%80-%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ed%8f%89%eb%ac%b8-%eb%85%b8%ec%b6%9c%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "이력서부터 면접까지 AI로 속인다…기업을 파고드는 가짜 IT 직원",
-      "desc": "가짜 IT 직원 채용이 최근 몇 년 사이 심각한 문제로 떠오르고 있다. 그러나 인정하려는 기업은 거의 없다. 포춘 500대 기업부터 소규모 기업까지 원격 채용 관행이 악용되면서, 실제 신원을 숨긴 사람들이 신뢰받는 내부자로 접근 권한을 얻는 내부 위협이 현실화되고...",
-      "link": "https://www.itworld.co.kr/article/4167528/%ec%9d%b4%eb%a0%a5%ec%84%9c%eb%b6%80%ed%84%b0-%eb%a9%b4%ec%a0%91%ea%b9%8c%ec%a7%80-ai%eb%a1%9c-%ec%86%8d%ec%9d%b8%eb%8b%a4%ea%b8%b0%ec%97%85%ec%9d%84-%ed%8c%8c%ea%b3%a0%eb%93%9c%eb%8a%94.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "매스웍스-기초과학연구원, 국내 기초과학 연구를 위한 고성능 컴퓨팅 접근성 확대를 위한 호스팅 계약 체결",
-      "desc": "인공지능(AI) 및 테크니컬 컴퓨팅 소프트웨어 분야의 선도 기업 매스웍스(MathWorks)가 국내 기초과학 분야 종합연구기관인 기초과학연구원과 호스팅 계약(HPA Host Provider Agreemen)을 체결했다고 7일 밝혔다.이번 협력은 국내 매스웍스 라이...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39937",
+      "title": "현대로템, 안두릴과 AI 지휘통제체계 구축...유무인복합 지휘통제 고도화",
+      "desc": "현대로템이 인공지능(AI) 기반 유·무인복합(MUM-T) 지휘통제체계 구축에 나선다.현대로템은 안두릴(Anduril)과 지난 7일, 서울 종로구 포시즌스 호텔에서 무기체계 고도화를 위한 업무협약(MOU)을 맺었다. 안두릴은 AI 기반 전투 운용 소프트웨어를 개발하...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39949",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "마이크로소프트, AI 에이전트 보안·거버넌스 통합 관제 플랫폼 ‘에이전트 365’ 정식 출시",
-      "desc": "마이크로소프트가 인공지능(AI) 에이전트의 안전한 운용과 보안 및 거버넌스 강화를 지원하는 마이크로소프트 에이전트 365(Microsoft Agent 365)를 정식 출시했다.최근 AI 에이전트가 앱, 엔드포인트, 클라우드 전반에 걸쳐 빠르게 확산됨에 따라, 보안...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39936",
+      "title": "기존 AI허브 데이터, 업사이클링 통해 추론용 학습 데이터로 새롭게 혁신",
+      "desc": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 과기정통부)와 한국지능정보사회진흥원(원장 김형철)은 기존 AI 허브 데이터를 최신 생성형 AI 기술 환경에 맞게 재가공하는 'AI 학습용데이터 업사이클링' 사업 공고가 지난달 30일부터 시작된다고 7일 밝...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39948",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "NIA, AI윤리 기반 공공 AX 선도...기보 AI윤리 준수기관 확인마크 수여, 중소·벤처기업 AI윤리 확산 협력 강화",
-      "desc": "한국지능정보사회진흥원(원장 김형철, 이하 NIA)은 기술보증기금(이사장 김종호, 이하 기보)과 ‘신뢰받는 공공 인공지능 전환(AX) 선도’를 위한 업무협약을 체결하고, 기보에 ‘AI윤리 준수기관’ 확인마크를 수여했다고 7일 밝혔다.최근 인공지능(AI) 기술이 사회...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39935",
+      "title": "인공지능 데이터센터 특별법 국회 본회의 통과... ‘27년 2월 중 시행 예정",
+      "desc": "과학기술정보통신부(부총리 겸 장관 배경훈, 이하, 과기정통부)는 인공지능 데이터센터(AIDC) 산업 진흥에 관한 특별법(이하, AIDC 특별법) 제정안이 7일, 국회 본회의에서 의결되었다.글로벌 AI 패권 경쟁이 심화되는 가운데 대규모 GPU 확보와 함께 이를 수...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39947",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "‘환각 제로’ 문서 AI로 업무 자동화 혁신…한국딥러닝, AI EXPO KOREA 2026서 차세대 문서 에이전트 플랫폼 ‘딥에이전트’ 공개",
-      "desc": "공공·기업용 시각지능 통합 솔루션 전문기업 한국딥러닝(대표 김지현)이 서울 삼성동 코엑스에서 6일부터 8일까지 사흘간 펼쳐지는 아시아 최대 인공지능 전문 전시회 제 9회 국제인공지능대전(AI EXPO KOREA 2026)에 참가해 차세대 문서 에이전트 플랫폼 ‘딥...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39934",
+      "title": "국가 R&D 연구데이터의 관리·활용 체계를 마련하는 '국가연구데이터법' 제정",
+      "desc": "과학기술정보통신부(부총리 겸 장관 배경훈, 이하 과기정통부)는 국가연구데이터 관리 및 활용 촉진에 관한 법률안(이하, 국가연구데이터법) 제정안이 7일, 국회 본회의에서 의결되었다.연구데이터는 연구개발 과정에서 실험, 관찰, 조사 및 분석 등을 통해 생산되는 데이터...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39946",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "야놀자, ‘AI EXPO KOREA 2026’ 참가…AI로 여는 차세대 여행 생태계 공개",
-      "desc": "글로벌 트래블 테크 기업 야놀자(총괄대표 이수진)가 6일부터 8일까지 서울 삼성동 코엑스(COEX)에서 개최된 아시아 최대 규모의 인공지능 전문 전시회, ‘제9회 국제인공지능대전(AI EXPO KOREA 2026)’ 참가해 여행 산업 특화 AI 기술을 선보였다.야...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39933",
+      "title": "대동, 2030년 매출 3.59조 청사진…‘농업 피지컬 AI’ 기업 전환",
+      "desc": "대동그룹 상장 3사인 대동, 대동기어, 대동금속이 ‘농업 피지컬 AI’를 기반으로 한 중장기 성장 전략과 주주환원 정책을 담은 기업가치 제고(밸류업) 계획을 7일 공시했다. 기존 농기계 중심의 사업 구조를 넘어 인공지능(AI) 농업 운영 플랫폼과 로봇·첨단소재 사...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39945",
       "source": "AI Times"
     }
   ]
