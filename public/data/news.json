@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-05-07T23:57:39.966Z",
+  "lastUpdated": "2026-05-08T23:59:25.341Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "“소프트웨어는 더 배고파질 것” AI 시대에도 개발자는 사라지지 않아",
-      "desc": "필자는 AI가 소프트웨어 개발자의 일자리를 없애는 미래를 전혀 걱정하지 않는다. 실제로 곧 소프트웨어 개발 일자리와 모든 사람이 접할 수 있는 소프트웨어 양 모두 폭발적으로 증가할 것이라고 확신한다.\n\n\n\n사람들은 항상 자동화가 대량 실업을 초래할까봐 걱정해왔다....",
-      "link": "https://www.itworld.co.kr/article/4168148/ai%ea%b0%80-%ec%bd%94%eb%93%9c%eb%a5%bc-%ec%93%b0%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%98%a4%ed%9e%88%eb%a0%a4-%ed%8f%ad%ec%a6%9d%ed%95%a0-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ea%b0%9c%eb%b0%9c.html",
+      "title": "프론트엔드 아키텍처의 트릴레마 : 반응성, 하이퍼미디어, 로컬 우선 앱",
+      "desc": "소프트웨어 개발 업계가 대규모 언어 모델(LLM)을 정신없이 채택하는 동안 프론트엔드 생태계는 경쟁 관계이면서 상호 연관되기도 한 3개의 아키텍처 패러다임으로 조용히 분열됐다. 반응형 프레임워크의 지배력, 진정한 REST의 하이퍼미디어 기반 단순성, 그리고 어디에...",
+      "link": "https://www.itworld.co.kr/article/4168189/%ed%94%84%eb%a1%a0%ed%8a%b8%ec%97%94%eb%93%9c-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98%ec%9d%98-%ed%8a%b8%eb%a6%b4%eb%a0%88%eb%a7%88-%eb%b0%98%ec%9d%91%ec%84%b1-%ed%95%98%ec%9d%b4%ed%8d%bc%eb%af%b8.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "앤트로픽, 스페이스X와 제휴로 클로드 코드 사용량 2배 확대",
-      "desc": "앤트로픽이 클로드 코드 접근권을 없애는 방식으로 저가형 구독 요금제를 축소하는 대신, 구독자를 위해 클로드 코드 사용량을 2배로 늘리기로 했다. 이례적인 협력 관계 덕분에 가능했다.\n\n\n\n샌프란시스코에서 열린 ‘클로드로 코딩하기’ 개발자 컨퍼런스 첫날, 앤트로픽은...",
-      "link": "https://www.itworld.co.kr/article/4168139/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4x%ec%99%80-%ec%a0%9c%ed%9c%b4%eb%a1%9c-%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%82%ac%ec%9a%a9%eb%9f%89-2%eb%b0%b0.html",
+      "title": "“내 데이터인데 왜 돈 내야 보나” 링크드인, EU서 법적 도전 직면",
+      "desc": "프로필을 방문한 사람 목록을 보여주는 링크드인의 기능이 EU 사용자 모두에게 무료로 제공되어야 하며, 그렇지 않을 경우 EU의 일반개인정보보호법(GDPR)을 위반하는 것이라는 법적 주장이 제기됐다. 이 소송은 디지털 권리 단체인 NOYB(None of Your B...",
+      "link": "https://www.itworld.co.kr/article/4168644/%eb%82%b4-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%9d%b8%eb%8d%b0-%ec%99%9c-%eb%8f%88-%eb%82%b4%ec%95%bc-%eb%b3%b4%eb%82%98-%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-eu%ec%84%9c-%eb%b2%95%ec%a0%81.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "“핵심 사용자 먼저”…테이크투, GTA 6 출시 전략 밝혀",
-      "desc": "테이크투의 CEO 스트라우스 젤닉이 최근 블룸버그와의 인터뷰에서 차기작 그랜드 테프트 오토 6(GTA 6)을 두고 PC가 ‘핵심 사용자’ 층이 아니라고 말했다.\n\n\n\n젤닉은 블룸버그에 “록스타는 항상 신작을 콘솔부터 출시한다. 왜냐하면 핵심 사용자를 제대로 최우선...",
-      "link": "https://www.itworld.co.kr/article/4168105/%ed%95%b5%ec%8b%ac-%ec%82%ac%ec%9a%a9%ec%9e%90-%eb%a8%bc%ec%a0%80%ed%85%8c%ec%9d%b4%ed%81%ac%ed%88%ac-gta-6-%ec%b6%9c%ec%8b%9c-%ec%a0%84%eb%9e%b5-%eb%b0%9d%ed%98%80.html",
+      "title": "“바이브 코딩 Vs. 사양 주도 개발” AI 시대 개발 방식 선택 기준은?",
+      "desc": "바이브 코딩과 사양 주도 개발(SDD)은 데브옵스 팀이 AI를 사용해 애플리케이션 코드를 개발하는 두 가지 새로운 접근 방식이다. 다양한 사용 사례에 어떤 접근 방식을 사용할지에 대해서는 여러 의견이 있고, 많은 플랫폼이 서로 다른 기능과 경험을 제공한다. 신뢰할...",
+      "link": "https://www.itworld.co.kr/article/4168198/%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9-vs-%ec%82%ac%ec%96%91-%ec%a3%bc%eb%8f%84-%ea%b0%9c%eb%b0%9c-ai-%ec%8b%9c%eb%8c%80-%ea%b0%9c%eb%b0%9c-%eb%b0%a9%ec%8b%9d-%ec%84%a0.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "“자연스러운 대화부터 멀티태스킹까지”…iOS 27 시리 신기능 총정리",
-      "desc": "지금까지 시리는 날씨 확인, 음악 재생, 위키피디아 데이터 검색 등 기본적인 작업을 아이폰에서 수행해왔다. 이런 용도만이라면 충분하지만, 시리의 이해 능력은 제한적이어서 단어를 신중히 선택하여 간결하게 표현해야만 올바르게 이해한다.\n\n\n\n경쟁사의 음성 어시스턴트도...",
-      "link": "https://www.itworld.co.kr/article/4168099/%ec%9e%90%ec%97%b0%ec%8a%a4%eb%9f%ac%ec%9a%b4-%eb%8c%80%ed%99%94%eb%b6%80%ed%84%b0-%eb%a9%80%ed%8b%b0%ed%83%9c%ec%8a%a4%ed%82%b9%ea%b9%8c%ec%a7%80ios-27-%ec%8b%9c%eb%a6%ac-%ec%8b%a0.html",
+      "title": "메모리 품귀 여파, 울트라 맥 스튜디오 256GB·프로 맥 미니 64GB 사양 삭제",
+      "desc": "메모리 부족 사태가 이어지면서, 규모와 영향력을 막론하고 기업은 현실에 맞게 전략을 조정해야 하는 상황에 놓였다. 고용량 메모리를 탑재하는 것은 점점 더 어려워지고 있으며, 그 여파로 울트라 맥 스튜디오와 맥 미니의 일부 사양 옵션이 애플 스토어에서 사라진 사실이...",
+      "link": "https://www.itworld.co.kr/article/4168629/%eb%a9%94%eb%aa%a8%eb%a6%ac-%ed%92%88%ea%b7%80-%ec%97%ac%ed%8c%8c-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%eb%a7%a5-%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-256gb%c2%b7%ed%94%84%eb%a1%9c-%eb%a7%a5-%eb%af%b8%eb%8b%88.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "보안·복잡성 높은 환경에서도 통했다…오픈텍스트의 AI 기반 콘텐츠 관리",
-      "desc": "오픈텍스트가 전략 실행 전문 기업 원얼라인드(One Aligned)와 협력해 미 해군(NAVSEA)의 작전 준비태세를 강화한 AI 기반 콘텐츠 관리 혁신 사례를 공개했다.\n\n\n\n국내에서도 제조, 방산, 에너지, 공공 부문을 중심으로 디지털 전환이 빨라지면서 기술 ...",
-      "link": "https://www.itworld.co.kr/article/4166282/%eb%b3%b4%ec%95%88%c2%b7%eb%b3%b5%ec%9e%a1%ec%84%b1-%eb%86%92%ec%9d%80-%ed%99%98%ea%b2%bd%ec%97%90%ec%84%9c%eb%8f%84-%ed%86%b5%ed%96%88%eb%8b%a4-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
+      "title": "우리 회사 Node.js 프로젝트, 정말 안전한가?",
+      "desc": "자바스크립트와 Node.js 팀에 부족한 것은 보안 툴이 아니라, 개발자가 릴리즈 전에 실제로 사용할 수 있는 종속성 보안 워크플로우다.\n\n\n\n패키지가 설치되고 CI(지속적 통합)가 실행되고 파이프라인 어딘가에서 스캐너가 실행되고 최종적으로 보고서가 생성된다. 멀...",
+      "link": "https://www.itworld.co.kr/article/4168177/%ec%9a%b0%eb%a6%ac-%ed%9a%8c%ec%82%ac-node-js-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%a0%95%eb%a7%90-%ec%95%88%ec%a0%84%ed%95%9c%ea%b0%80.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "현대로템, 안두릴과 AI 지휘통제체계 구축...유무인복합 지휘통제 고도화",
-      "desc": "현대로템이 인공지능(AI) 기반 유·무인복합(MUM-T) 지휘통제체계 구축에 나선다.현대로템은 안두릴(Anduril)과 지난 7일, 서울 종로구 포시즌스 호텔에서 무기체계 고도화를 위한 업무협약(MOU)을 맺었다. 안두릴은 AI 기반 전투 운용 소프트웨어를 개발하...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39949",
+      "title": "오픈AI, GPT-5.5 기반 사이버 보안 접근 확대… 검증된 방어자 지원 강화",
+      "desc": "사이버 보안 대응의 중요성이 커지는 가운데, 오픈AI는 GPT-5.5의 사이버 보안 역량을 검증된 방어자(보안 담당자)가 더 효과적으로 활용할 수 있도록 ‘사이버 보안을 위한 신뢰 기반 접근(Trusted Access for Cyber, TAC)’을 확대하고, 선...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39953",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "기존 AI허브 데이터, 업사이클링 통해 추론용 학습 데이터로 새롭게 혁신",
-      "desc": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 과기정통부)와 한국지능정보사회진흥원(원장 김형철)은 기존 AI 허브 데이터를 최신 생성형 AI 기술 환경에 맞게 재가공하는 'AI 학습용데이터 업사이클링' 사업 공고가 지난달 30일부터 시작된다고 7일 밝...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39948",
+      "title": "KB금융, 'AI EXPO KOREA 2026'에서 에이지테크의 미래 선보여",
+      "desc": "KB금융그룹(회장 양종희)이 6일부터 8일까지 3일간 서울 코엑스에서 열린 인공지능(AI) 분야 아시아 최대 행사인 '제 9회 국제인공지능대전(AI EXPO KOREA 2026)'에 참가해 국내 금융권 최초로 휴머노이드 로봇을 활용한 시니어 케어 특화 '피지컬 A...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39952",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "인공지능 데이터센터 특별법 국회 본회의 통과... ‘27년 2월 중 시행 예정",
-      "desc": "과학기술정보통신부(부총리 겸 장관 배경훈, 이하, 과기정통부)는 인공지능 데이터센터(AIDC) 산업 진흥에 관한 특별법(이하, AIDC 특별법) 제정안이 7일, 국회 본회의에서 의결되었다.글로벌 AI 패권 경쟁이 심화되는 가운데 대규모 GPU 확보와 함께 이를 수...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39947",
+      "title": "'챗GPT 광고 파일럿' 한국으로 확대...챗GPT 무료 및 Go 요금제 성인 이용자 대상",
+      "desc": "오픈AI가 챗GPT 광고 파일럿을 한국으로 확대한다. 현재 미국, 캐나다, 호주, 뉴질랜드에서 진행 중인 파일럿은 향후 수 주 내 한국, 영국, 일본, 브라질, 멕시코로 확대될 예정이며, 챗GPT 무료 및 고(Go) 요금제의 성인 이용자를 대상으로 한다.오픈AI는...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39951",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "국가 R&D 연구데이터의 관리·활용 체계를 마련하는 '국가연구데이터법' 제정",
-      "desc": "과학기술정보통신부(부총리 겸 장관 배경훈, 이하 과기정통부)는 국가연구데이터 관리 및 활용 촉진에 관한 법률안(이하, 국가연구데이터법) 제정안이 7일, 국회 본회의에서 의결되었다.연구데이터는 연구개발 과정에서 실험, 관찰, 조사 및 분석 등을 통해 생산되는 데이터...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39946",
+      "title": "“듣고, 추론하고, 번역하고, 행동한다”…오픈AI, 차세대 실시간 음성 AI 모델 3종 공개",
+      "desc": "오픈AI(OpenAI)가 실시간 음성 기반 인공지능 시대를 겨냥한 차세대 오디오 모델 3종을 공개했다. 이번 발표는 기존의 단순 음성 응답 수준을 넘어, 실시간 추론·번역·전사·도구 실행까지 가능한 새로운 음성 인터페이스 시대를 본격화했다는 평가를 받고 있다.오픈...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39950",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "대동, 2030년 매출 3.59조 청사진…‘농업 피지컬 AI’ 기업 전환",
-      "desc": "대동그룹 상장 3사인 대동, 대동기어, 대동금속이 ‘농업 피지컬 AI’를 기반으로 한 중장기 성장 전략과 주주환원 정책을 담은 기업가치 제고(밸류업) 계획을 7일 공시했다. 기존 농기계 중심의 사업 구조를 넘어 인공지능(AI) 농업 운영 플랫폼과 로봇·첨단소재 사...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39945",
+      "title": "현대로템, 안두릴과 AI 지휘통제체계 구축...유무인복합 지휘통제 고도화",
+      "desc": "현대로템이 인공지능(AI) 기반 유·무인복합(MUM-T) 지휘통제체계 구축에 나선다.현대로템은 안두릴(Anduril)과 지난 7일, 서울 종로구 포시즌스 호텔에서 무기체계 고도화를 위한 업무협약(MOU)을 맺었다. 안두릴은 AI 기반 전투 운용 소프트웨어를 개발하...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39949",
       "source": "AI Times"
     }
   ]
