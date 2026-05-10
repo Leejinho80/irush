@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-05-09T23:54:31.049Z",
+  "lastUpdated": "2026-05-10T23:57:08.047Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "애플-인텔 미국 칩 제조 협력, 예비 합의 체결",
+      "desc": "월스트리트저널은 애플과 인텔이 칩 제조를 위한 공식 합의에 도달했다고 보도했다. 다만 구체적 세부 사항은 아직 공개되지 않았다.\n\n\n\n월스트리트저널의 보도에 따르면 애플과 인텔이 애플 칩 일부를 제조하기 위한 예비 합의에 도달했다. WSJ와 블룸버그는 지난주 애플...",
+      "link": "https://www.itworld.co.kr/article/4169138/%ec%95%a0%ed%94%8c-%ec%9d%b8%ed%85%94-%eb%af%b8%ea%b5%ad-%ec%b9%a9-%ec%a0%9c%ec%a1%b0-%ed%98%91%eb%a0%a5-%ec%98%88%eb%b9%84-%ed%95%a9%ec%9d%98-%ec%b2%b4%ea%b2%b0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
       "title": "프론트엔드 아키텍처의 트릴레마 : 반응성, 하이퍼미디어, 로컬 우선 앱",
       "desc": "소프트웨어 개발 업계가 대규모 언어 모델(LLM)을 정신없이 채택하는 동안 프론트엔드 생태계는 경쟁 관계이면서 상호 연관되기도 한 3개의 아키텍처 패러다임으로 조용히 분열됐다. 반응형 프레임워크의 지배력, 진정한 REST의 하이퍼미디어 기반 단순성, 그리고 어디에...",
       "link": "https://www.itworld.co.kr/article/4168189/%ed%94%84%eb%a1%a0%ed%8a%b8%ec%97%94%eb%93%9c-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98%ec%9d%98-%ed%8a%b8%eb%a6%b4%eb%a0%88%eb%a7%88-%eb%b0%98%ec%9d%91%ec%84%b1-%ed%95%98%ec%9d%b4%ed%8d%bc%eb%af%b8.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "03",
       "title": "“내 데이터인데 왜 돈 내야 보나” 링크드인, EU서 법적 도전 직면",
       "desc": "프로필을 방문한 사람 목록을 보여주는 링크드인의 기능이 EU 사용자 모두에게 무료로 제공되어야 하며, 그렇지 않을 경우 EU의 일반개인정보보호법(GDPR)을 위반하는 것이라는 법적 주장이 제기됐다. 이 소송은 디지털 권리 단체인 NOYB(None of Your B...",
       "link": "https://www.itworld.co.kr/article/4168644/%eb%82%b4-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%9d%b8%eb%8d%b0-%ec%99%9c-%eb%8f%88-%eb%82%b4%ec%95%bc-%eb%b3%b4%eb%82%98-%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-eu%ec%84%9c-%eb%b2%95%ec%a0%81.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "04",
       "title": "“바이브 코딩 Vs. 사양 주도 개발” AI 시대 개발 방식 선택 기준은?",
       "desc": "바이브 코딩과 사양 주도 개발(SDD)은 데브옵스 팀이 AI를 사용해 애플리케이션 코드를 개발하는 두 가지 새로운 접근 방식이다. 다양한 사용 사례에 어떤 접근 방식을 사용할지에 대해서는 여러 의견이 있고, 많은 플랫폼이 서로 다른 기능과 경험을 제공한다. 신뢰할...",
       "link": "https://www.itworld.co.kr/article/4168198/%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9-vs-%ec%82%ac%ec%96%91-%ec%a3%bc%eb%8f%84-%ea%b0%9c%eb%b0%9c-ai-%ec%8b%9c%eb%8c%80-%ea%b0%9c%eb%b0%9c-%eb%b0%a9%ec%8b%9d-%ec%84%a0.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
+      "number": "05",
       "title": "메모리 품귀 여파, 울트라 맥 스튜디오 256GB·프로 맥 미니 64GB 사양 삭제",
       "desc": "메모리 부족 사태가 이어지면서, 규모와 영향력을 막론하고 기업은 현실에 맞게 전략을 조정해야 하는 상황에 놓였다. 고용량 메모리를 탑재하는 것은 점점 더 어려워지고 있으며, 그 여파로 울트라 맥 스튜디오와 맥 미니의 일부 사양 옵션이 애플 스토어에서 사라진 사실이...",
       "link": "https://www.itworld.co.kr/article/4168629/%eb%a9%94%eb%aa%a8%eb%a6%ac-%ed%92%88%ea%b7%80-%ec%97%ac%ed%8c%8c-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%eb%a7%a5-%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-256gb%c2%b7%ed%94%84%eb%a1%9c-%eb%a7%a5-%eb%af%b8%eb%8b%88.html",
       "source": "ITWorld"
     },
     {
-      "number": "05",
-      "title": "우리 회사 Node.js 프로젝트, 정말 안전한가?",
-      "desc": "자바스크립트와 Node.js 팀에 부족한 것은 보안 툴이 아니라, 개발자가 릴리즈 전에 실제로 사용할 수 있는 종속성 보안 워크플로우다.\n\n\n\n패키지가 설치되고 CI(지속적 통합)가 실행되고 파이프라인 어딘가에서 스캐너가 실행되고 최종적으로 보고서가 생성된다. 멀...",
-      "link": "https://www.itworld.co.kr/article/4168177/%ec%9a%b0%eb%a6%ac-%ed%9a%8c%ec%82%ac-node-js-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%a0%95%eb%a7%90-%ec%95%88%ec%a0%84%ed%95%9c%ea%b0%80.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "아이엘, 휴머노이드 ‘아이엘봇’ 적용 공정서 작업시간 28% 단축 확인... 생산 처리량 38.8% 증가",
-      "desc": "풀스택 미래모빌리티 플랫폼 기업 아이엘은 지난 8일, 자체 추진 중인 인공지능(AI) 기반 휴머노이드 기반 자동화 프로젝트 ‘아이엘봇(ILBOT)’의 자동차 부품 사출공정 파일럿 테스트 결과, 기존 대비 작업시간이 약 28% 단축되는 성과를 확인했다고 밝혔다.이번...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39959",
+      "title": "농촌진흥청, 국가표준식품성분 데이터베이스 10.4 공개...아시아 최고 수준의 식품 성분 데이터 확보",
+      "desc": "농촌진흥청(청장 이승돈)은 국민 식생활 변화와 식품산업 현장 수요에 대응하기 위해 식품 3,366점에 대한 130종, 30만 4,853건의 영양성분 정보 담은 ‘국가표준식품성분 데이터베이스 10.4’를 공개했다.‘국가표준식품성분표’는 1970년 초판 발간 이후 5...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39963",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "롯데이노베이트, 피지컬 AI 인재 양성 위한 '생성AI 선도 인재 양성' 주관기관 선정",
-      "desc": "롯데이노베이트가 과학기술정보통신부와 정보통신기획평가원이 주관한 2026년 ‘생성형 AI 선도 인재 양성 사업’의 주관기관으로 선정됐다고 9일 밝혔다.이번 사업은 산업계와 학계가 현장 문제를 해결하는 산학협력형 인재 양성 체계 구축을 목표로 한다. 특히 휴머노이드 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39958",
+      "title": "모픽, 제품 이미지·영상만으로 뷰티 콘텐츠 완성하는 ‘K-뷰티 워크플로’ 10종 출시",
+      "desc": "K-뷰티 브랜드가 아마존, 틱톡샵 등 글로벌 플랫폼으로 접점을 확장하며 비즈니스 영토를 넓히고 있으나, 이를 뒷받침할 마케팅 콘텐츠 제작 현장은 인력과 시간의 한계에 직면해 있다.이에 올인원 영상 인공지능(AI) 플랫폼 모픽 (Morphic)은 제품 이미지 및 영...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39962",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "마키나락스, 공모가 상단 15,000원 확정…의무보유 확약률 ‘코스닥 역대 최고 기록’",
-      "desc": "국내 대표 피지컬 AI 기업 마키나락스(MakinaRocks, 대표 윤성호)는 국내외 기관투자자를 대상으로 수요예측을 진행한 결과, 최종 공모가를 희망 밴드(12,500원~15,000원) 상단인 15,000원으로 확정했다고 9일 밝혔다.지난 4월 28일부터 5월 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39957",
+      "title": "인공지능 \"이제 걷고, 움직이고, 행동한다\"…AI 혁신의 정점 찍어, 제9회 국제인공지능산업대전(AI EXPO KOREA 2026) 성료",
+      "desc": "인공지능(AI) 패권 경쟁의 중심축이 생성형 AI를 넘어 실세계 AI(Real World AI)와 일반인공지능(AGI)로 급속히 이동하는 가운데, 아시아 최대 규모 AI 행사인 ‘제9회 국제인공지능산업대전(AI EXPO KOREA 2026)’이 지난 6일부터 8일...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39960",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "한전, 전력산업 AX 선도할 ‘KEPCO Energy AI Partners’공식 출범",
-      "desc": "한국전력(사장 김동철, 이하 한전)이 지난 8일 한전 남서울본부에서 전력산업 인공지능 대전환(AX)을 위한 'KEPCO Energy AI Partners' 킥오프 회의를 개최했다. 이번 행사는 정부·공공·민간·학계가 한전과 손잡고 전력 생태계 AI 협력 네트워크를...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39956",
+      "title": "류재철 CEO “‘문제 드러내기, 이기는 실행’으로 구성원과 함께 성장하는 일등 LG전자 만들자”",
+      "desc": "LG전자 류재철 CEO가 “문제를 드러내고 이기는 실행에 집중해 구성원과 함께 성장하는 일등 LG전자를 만들자”고 강조했다. 최근 서울 마곡 LG사이언스파크에서 진행한 취임 첫 전체 구성원 대상 타운홀 미팅에서다.그는 1989년 금성사 가전연구소 연구원으로 입사해...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39961",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "이언주 민주당 수석최고위원, 10월 '국제 피지컬AI 표준포럼' 추진...AI EXPO KOREA 2026서 한국피지컬AI협회와 정책 간담회",
-      "desc": "이언주 더불어민주당 수석최고위원(미래경제성장전략위원회 위원장, AI강국위원회 수석부위원장)이 아시아 최대 규모의 인공지능 전시회 ‘제9회 국제인공지능산업대전(AI EXPO KOREA 2026)’ 현장을 지난 8일, 방문해 한국피지컬AI협회 공동관에 참여한 주요 기...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39955",
+      "title": "아이엘, 휴머노이드 ‘아이엘봇’ 적용 공정서 작업시간 28% 단축 확인... 생산 처리량 38.8% 증가",
+      "desc": "풀스택 미래모빌리티 플랫폼 기업 아이엘은 지난 8일, 자체 추진 중인 인공지능(AI) 기반 휴머노이드 기반 자동화 프로젝트 ‘아이엘봇(ILBOT)’의 자동차 부품 사출공정 파일럿 테스트 결과, 기존 대비 작업시간이 약 28% 단축되는 성과를 확인했다고 밝혔다.이번...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39959",
       "source": "AI Times"
     }
   ]
