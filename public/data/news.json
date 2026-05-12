@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-05-10T23:57:08.047Z",
+  "lastUpdated": "2026-05-12T00:02:49.982Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "RAM 부족 현상이 몰고 온 DDR5 위조품 범람",
+      "desc": "퀵 바이(Caveat emptor, 구매자 주의)는 항상 사기꾼이 내걸었던 구호지만, 2026년 개인용 컴퓨터 시장의 악몽 같은 상황에서 거래하거나, 특히 크레이그리스트나 이베이 같은 중고 거래 플랫폼을 이용할 때는 더욱 명심할 필요가 있다. RAM 부족 현상 때...",
+      "link": "https://www.itworld.co.kr/article/4169719/ram-%eb%b6%80%ec%a1%b1-%ed%98%84%ec%83%81%ec%9d%b4-%eb%aa%b0%ea%b3%a0-%ec%98%a8-ddr5-%ec%9c%84%ec%a1%b0%ed%92%88-%eb%b2%94%eb%9e%8c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "미국 정부, 생성형 AI 모델 출시 전 안전 테스트 실시",
+      "desc": "CAISI가 구글, 마이크로소프트, xAI와 협약을 체결하면서 백악관의 자체 AI 검증 시스템 구축 추진 계획 보도에 앞서 움직임을 보였다.\n\n\n\n미국 상무부 산하 AI 표준 및 혁신 센터(CAISI)는 구글 딥마인드, 마이크로소프트, xAI와 협약을 체결했다. ...",
+      "link": "https://www.itworld.co.kr/article/4169165/%eb%af%b8%ea%b5%ad-%ec%a0%95%eb%b6%80-%ec%83%9d%ec%84%b1%ed%98%95-ai-%eb%aa%a8%eb%8d%b8-%ec%b6%9c%ec%8b%9c-%ec%a0%84-%ec%95%88%ec%a0%84-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%8b%a4%ec%8b%9c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "AI 에이전트 중심으로 재편되는 엔지니어링 팀 구조 트렌드",
+      "desc": "브라우저베이스의 창업자 겸 CEO 폴 클라인 4세는 엔지니어링 팀 내 AI 도입 속도에 대해 언급하며 밤새 가장 인상적인 발언을 남겼다. “이 시점에서 AI가 개인의 전체 업무를 못 하면 기술에 문제가 있는 것”이라는 발언이다.\n\n\n\n마스트라의 창업자 겸 최고기술...",
+      "link": "https://www.itworld.co.kr/article/4169156/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%a4%91%ec%8b%ac%ec%9c%bc%eb%a1%9c-%ec%9e%ac%ed%8e%b8%eb%90%98%eb%8a%94-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a7%81-%ed%8c%80-%ea%b5%ac%ec%a1%b0-%ed%8a%b8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "앤트로픽 클로드 확장, 악성 확장 프로그램의 권한 상승 취약점 노출",
+      "desc": "앤트로픽의 클로드 인 크롬 확장 프로그램이 악성 확장 프로그램에 의해 탈취될 수 있다는 보안 경고가 나왔다. 레이어엑스 보안의 연구원들은 클로드의 과도하게 신뢰된 브라우저 통신 흐름이 악용되어 스크립트를 주입할 수 있으며, 이는 어시스턴트의 역량을 탈취하고 브라우...",
+      "link": "https://www.itworld.co.kr/article/4169154/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-%ed%99%95%ec%9e%a5-%ec%95%85%ec%84%b1-%ed%99%95%ec%9e%a5-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8%ec%9d%98-%ea%b6%8c%ed%95%9c-%ec%83%81.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "애플-인텔 미국 칩 제조 협력, 예비 합의 체결",
       "desc": "월스트리트저널은 애플과 인텔이 칩 제조를 위한 공식 합의에 도달했다고 보도했다. 다만 구체적 세부 사항은 아직 공개되지 않았다.\n\n\n\n월스트리트저널의 보도에 따르면 애플과 인텔이 애플 칩 일부를 제조하기 위한 예비 합의에 도달했다. WSJ와 블룸버그는 지난주 애플...",
       "link": "https://www.itworld.co.kr/article/4169138/%ec%95%a0%ed%94%8c-%ec%9d%b8%ed%85%94-%eb%af%b8%ea%b5%ad-%ec%b9%a9-%ec%a0%9c%ec%a1%b0-%ed%98%91%eb%a0%a5-%ec%98%88%eb%b9%84-%ed%95%a9%ec%9d%98-%ec%b2%b4%ea%b2%b0.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "프론트엔드 아키텍처의 트릴레마 : 반응성, 하이퍼미디어, 로컬 우선 앱",
-      "desc": "소프트웨어 개발 업계가 대규모 언어 모델(LLM)을 정신없이 채택하는 동안 프론트엔드 생태계는 경쟁 관계이면서 상호 연관되기도 한 3개의 아키텍처 패러다임으로 조용히 분열됐다. 반응형 프레임워크의 지배력, 진정한 REST의 하이퍼미디어 기반 단순성, 그리고 어디에...",
-      "link": "https://www.itworld.co.kr/article/4168189/%ed%94%84%eb%a1%a0%ed%8a%b8%ec%97%94%eb%93%9c-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98%ec%9d%98-%ed%8a%b8%eb%a6%b4%eb%a0%88%eb%a7%88-%eb%b0%98%ec%9d%91%ec%84%b1-%ed%95%98%ec%9d%b4%ed%8d%bc%eb%af%b8.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "“내 데이터인데 왜 돈 내야 보나” 링크드인, EU서 법적 도전 직면",
-      "desc": "프로필을 방문한 사람 목록을 보여주는 링크드인의 기능이 EU 사용자 모두에게 무료로 제공되어야 하며, 그렇지 않을 경우 EU의 일반개인정보보호법(GDPR)을 위반하는 것이라는 법적 주장이 제기됐다. 이 소송은 디지털 권리 단체인 NOYB(None of Your B...",
-      "link": "https://www.itworld.co.kr/article/4168644/%eb%82%b4-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%9d%b8%eb%8d%b0-%ec%99%9c-%eb%8f%88-%eb%82%b4%ec%95%bc-%eb%b3%b4%eb%82%98-%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-eu%ec%84%9c-%eb%b2%95%ec%a0%81.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "“바이브 코딩 Vs. 사양 주도 개발” AI 시대 개발 방식 선택 기준은?",
-      "desc": "바이브 코딩과 사양 주도 개발(SDD)은 데브옵스 팀이 AI를 사용해 애플리케이션 코드를 개발하는 두 가지 새로운 접근 방식이다. 다양한 사용 사례에 어떤 접근 방식을 사용할지에 대해서는 여러 의견이 있고, 많은 플랫폼이 서로 다른 기능과 경험을 제공한다. 신뢰할...",
-      "link": "https://www.itworld.co.kr/article/4168198/%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9-vs-%ec%82%ac%ec%96%91-%ec%a3%bc%eb%8f%84-%ea%b0%9c%eb%b0%9c-ai-%ec%8b%9c%eb%8c%80-%ea%b0%9c%eb%b0%9c-%eb%b0%a9%ec%8b%9d-%ec%84%a0.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "메모리 품귀 여파, 울트라 맥 스튜디오 256GB·프로 맥 미니 64GB 사양 삭제",
-      "desc": "메모리 부족 사태가 이어지면서, 규모와 영향력을 막론하고 기업은 현실에 맞게 전략을 조정해야 하는 상황에 놓였다. 고용량 메모리를 탑재하는 것은 점점 더 어려워지고 있으며, 그 여파로 울트라 맥 스튜디오와 맥 미니의 일부 사양 옵션이 애플 스토어에서 사라진 사실이...",
-      "link": "https://www.itworld.co.kr/article/4168629/%eb%a9%94%eb%aa%a8%eb%a6%ac-%ed%92%88%ea%b7%80-%ec%97%ac%ed%8c%8c-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%eb%a7%a5-%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-256gb%c2%b7%ed%94%84%eb%a1%9c-%eb%a7%a5-%eb%af%b8%eb%8b%88.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "농촌진흥청, 국가표준식품성분 데이터베이스 10.4 공개...아시아 최고 수준의 식품 성분 데이터 확보",
-      "desc": "농촌진흥청(청장 이승돈)은 국민 식생활 변화와 식품산업 현장 수요에 대응하기 위해 식품 3,366점에 대한 130종, 30만 4,853건의 영양성분 정보 담은 ‘국가표준식품성분 데이터베이스 10.4’를 공개했다.‘국가표준식품성분표’는 1970년 초판 발간 이후 5...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39963",
+      "title": "어플라이드 머티어리얼즈, TSMC와 EPIC 센터서 협력… AI 스케일링 가속화",
+      "desc": "첨단 반도체 및 디스플레이를 위한 재료 공학 솔루션 선도 기업 어플라이드 머티어리얼즈(Applied Materials)가 TSMC와 30년 이상의 협력 관계를 바탕으로 차세대 인공지능(AI) 시대를 위한 반도체 기술 개발 및 상용화를 가속화하는 새로운 혁신 파트너...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39975",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "모픽, 제품 이미지·영상만으로 뷰티 콘텐츠 완성하는 ‘K-뷰티 워크플로’ 10종 출시",
-      "desc": "K-뷰티 브랜드가 아마존, 틱톡샵 등 글로벌 플랫폼으로 접점을 확장하며 비즈니스 영토를 넓히고 있으나, 이를 뒷받침할 마케팅 콘텐츠 제작 현장은 인력과 시간의 한계에 직면해 있다.이에 올인원 영상 인공지능(AI) 플랫폼 모픽 (Morphic)은 제품 이미지 및 영...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39962",
+      "title": "스탠퍼드대, AI와 데이터 사이언스 연구조직 역량 결집… ‘HAI’ 중심 통합 기구 출범",
+      "desc": "생성형 AI가 연구·교육·산업 전반을 빠르게 재편하는 가운데, 스탠퍼드는 인간 중심(Human-Centered) AI를 핵심 철학으로 내세우며 글로벌 AI 연구 생태계 주도권 강화에 본격적으로 나섰다.스탠퍼드는 최근 자사의 미국 스탠퍼드대학교(Stanford Un...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39974",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "인공지능 \"이제 걷고, 움직이고, 행동한다\"…AI 혁신의 정점 찍어, 제9회 국제인공지능산업대전(AI EXPO KOREA 2026) 성료",
-      "desc": "인공지능(AI) 패권 경쟁의 중심축이 생성형 AI를 넘어 실세계 AI(Real World AI)와 일반인공지능(AGI)로 급속히 이동하는 가운데, 아시아 최대 규모 AI 행사인 ‘제9회 국제인공지능산업대전(AI EXPO KOREA 2026)’이 지난 6일부터 8일...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39960",
+      "title": "광자 기반 양자컴퓨팅부터 양자통신·센싱까지…KIST 임향택 박사, “기초과학 없이 양자 산업도 없다”",
+      "desc": "양자 기술이 처음부터 산업을 목표로 움직였던 건 아니다. 지금은 양자컴퓨터와 양자통신이 국가 전략 기술로 불리지만, 불과 10여 년 전만 해도 국내에서 양자를 연구하는 사람들은 서로 이름을 대부분 알고 있을 정도로 작은 분야였다. 연구자들끼리 워크숍을 열어도 학생...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39973",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "류재철 CEO “‘문제 드러내기, 이기는 실행’으로 구성원과 함께 성장하는 일등 LG전자 만들자”",
-      "desc": "LG전자 류재철 CEO가 “문제를 드러내고 이기는 실행에 집중해 구성원과 함께 성장하는 일등 LG전자를 만들자”고 강조했다. 최근 서울 마곡 LG사이언스파크에서 진행한 취임 첫 전체 구성원 대상 타운홀 미팅에서다.그는 1989년 금성사 가전연구소 연구원으로 입사해...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39961",
+      "title": "현대모비스, 협력사 SW 인재확보 돕는 취업 교육 활동… 채용으로 이어졌다",
+      "desc": "현대모비스가 협력사들의 우수 소프트웨어 인재확보를 지원하는 교육 프로그램인 ‘모비우스 부트캠프’ 1기 수료생 270여 명을 성공리에 배출했다고 11일 밝혔다. 모비우스 부트캠프는 현대모비스가 취업준비생과 협력사 재직자에게 전문 교육 프로그램을 제공하고, 모빌리티 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39972",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "아이엘, 휴머노이드 ‘아이엘봇’ 적용 공정서 작업시간 28% 단축 확인... 생산 처리량 38.8% 증가",
-      "desc": "풀스택 미래모빌리티 플랫폼 기업 아이엘은 지난 8일, 자체 추진 중인 인공지능(AI) 기반 휴머노이드 기반 자동화 프로젝트 ‘아이엘봇(ILBOT)’의 자동차 부품 사출공정 파일럿 테스트 결과, 기존 대비 작업시간이 약 28% 단축되는 성과를 확인했다고 밝혔다.이번...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39959",
+      "title": "과기정통부-앤트로픽, AI 분야 협력을 위한 간담회 개최... AI 안전·신뢰 정책 발전 협력",
+      "desc": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 과기정통부)는 외교부(장관 조현), 국가정보원(원장 이종석), 금융위원회(위원장 이억원), 인공지능안전연구소(소장 김명주, 이하 AISI), 한국인터넷진흥원(원장 이상중, 이하 KISA) 및 금융보안원(원...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39971",
       "source": "AI Times"
     }
   ]
