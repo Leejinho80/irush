@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-05-12T00:02:49.982Z",
+  "lastUpdated": "2026-05-13T00:04:42.311Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "AI 급변기 기술력 기준 재편…AI 시대 기업의 채용 신호 엇갈려",
+      "desc": "미국 직장에서 채용 동결·감원 기조가 이어지면서 기술 인력 채용 속도가 둔화했지만, 기업은 한 가지 이득을 얻었다. 직무 후보자 선별이 쉬워진 것이다.\n\n\n\n많은 기업이 신입 사원에게 요구하는 자격이 더욱 명확해졌다. 대규모 코드 스택을 관리하는 역량보다 기업 수...",
+      "link": "https://www.itworld.co.kr/article/4169755/ai-%ea%b8%89%eb%b3%80%ea%b8%b0-%ea%b8%b0%ec%88%a0%eb%a0%a5-%ea%b8%b0%ec%a4%80-%ec%9e%ac%ed%8e%b8ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85%ec%9d%98-%ec%b1%84%ec%9a%a9-%ec%8b%a0%ed%98%b8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "사용자 신뢰를 잃지 않고 AI를 제품에 통합하려면?",
+      "desc": "생성형 AI가 소프트웨어 엔지니어링 발전에서 유망한 성과를 보였지만, 최종 사용자 애플리케이션에 포함되는 방식은 사뭇 다르다. AI 레이블이 붙은 기능이 모든 사용자 인터페이스에 계속 나타나고 있지만, 항상 도움이 되거나 유용한 것은 아니다. 과대광고에 영향을 받...",
+      "link": "https://www.itworld.co.kr/article/4169753/%ec%82%ac%ec%9a%a9%ec%9e%90-%ec%8b%a0%eb%a2%b0%eb%a5%bc-%ec%9e%83%ec%a7%80-%ec%95%8a%ea%b3%a0-ai%eb%a5%bc-%ec%a0%9c%ed%92%88%ec%97%90-%ed%86%b5%ed%95%a9%ed%95%98%eb%a0%a4%eb%a9%b4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
       "title": "RAM 부족 현상이 몰고 온 DDR5 위조품 범람",
       "desc": "퀵 바이(Caveat emptor, 구매자 주의)는 항상 사기꾼이 내걸었던 구호지만, 2026년 개인용 컴퓨터 시장의 악몽 같은 상황에서 거래하거나, 특히 크레이그리스트나 이베이 같은 중고 거래 플랫폼을 이용할 때는 더욱 명심할 필요가 있다. RAM 부족 현상 때...",
       "link": "https://www.itworld.co.kr/article/4169719/ram-%eb%b6%80%ec%a1%b1-%ed%98%84%ec%83%81%ec%9d%b4-%eb%aa%b0%ea%b3%a0-%ec%98%a8-ddr5-%ec%9c%84%ec%a1%b0%ed%92%88-%eb%b2%94%eb%9e%8c.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "04",
       "title": "미국 정부, 생성형 AI 모델 출시 전 안전 테스트 실시",
       "desc": "CAISI가 구글, 마이크로소프트, xAI와 협약을 체결하면서 백악관의 자체 AI 검증 시스템 구축 추진 계획 보도에 앞서 움직임을 보였다.\n\n\n\n미국 상무부 산하 AI 표준 및 혁신 센터(CAISI)는 구글 딥마인드, 마이크로소프트, xAI와 협약을 체결했다. ...",
       "link": "https://www.itworld.co.kr/article/4169165/%eb%af%b8%ea%b5%ad-%ec%a0%95%eb%b6%80-%ec%83%9d%ec%84%b1%ed%98%95-ai-%eb%aa%a8%eb%8d%b8-%ec%b6%9c%ec%8b%9c-%ec%a0%84-%ec%95%88%ec%a0%84-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%8b%a4%ec%8b%9c.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "05",
       "title": "AI 에이전트 중심으로 재편되는 엔지니어링 팀 구조 트렌드",
       "desc": "브라우저베이스의 창업자 겸 CEO 폴 클라인 4세는 엔지니어링 팀 내 AI 도입 속도에 대해 언급하며 밤새 가장 인상적인 발언을 남겼다. “이 시점에서 AI가 개인의 전체 업무를 못 하면 기술에 문제가 있는 것”이라는 발언이다.\n\n\n\n마스트라의 창업자 겸 최고기술...",
       "link": "https://www.itworld.co.kr/article/4169156/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%a4%91%ec%8b%ac%ec%9c%bc%eb%a1%9c-%ec%9e%ac%ed%8e%b8%eb%90%98%eb%8a%94-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a7%81-%ed%8c%80-%ea%b5%ac%ec%a1%b0-%ed%8a%b8.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
-      "title": "앤트로픽 클로드 확장, 악성 확장 프로그램의 권한 상승 취약점 노출",
-      "desc": "앤트로픽의 클로드 인 크롬 확장 프로그램이 악성 확장 프로그램에 의해 탈취될 수 있다는 보안 경고가 나왔다. 레이어엑스 보안의 연구원들은 클로드의 과도하게 신뢰된 브라우저 통신 흐름이 악용되어 스크립트를 주입할 수 있으며, 이는 어시스턴트의 역량을 탈취하고 브라우...",
-      "link": "https://www.itworld.co.kr/article/4169154/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-%ed%99%95%ec%9e%a5-%ec%95%85%ec%84%b1-%ed%99%95%ec%9e%a5-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8%ec%9d%98-%ea%b6%8c%ed%95%9c-%ec%83%81.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "애플-인텔 미국 칩 제조 협력, 예비 합의 체결",
-      "desc": "월스트리트저널은 애플과 인텔이 칩 제조를 위한 공식 합의에 도달했다고 보도했다. 다만 구체적 세부 사항은 아직 공개되지 않았다.\n\n\n\n월스트리트저널의 보도에 따르면 애플과 인텔이 애플 칩 일부를 제조하기 위한 예비 합의에 도달했다. WSJ와 블룸버그는 지난주 애플...",
-      "link": "https://www.itworld.co.kr/article/4169138/%ec%95%a0%ed%94%8c-%ec%9d%b8%ed%85%94-%eb%af%b8%ea%b5%ad-%ec%b9%a9-%ec%a0%9c%ec%a1%b0-%ed%98%91%eb%a0%a5-%ec%98%88%eb%b9%84-%ed%95%a9%ec%9d%98-%ec%b2%b4%ea%b2%b0.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "어플라이드 머티어리얼즈, TSMC와 EPIC 센터서 협력… AI 스케일링 가속화",
-      "desc": "첨단 반도체 및 디스플레이를 위한 재료 공학 솔루션 선도 기업 어플라이드 머티어리얼즈(Applied Materials)가 TSMC와 30년 이상의 협력 관계를 바탕으로 차세대 인공지능(AI) 시대를 위한 반도체 기술 개발 및 상용화를 가속화하는 새로운 혁신 파트너...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39975",
+      "title": "KAIST, AI 시대 과학외교 허브 구축...‘과기외교센터 출범, 기념 글로벌 포럼 개최",
+      "desc": "KAIST(총장 이광형)는 과학기술과 외교를 연결하는 ‘과기외교센터(KCSD, KAIST Center for Science Diplomacy)’를 공식 출범하고, 이를 기념하는 글로벌 포럼을 13일 개최한다KAIST는 과기외교센터를 통해 기술주권 확보와 글로벌 협...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40001",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "스탠퍼드대, AI와 데이터 사이언스 연구조직 역량 결집… ‘HAI’ 중심 통합 기구 출범",
-      "desc": "생성형 AI가 연구·교육·산업 전반을 빠르게 재편하는 가운데, 스탠퍼드는 인간 중심(Human-Centered) AI를 핵심 철학으로 내세우며 글로벌 AI 연구 생태계 주도권 강화에 본격적으로 나섰다.스탠퍼드는 최근 자사의 미국 스탠퍼드대학교(Stanford Un...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39974",
+      "title": "그룹아이비, 통합 지능형 보안 엔진 '프레빈 AI(Prevyn AI)' 출시...탐지와 예측형 사이버 방어 간의 격차 해소",
+      "desc": "디지털 범죄를 조사, 예방 및 대응하기 위한 사이버 보안 기술 분야의 글로벌 선도적 기업인 그룹아이비(Group-IB. 지사장 김기태)는 통합 지능형 보안 엔진 ‘프레빈 AI(Group-IB Prevyn AI)’를 출시한다고 13일 밝혔다.프레빈 AI(Prevyn...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40000",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "광자 기반 양자컴퓨팅부터 양자통신·센싱까지…KIST 임향택 박사, “기초과학 없이 양자 산업도 없다”",
-      "desc": "양자 기술이 처음부터 산업을 목표로 움직였던 건 아니다. 지금은 양자컴퓨터와 양자통신이 국가 전략 기술로 불리지만, 불과 10여 년 전만 해도 국내에서 양자를 연구하는 사람들은 서로 이름을 대부분 알고 있을 정도로 작은 분야였다. 연구자들끼리 워크숍을 열어도 학생...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39973",
+      "title": "SAP, 연례 컨퍼런스 ‘SAP 사파이어 2026’ 개막…통합된 SAP 비즈니스AI 플랫폼 공개",
+      "desc": "SAP가 미국 플로리다 올랜도에서 12일(현지시간) 개최한 연례 컨퍼런스 ‘SAP 사파이어(SAP Sapphire)’에서 전 세계의 핵심 비즈니스 워크플로우를 향상시킬 수 있도록 돕는 ‘자율형 엔터프라이즈(Autonomous Enterprise)’를 선보였다. 이...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39999",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "현대모비스, 협력사 SW 인재확보 돕는 취업 교육 활동… 채용으로 이어졌다",
-      "desc": "현대모비스가 협력사들의 우수 소프트웨어 인재확보를 지원하는 교육 프로그램인 ‘모비우스 부트캠프’ 1기 수료생 270여 명을 성공리에 배출했다고 11일 밝혔다. 모비우스 부트캠프는 현대모비스가 취업준비생과 협력사 재직자에게 전문 교육 프로그램을 제공하고, 모빌리티 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39972",
+      "title": "시맨틱스 적용한 조직, 에이전틱 AI 정확도 최대 80% 향상 및 비용 최대 60% 절감",
+      "desc": "실행 가능한 객관적인 인사이트를 제공하는 가트너(Gartner)가 시맨틱스(semantics)를 간과할 경우 AI 에이전트의 정확성과 효율성이 저하되고, 불필요한 비용 지출과 데이터 및 AI 거버넌스 리스크가 증가할 수 있다고 12일 밝혔다.인공지능 에이전트가 정...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39998",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "과기정통부-앤트로픽, AI 분야 협력을 위한 간담회 개최... AI 안전·신뢰 정책 발전 협력",
-      "desc": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 과기정통부)는 외교부(장관 조현), 국가정보원(원장 이종석), 금융위원회(위원장 이억원), 인공지능안전연구소(소장 김명주, 이하 AISI), 한국인터넷진흥원(원장 이상중, 이하 KISA) 및 금융보안원(원...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39971",
+      "title": "마키나락스, IPO 일반청약 경쟁률 2,807.8대 1 기록…청약 증거금 13.9조 원으로 2026년 최고 청약 증거금 기록 경신",
+      "desc": "대한민국 대표 피지컬 AI 기업 마키나락스(MakinaRocks, 대표 윤성호)가 11일, 12일 양일간 일반 투자자를 대상으로 공모주 청약을 실시한 결과 2,807.8대 1의 경쟁률을 기록했다고 12일 밝혔다. 일반 투자자 배정 물량 658,750주에 대해 총 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39997",
       "source": "AI Times"
     }
   ]
