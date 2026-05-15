@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-05-14T00:06:18.004Z",
+  "lastUpdated": "2026-05-15T00:00:28.804Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "프론트엔드 회복탄력성, 모든 종속성이 실패해도 동작하도록 설계하라",
+      "desc": "현대의 프론트엔드 애플리케이션은 기본적인 데이터 불러오기 외에도 매우 많은 부분을 클라우드 서비스에 의존한다. 인증, 검색, 파일 업로드, 기능 플래그, 알림, 분석은 보이지 않는 곳에서 실행되는 API와 관리형 서비스에 의존하는 경우가 많다. 이로 인해 프론트엔...",
+      "link": "https://www.itworld.co.kr/article/4170505/%ed%94%84%eb%a1%a0%ed%8a%b8%ec%97%94%eb%93%9c-%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1-%eb%aa%a8%eb%93%a0-%ec%a2%85%ec%86%8d%ec%84%b1%ec%9d%b4-%ec%8b%a4%ed%8c%a8%ed%95%b4%eb%8f%84-%eb%8f%99.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
       "title": "HDR 모니터의 거짓말, 사양만으로는 모르는 진짜 사양 구별법",
       "desc": "막 구입한 새 모니터에 커다란 HDR 스티커가 붙어 있다고 상상해보자. 하지만 유튜브를 검색해서 제일 처음 나오는 4K HDR 영상을 재생해보면, 화면이 바래 보이거나 예전에 쓰던 HDR 미지원 모니터와 거의 차이가 없어 보인다.\n\n\n\n사실 흔하게 일어나는 일이다...",
       "link": "https://www.itworld.co.kr/article/4170476/hdr-%eb%aa%a8%eb%8b%88%ed%84%b0%ec%9d%98-%ea%b1%b0%ec%a7%93%eb%a7%90-%ec%82%ac%ec%96%91%eb%a7%8c%ec%9c%bc%eb%a1%9c%eb%8a%94-%eb%aa%a8%eb%a5%b4%eb%8a%94-%ec%a7%84%ec%a7%9c-%ec%82%ac%ec%96%91-%ea%b5%ac.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "03",
       "title": "오픈AI, 사이버 방어 플랫폼 ‘데이브레이크’ 공개…앤트로픽 ‘미토스’ 대항마",
       "desc": "오픈AI가 새로운 사이버 보안 플랫폼 데이브레이크를 공개했다. 데이브레이크는 앤트로픽의 클로드 미토스에 대응하는 제품으로, 점증하는 프론티어 AI 기반 사이버 방어 플랫폼 시장 속에서 등장했다. 이 계획은 오픈AI의 대규모 언어 모델, 코덱스의 에이전트 기능, 그...",
       "link": "https://www.itworld.co.kr/article/4170463/%ec%98%a4%ed%94%88ai-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b0%a9%ec%96%b4-%ed%94%8c%eb%9e%ab%ed%8f%bc-%eb%8d%b0%ec%9d%b4%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%81%ac-%ea%b3%b5%ea%b0%9c%ec%95%a4.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "04",
       "title": "‘일회용 소프트웨어’ 시대가 온다…Arm 소프트웨어 리더 인터뷰",
       "desc": "Arm의 소프트웨어 전략을 책임지는 알렉스 스피넬리 AI 및 개발자 플랫폼 부문 수석 부사장은 ‘패스트 패션’ 같은 빠른 소프트웨어와 그 뒤를 따를 “일회용 소프트웨어”로 가득 찬 기술 환경을 구상하고 있다.\n\n\n\nArm을 모르고 있다면 칩 제조업체가 얼마나 광범...",
       "link": "https://www.itworld.co.kr/article/4170429/%ec%9d%bc%ed%9a%8c%ec%9a%a9-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ec%8b%9c%eb%8c%80%ea%b0%80-%ec%98%a8%eb%8b%a4-arm-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%eb%a6%ac%eb%8d%94.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
+      "number": "05",
       "title": "AI 급변기 기술력 기준 재편…AI 시대 기업의 채용 신호 엇갈려",
       "desc": "미국 직장에서 채용 동결·감원 기조가 이어지면서 기술 인력 채용 속도가 둔화했지만, 기업은 한 가지 이득을 얻었다. 직무 후보자 선별이 쉬워진 것이다.\n\n\n\n많은 기업이 신입 사원에게 요구하는 자격이 더욱 명확해졌다. 대규모 코드 스택을 관리하는 역량보다 기업 수...",
       "link": "https://www.itworld.co.kr/article/4169755/ai-%ea%b8%89%eb%b3%80%ea%b8%b0-%ea%b8%b0%ec%88%a0%eb%a0%a5-%ea%b8%b0%ec%a4%80-%ec%9e%ac%ed%8e%b8ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85%ec%9d%98-%ec%b1%84%ec%9a%a9-%ec%8b%a0%ed%98%b8.html",
       "source": "ITWorld"
     },
     {
-      "number": "05",
-      "title": "사용자 신뢰를 잃지 않고 AI를 제품에 통합하려면?",
-      "desc": "생성형 AI가 소프트웨어 엔지니어링 발전에서 유망한 성과를 보였지만, 최종 사용자 애플리케이션에 포함되는 방식은 사뭇 다르다. AI 레이블이 붙은 기능이 모든 사용자 인터페이스에 계속 나타나고 있지만, 항상 도움이 되거나 유용한 것은 아니다. 과대광고에 영향을 받...",
-      "link": "https://www.itworld.co.kr/article/4169753/%ec%82%ac%ec%9a%a9%ec%9e%90-%ec%8b%a0%eb%a2%b0%eb%a5%bc-%ec%9e%83%ec%a7%80-%ec%95%8a%ea%b3%a0-ai%eb%a5%bc-%ec%a0%9c%ed%92%88%ec%97%90-%ed%86%b5%ed%95%a9%ed%95%98%eb%a0%a4%eb%a9%b4.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "명인이노, AI EXPO KOREA 2026서 다양한 인공지능 인프라 솔루션 선보여",
-      "desc": "인공지능(AI) 인프라 구축 전문 기업 ㈜명인이노 (대표 원용선, 이하 명인)는 지난 6일부터 8일까지 3일간 서울 삼성동 코엑스 1층 A홀 전관에서 아시아 최대 규모로 개최되는 '제9회 국제인공지능대전(AI EXPO KOREA 2026)'에 참가해 성황리에 마쳤...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40018",
+      "title": "“AI 반도체 판 바뀌나”…세레브라스, 상장 첫날 시총 950억달러 돌파",
+      "desc": "초대형 인공지능(AI) 반도체 설계 전문 기업 세레브라스 시스템즈(Cerebras Systems, 종목 코드: CBRS)가 미국 나스닥 상장 첫날 기록적인 주가 상승세를 보이며 글로벌 AI 인프라 시장의 핵심 기업으로 급부상했다.세레브라스는 14일(현지시간) 개장...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40041",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "실드 AI, 대만 썬더 타이거와 협력…해양 자율운항 AI ‘하이브마인드’ 확대 적용",
-      "desc": "미국 방산 인공지능(AI) 기업 실드 AI(Shield AI)가 대만 무인체계 제조업체 썬더 타이거(Thunder Tiger)와 협력해 자율운항 AI 소프트웨어 ‘하이브마인드(Hivemind)’를 대만의 무인 해양·항공 플랫폼에 적용한다.실드 AI와 썬더 타이거는...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40017",
+      "title": "아마존, ‘알렉사+’ 기반 에코 쇼 쇼핑 경험 공개…“음성·터치 결합한 AI 커머스 강화”",
+      "desc": "아마존이 생성형 AI 비서 ‘알렉사+(Alexa+)’를 기반으로 한 새로운 에코 쇼(Echo Show) 쇼핑 경험을 13일(현지시간) 공개했다. 이번 업데이트를 통해 사용자는 에코 쇼에서 아마존 웹사이트와 모바일 앱 수준의 쇼핑 인터페이스를 음성과 터치를 결합해 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40040",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "케냐, 화웨이와 손잡고 ‘AI 장애 포용 프로젝트’ 출범…“포용적 디지털 전환 가속”",
-      "desc": "케냐 정부가 화웨이(Huawei)와 현지 기관·기업들과 협력해 장애인을 위한 인공지능(AI) 기반 디지털 포용 프로젝트를 공식 출범했다. AI를 활용해 장애인의 교육·고용·사회 참여 장벽을 낮추고, 아프리카 전역의 포용적 디지털 전환 모델을 구축하겠다는 전략이다....",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40016",
+      "title": "앤트로픽, 중소기업용 AI 패키지 ‘클로드 포 스몰 비즈니스’ 전격 출시",
+      "desc": "앤트로픽(Anthropic)이 중소기업 업무 자동화를 위한 새로운 인공지능(AI) 모델 ‘클로드 포 스몰 비즈니스(Claude for Small Business)’를 13일(현지시간) 공개했다. 이번 서비스는 회계·영업·마케팅·인사·고객지원 등 중소기업 핵심 업무...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40039",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "구글, AI 네이티브 노트북 ‘구글북’ 공개…“노트북이 스스로 이해하고 돕는 시대”",
-      "desc": "구글이 생성형 AI ‘제미나이(Gemini)’를 중심으로 설계한 차세대 인공지능(AI) 노트북 ‘구글북(Googlebook)’을 12일(현지시간) 공개했다. 단순히 AI 기능을 추가한 노트북이 아니라, 운영체제(OS)와 사용자 인터페이스(UI), 앱 연결 구조 자...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40015",
+      "title": "구글, 교육 현장 위한 ‘AI 교육자 시리즈’ 무료 공개… “교사 AI 문해력 강화”",
+      "desc": "구글이 교육자들의 인공지능(AI) 활용 역량을 높이기 위한 대규모 교육 프로그램인 ‘구글 AI 교육자 시리즈(Google AI Educator Series)’의 첫 번째 세션을 13일(현지시간) 전격 공개했다. ISTE(국제교육기술협회)+ASCD(교육과정개발협회)...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40038",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "한-UAE AI인프라·반도체 투자포럼 개최...AI 인프라·반도체, 모델, 서비스 등 AI 생태계 발전 위한 전략적 협력 모색",
-      "desc": "산업통상부(장관 김정관, 이하 산업부)와 과학기술정보통신부(부총리 겸 장관 배경훈, 이하 과기정통부), 국가인공지능전략위원회는 13일, 그랜드 인터컨티넨탈 서울 파르나스에서 '한-UAE AI인프라·반도체 투자포럼(Korea-UAE Strategic Alliance...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40014",
+      "title": "아시아나IDT, ABL생명 지능형 AI 성능관리시스템 구축 완료",
+      "desc": "아시아나IDT(대표 윤찬의)가 ABL생명(대표 곽희필)의 ‘지능형 AI 성능관리시스템’ 구축을 완료했다고 14일 밝혔다.이 시스템은 아시아나IDT의 AI 모델 성능 관리 솔루션인 ‘모델옵스AI (ModelOps.Ai)’주)를 활용해, ABL생명이 운영 중인 인공지...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40037",
       "source": "AI Times"
     }
   ]
