@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T23:57:43.377Z",
+  "lastUpdated": "2026-05-18T00:00:47.290Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "英 국방부 ‘아파치 협업 AI 무인기’ 개발 본격화”…안두릴, 차세대 자율 전투 플랫폼 사업 선정",
-      "desc": "영국 국방부(Ministry of Defence)가 차세대 자율 공중전 플랫폼 개발 사업 ‘프로젝트 닉스(Project NYX)’의 차기 단계 수행 기업으로 안두릴(Anduril UK)를 선정했다. 영국군은 이를 통해 아파치(AH-64E Apache) 공격헬기와 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40057",
+      "title": "마이크로소프트, AI 기반 에이전틱 보안 시스템 ‘MDASH’ 공개... ‘발견–검증–증명’ 전 과정 엔드투엔드로 수행",
+      "desc": "마이크로소프트가 취약점 발굴부터 검증·증명 및 대응까지 단계형 파이프라인을 갖춘 에이전틱 보안 분석 시스템 ‘멀티 모델 에이전틱 스캐닝 하네스(Microsoft Security multi-model agentic scanning harness. 코드명: MDASH...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40064",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "“AI·로봇·자율시스템이 러시아 산업 미래”…푸틴 대통령, 기술주권·AI 산업 육성 전면 강조",
-      "desc": "블라디미르 푸틴(Vladimir Putin) 러시아 대통령이 인공지능(AI), 산업용 로봇, 자율 시스템, 디지털 플랫폼을 러시아 미래 산업 전략의 핵심 축으로 제시하며 기술주권(technological sovereignty) 강화 의지를 재차 강조했다.특히, 서...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40056",
+      "title": "\"인공지능·위성·드론까지 총동원 한다\"...정부, 농지 전수 조사 시작",
+      "desc": "농림축산식품부(장관 송미령. 이하, 농식품부)는 18일부터 지방정부와 함께 농지 투기 근절과 데이터베이스 구축을 위한 전수조사를 시작한다. 전수조사는 2년 동안 진행되며, 올해는 농지법 시행(’96년 1월) 이후 취득한 농지를 대상으로 기본조사(5~7월)와 심층조...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40061",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "[AI 리뷰] “AI는 이제 모든 사람의 필수 언어”…MIT, 글로벌 인공지능 교육 플랫폼 ‘유니버설 AI’ 공개",
-      "desc": "美 매사추세츠 공과대학교(MIT) 산하 MIT 오픈러닝(MIT Open Learning)이 전 세계 누구나 쉽게 인공지능(AI)을 학습할 수 있는 새로운 글로벌 교육 프로그램 ‘유니버설 AI(Universal AI)’를 공식 공개했다. MIT는 이번 프로그램을 통...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40055",
+      "title": "“애플 보안도 뚫렸다”…앤트로픽 '미토스'가 촉발한 AI 해킹 시대의 공포",
+      "desc": "앤트로픽(Anthropic)의 차세대 인공지능(AI) 모델 ‘미토스(Mythos)’가 애플(Apple)의 핵심 보안 체계를 우회하는 취약점 발견에 활용되면서 글로벌 사이버보안 업계에 충격을 주고 있다. 특히, 이번 사건은 단순한 보안 결함 발견을 넘어, 생성형 A...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40060",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "“AI가 알리바바 성장엔진 됐다”…알리바바 클라우드 매출 40% 급증, AI 사업 본격 수익화",
-      "desc": "알리바바 그룹(Alibaba Group)이 인공지능 중심 전략의 성과가 본격적으로 가시화되면서 클라우드 사업 성장세가 급격히 확대되고 있다. 특히 AI 관련 서비스가 클라우드 사업의 핵심 성장 동력으로 자리잡으며, 알리바바는 생성형 AI 상용화 경쟁에서 글로벌 주...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40054",
+      "title": "故 최진실 딸 최준희 결혼식서 AI 부모님 감사 영상 상영 화제… 하객들 눈물",
+      "desc": "지난 16일,진행된 故 최진실 배우의 딸 최준희 씨의 결혼식에서는 식중영상으로 지금필름의 ‘부모님 감사 영상’이 상영됐다. 해당 영상에는 故 최진실 배우의 생전 모습을 인공지능(AI) 기술로 구현한 장면이 담겨 많은 하객들에게 깊은 울림을 전했다.영상에는 최준희 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40059",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "“인공지능, 파일럿 넘어 실전으로”…앤트로픽·PwC, 클로드 기반 엔터프라이즈 AI 대전환 선언",
-      "desc": "앤트로픽(Anthropic)과 글로벌 회계·컨설팅 기업 피더블유씨(이하, PwC)가 14일(현지시간) 전략적 협력을 대폭 확대하며 기업용 생성형 인공지능(AI) 시장 공략에 본격 나섰다. 양사는 단순 AI 파일럿 프로젝트 수준을 넘어 실제 기업 운영 전반을 AI ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40053",
+      "title": "삼성전자, 삼성 헬스와 연계한 '갤럭시 워치런 @사파리' 성료",
+      "desc": "삼성전자가 17일, 에버랜드에서 삼성 헬스와 연계한 러닝 이벤트 '갤럭시 워치런 @사파리'를 성황리에 마쳤다. 이날 2회째를 맞은 '갤럭시 워치런 @사파리'는 지난해보다 규모를 확대해 1천여 명의 참가자와 함께했으며, 모집 당시 95대 1의 높은 경쟁률을 기록했다...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40058",
       "source": "AI Times"
     }
   ]
