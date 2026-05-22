@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-05-21T00:11:38.430Z",
+  "lastUpdated": "2026-05-22T00:08:46.100Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "구글, ‘특이점의 초입’에 서다…I/O에서 자율 에이전트 팩토리 구상 펼쳐",
+      "desc": "구글이 자율 시스템과 인공일반지능(AGI)을 중심으로 기업용 AI 로드맵을 재편하고 있다. 딥마인드 CEO 데미스 하사비스는 구글 I/O 참석자들에게 AI 산업이 이제 “특이점의 초입”에 진입했다고 밝혔다.\n\n\n\n하사비스는 구글 I/O 연설에서 추후 이 시기를 돌...",
+      "link": "https://www.itworld.co.kr/article/4175426/%ea%b5%ac%ea%b8%80-%ed%8a%b9%ec%9d%b4%ec%a0%90%ec%9d%98-%ec%b4%88%ec%9e%85%ec%97%90-%ec%84%9c%eb%8b%a4-i-o%ec%97%90%ec%84%9c-%ec%9e%90%ec%9c%a8-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%8c%a9.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "“오픈클로의 혼돈을 끝낸다”…엔터프라이즈클로, 자율 에이전트 거버넌스 시대 열까",
+      "desc": "자율 에이전트 오케스트레이션 도구 오픈클로(OpenClaw)는 지난 11월 등장하자마자 폭발적인 반응을 얻었지만, 금세 심각한 결함도 드러났다.\n\n\n\n그럼에도 오픈클로는 에이전트 AI 시대의 중요한 전환점이 됐고, 기업은 그 이후 자율 에이전트 집단을 안전하고 보...",
+      "link": "https://www.itworld.co.kr/article/4175407/%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c%ec%9d%98-%ed%98%bc%eb%8f%88%ec%9d%84-%eb%81%9d%eb%82%b8%eb%8b%a4%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4%ec%a6%88%ed%81%b4%eb%a1%9c-%ec%9e%90.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "10년 만에 돌아온 구글 글래스 착용기 “이번엔 다르다”",
+      "desc": "구글 글래스로 화려한 실패를 맛본 지 10년 후 구글이 다시 도전에 나섰다. 이번에는 온라인 AI 통역사 역할을 하는 제미나이를 귀에 꽂아 세상을 탐색하는 방식으로, 세상도 필자도 훨씬 더 열린 마음으로 받아들일 수 있을 것 같다.\n\n\n\n이번 주 열린 구글 I/O...",
+      "link": "https://www.itworld.co.kr/article/4175380/10%eb%85%84-%eb%a7%8c%ec%97%90-%eb%8f%8c%ec%95%84%ec%98%a8-%ea%b5%ac%ea%b8%80-%ea%b8%80%eb%9e%98%ec%8a%a4-%ec%b0%a9%ec%9a%a9%ea%b8%b0-%ec%9d%b4%eb%b2%88%ec%97%94-%eb%8b%a4%eb%a5%b4%eb%8b%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "AI 검색 에이전트로 무장한 구글, 검색의 정의를 바꾼다",
       "desc": "AI 모드는 시작일 뿐이었다. 이제 구글 검색과 제미나이는 계속해서 경계를 무너뜨리고 있다.\n\n\n\n검색이란 무엇인가? 이번 주 구글 I/O 컨퍼런스에서 구글은 더 복잡한 질문을 던졌다. 검색이 제미나이의 AI 기능을 흡수하면서 익숙한 파란색 링크 목록의 세계를 훨...",
       "link": "https://www.itworld.co.kr/article/4175359/ai-%ea%b2%80%ec%83%89-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%a1%9c-%eb%ac%b4%ec%9e%a5%ed%95%9c-%ea%b5%ac%ea%b8%80-%ea%b2%80%ec%83%89%ec%9d%98-%ec%a0%95%ec%9d%98%eb%a5%bc-%eb%b0%94%ea%be%bc%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "양자 컴퓨팅 시대, 지금부터 준비하라",
       "desc": "신용카드로 구입한 원시적 가상머신에서 출발해 오늘날 9,000억 달러 규모의 클라우드 컴퓨팅 산업으로 성장하기까지 20년이 걸렸다. 전문가는 양자 컴퓨팅도 비슷한 시간표를 제시하고 있으며, 더 많은 기업이 기술 역량 개발, 사업 기회 검토, 보안 과제 대비에 투자...",
       "link": "https://www.itworld.co.kr/article/4173473/%ec%96%91%ec%9e%90-%ec%bb%b4%ed%93%a8%ed%8c%85-%ec%8b%9c%eb%8c%80-%ec%a7%80%ea%b8%88%eb%b6%80%ed%84%b0-%ec%a4%80%eb%b9%84%ed%95%98%eb%9d%bc.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "디지털 주권부터 비용 절감까지, 오픈 AI 모델의 부상",
-      "desc": "오픈AI의 챗GPT와 구글의 제미나이 같은 폐쇄형 생성형 AI 모델이 여전히 인기를 누리고 있지만, IT 지도자들의 AI 맞춤화와 비용 절감 추진으로 오픈 모델로의 전환이 가속화되고 있다.\n\n\n\n애널리스트들은 “오픈 가중치 모델”로도 불리는 대규모 언어 모델의 대...",
-      "link": "https://www.itworld.co.kr/article/4173456/%eb%94%94%ec%a7%80%ed%84%b8-%ec%a3%bc%ea%b6%8c%eb%b6%80%ed%84%b0-%eb%b9%84%ec%9a%a9-%ec%a0%88%ea%b0%90%ea%b9%8c%ec%a7%80-%ec%98%a4%ed%94%88-ai-%eb%aa%a8%eb%8d%b8%ec%9d%98-%eb%b6%80%ec%83%81.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "회계법인 AI 투자 가속화, 신입사원 채용은 급감",
-      "desc": "딜로이트, EY, KPMG, PwC 등 글로벌 회계 컨설팅 법인이 2025년 전통적인 감사직보다 AI 관련 직무를 더 많이 모집했다. 파이낸셜타임스의 분석에 따르면 AI 기술을 요구하는 직무가 영어권 국가의 채용 공고 중 약 7%를 차지했으며, 2022년 2% 미...",
-      "link": "https://www.itworld.co.kr/article/4173427/%ed%9a%8c%ea%b3%84%eb%b2%95%ec%9d%b8-ai-%ed%88%ac%ec%9e%90-%ea%b0%80%ec%86%8d%ed%99%94-%ec%8b%a0%ec%9e%85%ec%82%ac%ec%9b%90-%ec%b1%84%ec%9a%a9%ec%9d%80-%ea%b8%89%ea%b0%90.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "앤트로픽 스테인리스 인수로 클로드 플랫폼 개발자 도구 확충",
-      "desc": "앤트로픽이 API 사양에서 SDK, 명령줄 도구, MCP 서버를 생성하는 신생업체 스테인리스를 인수했다. 애널리스트들은 이번 인수가 개발자가 실제로 AI 모델을 업무에 적용하는 단계를 간편하게 하려는 전략이라고 평가했다.\n\n\n\n2022년 스트라이프 엔지니어 출신인...",
-      "link": "https://www.itworld.co.kr/article/4173407/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ec%9d%b8%ec%88%98%eb%a1%9c-%ed%81%b4%eb%a1%9c%eb%93%9c-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ea%b0%9c%eb%b0%9c%ec%9e%90.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "AI 예측 깬 고효율 유기태양전지 개발!...UNIST·성균관대, 친환경 용매로 제조한 효율 유기태양전지 개발",
-      "desc": "분자 구조에 기반해 성능을 예측하는 인공지능 모델만으로는 설명하기 어려운 고효율 유기태양전지가 개발됐다. AI가 놓친 분자 간의 뭉침이 고성능의 비결이었다.UNIST 에너지화학공학과 양창덕 교수팀은 성균관대학교 고두현 교수팀과 함께 친환경 공정에서도 19.67%의...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40132",
+      "title": "SKT, 사내 해커톤 ‘AX 챌린지’로 구성원 변화 DNA 일깨웠다...‘일상을 바꾸는 AI’",
+      "desc": "SK텔레콤(대표 정재헌)이 전사 인공지능 전환(AX) 가속화를 목표로 개최한 사내 AI 해커톤 ‘AX 챌린지’가 성공적으로 막을 내렸다고 22일 밝혔다.SKT AX 챌린지는 19일부터 21일까지 사흘간 ‘일상을 바꾸는 AI’를 주제로 개최됐다. 이번 해커톤은 현장...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40154",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "“AI가 화학자의 직관 배운다”…MIT, 신약 개발용 차세대 화학 AI 모델 개발 가속",
-      "desc": "MIT가 화학 원리와 반응 메커니즘을 이해하는 인공지능(AI) 모델 개발을 통해 차세대 신약 개발 혁신에 나서고 있다.MIT 화학공학과 및 전기전자컴퓨터공학과(EECS)와 MIT 슈워츠먼 컴퓨팅 대학(MIT Schwarzman College of Computing...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40131",
+      "title": "아비바, 산업 현장과 데이터 인프라 전반에 AI 내재화...혁신 업데이트 대거 발표",
+      "desc": "디지털 혁신과 지속 가능성을 추구하는 산업용 소프트웨어 글로벌 리더인 아비바(AVEVA)가 현지시간 19일부터 21일까지 사흘간 이탈리아 밀라노에서 개최된 연례 컨퍼런스 ‘아비바 월드 2026’ 행사에서 산업 소프트웨어 포트폴리오 전반에 걸친 대규모 제품 혁신을 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40153",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "'APEC 스타트업 얼라이언스' 공식 출범...중기부, 21개 회원국 창업생태계 연결·협력 강화",
-      "desc": "중소벤처기업부(장관 한성숙, 이하 중기부)는 인공지능(AI) 시대가 본격화되는 가운데, 20일아시아·태평양 경제협력체(APEC) 21개 회원국 대표단과 각국 창업생태계 관계자들과 함께 APEC 스타트업 얼라이언스(APEC Startup Alliance. 이하, A...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40130",
+      "title": "스텔란티스-퀄컴, 차세대 SDV 협력 확대…“AI 기반 통합 차량 아키텍처 구축”",
+      "desc": "스텔란티스(Stellantis)와 퀄컴 테크놀로지스(Qualcomm)가 차세대 소프트웨어 정의 차량(SDV) 구현을 위한 전략적 협력을 대폭 확대한다고 21일(현지시간) 밝혔다.양사는 스냅드래곤 디지털 섀시(Snapdragon Digital Chassis)를 기반...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40152",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "“보지 못한 이상까지 잡아낸다”… 연세대, 차세대 AI ‘제로샷 이상 탐지’ 새 패러다임 제시",
-      "desc": "제로샷 이상 탐지 기술의 한계를 극복한 새로운 인공지능 모델 ‘모이클립(MoECLIP)’이 세계 최고 권위 컴퓨터 비전 학술대회인 CVPR 2026에 채택되며, 연세대학교 연구진의 AI 기술력이 국제적으로 주목받고 있다.연세대학교(총장 윤동섭) 인공지능융합대학 디...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40129",
+      "title": "“피지컬 AI 시대 핵심은 하이브리드 엣지”…어드밴텍 최수혁 부사장, 산업 자율화 전략 제시",
+      "desc": "글로벌 엣지 인공지능(AI) 및 산업용 IoT 전문 인프라 기업 어드밴텍(Advantech)이 21일, 서울 GS강남타워 아모리스홀에서 ‘2026 어드밴텍 엣지 AI 솔루션 세미나’를 개최하고 산업 현장 자율화를 위한 피지컬 AI(Physical AI) 전략과 차...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40151",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "LG CNS, 북미 제조 AX 시장 확대…중소·중견 제조기업 공장 지능화 지원",
-      "desc": "LG CNS가 인공지능(AI) 기반 스마트팩토리 솔루션을 앞세워 북미 제조 인공지능 전환(AX) 시장 공략을 본격화한다.LG CNS(대표 현신균)는 지난 18일, 19일(현지시간) 양일간 미국 캘리포니아주 산호세에서 열린 ‘IoT 테크 엑스포 2026’에 국내 기...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40128",
+      "title": "\"에이전틱 AI 폭증으로 2030년, 토큰 사용량 24배 증가\"... 골드만삭스, 빅테크 현금흐름 개선 이끈다",
+      "desc": "골드만삭스(Goldman Sachs) 리서치는 에이전틱 AI(Agentic AI)의 확산으로 2030년까지 글로벌 토큰(Token) 소비량이 현재 대비 24배 증가하고, 이에 따라 하이퍼스케일러들의 수익성과 현금흐름 구조도 크게 개선될 것으로 21일(현지시간) 전...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40150",
       "source": "AI Times"
     }
   ]
