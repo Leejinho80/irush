@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-05-22T00:08:46.100Z",
+  "lastUpdated": "2026-05-23T00:11:28.133Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "AI 시대의 새 화폐, 토큰…AI 토큰 경제의 모든 것",
+      "desc": "구글은 폭발적인 AI 성장을 측정하는 데 단 하나의 척도를 사용한다. 바로 토큰이다.\n\n\n\n구글 CEO 순다르 피차이는 이번 주 열린 I/O 키노트에서 구글이 월 3.2경 개 토큰을 처리한다고 밝혔다. 피차이는 “‘경’이라는 단위를 입에 올리게 될 줄은 몰랐지만,...",
+      "link": "https://www.itworld.co.kr/article/4176083/ai-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%83%88-%ed%99%94%ed%8f%90-%ed%86%a0%ed%81%b0-ai-%ed%86%a0%ed%81%b0-%ea%b2%bd%ec%a0%9c%ec%9d%98-%eb%aa%a8%eb%93%a0-%ea%b2%83.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "LLM의 미래는 ‘특화’에 있다…의료·법률·금융 분야 맞춤형 모델 21가지",
+      "desc": "대규모 언어 모델(LLM)이 대화를 할 수 있다는 정도에 모두가 놀란 시절은 지나간지 오래다. 이제 초점은 지식의 깊이에 있다. 심층적인 지식을 제공하는 최선의 방법은 전문화다. 앞서가는 이들은 모든 상황에 맞는 거대한 단일 모델을 개발하는 것이 아니라 의사, 변...",
+      "link": "https://www.itworld.co.kr/article/4175450/llm%ec%9d%98-%eb%af%b8%eb%9e%98%eb%8a%94-%ed%8a%b9%ed%99%94%ec%97%90-%ec%9e%88%eb%8b%a4-%ec%9d%98%eb%a3%8c%c2%b7%eb%b2%95%eb%a5%a0%c2%b7%ea%b8%88%ec%9c%b5-%eb%b6%84%ec%95%bc-%eb%a7%9e%ec%b6%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "‘감’만으로는 안 되는 바이브 코딩, 사양 주도 개발 4대 툴로 극복하기",
+      "desc": "AI 개발자 안드레이 카파시는 2025년 2월 “바이브 코딩”이라는 용어를 처음 사용하며 SNS에 다음과 같은 글을 올렸다.\n\n\n\n\n“바이브 코딩”은 새로운 종류의 코딩이다. 감(vibe)에 충실하고 기하급수적인 발전을 받아들이며 코드가 존재한다는 사실조차 잊어버...",
+      "link": "https://www.itworld.co.kr/article/4175438/%ea%b0%90%eb%a7%8c%ec%9c%bc%eb%a1%9c%eb%8a%94-%ec%95%88-%eb%90%98%eb%8a%94-%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9-%ec%82%ac%ec%96%91-%ec%a3%bc%eb%8f%84-%ea%b0%9c%eb%b0%9c-4%eb%8c%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "구글, ‘특이점의 초입’에 서다…I/O에서 자율 에이전트 팩토리 구상 펼쳐",
       "desc": "구글이 자율 시스템과 인공일반지능(AGI)을 중심으로 기업용 AI 로드맵을 재편하고 있다. 딥마인드 CEO 데미스 하사비스는 구글 I/O 참석자들에게 AI 산업이 이제 “특이점의 초입”에 진입했다고 밝혔다.\n\n\n\n하사비스는 구글 I/O 연설에서 추후 이 시기를 돌...",
       "link": "https://www.itworld.co.kr/article/4175426/%ea%b5%ac%ea%b8%80-%ed%8a%b9%ec%9d%b4%ec%a0%90%ec%9d%98-%ec%b4%88%ec%9e%85%ec%97%90-%ec%84%9c%eb%8b%a4-i-o%ec%97%90%ec%84%9c-%ec%9e%90%ec%9c%a8-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%8c%a9.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "“오픈클로의 혼돈을 끝낸다”…엔터프라이즈클로, 자율 에이전트 거버넌스 시대 열까",
       "desc": "자율 에이전트 오케스트레이션 도구 오픈클로(OpenClaw)는 지난 11월 등장하자마자 폭발적인 반응을 얻었지만, 금세 심각한 결함도 드러났다.\n\n\n\n그럼에도 오픈클로는 에이전트 AI 시대의 중요한 전환점이 됐고, 기업은 그 이후 자율 에이전트 집단을 안전하고 보...",
       "link": "https://www.itworld.co.kr/article/4175407/%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c%ec%9d%98-%ed%98%bc%eb%8f%88%ec%9d%84-%eb%81%9d%eb%82%b8%eb%8b%a4%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4%ec%a6%88%ed%81%b4%eb%a1%9c-%ec%9e%90.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "10년 만에 돌아온 구글 글래스 착용기 “이번엔 다르다”",
-      "desc": "구글 글래스로 화려한 실패를 맛본 지 10년 후 구글이 다시 도전에 나섰다. 이번에는 온라인 AI 통역사 역할을 하는 제미나이를 귀에 꽂아 세상을 탐색하는 방식으로, 세상도 필자도 훨씬 더 열린 마음으로 받아들일 수 있을 것 같다.\n\n\n\n이번 주 열린 구글 I/O...",
-      "link": "https://www.itworld.co.kr/article/4175380/10%eb%85%84-%eb%a7%8c%ec%97%90-%eb%8f%8c%ec%95%84%ec%98%a8-%ea%b5%ac%ea%b8%80-%ea%b8%80%eb%9e%98%ec%8a%a4-%ec%b0%a9%ec%9a%a9%ea%b8%b0-%ec%9d%b4%eb%b2%88%ec%97%94-%eb%8b%a4%eb%a5%b4%eb%8b%a4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "AI 검색 에이전트로 무장한 구글, 검색의 정의를 바꾼다",
-      "desc": "AI 모드는 시작일 뿐이었다. 이제 구글 검색과 제미나이는 계속해서 경계를 무너뜨리고 있다.\n\n\n\n검색이란 무엇인가? 이번 주 구글 I/O 컨퍼런스에서 구글은 더 복잡한 질문을 던졌다. 검색이 제미나이의 AI 기능을 흡수하면서 익숙한 파란색 링크 목록의 세계를 훨...",
-      "link": "https://www.itworld.co.kr/article/4175359/ai-%ea%b2%80%ec%83%89-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%a1%9c-%eb%ac%b4%ec%9e%a5%ed%95%9c-%ea%b5%ac%ea%b8%80-%ea%b2%80%ec%83%89%ec%9d%98-%ec%a0%95%ec%9d%98%eb%a5%bc-%eb%b0%94%ea%be%bc%eb%8b%a4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "양자 컴퓨팅 시대, 지금부터 준비하라",
-      "desc": "신용카드로 구입한 원시적 가상머신에서 출발해 오늘날 9,000억 달러 규모의 클라우드 컴퓨팅 산업으로 성장하기까지 20년이 걸렸다. 전문가는 양자 컴퓨팅도 비슷한 시간표를 제시하고 있으며, 더 많은 기업이 기술 역량 개발, 사업 기회 검토, 보안 과제 대비에 투자...",
-      "link": "https://www.itworld.co.kr/article/4173473/%ec%96%91%ec%9e%90-%ec%bb%b4%ed%93%a8%ed%8c%85-%ec%8b%9c%eb%8c%80-%ec%a7%80%ea%b8%88%eb%b6%80%ed%84%b0-%ec%a4%80%eb%b9%84%ed%95%98%eb%9d%bc.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "SKT, 사내 해커톤 ‘AX 챌린지’로 구성원 변화 DNA 일깨웠다...‘일상을 바꾸는 AI’",
-      "desc": "SK텔레콤(대표 정재헌)이 전사 인공지능 전환(AX) 가속화를 목표로 개최한 사내 AI 해커톤 ‘AX 챌린지’가 성공적으로 막을 내렸다고 22일 밝혔다.SKT AX 챌린지는 19일부터 21일까지 사흘간 ‘일상을 바꾸는 AI’를 주제로 개최됐다. 이번 해커톤은 현장...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40154",
+      "title": "한국AI교육협회 회장 문형남 숙대 교수, 미래 전략서 ‘AI와 청색기술’ 출간",
+      "desc": "한국AI교육협회 문형남 회장(숙명여자대학교 한류국제대학 학장·교수)이 세계 최초로 인공지능과 청색기술(Blue Technology)을 융합한 미래 전략서 ‘AI와 청색기술’을 출간했다. 이 책은 학생과 직장인부터 기업인과 정치인 등 전 국민이 읽을 수 있도록 쉽고...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40171",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "아비바, 산업 현장과 데이터 인프라 전반에 AI 내재화...혁신 업데이트 대거 발표",
-      "desc": "디지털 혁신과 지속 가능성을 추구하는 산업용 소프트웨어 글로벌 리더인 아비바(AVEVA)가 현지시간 19일부터 21일까지 사흘간 이탈리아 밀라노에서 개최된 연례 컨퍼런스 ‘아비바 월드 2026’ 행사에서 산업 소프트웨어 포트폴리오 전반에 걸친 대규모 제품 혁신을 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40153",
+      "title": "딥 로보틱스, AI 기반 산업용 소형 휠-레그 로봇 ‘린크스 S10’ 공개…“경량 지능형 작업 새 기준 제시”",
+      "desc": "딥 로보틱스(DEEP Robotics)가 산업용 소형 휠-레그(Wheeled-Legged) 로봇 ‘린크스 S10(Lynx S10)’을 공식 출시하며 임바디드 인공지능(Embodied AI) 기반 산업용 로봇 시장 공략에 나섰다.중국 항저우에 본사를 둔 딥 로보틱스...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40170",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "스텔란티스-퀄컴, 차세대 SDV 협력 확대…“AI 기반 통합 차량 아키텍처 구축”",
-      "desc": "스텔란티스(Stellantis)와 퀄컴 테크놀로지스(Qualcomm)가 차세대 소프트웨어 정의 차량(SDV) 구현을 위한 전략적 협력을 대폭 확대한다고 21일(현지시간) 밝혔다.양사는 스냅드래곤 디지털 섀시(Snapdragon Digital Chassis)를 기반...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40152",
+      "title": "GC녹십자, 세계 최초 AI 기반 ‘혈우병 관절병증 예측 임상 의사결정 시스템’ 개발 추진",
+      "desc": "GC녹십자(대표 허은철)는 한국혈우재단, 서울대학교 약학대학 및 삼성서울병원과 공동으로 보건복지부가 주관하는 ‘첨단바이오 융합인재 양성 사업’ 과제에 선정돼, 세계 최초의 ‘인공지능(AI) 기반 혈우병 관절병증 예측 임상 의사결정 시스템(Clinical Decis...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40169",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "“피지컬 AI 시대 핵심은 하이브리드 엣지”…어드밴텍 최수혁 부사장, 산업 자율화 전략 제시",
-      "desc": "글로벌 엣지 인공지능(AI) 및 산업용 IoT 전문 인프라 기업 어드밴텍(Advantech)이 21일, 서울 GS강남타워 아모리스홀에서 ‘2026 어드밴텍 엣지 AI 솔루션 세미나’를 개최하고 산업 현장 자율화를 위한 피지컬 AI(Physical AI) 전략과 차...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40151",
+      "title": "도시바, 차세대 AI 데이터센터 효율성 높이는 1200V 트렌치 게이트 SiC MOSFET 테스트 샘플 출하",
+      "desc": "도시바 일렉트로닉 디바이스 앤 스토리지(Toshiba Electronic Devices & Storage Corporation. 이하, 도시바)는 차세대 인공지능 데이터센터(AIDC)의 전원 공급 시스템을 주요 용도로 하면서 재생에너지 관련 장비에도 적합한 120...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40168",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "\"에이전틱 AI 폭증으로 2030년, 토큰 사용량 24배 증가\"... 골드만삭스, 빅테크 현금흐름 개선 이끈다",
-      "desc": "골드만삭스(Goldman Sachs) 리서치는 에이전틱 AI(Agentic AI)의 확산으로 2030년까지 글로벌 토큰(Token) 소비량이 현재 대비 24배 증가하고, 이에 따라 하이퍼스케일러들의 수익성과 현금흐름 구조도 크게 개선될 것으로 21일(현지시간) 전...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40150",
+      "title": "“중국에 뒤처질 수 없다”…美 트럼프, 인공지능 행정명령 전격 철회",
+      "desc": "도널드 트럼프(Donald Trump) 미국 대통령이 인공지능(AI) 관련 신규 행정명령 서명을 돌연 취소했다. 첨단 AI 모델에 대한 정부 감독 체계를 강화하려던 계획이 미국의 기술 경쟁력을 약화시키고 중국에 주도권을 내줄 수 있다는 우려가 커졌기 때문이다.당초...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40167",
       "source": "AI Times"
     }
   ]
