@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T00:11:28.133Z",
+  "lastUpdated": "2026-05-24T00:01:02.372Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "미스트랄, ‘피지컬 AI’ 스타트업 '엠미 AI' 인수…“AI 엔지니어 시대 연다”",
+      "desc": "프랑스 인공지능(AI) 기업 미스트랄 AI(Mistral AI)가 산업용 ‘피지컬 AI(Physics AI)’ 기술 확보에 나섰다. 생성형 AI를 넘어 제조·항공·반도체·자동차 산업의 실제 물리 현상을 이해하는 AI 플랫폼 구축 경쟁이 본격화되는 모습이다.미스트랄...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40174",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
+      "title": "미국·스웨덴, 인공지능과 양자·6G·우주까지 손잡았다…‘기술 번영 협정’ 체결",
+      "desc": "미국과 스웨덴이 인공지능(AI)을 필두로 양자기술, 5G·6G 통신, 우주, 원자력, 첨단 제조 등 미래 전략기술 전반에서 협력을 강화하는 ‘기술 번영 협정(Technology Prosperity Deal, TPD)’을 공식 체결했다. 미국이 북유럽 핵심 동맹국과...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40173",
+      "source": "AI Times"
+    },
+    {
+      "number": "08",
       "title": "한국AI교육협회 회장 문형남 숙대 교수, 미래 전략서 ‘AI와 청색기술’ 출간",
       "desc": "한국AI교육협회 문형남 회장(숙명여자대학교 한류국제대학 학장·교수)이 세계 최초로 인공지능과 청색기술(Blue Technology)을 융합한 미래 전략서 ‘AI와 청색기술’을 출간했다. 이 책은 학생과 직장인부터 기업인과 정치인 등 전 국민이 읽을 수 있도록 쉽고...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=40171",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "09",
       "title": "딥 로보틱스, AI 기반 산업용 소형 휠-레그 로봇 ‘린크스 S10’ 공개…“경량 지능형 작업 새 기준 제시”",
       "desc": "딥 로보틱스(DEEP Robotics)가 산업용 소형 휠-레그(Wheeled-Legged) 로봇 ‘린크스 S10(Lynx S10)’을 공식 출시하며 임바디드 인공지능(Embodied AI) 기반 산업용 로봇 시장 공략에 나섰다.중국 항저우에 본사를 둔 딥 로보틱스...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=40170",
       "source": "AI Times"
     },
     {
-      "number": "08",
+      "number": "10",
       "title": "GC녹십자, 세계 최초 AI 기반 ‘혈우병 관절병증 예측 임상 의사결정 시스템’ 개발 추진",
       "desc": "GC녹십자(대표 허은철)는 한국혈우재단, 서울대학교 약학대학 및 삼성서울병원과 공동으로 보건복지부가 주관하는 ‘첨단바이오 융합인재 양성 사업’ 과제에 선정돼, 세계 최초의 ‘인공지능(AI) 기반 혈우병 관절병증 예측 임상 의사결정 시스템(Clinical Decis...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=40169",
-      "source": "AI Times"
-    },
-    {
-      "number": "09",
-      "title": "도시바, 차세대 AI 데이터센터 효율성 높이는 1200V 트렌치 게이트 SiC MOSFET 테스트 샘플 출하",
-      "desc": "도시바 일렉트로닉 디바이스 앤 스토리지(Toshiba Electronic Devices & Storage Corporation. 이하, 도시바)는 차세대 인공지능 데이터센터(AIDC)의 전원 공급 시스템을 주요 용도로 하면서 재생에너지 관련 장비에도 적합한 120...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40168",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "“중국에 뒤처질 수 없다”…美 트럼프, 인공지능 행정명령 전격 철회",
-      "desc": "도널드 트럼프(Donald Trump) 미국 대통령이 인공지능(AI) 관련 신규 행정명령 서명을 돌연 취소했다. 첨단 AI 모델에 대한 정부 감독 체계를 강화하려던 계획이 미국의 기술 경쟁력을 약화시키고 중국에 주도권을 내줄 수 있다는 우려가 커졌기 때문이다.당초...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40167",
       "source": "AI Times"
     }
   ]
