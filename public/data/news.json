@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T00:01:02.372Z",
+  "lastUpdated": "2026-05-25T00:04:28.160Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "미스트랄, ‘피지컬 AI’ 스타트업 '엠미 AI' 인수…“AI 엔지니어 시대 연다”",
-      "desc": "프랑스 인공지능(AI) 기업 미스트랄 AI(Mistral AI)가 산업용 ‘피지컬 AI(Physics AI)’ 기술 확보에 나섰다. 생성형 AI를 넘어 제조·항공·반도체·자동차 산업의 실제 물리 현상을 이해하는 AI 플랫폼 구축 경쟁이 본격화되는 모습이다.미스트랄...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40174",
+      "title": "[AI 리뷰] 화웨이, 그리드 연동형 AIDC 전략 공개...“전기가 곧 AI 경쟁력”, 전력·냉각·운영·건설 전면 재설계 선언",
+      "desc": "화웨이(Huawei)가 인공지능(AI) 시대, 초대형 인공지능 데이터센터(AIDC) 패러다임 전환을 선언했다. 단순 서버 인프라를 넘어 전력망과 직접 연동되는 차세대 AI 데이터센터 전략을 공개하며, AI 산업의 핵심 경쟁력이 ‘컴퓨팅’에서 ‘에너지-컴퓨팅 통합’...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40178",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "미국·스웨덴, 인공지능과 양자·6G·우주까지 손잡았다…‘기술 번영 협정’ 체결",
-      "desc": "미국과 스웨덴이 인공지능(AI)을 필두로 양자기술, 5G·6G 통신, 우주, 원자력, 첨단 제조 등 미래 전략기술 전반에서 협력을 강화하는 ‘기술 번영 협정(Technology Prosperity Deal, TPD)’을 공식 체결했다. 미국이 북유럽 핵심 동맹국과...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40173",
+      "title": "서울투자진흥재단, 글로벌 산업 AI 선도기업 ‘코그나이트’ 품는다",
+      "desc": "서울시 해외 투자유치 전담기구인 서울투자진흥재단(이지형 이사장. 이하, 재단)이 세계적 수준의 산업용 AI 플랫폼 및 데이터 분석 기업인 코그나이트(Cognite)를 서울로 끌어들이며, 서울을 글로벌 제조업 인공지능 전환(AX)의 전초기지로 구축한다고 24일 밝혔...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40177",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "한국AI교육협회 회장 문형남 숙대 교수, 미래 전략서 ‘AI와 청색기술’ 출간",
-      "desc": "한국AI교육협회 문형남 회장(숙명여자대학교 한류국제대학 학장·교수)이 세계 최초로 인공지능과 청색기술(Blue Technology)을 융합한 미래 전략서 ‘AI와 청색기술’을 출간했다. 이 책은 학생과 직장인부터 기업인과 정치인 등 전 국민이 읽을 수 있도록 쉽고...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40171",
+      "title": "유니버설뮤직·틱톡, “AI 음악 보호·팬 경험 확대 본격화”...AI 생성 음악 삭제 공조 강화",
+      "desc": "세계 최대 음악 기업 유니버설뮤직그룹(Universal Music Group, UMG)과 숏폼 플랫폼 틱톡(TikTok)이 새로운 글로벌 라이선스 계약을 체결하며 음악·인공지능(AI)·팬덤 시장 협력을 확대한다.유니버설뮤직그룹은 22일(현지시간) 틱톡과 다년간의 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40176",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "딥 로보틱스, AI 기반 산업용 소형 휠-레그 로봇 ‘린크스 S10’ 공개…“경량 지능형 작업 새 기준 제시”",
-      "desc": "딥 로보틱스(DEEP Robotics)가 산업용 소형 휠-레그(Wheeled-Legged) 로봇 ‘린크스 S10(Lynx S10)’을 공식 출시하며 임바디드 인공지능(Embodied AI) 기반 산업용 로봇 시장 공략에 나섰다.중국 항저우에 본사를 둔 딥 로보틱스...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40170",
+      "title": "“외로움 채우는 AI 반려 로봇 시대 연다”...올로봇, 기계 아닌 감정 연결 지향",
+      "desc": "중국 로봇 기업 올로봇(OlloBot)이 감성형 인공지능(AI) 반려 로봇 ‘사이버 펫(Cyber Pet)’ 글로벌 시장 공략에 본격 나선다. 단순 기능 수행이 아닌 ‘정서적 교감’을 핵심 가치로 내세우며 북미 시장 진출에 속도를 높이는 모습이다.올로봇은 23일(...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40175",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "GC녹십자, 세계 최초 AI 기반 ‘혈우병 관절병증 예측 임상 의사결정 시스템’ 개발 추진",
-      "desc": "GC녹십자(대표 허은철)는 한국혈우재단, 서울대학교 약학대학 및 삼성서울병원과 공동으로 보건복지부가 주관하는 ‘첨단바이오 융합인재 양성 사업’ 과제에 선정돼, 세계 최초의 ‘인공지능(AI) 기반 혈우병 관절병증 예측 임상 의사결정 시스템(Clinical Decis...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40169",
+      "title": "“의사 만나기 전 AI와 먼저 대화”...KAIST-강남세브란스 , 정신과 초진 면담 지원 기술 개발",
+      "desc": "흔히 ‘정신과 문턱이 높다’고 말한다. 환자는 자신의 아픈 마음을 처음 꺼내놓는 과정에 부담을 느끼고, 의료진은 제한된 진료 시간 안에 환자의 방대한 과거력과 증상을 정확히 파악해야 한다. 국내 연구진이 정신과 진료의 첫 단계인 초진 면담 과정을 지원하는 인공지능...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40172",
       "source": "AI Times"
     }
   ]
