@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T00:04:28.160Z",
+  "lastUpdated": "2026-05-26T00:10:21.448Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "[AI 리뷰] 화웨이, 그리드 연동형 AIDC 전략 공개...“전기가 곧 AI 경쟁력”, 전력·냉각·운영·건설 전면 재설계 선언",
-      "desc": "화웨이(Huawei)가 인공지능(AI) 시대, 초대형 인공지능 데이터센터(AIDC) 패러다임 전환을 선언했다. 단순 서버 인프라를 넘어 전력망과 직접 연동되는 차세대 AI 데이터센터 전략을 공개하며, AI 산업의 핵심 경쟁력이 ‘컴퓨팅’에서 ‘에너지-컴퓨팅 통합’...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40178",
+      "title": "영상 AI 모픽, 반복작업 줄이는 워크플로로 ‘한시간컴’ 에듀테인먼트 콘텐츠 제작 기간 40% 단축",
+      "desc": "10년간 카카오톡 이모티콘 캐릭터 시리즈를 선보이며 탄탄한 팬덤을 형성한 인기 IP '쥐방울'이 올인원 영상 AI 플랫폼 모픽(Morphic)의 워크플로 기능을 만나 에듀테인먼트 콘텐츠로 외연을 확장한다. 한시간컴은 모픽을 통해 제작한 '쥐방울 ABC 알파벳송' ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40191",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "서울투자진흥재단, 글로벌 산업 AI 선도기업 ‘코그나이트’ 품는다",
-      "desc": "서울시 해외 투자유치 전담기구인 서울투자진흥재단(이지형 이사장. 이하, 재단)이 세계적 수준의 산업용 AI 플랫폼 및 데이터 분석 기업인 코그나이트(Cognite)를 서울로 끌어들이며, 서울을 글로벌 제조업 인공지능 전환(AX)의 전초기지로 구축한다고 24일 밝혔...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40177",
+      "title": "세일즈포스, GC녹십자웰빙에 ‘세일즈 클라우드’ 공급....“도입 1년 만에 월 활성 사용자 95% 달성”",
+      "desc": "전 세계 인공지능 CRM 시장을 선도하는 세일즈포스는 헬스케어 기업 GC녹십자웰빙이 영업 경쟁력 강화를 위해 세일즈포스의 ‘세일즈 클라우드(Sales Cloud)’를 도입했다고 26일 밝혔다. 이를 통해 GC녹십자웰빙은 거래처 및 실적 정보를 체계적으로 관리하기 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40190",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "유니버설뮤직·틱톡, “AI 음악 보호·팬 경험 확대 본격화”...AI 생성 음악 삭제 공조 강화",
-      "desc": "세계 최대 음악 기업 유니버설뮤직그룹(Universal Music Group, UMG)과 숏폼 플랫폼 틱톡(TikTok)이 새로운 글로벌 라이선스 계약을 체결하며 음악·인공지능(AI)·팬덤 시장 협력을 확대한다.유니버설뮤직그룹은 22일(현지시간) 틱톡과 다년간의 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40176",
+      "title": "KAIST·포스텍·소니 AI, 영상 속 물체의 질량·속도 추론해 장면 맞춤형 효과음 생성 AI 개발",
+      "desc": "영화 ‘쥬라기 공원’에서 거대한 공룡이 걸어오는 장면을 보면 사람들은 자연스럽게 땅이 울리는 듯한 묵직한 저주파음을 떠올린다. 이는 인간이 단순히 사물의 형태뿐 아니라 크기와 무게, 움직임의 속도 같은 물리적 특성까지 함께 고려해 소리를 예측하기 때문이다.하지만 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40189",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "“외로움 채우는 AI 반려 로봇 시대 연다”...올로봇, 기계 아닌 감정 연결 지향",
-      "desc": "중국 로봇 기업 올로봇(OlloBot)이 감성형 인공지능(AI) 반려 로봇 ‘사이버 펫(Cyber Pet)’ 글로벌 시장 공략에 본격 나선다. 단순 기능 수행이 아닌 ‘정서적 교감’을 핵심 가치로 내세우며 북미 시장 진출에 속도를 높이는 모습이다.올로봇은 23일(...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40175",
+      "title": "F5, “한국 기업 55%, AI 추론 워크로드 운영 중”...AI, 실험 넘어 실제 운영 단계로",
+      "desc": "인공지능은 더 이상 실험적 시도에 머무르지 않고, 다른 핵심 업무 시스템과 마찬가지로 엄격한 운영 기준이 요구되는 프로덕션 워크로드로 자리 잡았다. 모든 앱과 API 전송 및 보안을 선도하는 글로벌 기업 F5는 연례 ‘애플리케이션 전략 현황(State of App...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40188",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "“의사 만나기 전 AI와 먼저 대화”...KAIST-강남세브란스 , 정신과 초진 면담 지원 기술 개발",
-      "desc": "흔히 ‘정신과 문턱이 높다’고 말한다. 환자는 자신의 아픈 마음을 처음 꺼내놓는 과정에 부담을 느끼고, 의료진은 제한된 진료 시간 안에 환자의 방대한 과거력과 증상을 정확히 파악해야 한다. 국내 연구진이 정신과 진료의 첫 단계인 초진 면담 과정을 지원하는 인공지능...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40172",
+      "title": "“AI가 찾는 취약점, 인간이 못 막는다”… 앤트로픽, 미토스 충격과 ‘프로젝트 글래스윙’ 첫 성과 공개",
+      "desc": "앤트로픽(Anthropic)이 차세대 AI 기반 사이버보안 프로젝트 ‘프로젝트 글래스윙(Project Glasswing)’의 초기 성과를 지난 22일(현지시간) 공개하고, 인공지능(AI)이 소프트웨어 보안의 패러다임을 근본적으로 바꾸고 있다고 밝혔다.특히, 자사의...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40187",
       "source": "AI Times"
     }
   ]
