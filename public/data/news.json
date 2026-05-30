@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-05-29T00:14:34.251Z",
+  "lastUpdated": "2026-05-30T00:12:00.142Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "선언형 MCP, AI 코딩 에이전트의 컨텍스트 문제를 풀다",
+      "desc": "모델 컨텍스트 프로토콜(MCP)은 AI 어시스턴트를 외부 데이터, 툴, API와 연결하기 위한 개방형 프로토콜이다. 앤트로픽이 2024년 말에 처음 선보인 이후 데브옵스, 클라우드를 비롯한 다양한 분야에서 수많은 MCP 서버가 등장했다.\n\n\n\n개발자들이 애플리케이...",
+      "link": "https://www.itworld.co.kr/article/4178019/%ec%84%a0%ec%96%b8%ed%98%95-mcp-ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%ec%bb%a8%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%ac%b8%ec%a0%9c%eb%a5%bc-%ed%92%80%eb%8b%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "“모델보다 무거운 것들” AI 종속의 새로운 전선",
+      "desc": "최근 PwC는 3만 명의 자사 직원을 대상으로 앤트로픽 클로드에 대한 교육과 인증을 실시하고, 이를 기반으로 은행, 보험, 의료 분야 고객을 위한 CFO 오피스 비즈니스를 구축할 것이라고 발표했다. 앤트로픽도 최근 파트너 네트워크에 1억 달러를 투자했고, 오픈AI...",
+      "link": "https://www.itworld.co.kr/article/4177998/%eb%aa%a8%eb%8d%b8%eb%b3%b4%eb%8b%a4-%eb%ac%b4%ea%b1%b0%ec%9a%b4-%ea%b2%83%eb%93%a4-ai-%ec%a2%85%ec%86%8d%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%a0%84%ec%84%a0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "3조 달러짜리 오픈AI 소송, 진짜 승자는 ‘위선’이었다",
+      "desc": "만약 원고와 피고 모두에게 불리한 판결이 내려져야 마땅한 소송이 있다면, 일론 머스크가 오픈AI와 마이크로소프트를 상대로 제기한 소송이 바로 그런 사례다.\n\n\n\n세간의 이목을 집중시킨 이 법적 공방은 세계 최고 부호와 기업 가치 3조 달러 이상의 회사, 곧 1조 ...",
+      "link": "https://www.itworld.co.kr/article/4177995/3%ec%a1%b0-%eb%8b%ac%eb%9f%ac%ec%a7%9c%eb%a6%ac-%ec%98%a4%ed%94%88ai-%ec%86%8c%ec%86%a1-%ec%a7%84%ec%a7%9c-%ec%8a%b9%ec%9e%90%eb%8a%94-%ec%9c%84%ec%84%a0%ec%9d%b4%ec%97%88%eb%8b%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "빅테크, AI 핑계로 직원 내보내기 바쁜데…ROI는 언제쯤",
       "desc": "생성형 AI가 주류로 떠오른 순간부터, 이런 사태가 올 것이라는 건 모두가 알고 있었다. 이제는 일주일이 멀다 하고 AI로 인한 감원을 발표하는 기술 기업 소식이 들려온다.\n\n\n\n요즘 기술 기업은 AI 인프라 구축 자금을 마련하기 위해 앞다퉈 직원을 내보내고 있다...",
       "link": "https://www.itworld.co.kr/article/4177968/%eb%b9%85%ed%85%8c%ed%81%ac-ai-%ed%95%91%ea%b3%84%eb%a1%9c-%ec%a7%81%ec%9b%90-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b8%b0-%eb%b0%94%ec%81%9c%eb%8d%b0roi%eb%8a%94-%ec%96%b8%ec%a0%9c%ec%af%a4.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "오픈텍스트, UCMDB 기반 IT 운영 혁신 사례 공개",
       "desc": "오픈텍스트 코리아가 최근 글로벌 공공기관의 IT 운영 혁신 사례를 통해 UCMDB 기반 통합 가시성 확보 전략을 소개했다. \n\n\n\n디지털 전환과 AI 도입 확대로 기업 IT 환경이 복잡해지면서, 여러 시스템에 분산된 운영 데이터를 통합적으로 관리하고 서비스 영향도...",
       "link": "https://www.itworld.co.kr/article/4177503/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ucmdb-%ea%b8%b0%eb%b0%98-it-%ec%9a%b4%ec%98%81-%ed%98%81%ec%8b%a0-%ec%82%ac%eb%a1%80-%ea%b3%b5%ea%b0%9c.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "AI가 코드를 짜는 시대, 소프트웨어 개발자는 무엇을 하는가",
-      "desc": "소프트웨어 엔지니어가 지금 무엇을 해야 하는지, 이제는 모르겠다. 코드를 짜야 하는가? 아니면 시스템을 설계해야 하는가? AI 에이전트가 모든 것을 바꿔놓았고, 어떻게 생각해야 할지조차 불분명하다.\n\n\n\n필자는 더 이상 코드를 많이 작성하지 않는다. 본업에서는 클...",
-      "link": "https://www.itworld.co.kr/article/4177950/ai%ea%b0%80-%ec%bd%94%eb%93%9c%eb%a5%bc-%ec%a7%9c%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ea%b0%9c%eb%b0%9c%ec%9e%90%eb%8a%94-%eb%ac%b4%ec%97%87%ec%9d%84-%ed%95%98.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "“모델보다 아키텍처가 먼저” 실행 단계 AI가 드러내는 클라우드 설계의 허점",
-      "desc": "지난 몇 년간 엔터프라이즈 AI를 둘러싼 논의는 낙관론 일색이었다. 더 큰 모델, 더 많은 파일럿, 더 빠른 자동화. ‘올바른 AI 플랫폼을 선택하면 성과는 자연히 따라온다’는 전제가 지배적이었다.\n\n\n\n그러나 현실은 훨씬 가혹했다.\n\n\n\n많은 IT 책임자는 프로...",
-      "link": "https://www.itworld.co.kr/article/4177941/%eb%aa%a8%eb%8d%b8%eb%b3%b4%eb%8b%a4-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98%ea%b0%80-%eb%a8%bc%ec%a0%80-%ec%8b%a4%ed%96%89-%eb%8b%a8%ea%b3%84-ai%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b4%eb%8a%94.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "MS 서피스 랩톱 8 프라이버시 스크린 직접 써보니…효과 분명, 한계도 뚜렷",
-      "desc": "샌프란시스코발 타이베이행 02편에 탑승해 14시간의 긴 비행을 앞두고 자리를 잡는다. 그런데 근처에 낯익은 얼굴이 보인다. 경쟁사 직원이다!\n\n\n\n마이크로소프트가 새 서피스 랩톱 8에 탑재한 이른바 ‘프라이버시 스크린’은 바로 이런 상황을 위해 설계됐다. 버튼 하...",
-      "link": "https://www.itworld.co.kr/article/4177484/ms-%ec%84%9c%ed%94%bc%ec%8a%a4-%eb%9e%a9%ed%86%b1-8-%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b2%84%ec%8b%9c-%ec%8a%a4%ed%81%ac%eb%a6%b0-%ec%a7%81%ec%a0%91-%ec%8d%a8%eb%b3%b4%eb%8b%88-%ed%9a%a8%ea%b3%bc.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "\"차세대 AI 메모리 시장 판도 바꾼다!\"...삼성전자, 세계 최초 HBM4E 12단 샘플 출하",
-      "desc": "삼성전자가 차세대 인공지능(AI) 메모리 시장의 판도를 바꿀 초격차 기술을 선보이며 HBM 시장 주도권 굳히기에 돌입한다. 29일, 삼성전자는 세계 최초로 차세대 AI 가속기의 핵심이 될 'HBM4E 12단' 샘플을 글로벌 고객사에 전격 공급했다고 밝혔다.이는 지...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40253",
+      "title": "\"AI 보안에 사활 걸었다\" IBM·레드햇, 오픈소스 보안 위해 50억달러 투자…‘프로젝트 라이트웰’ 출범",
+      "desc": "IBM과 레드햇(Red Hat)이 인공지능(AI) 시대 오픈소스 소프트웨어(OSS) 보안 강화를 위해 총 50억달러(약 7.5조원)를 투자하는 초대형 프로젝트를 발표했다. 양사는 28일(현지시간) ‘프로젝트 라이트웰(Project Lightwell)’을 공식 출범...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40268",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "사이버링크, 이노뎁과 손잡고 글로벌 AI 공공 안전 감시 솔루션 시장 정조준",
-      "desc": "인공지능 안면인식 기술 분야의 글로벌 선도기업 사이버링크(CyberLink)가 국내를 대표하는 정부·공공 안전 분야 영상관제 시스템(VMS) 전문기업 이노뎁(Innodep)과 전략적 파트너십을 체결했다고 29일 밝혔다.파트너십에 따라 양사는 사이버링크의 페이스미 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40252",
+      "title": "\"휴머노이드 '아틀라스', 패스·슈팅·라보나까지\"…현대차 로봇, 축구 예능 찍으며 피지컬 AI 증명",
+      "desc": "현대자동차가 첨단 로보틱스와 전 세계인이 열광하는 축구를 연계한 독창적 캠페인을 선보이며 피지컬 AI 기술력을 글로벌 무대에서 증명했다.현대자동차는 다가오는 'FIFA 월드컵 2026™'의 공식 파트너로서 보스턴다이나믹스의 휴머노이드 로봇 '아틀라스(Atlas)'...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40267",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "세계경제포럼, “중동 충격에 글로벌 성장 급속 둔화”…AI는 유일한 성장 버팀목",
-      "desc": "세계경제포럼(World Economic Forum)이 최근 중동 지정학 리스크와 에너지 공급망 불안으로 인해 글로벌 경제 전망이 급격히 악화되고 있다고 경고했다. 다만 인공지능(AI)은 여전히 세계 경제를 떠받칠 핵심 성장 동력으로 평가됐다.세계경제포럼은 28일(...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40251",
+      "title": "코딩 대신 디렉팅… 홍선생미술, AI로 만든 한자 학습 앱 ‘한자좋아좋아’ 무료 배포",
+      "desc": "대한민국 방문 미술 교육을 선도해 온 홍선생미술의 여미옥 대표가 생성형 AI로 디렉팅해 개발한 ‘인공지능 기반 통합 한자 학습 콘텐츠(한자좋아좋아)’를 전면 무료로 배포한다.이번 프로젝트는 과거 큰 호응을 얻었던 ‘한자좋아좋아송’을 2026년형 디지털 스마트 학습...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40265",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "교육부, 초·중등 인공지능 교육 담당교원 역량강화 연수 본격 운영",
-      "desc": "교육부(장관 최교진)는 초·중등학교 인공지능(AI) 교육 내실화를 위해 개발한 '초·중등 인공지능 교육 담당교원 역량강화 연수'를 본격 운영한다.‘인공지능 수업 역량 강화 기초 과정’ 연수 중 초등 교원 과정은 지난 20일부터 21일까지 운영되었으며, 이어 중등 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40250",
+      "title": "아이엘, 170억 규모 투자 유치…“휴머노이드·피지컬 AI 데이터 주도권 확보 속도전”",
+      "desc": "풀스택 미래모빌리티 플랫폼 기업 아이엘이 약 170억원 규모의 전략적 투자 유치에 성공했다고 29일 밝혔다.이번 투자는 피지컬 인공지능(Physical AI) 시대 핵심 경쟁력으로 꼽히는 현장 기반 운영 데이터와 휴머노이드 생태계 선점을 위한 전략적 투자로 추진됐...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40264",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "“AI 기능 품은 300달러대 노트북 시대 연다”...퀄컴, ‘스냅드래곤 C’ 공개",
-      "desc": "퀄컴 테크놀로지스(Qualcomm Technologies)가 엔트리급(보급형) AI 노트북 시장 공략을 위한 신규 프로세서 플랫폼 ‘스냅드래곤 C(Snapdragon C)’를 28일(현지시간) 공개했다. 생성형 AI 시대를 맞아 고가 프리미엄 AI PC 중심으로 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40249",
+      "title": "삼성SDS ‘AX 서밋’ 개최, AI 네이티브 기업 전환 위한 전략·기술 로드맵 공개",
+      "desc": "삼성SDS는 29일, 잠실캠퍼스 마젤란홀에서 ‘AX 서밋(AX Summit)’을 개최하고, AI 네이티브(AI Native) 기업으로의 전환 방향과 AX(AI Transformation) 혁신을 위한 기술 로드맵을 공개했다.이번 AX 서밋은 삼성SDS의 AI 에이...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40263",
       "source": "AI Times"
     }
   ]
