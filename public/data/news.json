@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T00:12:00.142Z",
+  "lastUpdated": "2026-05-31T00:04:34.161Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "중국 엔진AI, 휴머노이드 양산 체제 돌입…“15분마다 로봇 1대 생산”",
+      "desc": "중국 인공지능 휴머노이드 로봇 기업 엔진AI(EngineAI)가 대규모 스마트 제조기지 가동과 함께 첫 번째 T800 휴머노이드 로봇 양산 출하를 시작하며 본격적인 산업화 단계에 진입했다.엔진AI는 지난 29일(현지시간) 중국 선전(Shenzhen)에 위치한 ‘엔...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40271",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
+      "title": "G7, \"모두에게 이익이 되는 안전한 AI 성장 촉진\"...아동 온라인 보호 첫 공동 원칙 합의",
+      "desc": "주요 7개국(이하, G7)이 처음으로 아동·청소년 온라인 안전을 위한 공동 원칙에 합의하고, 신뢰할 수 있는 인공지능(AI) 개발과 확산을 위한 국제 협력을 강화하기로 했다.영국 정부는 29일(현지시간) 프랑스 파리에서 열린 G7 디지털 장관회의(G7 Digita...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40270",
+      "source": "AI Times"
+    },
+    {
+      "number": "08",
+      "title": "알리바바, \"유럽  축구에 AI 입힌다\"... 유럽축구연맹과 대규모 파트너십",
+      "desc": "알리바바 그룹(Alibaba Group)이 유럽축구연맹(UEFA)과 대규모 파트너십을 체결하며 글로벌 스포츠 산업의 인공지능 전환(AX)에 본격 나선다.알리바바는 29일(현지시간) UEFA 및 UEFA 클럽 대회 상업권 운영 법인 UC3와 다년간 전략적 파트너십을...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40269",
+      "source": "AI Times"
+    },
+    {
+      "number": "09",
       "title": "\"AI 보안에 사활 걸었다\" IBM·레드햇, 오픈소스 보안 위해 50억달러 투자…‘프로젝트 라이트웰’ 출범",
       "desc": "IBM과 레드햇(Red Hat)이 인공지능(AI) 시대 오픈소스 소프트웨어(OSS) 보안 강화를 위해 총 50억달러(약 7.5조원)를 투자하는 초대형 프로젝트를 발표했다. 양사는 28일(현지시간) ‘프로젝트 라이트웰(Project Lightwell)’을 공식 출범...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=40268",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "10",
       "title": "\"휴머노이드 '아틀라스', 패스·슈팅·라보나까지\"…현대차 로봇, 축구 예능 찍으며 피지컬 AI 증명",
       "desc": "현대자동차가 첨단 로보틱스와 전 세계인이 열광하는 축구를 연계한 독창적 캠페인을 선보이며 피지컬 AI 기술력을 글로벌 무대에서 증명했다.현대자동차는 다가오는 'FIFA 월드컵 2026™'의 공식 파트너로서 보스턴다이나믹스의 휴머노이드 로봇 '아틀라스(Atlas)'...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=40267",
-      "source": "AI Times"
-    },
-    {
-      "number": "08",
-      "title": "코딩 대신 디렉팅… 홍선생미술, AI로 만든 한자 학습 앱 ‘한자좋아좋아’ 무료 배포",
-      "desc": "대한민국 방문 미술 교육을 선도해 온 홍선생미술의 여미옥 대표가 생성형 AI로 디렉팅해 개발한 ‘인공지능 기반 통합 한자 학습 콘텐츠(한자좋아좋아)’를 전면 무료로 배포한다.이번 프로젝트는 과거 큰 호응을 얻었던 ‘한자좋아좋아송’을 2026년형 디지털 스마트 학습...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40265",
-      "source": "AI Times"
-    },
-    {
-      "number": "09",
-      "title": "아이엘, 170억 규모 투자 유치…“휴머노이드·피지컬 AI 데이터 주도권 확보 속도전”",
-      "desc": "풀스택 미래모빌리티 플랫폼 기업 아이엘이 약 170억원 규모의 전략적 투자 유치에 성공했다고 29일 밝혔다.이번 투자는 피지컬 인공지능(Physical AI) 시대 핵심 경쟁력으로 꼽히는 현장 기반 운영 데이터와 휴머노이드 생태계 선점을 위한 전략적 투자로 추진됐...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40264",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "삼성SDS ‘AX 서밋’ 개최, AI 네이티브 기업 전환 위한 전략·기술 로드맵 공개",
-      "desc": "삼성SDS는 29일, 잠실캠퍼스 마젤란홀에서 ‘AX 서밋(AX Summit)’을 개최하고, AI 네이티브(AI Native) 기업으로의 전환 방향과 AX(AI Transformation) 혁신을 위한 기술 로드맵을 공개했다.이번 AX 서밋은 삼성SDS의 AI 에이...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40263",
       "source": "AI Times"
     }
   ]
