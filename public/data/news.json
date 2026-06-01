@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T00:04:34.161Z",
+  "lastUpdated": "2026-06-01T00:09:47.884Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "중국 엔진AI, 휴머노이드 양산 체제 돌입…“15분마다 로봇 1대 생산”",
-      "desc": "중국 인공지능 휴머노이드 로봇 기업 엔진AI(EngineAI)가 대규모 스마트 제조기지 가동과 함께 첫 번째 T800 휴머노이드 로봇 양산 출하를 시작하며 본격적인 산업화 단계에 진입했다.엔진AI는 지난 29일(현지시간) 중국 선전(Shenzhen)에 위치한 ‘엔...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40271",
+      "title": "인공지능 시대의 새로운 컴퓨팅 아키텍처...함돈희 하버드대 교수, 뉴로모픽 컴퓨팅 구현의 새로운 가능성 제시",
+      "desc": "반도체 칩을 이용해 수천 개 뉴런 내부의 전기 신호를 동시에 측정할 수 있는 기술이 개발됐다. 개별 세포 수준의 정밀도와 대규모 신경망 분석 능력을 동시에 확보한 성과로, 뇌의 정보처리 원리를 규명하는 신경과학 연구는 물론 차세대 뉴로모픽 컴퓨팅 기술 개발에도 새...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40285",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "G7, \"모두에게 이익이 되는 안전한 AI 성장 촉진\"...아동 온라인 보호 첫 공동 원칙 합의",
-      "desc": "주요 7개국(이하, G7)이 처음으로 아동·청소년 온라인 안전을 위한 공동 원칙에 합의하고, 신뢰할 수 있는 인공지능(AI) 개발과 확산을 위한 국제 협력을 강화하기로 했다.영국 정부는 29일(현지시간) 프랑스 파리에서 열린 G7 디지털 장관회의(G7 Digita...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40270",
+      "title": "[AI 이슈] “AI 팩토리, 제조업 판을 뒤집는다”…생산성 60% 혁신 성장, 글로벌 산업지도 재편",
+      "desc": "인공지능(AI)과 자동화 기술이 제조업 경쟁의 기준을 근본적으로 바꾸고 있다는 분석이 나왔다. 생산성 향상 효과가 최대 60%에 달하면서 저임금 국가로 생산기지를 이전하는 기존 전략보다 첨단 공장 전환이 더 높은 경쟁력을 제공할 수 있다는 전망이다.보스턴컨설팅그룹...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40284",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "알리바바, \"유럽  축구에 AI 입힌다\"... 유럽축구연맹과 대규모 파트너십",
-      "desc": "알리바바 그룹(Alibaba Group)이 유럽축구연맹(UEFA)과 대규모 파트너십을 체결하며 글로벌 스포츠 산업의 인공지능 전환(AX)에 본격 나선다.알리바바는 29일(현지시간) UEFA 및 UEFA 클럽 대회 상업권 운영 법인 UC3와 다년간 전략적 파트너십을...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40269",
+      "title": "[AI 리뷰] 아마존, “AI는 이제 행동한다”…현실 세계 업무 수행하는 에이전트 AI 전략 공개",
+      "desc": "아마존(Amazon)이 단순 대화형 AI를 넘어 실제 업무를 스스로 수행하는 ‘에이전트 AI(Agentic AI)’ 구축 전략을 공개했다.아마존은 지난 28일(현지시간) 뉴스룸을 통해 자사의 AI 에이전트 개발 방향과 핵심 기술을 소개하며 “생성형 AI가 정보를 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40282",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "\"AI 보안에 사활 걸었다\" IBM·레드햇, 오픈소스 보안 위해 50억달러 투자…‘프로젝트 라이트웰’ 출범",
-      "desc": "IBM과 레드햇(Red Hat)이 인공지능(AI) 시대 오픈소스 소프트웨어(OSS) 보안 강화를 위해 총 50억달러(약 7.5조원)를 투자하는 초대형 프로젝트를 발표했다. 양사는 28일(현지시간) ‘프로젝트 라이트웰(Project Lightwell)’을 공식 출범...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40268",
+      "title": "앤트로픽, 시리즈 H로  98조원 투자 유치…기업가치 1454조원으로 급등",
+      "desc": "美 생성형 인공지능(AI) 기업 앤트로픽(Anthropic)이 650억달러(약 98조원) 규모의 시리즈 H 투자 유치를 완료하고 기업가치 9650억달러(약 1454조원)를 달성했다.앤트로픽은 28일(현지시간) 시리즈 H 투자 라운드를 마무리했다고 발표했다. 이번 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40281",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "\"휴머노이드 '아틀라스', 패스·슈팅·라보나까지\"…현대차 로봇, 축구 예능 찍으며 피지컬 AI 증명",
-      "desc": "현대자동차가 첨단 로보틱스와 전 세계인이 열광하는 축구를 연계한 독창적 캠페인을 선보이며 피지컬 AI 기술력을 글로벌 무대에서 증명했다.현대자동차는 다가오는 'FIFA 월드컵 2026™'의 공식 파트너로서 보스턴다이나믹스의 휴머노이드 로봇 '아틀라스(Atlas)'...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40267",
+      "title": "BMW, 미스트랄 AI와 충돌시험에 AI 적용…“산업 특화 AI 시대 연다”",
+      "desc": "독일 자동차 기업 BMW 그룹(BMW Group)이 프랑스 AI 스타트업 미스트랄 AI(Mistral AI)와 협력해 차량 충돌 시뮬레이션 분야에 인공지능(AI)을 본격 도입한다.BMW는 지난 28일 미스트랄 AI와 전략적 협력 관계를 체결하고 충돌시험(Crash...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40277",
       "source": "AI Times"
     }
   ]
