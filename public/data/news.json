@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-06-01T00:09:47.884Z",
+  "lastUpdated": "2026-06-02T00:17:23.325Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "AI 사용량 경쟁 유도하다 비용 폭탄 맞은 기업들…”AI 너무 써도 안 돼”",
+      "desc": "많은 기업이 직원을 대상으로 AI 도입을 독려하고 있으며, 누가 AI 토큰을 가장 많이 사용했는지를 보여주는 내부 리더보드도 속속 등장하고 있다. 그러나 아마존에서는 최근 이런 방식이 역효과를 낳을 수 있다는 사례가 발견됐다.\n\n\n\n아마존의 AI 개발 도구 ‘키로...",
+      "link": "https://www.itworld.co.kr/article/4179053/ai-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b2%bd%ec%9f%81-%ec%9c%a0%eb%8f%84%ed%95%98%eb%8b%a4-%eb%b9%84%ec%9a%a9-%ed%8f%ad%ed%83%84-%eb%a7%9e%ec%9d%80-%ea%b8%b0%ec%97%85%eb%93%a4-ai-%eb%84%88%eb%ac%b4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "마이그레이션부터 생성형 AI까지, 기업 클라우드 프로젝트의 현주소",
+      "desc": "클라우드가 널리 도입된 지 15년이 지나면서 명확한 프로젝트 유형이 정착됐다. 각 유형에는 성공과 실패를 가르는 구체적인 교훈이 축적돼 있다.\n\n\n\n지난 15년 동안 클라우드 컴퓨팅은 핵심 기반 기술로 자리매김했다. 서버를 임대하는 수단으로 시작했지만, 현재는 기...",
+      "link": "https://www.itworld.co.kr/article/4179040/%eb%a7%88%ec%9d%b4%ea%b7%b8%eb%a0%88%ec%9d%b4%ec%85%98%eb%b6%80%ed%84%b0-%ec%83%9d%ec%84%b1%ed%98%95-ai%ea%b9%8c%ec%a7%80-%ea%b8%b0%ec%97%85-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ed%94%84%eb%a1%9c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "엔비디아, 노트북 칩 시장 진출 임박…AMD·퀄컴에 도전장",
+      "desc": "엔비디아가 세계에서 가장 가치 있는 기업 자리에 만족하지 않는 모양새다. AI·GPU 분야의 강자 엔비디아가 이제 노트북 프로세서 시장이라는 험난한 물살에 뛰어들 태세를 갖추고 있다. 이 행보가 기업 성과에 득이 될지 실이 될지는 두고 봐야 알겠지만, 이번 달 인...",
+      "link": "https://www.itworld.co.kr/article/4179029/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%eb%85%b8%ed%8a%b8%eb%b6%81-%ec%b9%a9-%ec%8b%9c%ec%9e%a5-%ec%a7%84%ec%b6%9c-%ec%9e%84%eb%b0%95amd%c2%b7%ed%80%84%ec%bb%b4%ec%97%90-%eb%8f%84%ec%a0%84.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "선언형 MCP, AI 코딩 에이전트의 컨텍스트 문제를 풀다",
       "desc": "모델 컨텍스트 프로토콜(MCP)은 AI 어시스턴트를 외부 데이터, 툴, API와 연결하기 위한 개방형 프로토콜이다. 앤트로픽이 2024년 말에 처음 선보인 이후 데브옵스, 클라우드를 비롯한 다양한 분야에서 수많은 MCP 서버가 등장했다.\n\n\n\n개발자들이 애플리케이...",
       "link": "https://www.itworld.co.kr/article/4178019/%ec%84%a0%ec%96%b8%ed%98%95-mcp-ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%ec%bb%a8%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%ac%b8%ec%a0%9c%eb%a5%bc-%ed%92%80%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "“모델보다 무거운 것들” AI 종속의 새로운 전선",
       "desc": "최근 PwC는 3만 명의 자사 직원을 대상으로 앤트로픽 클로드에 대한 교육과 인증을 실시하고, 이를 기반으로 은행, 보험, 의료 분야 고객을 위한 CFO 오피스 비즈니스를 구축할 것이라고 발표했다. 앤트로픽도 최근 파트너 네트워크에 1억 달러를 투자했고, 오픈AI...",
       "link": "https://www.itworld.co.kr/article/4177998/%eb%aa%a8%eb%8d%b8%eb%b3%b4%eb%8b%a4-%eb%ac%b4%ea%b1%b0%ec%9a%b4-%ea%b2%83%eb%93%a4-ai-%ec%a2%85%ec%86%8d%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%a0%84%ec%84%a0.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "3조 달러짜리 오픈AI 소송, 진짜 승자는 ‘위선’이었다",
-      "desc": "만약 원고와 피고 모두에게 불리한 판결이 내려져야 마땅한 소송이 있다면, 일론 머스크가 오픈AI와 마이크로소프트를 상대로 제기한 소송이 바로 그런 사례다.\n\n\n\n세간의 이목을 집중시킨 이 법적 공방은 세계 최고 부호와 기업 가치 3조 달러 이상의 회사, 곧 1조 ...",
-      "link": "https://www.itworld.co.kr/article/4177995/3%ec%a1%b0-%eb%8b%ac%eb%9f%ac%ec%a7%9c%eb%a6%ac-%ec%98%a4%ed%94%88ai-%ec%86%8c%ec%86%a1-%ec%a7%84%ec%a7%9c-%ec%8a%b9%ec%9e%90%eb%8a%94-%ec%9c%84%ec%84%a0%ec%9d%b4%ec%97%88%eb%8b%a4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "빅테크, AI 핑계로 직원 내보내기 바쁜데…ROI는 언제쯤",
-      "desc": "생성형 AI가 주류로 떠오른 순간부터, 이런 사태가 올 것이라는 건 모두가 알고 있었다. 이제는 일주일이 멀다 하고 AI로 인한 감원을 발표하는 기술 기업 소식이 들려온다.\n\n\n\n요즘 기술 기업은 AI 인프라 구축 자금을 마련하기 위해 앞다퉈 직원을 내보내고 있다...",
-      "link": "https://www.itworld.co.kr/article/4177968/%eb%b9%85%ed%85%8c%ed%81%ac-ai-%ed%95%91%ea%b3%84%eb%a1%9c-%ec%a7%81%ec%9b%90-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b8%b0-%eb%b0%94%ec%81%9c%eb%8d%b0roi%eb%8a%94-%ec%96%b8%ec%a0%9c%ec%af%a4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "오픈텍스트, UCMDB 기반 IT 운영 혁신 사례 공개",
-      "desc": "오픈텍스트 코리아가 최근 글로벌 공공기관의 IT 운영 혁신 사례를 통해 UCMDB 기반 통합 가시성 확보 전략을 소개했다. \n\n\n\n디지털 전환과 AI 도입 확대로 기업 IT 환경이 복잡해지면서, 여러 시스템에 분산된 운영 데이터를 통합적으로 관리하고 서비스 영향도...",
-      "link": "https://www.itworld.co.kr/article/4177503/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ucmdb-%ea%b8%b0%eb%b0%98-it-%ec%9a%b4%ec%98%81-%ed%98%81%ec%8b%a0-%ec%82%ac%eb%a1%80-%ea%b3%b5%ea%b0%9c.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "인공지능 시대의 새로운 컴퓨팅 아키텍처...함돈희 하버드대 교수, 뉴로모픽 컴퓨팅 구현의 새로운 가능성 제시",
-      "desc": "반도체 칩을 이용해 수천 개 뉴런 내부의 전기 신호를 동시에 측정할 수 있는 기술이 개발됐다. 개별 세포 수준의 정밀도와 대규모 신경망 분석 능력을 동시에 확보한 성과로, 뇌의 정보처리 원리를 규명하는 신경과학 연구는 물론 차세대 뉴로모픽 컴퓨팅 기술 개발에도 새...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40285",
+      "title": "인공지능, \"촬영 시간·위치 달라도 영상 속 물체 변화 찾아낸다\"",
+      "desc": "광주과학기술원(GIST·지스트. 총장 임기철) AI융합학과 김의환 교수 연구팀이 같은 공간을 서로 다른 시간과 경로에서 촬영한 영상을 비교해 실제 물체 변화를 자동으로 탐지하는 인공지능(AI) 모델 ‘VSCDNet’를 개발했다고 2일 밝혔다.VSCD (Video-...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40305",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "[AI 이슈] “AI 팩토리, 제조업 판을 뒤집는다”…생산성 60% 혁신 성장, 글로벌 산업지도 재편",
-      "desc": "인공지능(AI)과 자동화 기술이 제조업 경쟁의 기준을 근본적으로 바꾸고 있다는 분석이 나왔다. 생산성 향상 효과가 최대 60%에 달하면서 저임금 국가로 생산기지를 이전하는 기존 전략보다 첨단 공장 전환이 더 높은 경쟁력을 제공할 수 있다는 전망이다.보스턴컨설팅그룹...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40284",
+      "title": "한컴-에어코드, '신뢰 AI 업무환경' 구축 맞손...공공 보안 시장 확대",
+      "desc": "한컴이 웹 격리(RBI) 보안 전문기업 에어코드(AIRCODE)와 협력해 인공지능(AI) 업무환경의 보안 신뢰성을 강화한다. 한컴은 '소버린 에이전틱 운영체제(Sovereign Agentic OS)' 기업으로의 전환을 선언한 가운데, 고객이 직접 최적의 AI 모델...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40304",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "[AI 리뷰] 아마존, “AI는 이제 행동한다”…현실 세계 업무 수행하는 에이전트 AI 전략 공개",
-      "desc": "아마존(Amazon)이 단순 대화형 AI를 넘어 실제 업무를 스스로 수행하는 ‘에이전트 AI(Agentic AI)’ 구축 전략을 공개했다.아마존은 지난 28일(현지시간) 뉴스룸을 통해 자사의 AI 에이전트 개발 방향과 핵심 기술을 소개하며 “생성형 AI가 정보를 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40282",
+      "title": "소프트뱅크, 프랑스에 132조원 투자 최대 '5GW AI 데이터센터' 구축… 유럽 AI 인프라 허브 조성",
+      "desc": "소프트뱅크 그룹(SoftBank Group)이 프랑스에 최대 750억 유로(약 132조원)를 투자해 총 5GW 규모의 인공지능 데이터센터(AIDC) 인프라를 구축한다고 지난달 31일 발표했다. 이번 사업은 프랑스 정부가 추진하는 ‘초이스 프랑스(Choose Fra...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40303",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "앤트로픽, 시리즈 H로  98조원 투자 유치…기업가치 1454조원으로 급등",
-      "desc": "美 생성형 인공지능(AI) 기업 앤트로픽(Anthropic)이 650억달러(약 98조원) 규모의 시리즈 H 투자 유치를 완료하고 기업가치 9650억달러(약 1454조원)를 달성했다.앤트로픽은 28일(현지시간) 시리즈 H 투자 라운드를 마무리했다고 발표했다. 이번 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40281",
+      "title": "AI 창업에 보안을 더하다...‘코드게이트 AI 스타트업 해커톤’ 참가자 모집",
+      "desc": "(사)코드게이트보안포럼과 기술보증기금은 오는 7월 21일부터 23일까지 사흘간 '코드게이트 AI 스타트업 해커톤'을 공동 개최한다.이번 해커톤은 인공지능 대중화로 코딩 진입장벽이 낮아진 흐름에 발맞춰, 단순 기술 구현을 넘어 '문제 해결 중심'의 창업 문화를 확산...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40302",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "BMW, 미스트랄 AI와 충돌시험에 AI 적용…“산업 특화 AI 시대 연다”",
-      "desc": "독일 자동차 기업 BMW 그룹(BMW Group)이 프랑스 AI 스타트업 미스트랄 AI(Mistral AI)와 협력해 차량 충돌 시뮬레이션 분야에 인공지능(AI)을 본격 도입한다.BMW는 지난 28일 미스트랄 AI와 전략적 협력 관계를 체결하고 충돌시험(Crash...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40277",
+      "title": "\"x86보다 1.8배 빠르다\"...엔비디아, AI 에이전트 시대 위한 첫 전용 CPU '베라' 공개",
+      "desc": "엔비디아(NVIDIA)가 AI 에이전트 시대를 겨냥한 첫 전용 중앙처리장치(CPU) '베라(Vera)'를 공개했다. 엔비디아는 베라를 통해 기존 GPU 중심 AI 인프라를 넘어 에이전틱 AI(Agentic AI), 강화학습, 데이터 처리 등 차세대 AI 워크로드 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40301",
       "source": "AI Times"
     }
   ]
