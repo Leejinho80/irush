@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-06-02T00:17:23.325Z",
+  "lastUpdated": "2026-06-03T01:42:31.550Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "AI 사용량 경쟁 유도하다 비용 폭탄 맞은 기업들…”AI 너무 써도 안 돼”",
-      "desc": "많은 기업이 직원을 대상으로 AI 도입을 독려하고 있으며, 누가 AI 토큰을 가장 많이 사용했는지를 보여주는 내부 리더보드도 속속 등장하고 있다. 그러나 아마존에서는 최근 이런 방식이 역효과를 낳을 수 있다는 사례가 발견됐다.\n\n\n\n아마존의 AI 개발 도구 ‘키로...",
-      "link": "https://www.itworld.co.kr/article/4179053/ai-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b2%bd%ec%9f%81-%ec%9c%a0%eb%8f%84%ed%95%98%eb%8b%a4-%eb%b9%84%ec%9a%a9-%ed%8f%ad%ed%83%84-%eb%a7%9e%ec%9d%80-%ea%b8%b0%ec%97%85%eb%93%a4-ai-%eb%84%88%eb%ac%b4.html",
+      "title": "인텔, 로보틱스 칩으로 피지컬 AI 시장 재진입",
+      "desc": "인텔이 수년 전 재정난으로 철수했던 로보틱스 시장에 재진입하며 피지컬 AI 분야를 본격 공략하고 나섰다.\n\n\n\n로보틱스 전략은 엣지에서 AI를 구동한다는 인텔의 더 큰 그림의 일환이다. 엣지 AI란 기기 자체에 AI를 로컬로 실행할 수 있는 컴퓨팅 역량을 갖추는 ...",
+      "link": "https://www.itworld.co.kr/article/4179651/%ec%9d%b8%ed%85%94-%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4-%ec%b9%a9%ec%9c%bc%eb%a1%9c-%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ec%8b%9c%ec%9e%a5-%ec%9e%ac%ec%a7%84%ec%9e%85.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "마이그레이션부터 생성형 AI까지, 기업 클라우드 프로젝트의 현주소",
-      "desc": "클라우드가 널리 도입된 지 15년이 지나면서 명확한 프로젝트 유형이 정착됐다. 각 유형에는 성공과 실패를 가르는 구체적인 교훈이 축적돼 있다.\n\n\n\n지난 15년 동안 클라우드 컴퓨팅은 핵심 기반 기술로 자리매김했다. 서버를 임대하는 수단으로 시작했지만, 현재는 기...",
-      "link": "https://www.itworld.co.kr/article/4179040/%eb%a7%88%ec%9d%b4%ea%b7%b8%eb%a0%88%ec%9d%b4%ec%85%98%eb%b6%80%ed%84%b0-%ec%83%9d%ec%84%b1%ed%98%95-ai%ea%b9%8c%ec%a7%80-%ea%b8%b0%ec%97%85-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ed%94%84%eb%a1%9c.html",
+      "title": "속도, 기술, 인식…CISO 앞에 놓인 6가지 보안 과제",
+      "desc": "CISO는 어떤 기업도 완전히 안전하지 않다는 사실을 인정하면서도, 정작 자신의 보안 태세가 기대에 미치지 못한다고 고백하는 경우가 많다.\n\n\n\n프루프포인트(Proofpoint)의 2025 CISO 보고서(Voice of the CISO Report)에 응답한 C...",
+      "link": "https://www.itworld.co.kr/article/4179632/%ec%86%8d%eb%8f%84-%ea%b8%b0%ec%88%a0-%ec%9d%b8%ec%8b%9dciso-%ec%95%9e%ec%97%90-%eb%86%93%ec%9d%b8-6%ea%b0%80%ec%a7%80-%eb%b3%b4%ec%95%88-%ea%b3%bc%ec%a0%9c.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "엔비디아, 노트북 칩 시장 진출 임박…AMD·퀄컴에 도전장",
-      "desc": "엔비디아가 세계에서 가장 가치 있는 기업 자리에 만족하지 않는 모양새다. AI·GPU 분야의 강자 엔비디아가 이제 노트북 프로세서 시장이라는 험난한 물살에 뛰어들 태세를 갖추고 있다. 이 행보가 기업 성과에 득이 될지 실이 될지는 두고 봐야 알겠지만, 이번 달 인...",
-      "link": "https://www.itworld.co.kr/article/4179029/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%eb%85%b8%ed%8a%b8%eb%b6%81-%ec%b9%a9-%ec%8b%9c%ec%9e%a5-%ec%a7%84%ec%b6%9c-%ec%9e%84%eb%b0%95amd%c2%b7%ed%80%84%ec%bb%b4%ec%97%90-%eb%8f%84%ec%a0%84.html",
+      "title": "신제품 없는 WWDC 가능성?…애플, 가을 출시 준비에 역량 집중할 듯",
+      "desc": "WWDC에서 신규 하드웨어가 등장하는 경우가 간혹 있지만, 올해 행사에서 애플이 신제품을 발표할 가능성은 낮다.\n\n\n\n애플의 연례 WWDC 키노트가 코앞으로 다가왔다. WWDC는 애플이 소프트웨어와 운영체제의 차기 방향을 공개하는 자리로 잘 알려져 있다. 개발자 ...",
+      "link": "https://www.itworld.co.kr/article/4179612/%ec%8b%a0%ec%a0%9c%ed%92%88-%ec%97%86%eb%8a%94-wwdc-%ea%b0%80%eb%8a%a5%ec%84%b1%ec%95%a0%ed%94%8c-%ea%b0%80%ec%9d%84-%ec%b6%9c%ec%8b%9c-%ec%a4%80%eb%b9%84%ec%97%90-%ec%97%ad%eb%9f%89.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "선언형 MCP, AI 코딩 에이전트의 컨텍스트 문제를 풀다",
-      "desc": "모델 컨텍스트 프로토콜(MCP)은 AI 어시스턴트를 외부 데이터, 툴, API와 연결하기 위한 개방형 프로토콜이다. 앤트로픽이 2024년 말에 처음 선보인 이후 데브옵스, 클라우드를 비롯한 다양한 분야에서 수많은 MCP 서버가 등장했다.\n\n\n\n개발자들이 애플리케이...",
-      "link": "https://www.itworld.co.kr/article/4178019/%ec%84%a0%ec%96%b8%ed%98%95-mcp-ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%ec%bb%a8%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%ac%b8%ec%a0%9c%eb%a5%bc-%ed%92%80%eb%8b%a4.html",
+      "title": "오픈텍스트, G7 AI 행동강령 이행 체계 동참",
+      "desc": "글로벌 정보관리 기업 오픈텍스트(OpenText)가 OECD ‘히로시마 AI 프로세스(HAIP) 보고 프레임워크’에 참여한다고 밝혔다. HAIP는 G7이 마련한 첨단 AI의 안전한 개발·운영을 위한 자발적 행동강령 이행 체계로, 참여 기업은 AI 거버넌스·투명성·...",
+      "link": "https://www.itworld.co.kr/article/4179066/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-g7-ai-%ed%96%89%eb%8f%99%ea%b0%95%eb%a0%b9-%ec%9d%b4%ed%96%89-%ec%b2%b4%ea%b3%84-%eb%8f%99%ec%b0%b8.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "“모델보다 무거운 것들” AI 종속의 새로운 전선",
-      "desc": "최근 PwC는 3만 명의 자사 직원을 대상으로 앤트로픽 클로드에 대한 교육과 인증을 실시하고, 이를 기반으로 은행, 보험, 의료 분야 고객을 위한 CFO 오피스 비즈니스를 구축할 것이라고 발표했다. 앤트로픽도 최근 파트너 네트워크에 1억 달러를 투자했고, 오픈AI...",
-      "link": "https://www.itworld.co.kr/article/4177998/%eb%aa%a8%eb%8d%b8%eb%b3%b4%eb%8b%a4-%eb%ac%b4%ea%b1%b0%ec%9a%b4-%ea%b2%83%eb%93%a4-ai-%ec%a2%85%ec%86%8d%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%a0%84%ec%84%a0.html",
+      "title": "엔비디아 RTX 스파크, 에이전트형 AI PC 시대 열다",
+      "desc": "엔비디아는 전 세계 거의 모든 사람의 손에 AI 생산성을 쥐여주겠다는 비전을 품고 있다. 지난 일요일 밤, 엔비디아 RTX 스파크(Nvidia RTX Spark) 데뷔와 함께 그 여정에 새 이정표를 세웠다. RTX 스파크는 사용자·기업용 PC 시장에서 퀄컴에 도전...",
+      "link": "https://www.itworld.co.kr/article/4179589/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-rtx-%ec%8a%a4%ed%8c%8c%ed%81%ac-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ed%98%95-ai-pc-%ec%8b%9c%eb%8c%80-%ec%97%b4%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "인공지능, \"촬영 시간·위치 달라도 영상 속 물체 변화 찾아낸다\"",
-      "desc": "광주과학기술원(GIST·지스트. 총장 임기철) AI융합학과 김의환 교수 연구팀이 같은 공간을 서로 다른 시간과 경로에서 촬영한 영상을 비교해 실제 물체 변화를 자동으로 탐지하는 인공지능(AI) 모델 ‘VSCDNet’를 개발했다고 2일 밝혔다.VSCD (Video-...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40305",
+      "title": "\"발등에 불, AI ‘취약점 탐지·공격’에서 인간 능력 넘어\"...앤트로픽, '프로젝트 글래스윙' 200개 기관으로 확대",
+      "desc": "앤트로픽(Anthropic)이 인공지능(AI)을 활용해 세계 핵심 소프트웨어의 보안을 강화하는 '프로젝트 글래스윙(Project Glasswing)'을 대폭 확대한다. 앤트로픽은 2일(현지시간) 기존 약 50개 기관에서 약 200개 기관 규모로 참여 대상을 넓히며...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40324",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "한컴-에어코드, '신뢰 AI 업무환경' 구축 맞손...공공 보안 시장 확대",
-      "desc": "한컴이 웹 격리(RBI) 보안 전문기업 에어코드(AIRCODE)와 협력해 인공지능(AI) 업무환경의 보안 신뢰성을 강화한다. 한컴은 '소버린 에이전틱 운영체제(Sovereign Agentic OS)' 기업으로의 전환을 선언한 가운데, 고객이 직접 최적의 AI 모델...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40304",
+      "title": "펀진, 합동화력훈련 최초 AI 적용…정찰 드론의 RF 신호 탐지부터 AI의 최적 무기 추천 선보여",
+      "desc": "국방 버티컬 인공지능(AI) 기업 펀진(대표 김득화)은 2일, 경기도 포천 승진과학화훈련장에서 실시된 2026 합동화력훈련에서 AI 지휘결심지원체계 기술 ‘KWM(Kill-Web Matching)’을 적용해 실시간 표적 식별과 최적 무기 추천 과정을 시연했다고 밝...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40323",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "소프트뱅크, 프랑스에 132조원 투자 최대 '5GW AI 데이터센터' 구축… 유럽 AI 인프라 허브 조성",
-      "desc": "소프트뱅크 그룹(SoftBank Group)이 프랑스에 최대 750억 유로(약 132조원)를 투자해 총 5GW 규모의 인공지능 데이터센터(AIDC) 인프라를 구축한다고 지난달 31일 발표했다. 이번 사업은 프랑스 정부가 추진하는 ‘초이스 프랑스(Choose Fra...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40303",
+      "title": "립-부 탄 인텔 CEO, \"칩부터 시스템 수준까지 새로운 AI 혁신을 전 세계에 선보일 준비가 되어 있다\"",
+      "desc": "인텔은 2일, 컴퓨텍스 2026(Computex 2026)에서 칩부터 시스템 수준에 이르는 인공지능(AI) 요구 사항을 충족하고 각 산업 분야별 특정 과제를 해결하도록 맞춤 설계된 새로운 혁신 기술을 발표했다.이날 립-부 탄(Lip-Bu Tan) 인텔 최고경영자(...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40322",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "AI 창업에 보안을 더하다...‘코드게이트 AI 스타트업 해커톤’ 참가자 모집",
-      "desc": "(사)코드게이트보안포럼과 기술보증기금은 오는 7월 21일부터 23일까지 사흘간 '코드게이트 AI 스타트업 해커톤'을 공동 개최한다.이번 해커톤은 인공지능 대중화로 코딩 진입장벽이 낮아진 흐름에 발맞춰, 단순 기술 구현을 넘어 '문제 해결 중심'의 창업 문화를 확산...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40302",
+      "title": "앤트로픽, 美 증권거래위에 비공개 상장 신청서 제출…기업가치 1,000억 달러급 AI 기업 상장 가시화",
+      "desc": "앤트로픽(Anthropic)이 미국 증권거래위원회(SEC)에 기업공개(IPO)를 위한 상장 신청서를 비공개로 제출하며 본격적인 상장 절차에 돌입했다.앤트로픽은 1일(현지시간) 공식 발표를 통해 미국 증권거래위원회에 보통주 공개 상장을 위한 초안 등록신고서(Form...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40321",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "\"x86보다 1.8배 빠르다\"...엔비디아, AI 에이전트 시대 위한 첫 전용 CPU '베라' 공개",
-      "desc": "엔비디아(NVIDIA)가 AI 에이전트 시대를 겨냥한 첫 전용 중앙처리장치(CPU) '베라(Vera)'를 공개했다. 엔비디아는 베라를 통해 기존 GPU 중심 AI 인프라를 넘어 에이전틱 AI(Agentic AI), 강화학습, 데이터 처리 등 차세대 AI 워크로드 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40301",
+      "title": "美 DARPA·국립과학재단, 국가안보 AI 연구 연합 ‘AI 포지’ 출범",
+      "desc": "미국 국방부 산하 국방고등연구계획국(DARPA)과 국립과학재단(NSF)이 국가안보 분야 인공지능(AI) 연구 혁신을 위한 공동 프로그램 ‘AI 포지(AI Forge)’를 1일(현지시간) 공식 출범했다.급속히 발전하는 상용 AI 기술을 국가안보 영역에 효과적으로 적...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40320",
       "source": "AI Times"
     }
   ]
