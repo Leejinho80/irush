@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T01:42:31.550Z",
+  "lastUpdated": "2026-06-04T01:44:14.927Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "\"발등에 불, AI ‘취약점 탐지·공격’에서 인간 능력 넘어\"...앤트로픽, '프로젝트 글래스윙' 200개 기관으로 확대",
-      "desc": "앤트로픽(Anthropic)이 인공지능(AI)을 활용해 세계 핵심 소프트웨어의 보안을 강화하는 '프로젝트 글래스윙(Project Glasswing)'을 대폭 확대한다. 앤트로픽은 2일(현지시간) 기존 약 50개 기관에서 약 200개 기관 규모로 참여 대상을 넓히며...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40324",
+      "title": "아웃시스템즈, 기업 AI 운영 관리를 위한 ‘에이전틱 시스템 플랫폼’ 공개",
+      "desc": "인공지능 기반 로우코드 개발 플랫폼 분야를 선도하는 아웃시스템즈(OutSystems)가 네덜란드 암스테르담에서 개최한 ‘2026 ONE 컨퍼런스 (2026 ONE Conference)’에서 신규 제품과 서비스, 파트너십 확대 및 주요 고객 성과를 발표했다고 4일 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40335",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "펀진, 합동화력훈련 최초 AI 적용…정찰 드론의 RF 신호 탐지부터 AI의 최적 무기 추천 선보여",
-      "desc": "국방 버티컬 인공지능(AI) 기업 펀진(대표 김득화)은 2일, 경기도 포천 승진과학화훈련장에서 실시된 2026 합동화력훈련에서 AI 지휘결심지원체계 기술 ‘KWM(Kill-Web Matching)’을 적용해 실시간 표적 식별과 최적 무기 추천 과정을 시연했다고 밝...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40323",
+      "title": "AI대학 신설 GIST, 모집정원 100명 확대…4대 과기원 공동 입학설명회 개최",
+      "desc": "광주과학기술원(GIST·지스트, 총장 임기철)은 한국과학기술원(KAIST), 대구경북과학기술원(DGIST), 울산과학기술원(UNIST)과 공동으로 ‘4대 과학기술원 2027학년도 공동 입학설명회’를 오는 13일 오후 1시 오룡관 2층 다산홀에서 개최한다고 밝혔다....",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40334",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "립-부 탄 인텔 CEO, \"칩부터 시스템 수준까지 새로운 AI 혁신을 전 세계에 선보일 준비가 되어 있다\"",
-      "desc": "인텔은 2일, 컴퓨텍스 2026(Computex 2026)에서 칩부터 시스템 수준에 이르는 인공지능(AI) 요구 사항을 충족하고 각 산업 분야별 특정 과제를 해결하도록 맞춤 설계된 새로운 혁신 기술을 발표했다.이날 립-부 탄(Lip-Bu Tan) 인텔 최고경영자(...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40322",
+      "title": "롯데이노베이트, 180개 언어 지원 '산업 현장 전문용어' 번역 AI 에이전트 가동...건설 특화 용어사전 탑재로 현장 은어까지",
+      "desc": "롯데이노베이트가 통합 AI 플랫폼 ‘아이멤버(Aimember)’로 축적된 기술로 건설 현장의 인공지능 전환(AX) 가속화에 나선다. 핵심은 건설 현장에 실시간 AI 음성번역 에이전트를 도입해 외국인 근로자와의 원활한 소통을 지원하는 것이다.이 AI 음성번역 에이전...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40333",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "앤트로픽, 美 증권거래위에 비공개 상장 신청서 제출…기업가치 1,000억 달러급 AI 기업 상장 가시화",
-      "desc": "앤트로픽(Anthropic)이 미국 증권거래위원회(SEC)에 기업공개(IPO)를 위한 상장 신청서를 비공개로 제출하며 본격적인 상장 절차에 돌입했다.앤트로픽은 1일(현지시간) 공식 발표를 통해 미국 증권거래위원회에 보통주 공개 상장을 위한 초안 등록신고서(Form...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40321",
+      "title": "AI와 창작자 간 시너지 찾는 새로운 실험... 네이버, 창작자-AI 펠로우십 '네이버 메이트' 시작",
+      "desc": "인공지능이 정보를 빠르게 정리하고 콘텐츠 생산 방식까지 바꾸고 있는 가운데, 직접 경험하고 오래 쌓아온 창작자의 기록은 점점 중요해지고 있다. 네이버는 이러한 창작자들의 경험과 인사이트가 AI 시대에도 더 잘 발견되고, 더 많은 사용자와 연결될 수 있도록 새로운 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40332",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "美 DARPA·국립과학재단, 국가안보 AI 연구 연합 ‘AI 포지’ 출범",
-      "desc": "미국 국방부 산하 국방고등연구계획국(DARPA)과 국립과학재단(NSF)이 국가안보 분야 인공지능(AI) 연구 혁신을 위한 공동 프로그램 ‘AI 포지(AI Forge)’를 1일(현지시간) 공식 출범했다.급속히 발전하는 상용 AI 기술을 국가안보 영역에 효과적으로 적...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40320",
+      "title": "이글루코퍼레이션, KISA AI 과제 수주...‘에이전틱 AI’로 자율형 SOC 구현 본격화",
+      "desc": "인공지능 기반 보안 운영·분석 플랫폼 기업 이글루코퍼레이션(대표 이득춘)이 한국인터넷진흥원(KISA)에서 주관하는 ‘2026년 인공지능(AI) 보안 유망기업 육성 지원사업’의 시제품 개발 과제 수행기관으로 최종 선정됐다고 4일 밝혔다.이글루코퍼레이션은 이번 과제 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40331",
       "source": "AI Times"
     }
   ]
