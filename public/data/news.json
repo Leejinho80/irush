@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T01:44:14.927Z",
+  "lastUpdated": "2026-06-05T00:14:14.650Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "아웃시스템즈, 기업 AI 운영 관리를 위한 ‘에이전틱 시스템 플랫폼’ 공개",
-      "desc": "인공지능 기반 로우코드 개발 플랫폼 분야를 선도하는 아웃시스템즈(OutSystems)가 네덜란드 암스테르담에서 개최한 ‘2026 ONE 컨퍼런스 (2026 ONE Conference)’에서 신규 제품과 서비스, 파트너십 확대 및 주요 고객 성과를 발표했다고 4일 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40335",
+      "title": "아웃시스템즈, AWS와 협력 확대...기업용 에이전틱 AI 기능 공개",
+      "desc": "인공지능 기반 로우코드 개발 플랫폼 분야를 선도하는 아웃시스템즈(OutSystems)가 아마존웹서비스(Amazon Web Services, AWS)와의 파트너십을 확대하고, 기업의 AI 도입을 지원하는 신규 기능을 5일 발표했다.이번 협력은 AI 모델 파편화, 레...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40349",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "AI대학 신설 GIST, 모집정원 100명 확대…4대 과기원 공동 입학설명회 개최",
-      "desc": "광주과학기술원(GIST·지스트, 총장 임기철)은 한국과학기술원(KAIST), 대구경북과학기술원(DGIST), 울산과학기술원(UNIST)과 공동으로 ‘4대 과학기술원 2027학년도 공동 입학설명회’를 오는 13일 오후 1시 오룡관 2층 다산홀에서 개최한다고 밝혔다....",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40334",
+      "title": "레노버, 'FIFA 월드컵 2026'에 인공지능 입힌다... AI 기반 방송·운영 혁신 지원",
+      "desc": "레노버(Lenovo)가 'FIFA 월드컵 2026(FIFA World Cup 2026™)'의 핵심 기술 파트너로 나서 인공지능(AI) 기반 인프라를 통해 방송 운영과 팬 경험 혁신을 지원한다. 특히 초저지연 IPTV(인터넷 프로토콜 텔레비전) 전송과 AI 기반 운...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40348",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "롯데이노베이트, 180개 언어 지원 '산업 현장 전문용어' 번역 AI 에이전트 가동...건설 특화 용어사전 탑재로 현장 은어까지",
-      "desc": "롯데이노베이트가 통합 AI 플랫폼 ‘아이멤버(Aimember)’로 축적된 기술로 건설 현장의 인공지능 전환(AX) 가속화에 나선다. 핵심은 건설 현장에 실시간 AI 음성번역 에이전트를 도입해 외국인 근로자와의 원활한 소통을 지원하는 것이다.이 AI 음성번역 에이전...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40333",
+      "title": "마이크로소프트, 에이전틱 AI로 개발한 차세대 위상 양자 칩 '마요라나 2' 공개",
+      "desc": "마이크로소프트(Microsoft)가 에이전틱 AI(Agentic AI)를 활용해 개발한 차세대 위상 양자 칩 '마요라나 2(Majorana 2)'를 공개하며 양자 컴퓨팅 상용화 로드맵을 대폭 앞당겼다. 회사는 새로운 칩을 기반으로 당초 계획보다 절반 가까이 단축된...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40347",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "AI와 창작자 간 시너지 찾는 새로운 실험... 네이버, 창작자-AI 펠로우십 '네이버 메이트' 시작",
-      "desc": "인공지능이 정보를 빠르게 정리하고 콘텐츠 생산 방식까지 바꾸고 있는 가운데, 직접 경험하고 오래 쌓아온 창작자의 기록은 점점 중요해지고 있다. 네이버는 이러한 창작자들의 경험과 인사이트가 AI 시대에도 더 잘 발견되고, 더 많은 사용자와 연결될 수 있도록 새로운 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40332",
+      "title": "AI에게 '질문하는 법' 가르쳤다…MIT, '배틀십' 게임으로 GPT-5도 뛰어넘은 저비용 AI 개발",
+      "desc": "인공지능(AI)의 성능을 평가할 때 일반적으로 얼마나 정확한 답을 내놓는지에 주목한다. 그러나 실제 과학 연구나 의료 진단, 신약 개발과 같은 복잡한 문제에서는 정답을 아는 것만큼이나 올바른 질문을 던지는 능력이 중요하다.미국 매사추세츠공과대학교(MIT) 컴퓨터과...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40346",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "이글루코퍼레이션, KISA AI 과제 수주...‘에이전틱 AI’로 자율형 SOC 구현 본격화",
-      "desc": "인공지능 기반 보안 운영·분석 플랫폼 기업 이글루코퍼레이션(대표 이득춘)이 한국인터넷진흥원(KISA)에서 주관하는 ‘2026년 인공지능(AI) 보안 유망기업 육성 지원사업’의 시제품 개발 과제 수행기관으로 최종 선정됐다고 4일 밝혔다.이글루코퍼레이션은 이번 과제 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40331",
+      "title": "유럽연합, 에너지 시스템 디지털화 및 지속 가능한 AI 로드맵 발표… 연간 수백억 유로 비용 절감 기대",
+      "desc": "유럽연합 집행위원회(EC)가 디지털 기술이 에너지 부문에 미치는 영향을 관리하고 친환경적이며 안전한 에너지 생태계를 구축하기 위한 혁신적인 대책을 내놓았다.집행위원회는 지난 3일(현지시간) 유럽 기술 주권 패키지(European Technological Sover...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40345",
       "source": "AI Times"
     }
   ]
