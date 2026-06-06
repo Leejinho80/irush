@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-06-05T00:14:14.650Z",
+  "lastUpdated": "2026-06-06T00:12:15.715Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "왜 AI 에이전트는 프로덕션에서 실망스러울까",
+      "desc": "프로덕션에서 에이전트에게 도로 위를 달리라고 요청하는데, 그 도로가 대시보드에 맞게 만들어진 도로라면 결과는 실망스러울 수밖에 없다. 신뢰할 수 있는 에이전트를 원한다면 하부 구조에 다음과 같은 네 가지 보장을 구현해야 한다.\n\n\n\nAI 에이전트가 데모에서 뛰어난...",
+      "link": "https://www.itworld.co.kr/article/4181485/%ec%99%9c-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%8a%94-%ed%94%84%eb%a1%9c%eb%8d%95%ec%85%98%ec%97%90%ec%84%9c-%ec%8b%a4%eb%a7%9d%ec%8a%a4%eb%9f%ac%ec%9a%b8%ea%b9%8c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "하루 5만 5,000대씩 팔린 맥북 네오, PC 업계의 새 기준",
+      "desc": "애플의 저가형 신형 노트북 맥북 네오가 올해 초 출시 이후 PC 업계 전반에 충격파를 던지고 있으며, 그 여진은 현재도 이어지고 있다.\n\n\n\n시장조사업체 IDC 데이터(테크크런치가 최초 보도)에 따르면, 맥북 네오는 3월 출시 이후 하루 평균 약 5만 5,000대...",
+      "link": "https://www.itworld.co.kr/article/4181478/%ed%95%98%eb%a3%a8-5%eb%a7%8c-5000%eb%8c%80%ec%94%a9-%ed%8c%94%eb%a6%b0-%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-pc-%ec%97%85%ea%b3%84%ec%9d%98-%ec%83%88-%ea%b8%b0%ec%a4%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "마이크로소프트, 오픈클로 기반 자율 AI 에이전트 ‘스카우트’ 공개",
+      "desc": "마이크로소프트가 마이크로소프트 365 앱 전반에서 자율적으로 작업을 수행하는 새로운 AI 에이전트를 개발했다.\n\n\n\n마이크로소프트 스카우트(마이크로소프트 Scout)는 화요일 마이크로소프트 빌드 컨퍼런스에서 공개됐다. 오픈클로 에이전트 프레임워크를 기반으로 하며,...",
+      "link": "https://www.itworld.co.kr/article/4181454/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c-%ea%b8%b0%eb%b0%98-%ec%9e%90%ec%9c%a8-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8a%a4%ec%b9%b4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "더 큰 모델보다 더 나은 데이터가 먼저다",
+      "desc": "AI는 산업 전반에 걸쳐 동일한 속도로 발전하지 않는다. 일부 방향에서는 빠르게 앞서나가는 반면, 다른 방향에서는 여전히 뒤처진다.\n\n\n\n오늘날 가장 발전한 AI 애플리케이션을 살펴보면 이 대비가 뚜렷해진다. 소프트웨어 개발 분야에서 AI는 급속히 일상화되고 있다...",
+      "link": "https://www.itworld.co.kr/article/4181443/%eb%8d%94-%ed%81%b0-%eb%aa%a8%eb%8d%b8%eb%b3%b4%eb%8b%a4-%eb%8d%94-%eb%82%98%ec%9d%80-%eb%8d%b0%ec%9d%b4%ed%84%b0%ea%b0%80-%eb%a8%bc%ec%a0%80%eb%8b%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "인텔, 로보틱스 칩으로 피지컬 AI 시장 재진입",
       "desc": "인텔이 수년 전 재정난으로 철수했던 로보틱스 시장에 재진입하며 피지컬 AI 분야를 본격 공략하고 나섰다.\n\n\n\n로보틱스 전략은 엣지에서 AI를 구동한다는 인텔의 더 큰 그림의 일환이다. 엣지 AI란 기기 자체에 AI를 로컬로 실행할 수 있는 컴퓨팅 역량을 갖추는 ...",
       "link": "https://www.itworld.co.kr/article/4179651/%ec%9d%b8%ed%85%94-%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4-%ec%b9%a9%ec%9c%bc%eb%a1%9c-%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ec%8b%9c%ec%9e%a5-%ec%9e%ac%ec%a7%84%ec%9e%85.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "속도, 기술, 인식…CISO 앞에 놓인 6가지 보안 과제",
-      "desc": "CISO는 어떤 기업도 완전히 안전하지 않다는 사실을 인정하면서도, 정작 자신의 보안 태세가 기대에 미치지 못한다고 고백하는 경우가 많다.\n\n\n\n프루프포인트(Proofpoint)의 2025 CISO 보고서(Voice of the CISO Report)에 응답한 C...",
-      "link": "https://www.itworld.co.kr/article/4179632/%ec%86%8d%eb%8f%84-%ea%b8%b0%ec%88%a0-%ec%9d%b8%ec%8b%9dciso-%ec%95%9e%ec%97%90-%eb%86%93%ec%9d%b8-6%ea%b0%80%ec%a7%80-%eb%b3%b4%ec%95%88-%ea%b3%bc%ec%a0%9c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "신제품 없는 WWDC 가능성?…애플, 가을 출시 준비에 역량 집중할 듯",
-      "desc": "WWDC에서 신규 하드웨어가 등장하는 경우가 간혹 있지만, 올해 행사에서 애플이 신제품을 발표할 가능성은 낮다.\n\n\n\n애플의 연례 WWDC 키노트가 코앞으로 다가왔다. WWDC는 애플이 소프트웨어와 운영체제의 차기 방향을 공개하는 자리로 잘 알려져 있다. 개발자 ...",
-      "link": "https://www.itworld.co.kr/article/4179612/%ec%8b%a0%ec%a0%9c%ed%92%88-%ec%97%86%eb%8a%94-wwdc-%ea%b0%80%eb%8a%a5%ec%84%b1%ec%95%a0%ed%94%8c-%ea%b0%80%ec%9d%84-%ec%b6%9c%ec%8b%9c-%ec%a4%80%eb%b9%84%ec%97%90-%ec%97%ad%eb%9f%89.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "오픈텍스트, G7 AI 행동강령 이행 체계 동참",
-      "desc": "글로벌 정보관리 기업 오픈텍스트(OpenText)가 OECD ‘히로시마 AI 프로세스(HAIP) 보고 프레임워크’에 참여한다고 밝혔다. HAIP는 G7이 마련한 첨단 AI의 안전한 개발·운영을 위한 자발적 행동강령 이행 체계로, 참여 기업은 AI 거버넌스·투명성·...",
-      "link": "https://www.itworld.co.kr/article/4179066/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-g7-ai-%ed%96%89%eb%8f%99%ea%b0%95%eb%a0%b9-%ec%9d%b4%ed%96%89-%ec%b2%b4%ea%b3%84-%eb%8f%99%ec%b0%b8.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "엔비디아 RTX 스파크, 에이전트형 AI PC 시대 열다",
-      "desc": "엔비디아는 전 세계 거의 모든 사람의 손에 AI 생산성을 쥐여주겠다는 비전을 품고 있다. 지난 일요일 밤, 엔비디아 RTX 스파크(Nvidia RTX Spark) 데뷔와 함께 그 여정에 새 이정표를 세웠다. RTX 스파크는 사용자·기업용 PC 시장에서 퀄컴에 도전...",
-      "link": "https://www.itworld.co.kr/article/4179589/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-rtx-%ec%8a%a4%ed%8c%8c%ed%81%ac-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ed%98%95-ai-pc-%ec%8b%9c%eb%8c%80-%ec%97%b4%eb%8b%a4.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "아웃시스템즈, AWS와 협력 확대...기업용 에이전틱 AI 기능 공개",
-      "desc": "인공지능 기반 로우코드 개발 플랫폼 분야를 선도하는 아웃시스템즈(OutSystems)가 아마존웹서비스(Amazon Web Services, AWS)와의 파트너십을 확대하고, 기업의 AI 도입을 지원하는 신규 기능을 5일 발표했다.이번 협력은 AI 모델 파편화, 레...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40349",
+      "title": "핀터레스트, AWS와 6조원 규모 AI 인프라 계약 체결…AI 기반 시각 검색·추천 서비스 고도화",
+      "desc": "이미지 검색 및 발견 플랫폼 핀터레스트(Pinterest)가 아마존웹서비스(AWS)와 40억 달러(약 6조원) 규모의 장기 클라우드 계약을 체결했다고 4일(현지시간) 발표했다. 이는 핀터레스트 역사상 최대 규모의 인프라 투자로, 인공지능(AI) 기반 시각 검색과 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40363",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "레노버, 'FIFA 월드컵 2026'에 인공지능 입힌다... AI 기반 방송·운영 혁신 지원",
-      "desc": "레노버(Lenovo)가 'FIFA 월드컵 2026(FIFA World Cup 2026™)'의 핵심 기술 파트너로 나서 인공지능(AI) 기반 인프라를 통해 방송 운영과 팬 경험 혁신을 지원한다. 특히 초저지연 IPTV(인터넷 프로토콜 텔레비전) 전송과 AI 기반 운...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40348",
+      "title": "페이스북 대시보드에 AI 비서 탑재…“창작자 맞춤형 AI 파트너 시대 연다”",
+      "desc": "메타(Meta)가 페이스북(Facebook) 창작자를 위한 새로운 인공지능(AI) 도구인 ‘크리에이터 어시스턴트(Creator Assistant)’를 공개했다. 창작자의 콘텐츠 성과를 분석하고 성장 전략을 제안하는 맞춤형 AI 파트너로, 콘텐츠 제작 과정 전반을 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40362",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "마이크로소프트, 에이전틱 AI로 개발한 차세대 위상 양자 칩 '마요라나 2' 공개",
-      "desc": "마이크로소프트(Microsoft)가 에이전틱 AI(Agentic AI)를 활용해 개발한 차세대 위상 양자 칩 '마요라나 2(Majorana 2)'를 공개하며 양자 컴퓨팅 상용화 로드맵을 대폭 앞당겼다. 회사는 새로운 칩을 기반으로 당초 계획보다 절반 가까이 단축된...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40347",
+      "title": "KB금융, 중기부와 중소기업·소상공인 성장 지원...100억원 규모 상생협력기금 출연",
+      "desc": "KB금융그룹(회장 양종희)은 5일, 중소벤처기업부(장관 한성숙)와 대·중소기업·농어업협력재단과 함께 총 100억원 규모의 상생협력기금 출연식을 개최했다.이번 상생협력기금은 중기부와 협의를 거쳐 그간 대기업 공급망 내 협력사 중심으로 운영되던 기존 상생협력 범위를 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40361",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "AI에게 '질문하는 법' 가르쳤다…MIT, '배틀십' 게임으로 GPT-5도 뛰어넘은 저비용 AI 개발",
-      "desc": "인공지능(AI)의 성능을 평가할 때 일반적으로 얼마나 정확한 답을 내놓는지에 주목한다. 그러나 실제 과학 연구나 의료 진단, 신약 개발과 같은 복잡한 문제에서는 정답을 아는 것만큼이나 올바른 질문을 던지는 능력이 중요하다.미국 매사추세츠공과대학교(MIT) 컴퓨터과...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40346",
+      "title": "넥스트랩, 인니 인터넷사업자연합회와 인공지능 파트너십",
+      "desc": "인공지능(AI) 기술기업 넥스트랩(Nextlab)은 인도네시아 인터넷 사업자 연합회(Asosiasi Penyelenggara Jasa Internet Indonesia, APJII)와 AI파트너십 계약을 체결했다고 5일 밝혔다. 이번 계약을 통해 넥스트랩은 인도네...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40360",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "유럽연합, 에너지 시스템 디지털화 및 지속 가능한 AI 로드맵 발표… 연간 수백억 유로 비용 절감 기대",
-      "desc": "유럽연합 집행위원회(EC)가 디지털 기술이 에너지 부문에 미치는 영향을 관리하고 친환경적이며 안전한 에너지 생태계를 구축하기 위한 혁신적인 대책을 내놓았다.집행위원회는 지난 3일(현지시간) 유럽 기술 주권 패키지(European Technological Sover...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40345",
+      "title": "마크 카니 캐나다 총리, 국가 인공지능 대전환 선언… ‘모두를 위한 AI(AI for All)’ 전략 전격 발표",
+      "desc": "캐나다가 인공지능(AI)을 국가 경쟁력과 경제 주권의 핵심 축으로 규정하고 향후 5년간 대규모 투자와 제도 개편을 추진하는 새로운 국가 AI 전략을 발표했다.마크 카니(Mark Carney) 캐나다 총리는 4일(현지시간) 토론토에서 새로운 국가 AI 전략인 ‘AI...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40359",
       "source": "AI Times"
     }
   ]
