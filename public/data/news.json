@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-06-07T00:08:56.944Z",
+  "lastUpdated": "2026-06-08T00:14:28.482Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "AI가 바꾼 보안 방정식…수십 년 막혔던 예산이 열린다",
+      "desc": "자율 AI 시스템이 기업 보안 지형을 재편하면서 전례 없는 수준의 리스크 확대를 야기하고 있다. 기업 경영진 사이에서도 더 강력한 방어 체계에 지갑을 열 준비가 됐다는 목소리가 커지고 있다.\n\n\n\n약 20년 동안 사이버 보안 리더는 똑같은 현실에 직면해왔다. 최신...",
+      "link": "https://www.itworld.co.kr/article/4182044/ai%ea%b0%80-%eb%b0%94%ea%be%bc-%eb%b3%b4%ec%95%88-%eb%b0%a9%ec%a0%95%ec%8b%9d-%ec%88%98%ec%8b%ad-%eb%85%84-%eb%a7%89%ed%98%94%eb%8d%98-%ec%98%88%ec%82%b0%ec%9d%b4-%ec%97%b4%eb%a6%b0%eb%8b%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
       "title": "왜 AI 에이전트는 프로덕션에서 실망스러울까",
       "desc": "프로덕션에서 에이전트에게 도로 위를 달리라고 요청하는데, 그 도로가 대시보드에 맞게 만들어진 도로라면 결과는 실망스러울 수밖에 없다. 신뢰할 수 있는 에이전트를 원한다면 하부 구조에 다음과 같은 네 가지 보장을 구현해야 한다.\n\n\n\nAI 에이전트가 데모에서 뛰어난...",
       "link": "https://www.itworld.co.kr/article/4181485/%ec%99%9c-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%8a%94-%ed%94%84%eb%a1%9c%eb%8d%95%ec%85%98%ec%97%90%ec%84%9c-%ec%8b%a4%eb%a7%9d%ec%8a%a4%eb%9f%ac%ec%9a%b8%ea%b9%8c.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "03",
       "title": "하루 5만 5,000대씩 팔린 맥북 네오, PC 업계의 새 기준",
       "desc": "애플의 저가형 신형 노트북 맥북 네오가 올해 초 출시 이후 PC 업계 전반에 충격파를 던지고 있으며, 그 여진은 현재도 이어지고 있다.\n\n\n\n시장조사업체 IDC 데이터(테크크런치가 최초 보도)에 따르면, 맥북 네오는 3월 출시 이후 하루 평균 약 5만 5,000대...",
       "link": "https://www.itworld.co.kr/article/4181478/%ed%95%98%eb%a3%a8-5%eb%a7%8c-5000%eb%8c%80%ec%94%a9-%ed%8c%94%eb%a6%b0-%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-pc-%ec%97%85%ea%b3%84%ec%9d%98-%ec%83%88-%ea%b8%b0%ec%a4%80.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "04",
       "title": "마이크로소프트, 오픈클로 기반 자율 AI 에이전트 ‘스카우트’ 공개",
       "desc": "마이크로소프트가 마이크로소프트 365 앱 전반에서 자율적으로 작업을 수행하는 새로운 AI 에이전트를 개발했다.\n\n\n\n마이크로소프트 스카우트(마이크로소프트 Scout)는 화요일 마이크로소프트 빌드 컨퍼런스에서 공개됐다. 오픈클로 에이전트 프레임워크를 기반으로 하며,...",
       "link": "https://www.itworld.co.kr/article/4181454/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c-%ea%b8%b0%eb%b0%98-%ec%9e%90%ec%9c%a8-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8a%a4%ec%b9%b4.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
+      "number": "05",
       "title": "더 큰 모델보다 더 나은 데이터가 먼저다",
       "desc": "AI는 산업 전반에 걸쳐 동일한 속도로 발전하지 않는다. 일부 방향에서는 빠르게 앞서나가는 반면, 다른 방향에서는 여전히 뒤처진다.\n\n\n\n오늘날 가장 발전한 AI 애플리케이션을 살펴보면 이 대비가 뚜렷해진다. 소프트웨어 개발 분야에서 AI는 급속히 일상화되고 있다...",
       "link": "https://www.itworld.co.kr/article/4181443/%eb%8d%94-%ed%81%b0-%eb%aa%a8%eb%8d%b8%eb%b3%b4%eb%8b%a4-%eb%8d%94-%eb%82%98%ec%9d%80-%eb%8d%b0%ec%9d%b4%ed%84%b0%ea%b0%80-%eb%a8%bc%ec%a0%80%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
-      "number": "05",
-      "title": "인텔, 로보틱스 칩으로 피지컬 AI 시장 재진입",
-      "desc": "인텔이 수년 전 재정난으로 철수했던 로보틱스 시장에 재진입하며 피지컬 AI 분야를 본격 공략하고 나섰다.\n\n\n\n로보틱스 전략은 엣지에서 AI를 구동한다는 인텔의 더 큰 그림의 일환이다. 엣지 AI란 기기 자체에 AI를 로컬로 실행할 수 있는 컴퓨팅 역량을 갖추는 ...",
-      "link": "https://www.itworld.co.kr/article/4179651/%ec%9d%b8%ed%85%94-%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4-%ec%b9%a9%ec%9c%bc%eb%a1%9c-%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ec%8b%9c%ec%9e%a5-%ec%9e%ac%ec%a7%84%ec%9e%85.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "자연어로 지시하는 AI 로봇 등장...아마존, 차세대 자율주행 로봇 '프로테우스' 공개",
-      "desc": "아마존(Amazon)이 자연어를 이해하는 차세대 자율주행 물류 로봇 '프로테우스(Proteus)'를 공개하고 유럽 물류 네트워크 확장에 100억 유로(약 15조9000억원)를 투자한다고 4일(현지시간) 발표했다.이번 발표는 영국 런던에서 열린 '딜리버링 더 퓨처 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40366",
+      "title": "SKT-엔비디아, ‘AI 인프라’ 동맹으로 한국의 AI 혁신 주도한다",
+      "desc": "SK텔레콤(대표이사 CEO 정재헌)은 8일, 엔비디아와 함께 글로벌을 겨냥한 AI 인프라 구축에 나선다고 발표했다.양사는 엔비디아 DSX 플랫폼을 기반으로 칩부터 데이터센터 운영까지 아우르는 '풀스택(Full Stack) AI 클라우드' 협력을 추진하기로 했다. ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40376",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "구글, '젬마 4 QAT' 공개…“1GB 메모리로 AI 구동” 온디바이스 AI 대중화 가속",
-      "desc": "구글(Google)이 자사의 오픈 모델 '젬마 4(Gemma 4)' 제품군에 양자화 인식 학습(QAT, Quantization-Aware Training)을 적용한 새로운 모델을 공개하며 온디바이스 AI 경쟁력 강화에 나섰다.구글은 '젬마 4 QAT 모델(Gemm...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40365",
+      "title": "엔비디아, 네이버와 AI 인프라 확장…기가와트급 엔비디아 DSX 기반 AI 팩토리 구축",
+      "desc": "엔비디아와 네이버(NAVER)는 네이버가 엔비디아 DSX(NVIDIA DSX™) 플랫폼을 활용해 소버린 AI 인프라를 확장할 계획이라고 밝혔다. 네이버는 초기 55메가와트(MW) 규모로 시작해 향후 기가와트(GW)급까지 확장할 예정이며, 기업·산업계·정부를 지원할...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40375",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "美·日, ‘AI 포 사이언스' 동맹 구축…10억 달러 공동 투자, 미국 ‘제네시스 미션’과 일본 AI 전략 결합",
-      "desc": "일본과 미국이 인공지능(AI)을 활용해 과학 연구개발 방식을 근본적으로 혁신하기 위한 대규모 협력 체계를 구축한다. 양국은 향후 5년간 총 10억 달러(약 1.5조원)를 투자해 양자정보과학, 핵융합, 바이오테크놀로지, 첨단 소재 등 미래 전략기술 분야에서 공동 연...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40364",
+      "title": "SK하이닉스, 엔비디아 AI 인프라 로드맵에 부합하는 차세대 메모리 공동 개발 파트너십",
+      "desc": "SK하이닉스가 엔비디아와 글로벌 인공지능 팩토리 구축을 위한 차세대 메모리를 공동 개발하고, 반도체 설계 및 제조를 가속화하는 장기 기술 파트너십을 강화한다고 8일 발표했다.양사는 지난 수년간 세계 최고 수준의 인공지능 컴퓨팅 플랫폼 구축을 위해 긴밀히 진행해 온...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40374",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "핀터레스트, AWS와 6조원 규모 AI 인프라 계약 체결…AI 기반 시각 검색·추천 서비스 고도화",
-      "desc": "이미지 검색 및 발견 플랫폼 핀터레스트(Pinterest)가 아마존웹서비스(AWS)와 40억 달러(약 6조원) 규모의 장기 클라우드 계약을 체결했다고 4일(현지시간) 발표했다. 이는 핀터레스트 역사상 최대 규모의 인프라 투자로, 인공지능(AI) 기반 시각 검색과 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40363",
+      "title": "두산그룹, 엔비디아와 AI팩토리 인프라 고도화 등 전방위 협력 추진",
+      "desc": "두산그룹은 엔비디아와 피지컬 인공지능, 로보틱스, 인공지능 팩토리 분야에서 새로운 기회를 함께 모색하기 위해 양사 간 전방위 협력을 추진하기로 했다.두산과 엔비디아는 에너지, 전자소재, 로보틱스 등 두산의 핵심사업 전반에 걸쳐 엔비디아와 협력을 확대하기로 했다고 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40373",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "페이스북 대시보드에 AI 비서 탑재…“창작자 맞춤형 AI 파트너 시대 연다”",
-      "desc": "메타(Meta)가 페이스북(Facebook) 창작자를 위한 새로운 인공지능(AI) 도구인 ‘크리에이터 어시스턴트(Creator Assistant)’를 공개했다. 창작자의 콘텐츠 성과를 분석하고 성장 전략을 제안하는 맞춤형 AI 파트너로, 콘텐츠 제작 과정 전반을 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40362",
+      "title": "이재명 대통령, 국무총리 후보자에 한성숙 장관 지명…\"AI 대전환 이끌 적임자\"",
+      "desc": "이재명 대통령이 신임 국무총리 후보자로 한성숙 중소벤처기업부 장관을 지명했다. 대통령실은 한 후보자가 IT 기업 최고경영자와 중소벤처기업부 장관을 역임하며 쌓은 경험을 바탕으로 대한민국의 인공지능(AI) 대전환을 성공적으로 이끌 적임자라고 평가했다.청와대는 7일 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40372",
       "source": "AI Times"
     }
   ]
