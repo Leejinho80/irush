@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T00:13:12.105Z",
+  "lastUpdated": "2026-06-15T00:17:42.176Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "최태원 회장 “나의 AI에서 ’우리의 AI’로 진화해야”...미래 기회 대응 위해 기본기와 실행력 탄탄히 해야",
+      "desc": "최태원 SK그룹 회장은 “360도 전방위로, 전속력으로 인공지능 전환(AX)에 돌입해야 할 때”라며 경영진과 구성원의 신속한 실행을 당부했다.최 회장은 경기 이천시 SKMS 연구소에서 지난 11일부터 13일까지 ‘AI가 가져올 파괴적 혁신, AX 중심 경영으로의 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40495",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
       "title": "美 정부, 앤트로픽 최고 성능 AI 사용 전격 중단 명령…AI 수출통제 시대 본격 개막",
       "desc": "미국 정부가 앤트로픽(Anthropic)의 최상위 인공지능(AI) 모델인 '페이블 5(Fable 5)'와 '미토스 5(Mythos 5)'에 대해 사실상 사용 중단 명령을 내리면서 글로벌 AI 커뮤니티가 충격에 빠졌다.이번 조치는 반도체나 GPU 같은 하드웨어가 아...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=40492",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "08",
       "title": "[AI 이슈] \"AI가 몸 안에서 즉시 판단한다\"…시카고대, 서버 없이 실시간 추론하는 웨어러블 AI 칩 개발",
       "desc": "인공지능(AI)이 클라우드 서버를 거치지 않고 인체 위에서 직접 데이터를 분석하는 시대가 현실에 한 걸음 더 가까워졌다.미국 시카고대학교 프리츠커 분자공학대학원(University of Chicago Pritzker School of Molecular Engine...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=40490",
       "source": "AI Times"
     },
     {
-      "number": "08",
+      "number": "09",
       "title": "AI 정렬·추천 시스템 정확도 높이는 새 방법 제시...MIT, '무작위 효용 모델' 100년 한계 극복",
       "desc": "미국 매사추세츠공과대학교(MIT) 연구진이 인간의 선호도를 예측하는 데 사용되는 대표적 수학 모델인 '무작위 효용 모델(Random Utility Models, RUMs)'의 한계를 극복할 수 있는 새로운 방법을 11일(현지시간) 제시했다.연구진은 기존처럼 두 가...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=40489",
       "source": "AI Times"
     },
     {
-      "number": "09",
+      "number": "10",
       "title": "국토부, 인공지능과 데이터허브로 지속가능한 스마트 도시를 만든다",
       "desc": "국토교통부(장관 김윤덕)는 12일, '2026년 스마트도시 조성사업'공모 결과, 거점형은 경기도 수원시, 특화단지는 부산광역시, 경기도 성남시를 선정하였고, '2026년 스마트도시 데이터허브 시범솔루션 발굴사업' 공모 결과, 경상남도, 충청남도 태안군을 선정하였다...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=40488",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "개인정보위, AI 시대 개인정보 쟁점 다루는 모의재판 경연대회 참가자 사전 모집",
-      "desc": "개인정보보호위원회(위원장 송경희. 이하, 개인정보위)는 개인정보 분야의 법률적·기술적 전문성을 두루 갖춘 미래인재를 발굴하고 개인정보 보호 현안에 대한 국민적 관심을 높이기 위해, 8월 27일 ‘제4회 개인정보 보호 모의재판 경연대회’를 개최하기로 하고 사전 참가...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40487",
       "source": "AI Times"
     }
   ]
