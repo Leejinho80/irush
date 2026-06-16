@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-06-15T00:17:42.176Z",
+  "lastUpdated": "2026-06-16T01:42:42.549Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "LLM과 데이터베이스를 연결하는 MCP 서버 10종 총정리",
-      "desc": "모델 컨텍스트 프로토콜(MCP)은 LLM 기반 툴과 로컬 시스템, 내외부 API, 데이터 소스를 연결하는 표준 커넥터로 견고한 입지를 다지고 있다. 주요 클라우드부터 데브옵스 툴까지, MCP 서버는 자연어 명령을 통해 강력한 AI 기반 개발 및 운영 기능을 실현한...",
-      "link": "https://www.itworld.co.kr/article/4184249/%ec%9e%90%ec%97%b0%ec%96%b4%eb%a1%9c-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b2%a0%ec%9d%b4%ec%8a%a4%eb%a5%bc-%ec%a1%b0%ec%9e%91%ed%95%98%eb%8a%94-%ec%8b%9c%eb%8c%80-mcp-%ec%84%9c%eb%b2%84%ea%b0%80-%ec%97%b4.html",
+      "title": "시리 AI 개편, 유료 구독 전환의 신호탄 될까",
+      "desc": "애플이 애플 인텔리전스(Apple Intelligence)에 구독 요금제를 도입할 것이라는 관측은 오래전부터 제기돼 왔다. 그런데 최근 신뢰할 만한 소식통의 새 보고서를 통해 그 가능성이 한층 높아졌다.\n\n\n\n블룸버그 기자 마크 거먼은 이번 주말 주간 뉴스레터에서...",
+      "link": "https://www.itworld.co.kr/article/4185340/%ec%8b%9c%eb%a6%ac-ai-%ea%b0%9c%ed%8e%b8-%ec%9c%a0%eb%a3%8c-%ea%b5%ac%eb%8f%85-%ec%a0%84%ed%99%98%ec%9d%98-%ec%8b%a0%ed%98%b8%ed%83%84-%eb%90%a0%ea%b9%8c.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "내 사진·음성이 AI 학습 데이터로? 구글 기본 설정 지금 바꿔야",
-      "desc": "안드로이드 사용자라면 반드시 확인해야 할 구글 개인정보 설정 변경이 진행 중이다. 새 조항에 따르면 구글은 구글 렌즈, 검색, 제미나이 라이브와의 상호작용에서 생성된 이미지·파일·동영상·음성을 AI 모델 학습 및 개선에 활용할 수 있다. 이 설정은 곧 기본값으로 ...",
-      "link": "https://www.itworld.co.kr/article/4184244/%eb%82%b4-%ec%82%ac%ec%a7%84%c2%b7%ec%9d%8c%ec%84%b1%ec%9d%b4-ai-%ed%95%99%ec%8a%b5-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a1%9c-%ea%b5%ac%ea%b8%80-%ea%b8%b0%eb%b3%b8-%ec%84%a4%ec%a0%95-%ec%a7%80%ea%b8%88.html",
+      "title": "저렴한 PC의 미래, 구형 칩에서 찾는다…AMD의 역발상 전략",
+      "desc": "AMD가 보급형 PC에 사용할 저렴한 프로세서를 원하는 PC 제조사에 공급하기 위해, 2019년과 2020년 설계된 모바일 칩 3종을 다시 출시했다고 공식 확인했다.\n\n\n\nAMD는 현재 2019년 출시된 젠+ 아키텍처(라이젠 3000 모바일 / 피카소) 기반의 A...",
+      "link": "https://www.itworld.co.kr/article/4185333/%ec%a0%80%eb%a0%b4%ed%95%9c-pc%ec%9d%98-%eb%af%b8%eb%9e%98-%ea%b5%ac%ed%98%95-%ec%b9%a9%ec%97%90%ec%84%9c-%ec%b0%be%eb%8a%94%eb%8b%a4amd%ec%9d%98-%ec%97%ad%eb%b0%9c%ec%83%81-%ec%a0%84.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "사이클 시간 최대 40% 단축…데브옵스 AI 도구의 실제 효과",
-      "desc": "소프트웨어 개발 팀의 궁극적인 목표가 고품질 제품을 가능한 한 빠르고 효율적으로, 안전하게 시장에 내놓는 것이라면 데브옵스를 위한 AI 기반 도구는 그 목표를 달성하는 방법이 될 수 있다.\n\n\n\nAI 기반 도구는 복잡하고 반복적인 작업을 자동화함으로써 소프트웨어 ...",
-      "link": "https://www.itworld.co.kr/article/4183887/%ec%82%ac%ec%9d%b4%ed%81%b4-%ec%8b%9c%ea%b0%84-%ec%b5%9c%eb%8c%80-40-%eb%8b%a8%ec%b6%95%eb%8d%b0%eb%b8%8c%ec%98%b5%ec%8a%a4-ai-%eb%8f%84%ea%b5%ac%ec%9d%98-%ec%8b%a4%ec%a0%9c-%ed%9a%a8.html",
+      "title": "개발자는 빠르게, 보안팀은 느리게…오픈텍스트, 금융권 AI 전환 시대의 애플리케이션 보안 과제 짚다",
+      "desc": "금융위원회가 2026년 1분기 금융산업 통합 AI 가이드라인 시행을 추진하고, 금융감독원이 AI 위험관리 프레임워크(AI RMF)를 도입하면서 국내 금융권의 AI 전환이 본격적인 제도권 안으로 들어왔다. 망분리 규제 완화와 맞물려 금융사의 AI 기반 서비스 개발과...",
+      "link": "https://www.itworld.co.kr/article/4185325/%ea%b0%9c%eb%b0%9c%ec%9e%90%eb%8a%94-%eb%b9%a0%eb%a5%b4%ea%b2%8c-%eb%b3%b4%ec%95%88%ed%8c%80%ec%9d%80-%eb%8a%90%eb%a6%ac%ea%b2%8c-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b8%88%ec%9c%b5.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "AI 모멘텀 되찾은 애플, 남은 과제는 실행력",
-      "desc": "WWDC26은 플랫폼의 전환점처럼 느껴졌다. 애플은 더 이상 AI가 언젠가 도래할 것이라고만 말하지 않는다. 애플 인텔리전스와 시리 AI가 자사 생태계 미래의 중심이 돼야 한다고 주장하고 있다. 이 전략이 성공한다면, 애플은 AI를 약점으로 인식되던 영역에서 자사...",
-      "link": "https://www.itworld.co.kr/article/4183866/ai-%eb%aa%a8%eb%a9%98%ed%85%80-%eb%90%98%ec%b0%be%ec%9d%80-%ec%95%a0%ed%94%8c-%eb%82%a8%ec%9d%80-%ea%b3%bc%ec%a0%9c%eb%8a%94-%ec%8b%a4%ed%96%89%eb%a0%a5.html",
+      "title": "AI 혁신의 열쇠, 주니어 개발자의 ‘무경험’에 있다",
+      "desc": "AI에 막대한 자금을 투입하면서도 기업이 그에 걸맞은 성과를 내지 못하는 사례가 늘고 있다. 변화를 이끌어야 할 주체가 잘못 설정된 탓일 수 있다.\n\n\n\nAI는 개발자를 없애기보다는 개발자에게 요구되는 역량을 바꿀 가능성이 높다. 대규모 언어 모델이 코드를 더 빠...",
+      "link": "https://www.itworld.co.kr/article/4185301/ai-%ed%98%81%ec%8b%a0%ec%9d%98-%ec%97%b4%ec%87%a0-%ec%a3%bc%eb%8b%88%ec%96%b4-%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%9d%98-%eb%ac%b4%ea%b2%bd%ed%97%98%ec%97%90-%ec%9e%88%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "코파일럿을 버리고 제미나이로 갈아탄 이유",
-      "desc": "필자는 2023년 코파일럿이 공개된 이후 줄곧 사용하며 관련 글을 써왔다. 리뷰와 활용법 기사를 썼고, 환각 현상 억제 방법을 설명하고, 마이크로소프트 365와 함께 사용하는 방법도 다뤘다. 개인 프로젝트와 조언을 구할 때도 코파일럿은 주된 생성형 AI 도구였다....",
-      "link": "https://www.itworld.co.kr/article/4183862/%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf%ec%9d%84-%eb%b2%84%eb%a6%ac%ea%b3%a0-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%eb%a1%9c-%ea%b0%88%ec%95%84%ed%83%84-%ec%9d%b4%ec%9c%a0.html",
+      "title": "구글, 순차 처리 탈피한 확산 기반 AI 모델 디퓨전젬마 공개",
+      "desc": "극도로 강력한 대규모 언어 모델(LLM)도 워크로드를 키보드 자판을 두드리듯 왼쪽에서 오른쪽으로 한 토큰씩 순차 처리하는 방식에서 벗어나지 못하고 있다. 워크로드를 단순히 좌→우 순차 방식으로 처리하는 것이다. 그러나 로컬 실행·단일 사용자 환경에서는 이런 순차 ...",
+      "link": "https://www.itworld.co.kr/article/4184835/%ea%b5%ac%ea%b8%80-%ec%88%9c%ec%b0%a8-%ec%b2%98%eb%a6%ac-%ed%83%88%ed%94%bc%ed%95%9c-%ed%99%95%ec%82%b0-%ea%b8%b0%eb%b0%98-ai-%eb%aa%a8%eb%8d%b8-%eb%94%94%ed%93%a8%ec%a0%84%ec%a0%ac%eb%a7%88.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "최태원 회장 “나의 AI에서 ’우리의 AI’로 진화해야”...미래 기회 대응 위해 기본기와 실행력 탄탄히 해야",
-      "desc": "최태원 SK그룹 회장은 “360도 전방위로, 전속력으로 인공지능 전환(AX)에 돌입해야 할 때”라며 경영진과 구성원의 신속한 실행을 당부했다.최 회장은 경기 이천시 SKMS 연구소에서 지난 11일부터 13일까지 ‘AI가 가져올 파괴적 혁신, AX 중심 경영으로의 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40495",
+      "title": "생성형 AI 수익 232% 급증한 61억달러 기록… AI 컴패니언 시장 3년 만에 12배 성장, 한국 앱 ‘제타’ 일본 매출 1위",
+      "desc": "글로벌 마켓 인텔리전스 기업 센서타워(Sensor Tower)가 ‘2026년 전 세계 AI 앱 트렌드 인사이트’ 리포트를 발표했다. 이번 리포트는 전 세계 생성형 AI 시장의 성장 추이와 주요 하위 카테고리별 경쟁 구도를 분석하고, ‘챗GPT’, ‘제타’를 비롯한...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40521",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "美 정부, 앤트로픽 최고 성능 AI 사용 전격 중단 명령…AI 수출통제 시대 본격 개막",
-      "desc": "미국 정부가 앤트로픽(Anthropic)의 최상위 인공지능(AI) 모델인 '페이블 5(Fable 5)'와 '미토스 5(Mythos 5)'에 대해 사실상 사용 중단 명령을 내리면서 글로벌 AI 커뮤니티가 충격에 빠졌다.이번 조치는 반도체나 GPU 같은 하드웨어가 아...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40492",
+      "title": "VR 고글 쓴 채 ‘진짜 커피’ 한 모금… GIST, 가상현실 몰입 유지하는 ‘셀프블렌딩’ AI 기술 개발",
+      "desc": "가상현실(VR) 기기를 착용한 상태에서 커피를 마시거나 메모를 하려면 헤드셋을 벗거나 현실 화면 전체를 보여주는 패스스루(Passthrough) 기능을 켜야 했다, 이 과정에서 가상환경의 흐름이 깨지고 몰입감이 저하되는 한계가 존재했다.최근 국내 연구진이 이러한 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40520",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "[AI 이슈] \"AI가 몸 안에서 즉시 판단한다\"…시카고대, 서버 없이 실시간 추론하는 웨어러블 AI 칩 개발",
-      "desc": "인공지능(AI)이 클라우드 서버를 거치지 않고 인체 위에서 직접 데이터를 분석하는 시대가 현실에 한 걸음 더 가까워졌다.미국 시카고대학교 프리츠커 분자공학대학원(University of Chicago Pritzker School of Molecular Engine...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40490",
+      "title": "KT-고려대, 한국 문화 특화 AI 오픈 벤치마크 'KSAFE-MM' 공개...국내 최대규모 한국어 멀티모달 안전성 평가 데이터셋",
+      "desc": "KT(대표이사 박윤영)가 멀티모달 대형언어모델(MLLM) 벤치마크 'KSAFE-MM'을 공개했다고 16일 밝혔다. 이는 KT와 고려대가 공동 개발했으며 멀티모달(텍스트·이미지·음성 등 다양한 데이터를 통합처리) AI 모델의 안전성을 한국 사회 이슈와 문화적 맥락을...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40519",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "AI 정렬·추천 시스템 정확도 높이는 새 방법 제시...MIT, '무작위 효용 모델' 100년 한계 극복",
-      "desc": "미국 매사추세츠공과대학교(MIT) 연구진이 인간의 선호도를 예측하는 데 사용되는 대표적 수학 모델인 '무작위 효용 모델(Random Utility Models, RUMs)'의 한계를 극복할 수 있는 새로운 방법을 11일(현지시간) 제시했다.연구진은 기존처럼 두 가...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40489",
+      "title": "“사람과 AI가 원팀”...SKT AX 혁신 2.0 드라이브, 구성원과 AI가 함께 일하는 조직으로 전환",
+      "desc": "SK텔레콤(대표이사 CEO 정재헌)은 구성원이 인공지능 전환(AX)에 더욱 몰입할 수 있는 환경을 구축하기 위한 ‘AX 혁신 2.0’을 시행한다고 16일 밝혔다.정재헌 SKT CEO는 지난주 경기도 이천시 SKMS연구소에서 열린 ‘2026 뉴 이천포럼’에서 현장의...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40518",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "국토부, 인공지능과 데이터허브로 지속가능한 스마트 도시를 만든다",
-      "desc": "국토교통부(장관 김윤덕)는 12일, '2026년 스마트도시 조성사업'공모 결과, 거점형은 경기도 수원시, 특화단지는 부산광역시, 경기도 성남시를 선정하였고, '2026년 스마트도시 데이터허브 시범솔루션 발굴사업' 공모 결과, 경상남도, 충청남도 태안군을 선정하였다...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40488",
+      "title": "ETRI, AI 스마트도시 포커스그룹 신설 주도...이준섭 융합표준연구실장 초대 의장직 선임",
+      "desc": "국내 연구진이 인공지능(AI)을 활용한 스마트도시 국제표준화 분야에서 세계적인 주도권 확보에 나섰다. 이번 성과는 교통, 에너지, 환경, 안전 등 지금까지 개별적으로 운영되던 도시 서비스를 AI로 연결하고 통합해 보다 효율적이고 편리한 도시를 만들기 위한 글로벌 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40517",
       "source": "AI Times"
     }
   ]
