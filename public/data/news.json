@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-06-17T00:21:38.575Z",
+  "lastUpdated": "2026-06-18T00:18:20.896Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "시리 AI 개편, 유료 구독 전환의 신호탄 될까",
-      "desc": "애플이 애플 인텔리전스(Apple Intelligence)에 구독 요금제를 도입할 것이라는 관측은 오래전부터 제기돼 왔다. 그런데 최근 신뢰할 만한 소식통의 새 보고서를 통해 그 가능성이 한층 높아졌다.\n\n\n\n블룸버그 기자 마크 거먼은 이번 주말 주간 뉴스레터에서...",
-      "link": "https://www.itworld.co.kr/article/4185340/%ec%8b%9c%eb%a6%ac-ai-%ea%b0%9c%ed%8e%b8-%ec%9c%a0%eb%a3%8c-%ea%b5%ac%eb%8f%85-%ec%a0%84%ed%99%98%ec%9d%98-%ec%8b%a0%ed%98%b8%ed%83%84-%eb%90%a0%ea%b9%8c.html",
+      "title": "폴더블 아이폰을 가리키는 iOS 27 베타 속 3가지 단서",
+      "desc": "애플이 iOS 27, 맥OS 27, 워치OS 27을 비롯한 OS 27 업데이트 전 라인업의 첫 번째 개발자 베타를 공개했다. WWDC 기조연설에서 발표된 기능들이 총망라된 업데이트지만, 발표되지 않은 내용 속에서 더 흥미로운 단서가 발견되기도 한다.\n\n\n\n한동안 ...",
+      "link": "https://www.itworld.co.kr/article/4186509/%ed%8f%b4%eb%8d%94%eb%b8%94-%ec%95%84%ec%9d%b4%ed%8f%b0%ec%9d%84-%ea%b0%80%eb%a6%ac%ed%82%a4%eb%8a%94-ios-27-%eb%b2%a0%ed%83%80-%ec%86%8d-3%ea%b0%80%ec%a7%80-%eb%8b%a8%ec%84%9c.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "저렴한 PC의 미래, 구형 칩에서 찾는다…AMD의 역발상 전략",
-      "desc": "AMD가 보급형 PC에 사용할 저렴한 프로세서를 원하는 PC 제조사에 공급하기 위해, 2019년과 2020년 설계된 모바일 칩 3종을 다시 출시했다고 공식 확인했다.\n\n\n\nAMD는 현재 2019년 출시된 젠+ 아키텍처(라이젠 3000 모바일 / 피카소) 기반의 A...",
-      "link": "https://www.itworld.co.kr/article/4185333/%ec%a0%80%eb%a0%b4%ed%95%9c-pc%ec%9d%98-%eb%af%b8%eb%9e%98-%ea%b5%ac%ed%98%95-%ec%b9%a9%ec%97%90%ec%84%9c-%ec%b0%be%eb%8a%94%eb%8b%a4amd%ec%9d%98-%ec%97%ad%eb%b0%9c%ec%83%81-%ec%a0%84.html",
+      "title": "시리 AI 베타 첫 주 사용기 : 놀랍고도 아쉬운 애플 인텔리전스",
+      "desc": "iOS 27의 주요 신기능은 시리 AI와, 시리 AI를 기반으로 하는 더 넓은 범주의 애플 인텔리전스 기능이다. 올가을 비교적 최신 기기부터 순차 적용될 예정으로, 새로운 기반 모델, 새로운 클라우드 처리 방식, 새로운 음성, 새로운 지식 데이터베이스, 새로운 양...",
+      "link": "https://www.itworld.co.kr/article/4186489/%ec%8b%9c%eb%a6%ac-ai-%eb%b2%a0%ed%83%80-%ec%b2%ab-%ec%a3%bc-%ec%82%ac%ec%9a%a9%ea%b8%b0-%eb%86%80%eb%9e%8d%ea%b3%a0%eb%8f%84-%ec%95%84%ec%89%ac%ec%9a%b4-%ec%95%a0%ed%94%8c-%ec%9d%b8%ed%85%94.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "개발자는 빠르게, 보안팀은 느리게…오픈텍스트, 금융권 AI 전환 시대의 애플리케이션 보안 과제 짚다",
-      "desc": "금융위원회가 2026년 1분기 금융산업 통합 AI 가이드라인 시행을 추진하고, 금융감독원이 AI 위험관리 프레임워크(AI RMF)를 도입하면서 국내 금융권의 AI 전환이 본격적인 제도권 안으로 들어왔다. 망분리 규제 완화와 맞물려 금융사의 AI 기반 서비스 개발과...",
-      "link": "https://www.itworld.co.kr/article/4185325/%ea%b0%9c%eb%b0%9c%ec%9e%90%eb%8a%94-%eb%b9%a0%eb%a5%b4%ea%b2%8c-%eb%b3%b4%ec%95%88%ed%8c%80%ec%9d%80-%eb%8a%90%eb%a6%ac%ea%b2%8c-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b8%88%ec%9c%b5.html",
+      "title": "AI, 클라우드 밖으로 나오다…엔비디아의 새로운 도전",
+      "desc": "엔비디아(NVIDIA)의 신제품 RTX 스파크는 최근 몇 년간 나온 퍼스널 컴퓨팅 발표 중 가장 주목할 만한 소식이다. 단순히 새로운 PC 플랫폼이 아니라, AI 시대에 개인용 컴퓨터의 역할을 재정의하려는 시도이기 때문이다. 2026년 컴퓨텍스 행사에서 공개된 R...",
+      "link": "https://www.itworld.co.kr/article/4186486/ai-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%eb%b0%96%ec%9c%bc%eb%a1%9c-%eb%82%98%ec%98%a4%eb%8b%a4-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%8f%84%ec%a0%84.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "AI 혁신의 열쇠, 주니어 개발자의 ‘무경험’에 있다",
-      "desc": "AI에 막대한 자금을 투입하면서도 기업이 그에 걸맞은 성과를 내지 못하는 사례가 늘고 있다. 변화를 이끌어야 할 주체가 잘못 설정된 탓일 수 있다.\n\n\n\nAI는 개발자를 없애기보다는 개발자에게 요구되는 역량을 바꿀 가능성이 높다. 대규모 언어 모델이 코드를 더 빠...",
-      "link": "https://www.itworld.co.kr/article/4185301/ai-%ed%98%81%ec%8b%a0%ec%9d%98-%ec%97%b4%ec%87%a0-%ec%a3%bc%eb%8b%88%ec%96%b4-%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%9d%98-%eb%ac%b4%ea%b2%bd%ed%97%98%ec%97%90-%ec%9e%88%eb%8b%a4.html",
+      "title": "“게이밍 PC 시장에 서피스는 없다” 마이크로소프트의 전략적 결단",
+      "desc": "수년간 사용자는 마이크로소프트가 게이밍 노트북을 출시할지 궁금해했다. 적어도 서피스 부문만큼은 답이 나왔다. ‘아니다’이다.\n\n\n\n마이크로소프트 서피스 디바이스 부문 부사장 브렛 오스트럼은 PCWorld에 서피스 브랜드를 단 게이밍 노트북을 반드시 출시해야 한다는...",
+      "link": "https://www.itworld.co.kr/article/4186031/%ea%b2%8c%ec%9d%b4%eb%b0%8d-pc-%ec%8b%9c%ec%9e%a5%ec%97%90-%ec%84%9c%ed%94%bc%ec%8a%a4%eb%8a%94-%ec%97%86%eb%8b%a4-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8%ec%9d%98.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "구글, 순차 처리 탈피한 확산 기반 AI 모델 디퓨전젬마 공개",
-      "desc": "극도로 강력한 대규모 언어 모델(LLM)도 워크로드를 키보드 자판을 두드리듯 왼쪽에서 오른쪽으로 한 토큰씩 순차 처리하는 방식에서 벗어나지 못하고 있다. 워크로드를 단순히 좌→우 순차 방식으로 처리하는 것이다. 그러나 로컬 실행·단일 사용자 환경에서는 이런 순차 ...",
-      "link": "https://www.itworld.co.kr/article/4184835/%ea%b5%ac%ea%b8%80-%ec%88%9c%ec%b0%a8-%ec%b2%98%eb%a6%ac-%ed%83%88%ed%94%bc%ed%95%9c-%ed%99%95%ec%82%b0-%ea%b8%b0%eb%b0%98-ai-%eb%aa%a8%eb%8d%b8-%eb%94%94%ed%93%a8%ec%a0%84%ec%a0%ac%eb%a7%88.html",
+      "title": "메디데이터, ‘넥스트 이노베이션 데이 서울’에서 AI 기반 임상시험 플랫폼 전략 발표",
+      "desc": "AI 기술이 생명과학 산업의 판도를 바꾸고 있다. 신약 개발 과정에서 가장 시간이 오래 걸리는 임상시험을 AI가 어떻게 혁신할 수 있을지가 업계의 주요 관심사다. 임상시험 데이터 및 솔루션 제공 기업 메디데이터가 이런 변화의 최전선에 있다.\n\n\n\n메디데이터가 6월...",
+      "link": "https://www.itworld.co.kr/article/4186022/%eb%a9%94%eb%94%94%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%84%a5%ec%8a%a4%ed%8a%b8-%ec%9d%b4%eb%85%b8%eb%b2%a0%ec%9d%b4%ec%85%98-%eb%8d%b0%ec%9d%b4-%ec%84%9c%ec%9a%b8%ec%97%90%ec%84%9c-ai-%ea%b8%b0.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "적은 메모리로도 휴머노이드 로봇의 눈 밝힌다...압축된 시각 정보, 고해상도로 복원하는 AI 기술 개발",
-      "desc": "스마트폰의 안면 인식부터 휴머노이드 로봇에 이르기까지, 인공지능(AI)의 '눈' 역할을 하는 컴퓨터 비전 기술은 이미 우리 일상 곳곳에 자리 잡고 있다.여기에 한국과학기술원(KAIST)과 국제 공동연구진은 적은 메모리만으로도 AI가 주변 환경을 더욱 선명하게 인식...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40540",
+      "title": "포자랩스, 핑크퐁 아기상어 글로벌 전시에 AI 개인화 음악 기술 적용",
+      "desc": "인공지능(AI) 음악 스타트업 포자랩스가 18일, 동대문디자인플라자(DDP) 뮤지엄 전시 2관에서 개막하는 AI 인터랙티브 체험 전시 ‘아기상어 비밀 초대장: 비커밍 샤크(Baby Shark The Experience: Unlock the Secret Ocean)...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40563",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "\"의료 현장 난제, AI로 푼다\"... UNIST·서울아산병원, 공동세미나 개최",
-      "desc": "UNIST와 서울아산병원이 의료 인공지능(AI) 공동연구 과제를 발굴하기 위해 연구자들을 한자리에 모았다. 병원 임상데이터를 인공지능으로 분석해 진단·예측·치료 전략에 활용하는 연구 분야가 논의됐다.UNIST(총장 박종래) 의과학대학원·인공지능대학원과 서울아산병원...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40539",
+      "title": "“접근성이 곧 AI 경쟁력”… 코딧, 포용적 AI 생태계 조성 위한 3대 과제 제안",
+      "desc": "인공지능 법·규제·정책 플랫폼 기업 코딧(CODIT, 대표 정지은) 부설 글로벌정책실증연구원은 '포용적 AI를 위한 정책 과제: 접근성 혁신과 디지털 포용 생태계 조성' 보고서를 발간했다고 18일 밝혔다.생성형 AI가 행정·의료·교육 등 사회 전반의 핵심 인프라로...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40562",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "[AI 리뷰] 원자로 냉각 기술을 AI 데이터센터로…MIT 연구진 창업 '퍼버렛', 전력·물 사용 획기적 절감",
-      "desc": "인공지능(AI) 확산으로 데이터센터의 전력 소비가 급증하는 가운데, 미국 매사추세츠공과대학교(MIT) 연구진이 설립한 스타트업이 원자력 발전소의 냉각 원리를 AI 데이터센터에 적용해 에너지 효율과 지속가능성을 크게 높이는 기술을 선보였다.MIT 원자력공학 분야 연...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40538",
+      "title": "마키나락스, 한국수자원공사와 스마트정수장 생성형 AI 고도화 나선다",
+      "desc": "마키나락스(MakinaRocks, 대표 윤성호)가 한국수자원공사와 함께 스마트정수장 업무지원 시스템에 생성형 AI를 접목하는 프로젝트를 추진하며, 공공 인프라 현장에서 활용 가능한 인공지능(AI) 운영 모델 고도화에 나선다.이번 프로젝트는 마키나락스의 AI 운영체...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40561",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "HD현대, 로봇·데이터 기반 ‘선체 관리 통합 솔루션’ 개발 나선다",
-      "desc": "HD현대중공업을 비롯한 HD현대 5개 계열사가 조선업계 최초로 선체 진단부터 클리닝, 성능 검증까지 전 과정을 자동화하는 로봇·데이터 기반 선체 관리 통합 솔루션 개발에 나선다.HD현대중공업은 최근 HD한국조선해양, HD현대로보틱스, HD현대마린솔루션, 아비커스 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40537",
+      "title": "英 정부, AI로 도시계획 혁신 나선다…구글 클라우드와 전국 단위 확산 추진",
+      "desc": "영국 정부가 인공지능(AI)을 활용해 도시계획 행정 혁신에 본격적으로 나섰다. 복잡한 인허가 심사와 방대한 문서 검토 업무를 자동화하는 AI 기반 도시계획 시스템을 전국으로 확대하며 주택 공급 확대와 행정 효율화라는 두 가지 목표를 동시에 추진한다.구글 클라우드(...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40560",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "‘모두를 위한 AI’ ...“업스테이지 컴퍼니” 출범...AI 모델·에이전트·포털 하나로",
-      "desc": "업스테이지가 16일, 서울 여의도 콘래드 호텔에서 ‘미디어 데이’를 열고, 자체 인공지능(AI) 모델을 중심으로 기업과 일반 사용자, 에이전트까지 아우르는 ‘모두를 위한 AI’ 시대를 열겠다는 포부와 함께 ‘업스테이지 컴퍼니’의 출범을 선언했다.업스테이지 컴퍼니는...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40536",
+      "title": "카카오, ‘AGENTIC PLAYER 10’ 개최… AI 서비스 발굴 나선다",
+      "desc": "카카오(대표이사 정신아)는 에이전틱(Agentic) AI 생태계 활성화와 창의적인 인공지능 서비스 발굴을 위해 ‘AGENTIC PLAYER 10’ 공모전을 개최한다고 17일 밝혔다.이번 공모전은 카카오의 MCP(Model Context Protocol) 기반 개방...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40559",
       "source": "AI Times"
     }
   ]
