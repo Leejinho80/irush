@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-06-18T00:18:20.896Z",
+  "lastUpdated": "2026-06-19T01:45:52.462Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "추론 비용 오르는데 수익은 어디서? MS 마켓플레이스의 해법",
+      "desc": "처음에야 챗봇이 빠르게 인기를 얻었지만, 이제 현대 AI 시스템은 단순한 챗봇 이상으로 진화했다. 이제 시맨틱 툴을 사용해 워크플로우를 관리하고 기계와 기계를 연결해 차세대 비즈니스 자동화를 위한 유연하고 효과적인 프레임워크를 구성한다. 과거 마이크로소프트의 파워...",
+      "link": "https://www.itworld.co.kr/article/4186555/%ec%b6%94%eb%a1%a0-%eb%b9%84%ec%9a%a9-%ec%98%a4%eb%a5%b4%eb%8a%94%eb%8d%b0-%ec%88%98%ec%9d%b5%ec%9d%80-%ec%96%b4%eb%94%94%ec%84%9c-ms-%eb%a7%88%ec%bc%93%ed%94%8c%eb%a0%88%ec%9d%b4%ec%8a%a4%ec%9d%98.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "“먼저 훔치고 나중에 해독한다” 양자 시대의 새 공격 공식",
+      "desc": "양자 기술은 먼 미래의 일처럼 느껴질 수 있지만, 일부 위험은 “지금 수집하고 해독은 나중에 하자”는 형태로 이미 우리 곁에 와 있다. 지금 데이터를 훔쳐두고, 대다수 기업이 데이터를 보호하기 위해 구축해둔 암호화를 무력화할 수 있는 양자 컴퓨팅 툴이 나오면 그때...",
+      "link": "https://www.itworld.co.kr/article/4186546/%eb%a8%bc%ec%a0%80-%ed%9b%94%ec%b9%98%ea%b3%a0-%eb%82%98%ec%a4%91%ec%97%90-%ed%95%b4%eb%8f%85%ed%95%9c%eb%8b%a4-%ec%96%91%ec%9e%90-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%83%88-%ea%b3%b5%ea%b2%a9.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "AI 에이전트에 맥락을 입히는 법 ‘데이터 패브릭’",
+      "desc": "많은 기업에서 데이터 웨어하우스, 데이터 레이크, 서비스형 소프트웨어(SaaS) 플랫폼, 클라우드 드라이브, 데이터센터 전반에 데이터가 분산돼 있다. 데이터 패브릭은 기업이 데이터 접근을 중앙화하고 통제할 수 있도록 지원하며, 데이터 과학자나 시민 데이터 애널리스...",
+      "link": "https://www.itworld.co.kr/article/4186524/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%97%90-%eb%a7%a5%eb%9d%bd%ec%9d%84-%ec%9e%85%ed%9e%88%eb%8a%94-%eb%b2%95-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%8c%a8%eb%b8%8c%eb%a6%ad.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "폴더블 아이폰을 가리키는 iOS 27 베타 속 3가지 단서",
       "desc": "애플이 iOS 27, 맥OS 27, 워치OS 27을 비롯한 OS 27 업데이트 전 라인업의 첫 번째 개발자 베타를 공개했다. WWDC 기조연설에서 발표된 기능들이 총망라된 업데이트지만, 발표되지 않은 내용 속에서 더 흥미로운 단서가 발견되기도 한다.\n\n\n\n한동안 ...",
       "link": "https://www.itworld.co.kr/article/4186509/%ed%8f%b4%eb%8d%94%eb%b8%94-%ec%95%84%ec%9d%b4%ed%8f%b0%ec%9d%84-%ea%b0%80%eb%a6%ac%ed%82%a4%eb%8a%94-ios-27-%eb%b2%a0%ed%83%80-%ec%86%8d-3%ea%b0%80%ec%a7%80-%eb%8b%a8%ec%84%9c.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "시리 AI 베타 첫 주 사용기 : 놀랍고도 아쉬운 애플 인텔리전스",
       "desc": "iOS 27의 주요 신기능은 시리 AI와, 시리 AI를 기반으로 하는 더 넓은 범주의 애플 인텔리전스 기능이다. 올가을 비교적 최신 기기부터 순차 적용될 예정으로, 새로운 기반 모델, 새로운 클라우드 처리 방식, 새로운 음성, 새로운 지식 데이터베이스, 새로운 양...",
       "link": "https://www.itworld.co.kr/article/4186489/%ec%8b%9c%eb%a6%ac-ai-%eb%b2%a0%ed%83%80-%ec%b2%ab-%ec%a3%bc-%ec%82%ac%ec%9a%a9%ea%b8%b0-%eb%86%80%eb%9e%8d%ea%b3%a0%eb%8f%84-%ec%95%84%ec%89%ac%ec%9a%b4-%ec%95%a0%ed%94%8c-%ec%9d%b8%ed%85%94.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "AI, 클라우드 밖으로 나오다…엔비디아의 새로운 도전",
-      "desc": "엔비디아(NVIDIA)의 신제품 RTX 스파크는 최근 몇 년간 나온 퍼스널 컴퓨팅 발표 중 가장 주목할 만한 소식이다. 단순히 새로운 PC 플랫폼이 아니라, AI 시대에 개인용 컴퓨터의 역할을 재정의하려는 시도이기 때문이다. 2026년 컴퓨텍스 행사에서 공개된 R...",
-      "link": "https://www.itworld.co.kr/article/4186486/ai-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%eb%b0%96%ec%9c%bc%eb%a1%9c-%eb%82%98%ec%98%a4%eb%8b%a4-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%8f%84%ec%a0%84.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "“게이밍 PC 시장에 서피스는 없다” 마이크로소프트의 전략적 결단",
-      "desc": "수년간 사용자는 마이크로소프트가 게이밍 노트북을 출시할지 궁금해했다. 적어도 서피스 부문만큼은 답이 나왔다. ‘아니다’이다.\n\n\n\n마이크로소프트 서피스 디바이스 부문 부사장 브렛 오스트럼은 PCWorld에 서피스 브랜드를 단 게이밍 노트북을 반드시 출시해야 한다는...",
-      "link": "https://www.itworld.co.kr/article/4186031/%ea%b2%8c%ec%9d%b4%eb%b0%8d-pc-%ec%8b%9c%ec%9e%a5%ec%97%90-%ec%84%9c%ed%94%bc%ec%8a%a4%eb%8a%94-%ec%97%86%eb%8b%a4-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8%ec%9d%98.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "메디데이터, ‘넥스트 이노베이션 데이 서울’에서 AI 기반 임상시험 플랫폼 전략 발표",
-      "desc": "AI 기술이 생명과학 산업의 판도를 바꾸고 있다. 신약 개발 과정에서 가장 시간이 오래 걸리는 임상시험을 AI가 어떻게 혁신할 수 있을지가 업계의 주요 관심사다. 임상시험 데이터 및 솔루션 제공 기업 메디데이터가 이런 변화의 최전선에 있다.\n\n\n\n메디데이터가 6월...",
-      "link": "https://www.itworld.co.kr/article/4186022/%eb%a9%94%eb%94%94%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%84%a5%ec%8a%a4%ed%8a%b8-%ec%9d%b4%eb%85%b8%eb%b2%a0%ec%9d%b4%ec%85%98-%eb%8d%b0%ec%9d%b4-%ec%84%9c%ec%9a%b8%ec%97%90%ec%84%9c-ai-%ea%b8%b0.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "포자랩스, 핑크퐁 아기상어 글로벌 전시에 AI 개인화 음악 기술 적용",
-      "desc": "인공지능(AI) 음악 스타트업 포자랩스가 18일, 동대문디자인플라자(DDP) 뮤지엄 전시 2관에서 개막하는 AI 인터랙티브 체험 전시 ‘아기상어 비밀 초대장: 비커밍 샤크(Baby Shark The Experience: Unlock the Secret Ocean)...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40563",
+      "title": "슈퍼브에이아이, CVPR 2026 글로벌 비전 AI 챌린지 우승…“한국 기업 최초 세계 정상에”",
+      "desc": "비전 인공지능(AI) 올인원 플랫폼 기업 슈퍼브에이아이(대표 김현수)는 컴퓨터 비전 분야 세계 최대 학회인 'CVPR 2026(Computer Vision and Pattern Recognition)'에서 열린 'Foundational 퓨샷 객체 탐지 챌린지(Fo...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40584",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "“접근성이 곧 AI 경쟁력”… 코딧, 포용적 AI 생태계 조성 위한 3대 과제 제안",
-      "desc": "인공지능 법·규제·정책 플랫폼 기업 코딧(CODIT, 대표 정지은) 부설 글로벌정책실증연구원은 '포용적 AI를 위한 정책 과제: 접근성 혁신과 디지털 포용 생태계 조성' 보고서를 발간했다고 18일 밝혔다.생성형 AI가 행정·의료·교육 등 사회 전반의 핵심 인프라로...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40562",
+      "title": "인텔, 이석희 전 SK하이닉스 대표 인텔 파운드리 수석부사장 선임",
+      "desc": "인텔은 이석희 전 SK하이닉스 대표를 인텔 파운드리(Intel Foundry) 수석 부사장으로 영입했다고 18일(현지시간) 발표했다.이석희 수석 부사장은 립-부 탄(Lip-Bu Tan) CEO에게 직접 보고하게 된다. 이석희 수석 부사장은 이 직책에서 모든 첨단 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40583",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "마키나락스, 한국수자원공사와 스마트정수장 생성형 AI 고도화 나선다",
-      "desc": "마키나락스(MakinaRocks, 대표 윤성호)가 한국수자원공사와 함께 스마트정수장 업무지원 시스템에 생성형 AI를 접목하는 프로젝트를 추진하며, 공공 인프라 현장에서 활용 가능한 인공지능(AI) 운영 모델 고도화에 나선다.이번 프로젝트는 마키나락스의 AI 운영체...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40561",
+      "title": "KAIST 명현교수팀, 세계 최고 권위 로보틱스·컴퓨터비전 국제챌린지 나란히 우승",
+      "desc": "세계 최고 권위의 로보틱스와 컴퓨터비전 학술대회에서 열린 국제 챌린지에서 KAIST 연구팀이 잇달아 정상에 올랐다.KAIST 전기및전자공학부 명현 교수 연구실 소속 'ACDC-K팀'과 'Curaytor팀'이 세계 최고 권위의 국제 로봇 및 자동화 학술대회(ICRA...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40582",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "英 정부, AI로 도시계획 혁신 나선다…구글 클라우드와 전국 단위 확산 추진",
-      "desc": "영국 정부가 인공지능(AI)을 활용해 도시계획 행정 혁신에 본격적으로 나섰다. 복잡한 인허가 심사와 방대한 문서 검토 업무를 자동화하는 AI 기반 도시계획 시스템을 전국으로 확대하며 주택 공급 확대와 행정 효율화라는 두 가지 목표를 동시에 추진한다.구글 클라우드(...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40560",
+      "title": "AI 환각 줄이고 정확도 78% 높였다...KAIST, 차세대 데이터베이스 기술 개발",
+      "desc": "기업의 방대한 데이터를 읽고 이해하는 인공지능(AI) 에이전트의 가장 큰 약점은 ‘환각(Hallucination)'이다. KAIST 연구진이 문서와 데이터, 개체 간 관계를 한 번에 이해할 수 있는 차세대 데이터베이스 기술을 개발해 AI 답변 정확도를 최대 78%...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40581",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "카카오, ‘AGENTIC PLAYER 10’ 개최… AI 서비스 발굴 나선다",
-      "desc": "카카오(대표이사 정신아)는 에이전틱(Agentic) AI 생태계 활성화와 창의적인 인공지능 서비스 발굴을 위해 ‘AGENTIC PLAYER 10’ 공모전을 개최한다고 17일 밝혔다.이번 공모전은 카카오의 MCP(Model Context Protocol) 기반 개방...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40559",
+      "title": "Wi-Fi 7 시대 개막, AI·XR·스마트 디바이스 핵심 인프라...화웨이, Wi-Fi 7 특허 로열티 기기당 0.5달러 책정",
+      "desc": "화웨이(Huawei)가 차세대 무선통신 표준인 Wi-Fi 7(IEEE 802.11be) 기술에 대한 특허 라이선스 로열티를 공식 발표하며 글로벌 Wi-Fi 특허 시장 공략에 본격 나섰다.화웨이는 18일(현지시간) 공식 발표를 통해 Wi-Fi 7 규격을 지원하는 소...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40580",
       "source": "AI Times"
     }
   ]
