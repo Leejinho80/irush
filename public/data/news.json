@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-06-19T01:45:52.462Z",
+  "lastUpdated": "2026-06-20T00:14:03.766Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "저비용 모델부터 현장 엔지니어까지, AI 토큰 비용 폭증의 해법",
+      "desc": "생성형 AI 도구와 서비스가 어디서나 쓰일 만큼 보편화되면서 사용 비용도 천정부지로 치솟고 있으며, 토큰에 대한 수요도 끝없이 늘고 있다.\n\n\n\n토큰은 AI 사용을 측정하고 가격을 책정하는 일반적인 수단이다. 영어에서 글자와 단어가 문장을 구성하듯, 대규모 언어 ...",
+      "link": "https://www.itworld.co.kr/article/4187067/%ec%a0%80%eb%b9%84%ec%9a%a9-%eb%aa%a8%eb%8d%b8%eb%b6%80%ed%84%b0-%ed%98%84%ec%9e%a5-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%ea%b9%8c%ec%a7%80-ai-%ed%86%a0%ed%81%b0-%eb%b9%84%ec%9a%a9-%ed%8f%ad%ec%a6%9d.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
       "title": "추론 비용 오르는데 수익은 어디서? MS 마켓플레이스의 해법",
       "desc": "처음에야 챗봇이 빠르게 인기를 얻었지만, 이제 현대 AI 시스템은 단순한 챗봇 이상으로 진화했다. 이제 시맨틱 툴을 사용해 워크플로우를 관리하고 기계와 기계를 연결해 차세대 비즈니스 자동화를 위한 유연하고 효과적인 프레임워크를 구성한다. 과거 마이크로소프트의 파워...",
       "link": "https://www.itworld.co.kr/article/4186555/%ec%b6%94%eb%a1%a0-%eb%b9%84%ec%9a%a9-%ec%98%a4%eb%a5%b4%eb%8a%94%eb%8d%b0-%ec%88%98%ec%9d%b5%ec%9d%80-%ec%96%b4%eb%94%94%ec%84%9c-ms-%eb%a7%88%ec%bc%93%ed%94%8c%eb%a0%88%ec%9d%b4%ec%8a%a4%ec%9d%98.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "03",
       "title": "“먼저 훔치고 나중에 해독한다” 양자 시대의 새 공격 공식",
       "desc": "양자 기술은 먼 미래의 일처럼 느껴질 수 있지만, 일부 위험은 “지금 수집하고 해독은 나중에 하자”는 형태로 이미 우리 곁에 와 있다. 지금 데이터를 훔쳐두고, 대다수 기업이 데이터를 보호하기 위해 구축해둔 암호화를 무력화할 수 있는 양자 컴퓨팅 툴이 나오면 그때...",
       "link": "https://www.itworld.co.kr/article/4186546/%eb%a8%bc%ec%a0%80-%ed%9b%94%ec%b9%98%ea%b3%a0-%eb%82%98%ec%a4%91%ec%97%90-%ed%95%b4%eb%8f%85%ed%95%9c%eb%8b%a4-%ec%96%91%ec%9e%90-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%83%88-%ea%b3%b5%ea%b2%a9.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "04",
       "title": "AI 에이전트에 맥락을 입히는 법 ‘데이터 패브릭’",
       "desc": "많은 기업에서 데이터 웨어하우스, 데이터 레이크, 서비스형 소프트웨어(SaaS) 플랫폼, 클라우드 드라이브, 데이터센터 전반에 데이터가 분산돼 있다. 데이터 패브릭은 기업이 데이터 접근을 중앙화하고 통제할 수 있도록 지원하며, 데이터 과학자나 시민 데이터 애널리스...",
       "link": "https://www.itworld.co.kr/article/4186524/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%97%90-%eb%a7%a5%eb%9d%bd%ec%9d%84-%ec%9e%85%ed%9e%88%eb%8a%94-%eb%b2%95-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%8c%a8%eb%b8%8c%eb%a6%ad.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
+      "number": "05",
       "title": "폴더블 아이폰을 가리키는 iOS 27 베타 속 3가지 단서",
       "desc": "애플이 iOS 27, 맥OS 27, 워치OS 27을 비롯한 OS 27 업데이트 전 라인업의 첫 번째 개발자 베타를 공개했다. WWDC 기조연설에서 발표된 기능들이 총망라된 업데이트지만, 발표되지 않은 내용 속에서 더 흥미로운 단서가 발견되기도 한다.\n\n\n\n한동안 ...",
       "link": "https://www.itworld.co.kr/article/4186509/%ed%8f%b4%eb%8d%94%eb%b8%94-%ec%95%84%ec%9d%b4%ed%8f%b0%ec%9d%84-%ea%b0%80%eb%a6%ac%ed%82%a4%eb%8a%94-ios-27-%eb%b2%a0%ed%83%80-%ec%86%8d-3%ea%b0%80%ec%a7%80-%eb%8b%a8%ec%84%9c.html",
       "source": "ITWorld"
     },
     {
-      "number": "05",
-      "title": "시리 AI 베타 첫 주 사용기 : 놀랍고도 아쉬운 애플 인텔리전스",
-      "desc": "iOS 27의 주요 신기능은 시리 AI와, 시리 AI를 기반으로 하는 더 넓은 범주의 애플 인텔리전스 기능이다. 올가을 비교적 최신 기기부터 순차 적용될 예정으로, 새로운 기반 모델, 새로운 클라우드 처리 방식, 새로운 음성, 새로운 지식 데이터베이스, 새로운 양...",
-      "link": "https://www.itworld.co.kr/article/4186489/%ec%8b%9c%eb%a6%ac-ai-%eb%b2%a0%ed%83%80-%ec%b2%ab-%ec%a3%bc-%ec%82%ac%ec%9a%a9%ea%b8%b0-%eb%86%80%eb%9e%8d%ea%b3%a0%eb%8f%84-%ec%95%84%ec%89%ac%ec%9a%b4-%ec%95%a0%ed%94%8c-%ec%9d%b8%ed%85%94.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "슈퍼브에이아이, CVPR 2026 글로벌 비전 AI 챌린지 우승…“한국 기업 최초 세계 정상에”",
-      "desc": "비전 인공지능(AI) 올인원 플랫폼 기업 슈퍼브에이아이(대표 김현수)는 컴퓨터 비전 분야 세계 최대 학회인 'CVPR 2026(Computer Vision and Pattern Recognition)'에서 열린 'Foundational 퓨샷 객체 탐지 챌린지(Fo...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40584",
+      "title": "[AI 이슈] \"내 열쇠 어디 뒀지?\"...MIT, 로봇에 인간 같은 '공간 기억' 심었다",
+      "desc": "\"어젯밤 조립하던 부품을 가져와.\"인간에게는 자연스러운 이 한마디가 현재 대부분의 로봇에게는 매우 어려운 명령이다. 사람은 특정 물건을 언제, 어디에 두었는지 기억할 수 있지만, 로봇은 자신이 과거에 관찰한 사물과 공간을 인간처럼 장기적으로 기억하고 활용하는 능력...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40592",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "인텔, 이석희 전 SK하이닉스 대표 인텔 파운드리 수석부사장 선임",
-      "desc": "인텔은 이석희 전 SK하이닉스 대표를 인텔 파운드리(Intel Foundry) 수석 부사장으로 영입했다고 18일(현지시간) 발표했다.이석희 수석 부사장은 립-부 탄(Lip-Bu Tan) CEO에게 직접 보고하게 된다. 이석희 수석 부사장은 이 직책에서 모든 첨단 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40583",
+      "title": "차이충신 회장, \"AI 글로벌 시장 규모, 50조 달러\"…알리바바, 인공지능 전 스택에 530억 달러 베팅",
+      "desc": "알리바바 그룹(Alibaba Group)의 차이충신(Joseph Tsai, 蔡崇信) 회장이 인공지능(AI)의 잠재 시장 규모를 50조 달러(약 7경 6.6천억원)로 전망하며, AI 시대의 승자는 기술 전 계층을 아우르는 '전 스택(Full Stack) AI' 역량...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40591",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "KAIST 명현교수팀, 세계 최고 권위 로보틱스·컴퓨터비전 국제챌린지 나란히 우승",
-      "desc": "세계 최고 권위의 로보틱스와 컴퓨터비전 학술대회에서 열린 국제 챌린지에서 KAIST 연구팀이 잇달아 정상에 올랐다.KAIST 전기및전자공학부 명현 교수 연구실 소속 'ACDC-K팀'과 'Curaytor팀'이 세계 최고 권위의 국제 로봇 및 자동화 학술대회(ICRA...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40582",
+      "title": "AI가 화가가 된 시대…세계 최초 AI 미술관 '데이터랜드' 개관",
+      "desc": "구글 클라우드와 구글 아트 앤 컬처(Google Arts & Culture)가 세계 최초의 인공지능(AI) 미술관 ‘데이터랜드(Dataland)’ 개관을 지원하며, AI 예술 생태계 확장에 본격 나선다. 미디어 아티스트 레픽 아나돌(Refik Anadol)과 10...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40590",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "AI 환각 줄이고 정확도 78% 높였다...KAIST, 차세대 데이터베이스 기술 개발",
-      "desc": "기업의 방대한 데이터를 읽고 이해하는 인공지능(AI) 에이전트의 가장 큰 약점은 ‘환각(Hallucination)'이다. KAIST 연구진이 문서와 데이터, 개체 간 관계를 한 번에 이해할 수 있는 차세대 데이터베이스 기술을 개발해 AI 답변 정확도를 최대 78%...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40581",
+      "title": "서울 AI 허브, 시민참여형 AI 해커톤 개최...시민이 AI로 도시문제 해결하는 혁신의 장",
+      "desc": "서울시 인공지능 산업 육성 거점인 서울 AI 허브(센터장 변우석)가 생성형 AI와 공공데이터를 활용해 시민이 직접 도시문제 해결에 참여하는 혁신의 장을 마련한다.서울 AI 허브는 글로벌 AI 코딩 도구 Cursor(커서)의 국내 공식 빌더 커뮤니티 Team Hum...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40589",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "Wi-Fi 7 시대 개막, AI·XR·스마트 디바이스 핵심 인프라...화웨이, Wi-Fi 7 특허 로열티 기기당 0.5달러 책정",
-      "desc": "화웨이(Huawei)가 차세대 무선통신 표준인 Wi-Fi 7(IEEE 802.11be) 기술에 대한 특허 라이선스 로열티를 공식 발표하며 글로벌 Wi-Fi 특허 시장 공략에 본격 나섰다.화웨이는 18일(현지시간) 공식 발표를 통해 Wi-Fi 7 규격을 지원하는 소...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40580",
+      "title": "오픈AI, 한국서 ‘챗GPT 광고 파일럿’ 시작...무료·고(Go) 요금제 성인 이용자 대상",
+      "desc": "오픈AI는 챗GPT(ChatGPT) 광고 파일럿을 19일부터 한국으로 확대했다. 광고는 이전까지 미국, 영국, 캐나다, 호주, 뉴질랜드에서 먼저 도입되었고, 이번에 한국으로 확대된 것이다.오픈AI는 미국을 비롯한 초기 파일럿 시장에서 이용자의 의도를 기반으로 한 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40588",
       "source": "AI Times"
     }
   ]
