@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T00:14:03.766Z",
+  "lastUpdated": "2026-06-21T00:13:05.165Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "[AI 이슈] \"내 열쇠 어디 뒀지?\"...MIT, 로봇에 인간 같은 '공간 기억' 심었다",
-      "desc": "\"어젯밤 조립하던 부품을 가져와.\"인간에게는 자연스러운 이 한마디가 현재 대부분의 로봇에게는 매우 어려운 명령이다. 사람은 특정 물건을 언제, 어디에 두었는지 기억할 수 있지만, 로봇은 자신이 과거에 관찰한 사물과 공간을 인간처럼 장기적으로 기억하고 활용하는 능력...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40592",
+      "title": "인공지능과 융합, 농업혁신의 날개를 달다...농진청, ‘2026 농업기술박람회’ 개최",
+      "desc": "농촌진흥청(청장 이승돈)은 지난 18일부터 20일까지 청주오스코(OSCO)에서 ‘인공지능(AI) 융합, 농업혁신의 날개를 달다’를 주제로 ‘2026 농업기술박람회’를 개최했다.올해 박람회는 AI 기술과 농업 연구개발(R&D) 융합 성과를 체험하고 농업의 미래 성장...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40597",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "차이충신 회장, \"AI 글로벌 시장 규모, 50조 달러\"…알리바바, 인공지능 전 스택에 530억 달러 베팅",
-      "desc": "알리바바 그룹(Alibaba Group)의 차이충신(Joseph Tsai, 蔡崇信) 회장이 인공지능(AI)의 잠재 시장 규모를 50조 달러(약 7경 6.6천억원)로 전망하며, AI 시대의 승자는 기술 전 계층을 아우르는 '전 스택(Full Stack) AI' 역량...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40591",
+      "title": "전남대-마틸로AI, AI로 신약 후보물질 설계 혁신…\"스캐폴드 구조 반영한 생성형 AI 모델 개발\"",
+      "desc": "전남대학교(총장 이근배) 공과대학 유선용 교수 연구팀과 교원창업기업인 ㈜마틸로에이아이(대표 유선용)가 협력해 분자 골격을 보존하면서도 높은 활성도를 갖는 신약 후보물질을 설계할 수 있는 인공지능(AI) 기술을 개발했다.연구팀은 생성형 AI를 활용해 신약 후보물질 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40595",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "AI가 화가가 된 시대…세계 최초 AI 미술관 '데이터랜드' 개관",
-      "desc": "구글 클라우드와 구글 아트 앤 컬처(Google Arts & Culture)가 세계 최초의 인공지능(AI) 미술관 ‘데이터랜드(Dataland)’ 개관을 지원하며, AI 예술 생태계 확장에 본격 나선다. 미디어 아티스트 레픽 아나돌(Refik Anadol)과 10...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40590",
+      "title": "AI 전문기업 비솔-KH정보교육원, K-디지털 트레이닝 기반 ‘AI 캠퍼스’ 인재양성",
+      "desc": "인공지능 전문기업 비솔(사장 박형오)과 IT 전문 교육기관 KH정보교육원(대표 윤완식)이 고용노동부 K-디지털 트레이닝 기반의 AI 전문인력 양성을 위해 전략적 업무협약(MOU)을 체결했다고 20일 밝혔다.양 기관은 지난 19일에 진행된 협약을 통해 산업 현장에서...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40594",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "서울 AI 허브, 시민참여형 AI 해커톤 개최...시민이 AI로 도시문제 해결하는 혁신의 장",
-      "desc": "서울시 인공지능 산업 육성 거점인 서울 AI 허브(센터장 변우석)가 생성형 AI와 공공데이터를 활용해 시민이 직접 도시문제 해결에 참여하는 혁신의 장을 마련한다.서울 AI 허브는 글로벌 AI 코딩 도구 Cursor(커서)의 국내 공식 빌더 커뮤니티 Team Hum...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40589",
+      "title": "AI 시대 사회복지교육, \"이제는 미래 역량 중심으로 재구성해야\"",
+      "desc": "한국사회복지교육협의회, 한국사회복지사협회, 안상훈 국회의원은 19일, 국회의원회관 제8간담회의실에서 ‘사회복지교육, 사회복지 현장에 대한 진단’을 주제로 정책포럼을 개최했다.이번 포럼은 ‘미래가 요구하는 사회복지사의 역량은 무엇이며, 우리에게 어떤 변화가 요구되는...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40593",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "오픈AI, 한국서 ‘챗GPT 광고 파일럿’ 시작...무료·고(Go) 요금제 성인 이용자 대상",
-      "desc": "오픈AI는 챗GPT(ChatGPT) 광고 파일럿을 19일부터 한국으로 확대했다. 광고는 이전까지 미국, 영국, 캐나다, 호주, 뉴질랜드에서 먼저 도입되었고, 이번에 한국으로 확대된 것이다.오픈AI는 미국을 비롯한 초기 파일럿 시장에서 이용자의 의도를 기반으로 한 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40588",
+      "title": "[AI 이슈] \"내 열쇠 어디 뒀지?\"...MIT, 로봇에 인간 같은 '공간 기억' 심었다",
+      "desc": "\"어젯밤 조립하던 부품을 가져와.\"인간에게는 자연스러운 이 한마디가 현재 대부분의 로봇에게는 매우 어려운 명령이다. 사람은 특정 물건을 언제, 어디에 두었는지 기억할 수 있지만, 로봇은 자신이 과거에 관찰한 사물과 공간을 인간처럼 장기적으로 기억하고 활용하는 능력...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40592",
       "source": "AI Times"
     }
   ]
