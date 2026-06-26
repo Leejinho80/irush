@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T00:17:09.060Z",
+  "lastUpdated": "2026-06-26T00:14:31.124Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "KAIA·중국 중국중소기업국제협력협회, 한·중 초기투자 생태계 ‘보이지 않는 장벽’ 깬다",
-      "desc": "(사)초기투자액셀러레이터협회(회장 전화성, 이하 협회)는 지난 24일 중국 선전(深圳)에서 열린 '2026 APEC 중소기업 비즈니스 포럼(APEC SME Business Forum)'에서 중국중소기업국제협력협회(CICASME)와 한·중 중소기업 및 혁신창업 분야...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40673",
+      "title": "AI 시대 승부처는 '광네트워크'…화웨이, 'AI-ON'으로 차세대 인프라 경쟁 선도",
+      "desc": "중국 화웨이(Huawei)가 25일, 인공지능(AI) 시대의 핵심 인프라로 떠오르는 광통신 네트워크 혁신 전략을 공개하며 AI 중심 네트워크 시장 선점에 나섰다. AI 서비스 확산과 토큰 경제(Token Monetization) 시대에 대응하기 위해 광네트워크와 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40691",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "슈퍼마이크로, 인텔 기반 엣지 AI 솔루션 포트폴리오 확대…저지연 추론 및 산업 환경 최적화",
-      "desc": "인공지능(AI), 머신러닝, HPC, 클라우드, 데이터센터, 서버, 스토리지 및 5G/엣지를 위한 토탈 IT 솔루션의 글로벌 리더 슈퍼마이크로컴퓨터(Super Micro Computer. 이하, 슈퍼마이크로)가 인텔 기술 기반의 AI 최적화 엣지 컴퓨팅 솔루션 포...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40672",
+      "title": "RWS, 3년 연속 '올해의 머신번역 솔루션' 수상…기업·정부용 고정밀 번역 시장 선도",
+      "desc": "글로벌 AI 기반 언어 솔루션 기업 알더블유에스(이하, RWS)가 인공지능(AI) 번역 분야에서 다시 한번 기술력을 인정받았다. RWS는 25일(현지시간) 자사의 최신 AI 번역 플랫폼인 '랭귀지 위버 프로(Language Weaver Pro)'가 'AI 브레이크...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40689",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "셀바스AI, AI 어학 교육 평가 통합 솔루션 ‘셀바스 스피치에듀’ 출시",
-      "desc": "음성인식 전문기업 셀바스AI가 인공지능 어학 교육 통합 제품군 ‘셀바스 스피치에듀(SELVAS SpeechEdu)’를 25일 출시했다.셀바스 스피치에듀는 셀바스AI의 AI 말하기 평가 솔루션 ‘셀바스 스피치박스(SELVAS SpeechBox, 이하 스피치박스)’와...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40671",
+      "title": "아마존, 인도에 74조원 추가 투자…AI·클라우드·물류 총력전으로 'AI 초강국' 육성 나선다",
+      "desc": "아마존(Amazon)이 25일(현지시간) 인도를 미래 글로벌 인공지능(AI) 산업의 핵심 거점으로 육성하기 위한 초대형 투자 계획을 발표했다. 아마존은 AI 및 클라우드 인프라 확대를 위해 인도에 추가로 130억 달러를 투자한다고 밝혔다.이에 따라 2026년부터 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40688",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "국악과 AI의 만남… 포자랩스, '부분 생성' 기술로 10분 대작 국악 완성",
-      "desc": "오는 26일 개막하는 국립극장 공연의 숨은 주역이자, 최첨단 인공지능(AI) 기술로 전통 국악의 새로운 패러다임을 제시한 AI 음악 스타트업 '포자랩스'의 테크 비하인드 스토리가 공개됐다.이번 공연은 단순한 AI 음악 연주를 넘어, 관객의 실제 감정 데이터를 AI...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40670",
+      "title": "구글, 美 AI 규제 청사진 제시…\"과잉 규제도 무규제도 안 된다\"",
+      "desc": "구글이 미국 인공지능(AI) 정책 논쟁에 본격적으로 뛰어들었다. 과도한 규제로 혁신을 억누르거나 반대로 규제를 포기하는 극단적 선택 대신, 위험 수준에 따라 차등 규제하는 '실용주의적 AI 거버넌스 모델'을 제안했다.구글은 25일(현지시간) 백서 '미국의 AI 거...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40687",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "KAIST 공경철·김정 교수팀, “뇌로 로봇 움직이고 느끼는\"... 세계 최초 Brain-to-Robot 기술 개발 나서",
-      "desc": "KAIST 연구진이 사람의 뇌 신호로 외골격 로봇을 실시간 제어하고, 로봇이 감지한 촉각·힘 정보를 다시 뇌에 전달하는 차세대 뇌-로봇 인터페이스 플랫폼 개발을 시작했다.KAIST 기계공학과 공경철·김정 교수 연구팀이 ㈜엔젤로보틱스와 함께 범부처 첨단 의료기기 연...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40669",
+      "title": "리창 중국 총리, \"중국의 문은 더 넓게 열릴 것\"…AI 개방·기술 협력 확대 선언",
+      "desc": "중국의 리창(Li Qiang) 국무원 총리가 세계 경제의 불확실성과 공급망 재편 속에서도 개방과 협력을 통한 혁신을 강조하며 중국의 기술 발전이 세계에 새로운 기회를 제공할 것이라고 밝혔다.리 총리는 24일(현지시간) 중국 다롄에서 개막한 제17회 세계경제포럼(W...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40686",
       "source": "AI Times"
     }
   ]
