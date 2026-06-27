@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-06-26T00:14:31.124Z",
+  "lastUpdated": "2026-06-27T00:12:55.198Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "“M6 프로는 건너뛸까” 애플, AI 대응 위해 M7 조기 투입 전망",
+      "desc": "애플이 더 강력한 칩을 예정보다 약 6개월 앞당겨 출시하기 위해 M 시리즈 제품 전략을 조정하는 것으로 전해졌다.\n\n\n\n지금까지 애플의 M 시리즈 칩 출시 주기는 비교적 일정했다. 그러나 블룸버그의 마크 거먼 보도에 따르면, 애플은 보다 강력한 제품을 조기에 시장...",
+      "link": "https://www.itworld.co.kr/article/4189725/m6-%ed%94%84%eb%a1%9c%eb%8a%94-%ea%b1%b4%eb%84%88%eb%9b%b8%ea%b9%8c-%ec%95%a0%ed%94%8c-ai-%eb%8c%80%ec%9d%91-%ec%9c%84%ed%95%b4-m7-%ec%a1%b0%ea%b8%b0-%ed%88%ac%ec%9e%85-%ec%a0%84.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "잘 만든 AI 에이전트도 실패하는 이유…답은 ‘실행 거버넌스’",
+      "desc": "지난 1년 동안 기업 AI 생태계에는 막대한 역량이 추가됐지만 합의는 전혀 이뤄지지 않았다.\n\n\n\n이제 개발자는 다양한 툴셋을 사용해 AI 에이전트를 구축할 수 있다. 오픈AI 프레임워크, 앤트로픽 클로드(Claude) 툴, 랭체인(LangChain), 랭그래프(...",
+      "link": "https://www.itworld.co.kr/article/4189709/%ec%9e%98-%eb%a7%8c%eb%93%a0-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%8f%84-%ec%8b%a4%ed%8c%a8%ed%95%98%eb%8a%94-%ec%9d%b4%ec%9c%a0%eb%8b%b5%ec%9d%80-%ec%8b%a4%ed%96%89-%ea%b1%b0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "“윈도우 팬도 설득했다” 크롬북을 선택하게 만든 3가지 반전",
+      "desc": "필자는 오랫동안 크롬북의 열렬한 지지자였다. 첫 번째 크롬북을 구입한 것은 제품이 처음 등장한 지 얼마 지나지 않은 2013년이었고, 이후에도 여러 대를 추가로 구매했다. 이유를 묻는다면 합리적인 가격, 높은 활용성, 단순한 사용 경험 때문이다. 이런 장점 덕분에...",
+      "link": "https://www.itworld.co.kr/article/4189163/%ec%9c%88%eb%8f%84%ec%9a%b0-%ed%8c%ac%eb%8f%84-%ec%84%a4%eb%93%9d%ed%96%88%eb%8b%a4-%ed%81%ac%eb%a1%ac%eb%b6%81%ec%9d%84-%ec%84%a0%ed%83%9d%ed%95%98%ea%b2%8c-%eb%a7%8c%eb%93%a0-3%ea%b0%80%ec%a7%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "“소버린 클라우드가 답일까?” 유럽 주권 전략에 회의를 제기하다",
       "desc": "유럽연합(EU)이 해외 기술 기업에 대한 의존도를 낮추기 위해 추진 중인 클라우드 주권 강화 정책은 충분히 이해할 만한 움직임이다. 유럽이 핵심 디지털 서비스가 외국 정부나 해외 법체계, 또는 외국 기업의 영향으로 중단될 수 있다고 우려한다면 이에 대응하려는 것은...",
       "link": "https://www.itworld.co.kr/article/4189157/%ec%86%8c%eb%b2%84%eb%a6%b0-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ea%b0%80-%eb%8b%b5%ec%9d%bc%ea%b9%8c-%ec%9c%a0%eb%9f%bd-%ec%a3%bc%ea%b6%8c-%ec%a0%84%eb%9e%b5%ec%97%90-%ed%9a%8c.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "API를 바꾸는 AI와 ‘의도 이해’ 기반 웹 아키텍처 시대",
       "desc": "웹이 등장한 이후 오랫동안 개발자들은 네트워크를 통해 컴포넌트를 연결하는 최적의 방법을 고민해왔다. 그 핵심에는 원격 API(Remote API)가 있으며, 이는 오늘날 소프트웨어 아키텍처 전반에 영향을 미친다. 현재 업계는 JSON API를 중심으로 일정 수준의...",
       "link": "https://www.itworld.co.kr/article/4189147/api%eb%a5%bc-%eb%b0%94%ea%be%b8%eb%8a%94-ai%ec%99%80-%ec%9d%98%eb%8f%84-%ec%9d%b4%ed%95%b4-%ea%b8%b0%eb%b0%98-%ec%9b%b9-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98-%ec%8b%9c%eb%8c%80.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "‘안전 판정’ 받은 AI 에이전트 스킬의 배신…정적 스캔 한계 드러나",
-      "desc": "보안 검사를 통과한 가짜 AI 에이전트 스킬이 인스타그램을 통해 2만6,000명 이상의 사용자에게 배포된 것으로 나타났다. 이번 사례는 기업이 AI 기반 도구에 의존하는 환경에서 새로운 보안 위험을 보여준다고 AIR는 설명했다.\n\n\n\nAIR에 따르면 일부 에이전트...",
-      "link": "https://www.itworld.co.kr/article/4189141/%ec%95%88%ec%a0%84-%ed%8c%90%ec%a0%95-%eb%b0%9b%ec%9d%80-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8a%a4%ed%82%ac%ec%9d%98-%eb%b0%b0%ec%8b%a0%ec%a0%95%ec%a0%81-%ec%8a%a4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "“안보가 아닌 복종 요구”…트럼프 vs. 앤트로픽의 AI 주도권 전쟁",
-      "desc": "앤트로픽은 최고의 전성기를 누리고 있었다. 대규모 언어 모델 미토스 5는 업계의 뜨거운 기대를 한 몸에 받았다. (소문을 믿는다면, 다소 두려움을 자아낼 만한 수준이기도 했다.) 앤트로픽 CEO 다리오 아모데이조차 미토스가 “취약점과 침해 사고를 대폭 늘릴 것”이...",
-      "link": "https://www.itworld.co.kr/article/4188660/%ec%95%88%eb%b3%b4%ea%b0%80-%ec%95%84%eb%8b%8c-%eb%b3%b5%ec%a2%85-%ec%9a%94%ea%b5%ac%ed%8a%b8%eb%9f%bc%ed%94%84-vs-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%a3%bc%eb%8f%84%ea%b6%8c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "JD닷컴, 택배 로봇 전환 준비…70만 기사 재교육 협약 체결",
-      "desc": "중국 전자상거래 대기업 JD닷컴(JD.com)이 택배를 로봇이 배송하는 미래를 준비하고 있다. JD닷컴 창업자 겸 회장 리처드 류는 로봇이 자사 택배 기사 약 70만 명을 “조만간” 대체할 것이라는 전망을 내놓았다.\n\n\n\n류는 아시아태평양경제협력체(APEC) CE...",
-      "link": "https://www.itworld.co.kr/article/4188651/jd%eb%8b%b7%ec%bb%b4-%ed%83%9d%eb%b0%b0-%eb%a1%9c%eb%b4%87-%ec%a0%84%ed%99%98-%ec%a4%80%eb%b9%8470%eb%a7%8c-%ea%b8%b0%ec%82%ac-%ec%9e%ac%ea%b5%90%ec%9c%a1-%ed%98%91%ec%95%bd-%ec%b2%b4.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "AI 시대 승부처는 '광네트워크'…화웨이, 'AI-ON'으로 차세대 인프라 경쟁 선도",
-      "desc": "중국 화웨이(Huawei)가 25일, 인공지능(AI) 시대의 핵심 인프라로 떠오르는 광통신 네트워크 혁신 전략을 공개하며 AI 중심 네트워크 시장 선점에 나섰다. AI 서비스 확산과 토큰 경제(Token Monetization) 시대에 대응하기 위해 광네트워크와 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40691",
+      "title": "인도 지텐드라 싱 장관, \"AI는 모든 산업의 필수 도구로 진화\"…AI·양자·우주·원자력이 미래 경쟁력 좌우",
+      "desc": "인도가 인공지능(AI), 양자기술, 우주, 원자력 분야를 미래 국가 경쟁력의 핵심 축으로 규정하며 기술 주도 성장 전략을 본격화하고 있다. 특히 2023년 출범한 국가 양자미션(National Quantum Mission)이 당초 목표의 절반 이상을 3년 만에 달...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40711",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "RWS, 3년 연속 '올해의 머신번역 솔루션' 수상…기업·정부용 고정밀 번역 시장 선도",
-      "desc": "글로벌 AI 기반 언어 솔루션 기업 알더블유에스(이하, RWS)가 인공지능(AI) 번역 분야에서 다시 한번 기술력을 인정받았다. RWS는 25일(현지시간) 자사의 최신 AI 번역 플랫폼인 '랭귀지 위버 프로(Language Weaver Pro)'가 'AI 브레이크...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40689",
+      "title": "구글, 교사 주도형 AI 교육 기능 대폭 확대…“교사가 AI 활용의 중심”",
+      "desc": "구글이 교사가 주도하는 인공지능(AI) 교육 환경 구축을 위해 교육용 AI 기능을 대폭 확대한다. 학생 개개인에게 맞춤형 학습 경험을 제공하면서도 교사가 학습 과정과 AI 활용을 직접 관리할 수 있도록 설계한 것이 특징이다.구글은 25일(현지시간) 교육 분야에 특...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40710",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "아마존, 인도에 74조원 추가 투자…AI·클라우드·물류 총력전으로 'AI 초강국' 육성 나선다",
-      "desc": "아마존(Amazon)이 25일(현지시간) 인도를 미래 글로벌 인공지능(AI) 산업의 핵심 거점으로 육성하기 위한 초대형 투자 계획을 발표했다. 아마존은 AI 및 클라우드 인프라 확대를 위해 인도에 추가로 130억 달러를 투자한다고 밝혔다.이에 따라 2026년부터 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40688",
+      "title": "BMW, 휴머노이드 로봇 '피겨 03' 생산현장 투입…피지컬 AI 기반 스마트 공장 가속화",
+      "desc": "독일 BMW 그룹이 휴머노이드 로봇을 활용한 '피지컬 AI(Physical AI)' 전략을 한층 강화한다. 디지털 인공지능(AI)을 실제 로봇과 생산설비에 결합해 제조 현장 자동화를 고도화하는 가운데, 차세대 휴머노이드 로봇 '피겨 03(Figure 03)'을 미...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40709",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "구글, 美 AI 규제 청사진 제시…\"과잉 규제도 무규제도 안 된다\"",
-      "desc": "구글이 미국 인공지능(AI) 정책 논쟁에 본격적으로 뛰어들었다. 과도한 규제로 혁신을 억누르거나 반대로 규제를 포기하는 극단적 선택 대신, 위험 수준에 따라 차등 규제하는 '실용주의적 AI 거버넌스 모델'을 제안했다.구글은 25일(현지시간) 백서 '미국의 AI 거...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40687",
+      "title": "카카오, kt cloud와 안전한 AI 생태계 구축...이용자가 안심하고 사용할 수 있는 AI 환경 위해",
+      "desc": "카카오가 kt cloud와 이용자가 신뢰할 수 있는 인공지능(AI) 기술 및 서비스 환경을 만들기 위해 손을 맞잡는다.카카오(대표이사 정신아)는 kt cloud(대표이사 김봉균)와 양해각서(MOU)를 체결하고, 양사의 기술을 결합해 안전한 AI 생태계 구축을 위해...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40708",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "리창 중국 총리, \"중국의 문은 더 넓게 열릴 것\"…AI 개방·기술 협력 확대 선언",
-      "desc": "중국의 리창(Li Qiang) 국무원 총리가 세계 경제의 불확실성과 공급망 재편 속에서도 개방과 협력을 통한 혁신을 강조하며 중국의 기술 발전이 세계에 새로운 기회를 제공할 것이라고 밝혔다.리 총리는 24일(현지시간) 중국 다롄에서 개막한 제17회 세계경제포럼(W...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40686",
+      "title": "서울시설공단, 도시 인프라 AI 혁신 실험장으로 적극 개방 나선다",
+      "desc": "서울시설공단(이사장 한국영, 이하 공단)이 도시 인프라를 인공지능(AI) 기술을 시험해볼 수 있는 '실험장'으로 개방하고, 대학·기업과 함께 서울의 현안을 해결하는 민·관·학 협력 생태계 구축에 나서고 있다고 26일 밝혔다.그 첫걸음으로 공단은 지난 22일부터 '...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40707",
       "source": "AI Times"
     }
   ]
