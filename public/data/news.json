@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T00:12:55.198Z",
+  "lastUpdated": "2026-06-28T00:06:44.944Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "인도 지텐드라 싱 장관, \"AI는 모든 산업의 필수 도구로 진화\"…AI·양자·우주·원자력이 미래 경쟁력 좌우",
-      "desc": "인도가 인공지능(AI), 양자기술, 우주, 원자력 분야를 미래 국가 경쟁력의 핵심 축으로 규정하며 기술 주도 성장 전략을 본격화하고 있다. 특히 2023년 출범한 국가 양자미션(National Quantum Mission)이 당초 목표의 절반 이상을 3년 만에 달...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40711",
+      "title": "\"AI 블랙박스, 한계 넘는다\"...EPFL 연구진, 인간 뇌처럼 사고하는 AI 모델 'MiCRo' 개발",
+      "desc": "스위스 로잔연방공과대학교(École Polytechnique Fédérale de Lausanne. 이하, EPFL) 자연어처리연구실(NLP Lab)과 뉴로AI 연구실(NeuroAI Lab) 공동 연구팀이 인간의 뇌 구조를 모방한 새로운 대형언어모델(LLM) '마...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40717",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "구글, 교사 주도형 AI 교육 기능 대폭 확대…“교사가 AI 활용의 중심”",
-      "desc": "구글이 교사가 주도하는 인공지능(AI) 교육 환경 구축을 위해 교육용 AI 기능을 대폭 확대한다. 학생 개개인에게 맞춤형 학습 경험을 제공하면서도 교사가 학습 과정과 AI 활용을 직접 관리할 수 있도록 설계한 것이 특징이다.구글은 25일(현지시간) 교육 분야에 특...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40710",
+      "title": "AI로 '돌연심장사' 위험 예측 정확도 높였다…UC 버클리, 심전도에서 새로운 생체 신호 발견",
+      "desc": "미국 캘리포니아대학교 버클리(University of California, Berkeley) 연구진이 인공지능(AI)을 활용해 돌연심장사(Sudden Cardiac Death) 위험을 기존 의료기법보다 훨씬 정확하게 예측할 수 있는 새로운 기술을 개발했다. 연구진...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40716",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "BMW, 휴머노이드 로봇 '피겨 03' 생산현장 투입…피지컬 AI 기반 스마트 공장 가속화",
-      "desc": "독일 BMW 그룹이 휴머노이드 로봇을 활용한 '피지컬 AI(Physical AI)' 전략을 한층 강화한다. 디지털 인공지능(AI)을 실제 로봇과 생산설비에 결합해 제조 현장 자동화를 고도화하는 가운데, 차세대 휴머노이드 로봇 '피겨 03(Figure 03)'을 미...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40709",
+      "title": "\"AI 데이터센터, 전력 사용 시간만 바꿔도 전기요금 최대 5% 절감\"",
+      "desc": "미국 전역에서 인공지능(AI) 확산에 따른 데이터센터 건설이 급증하는 가운데, 데이터센터가 전력을 사용하는 시간대를 유연하게 조정할 경우 전력망 운영 비용을 크게 낮출 수 있다는 연구 결과가 나왔다. 다만 지역별 전력 믹스에 따라 탄소배출량은 감소할 수도, 오히려...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40715",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "카카오, kt cloud와 안전한 AI 생태계 구축...이용자가 안심하고 사용할 수 있는 AI 환경 위해",
-      "desc": "카카오가 kt cloud와 이용자가 신뢰할 수 있는 인공지능(AI) 기술 및 서비스 환경을 만들기 위해 손을 맞잡는다.카카오(대표이사 정신아)는 kt cloud(대표이사 김봉균)와 양해각서(MOU)를 체결하고, 양사의 기술을 결합해 안전한 AI 생태계 구축을 위해...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40708",
+      "title": "오픈AI, 세계 최고 수준 차세대 추론 모델 'GPT-5.6' 공개…플래그십 '솔' 제한 프리뷰 시작",
+      "desc": "오픈AI(OpenAI)가 26일(현지시간) 차세대 추론 모델 GPT-5.6 시리즈를 공개하고 생성형 AI 시장의 새로운 경쟁 구도를 제시했다.새 제품군은 최고 성능 모델인 솔(Sol), 균형형 모델인 테라(Terra), 경량·저비용 모델인 루나(Luna) 등 3종...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40714",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "서울시설공단, 도시 인프라 AI 혁신 실험장으로 적극 개방 나선다",
-      "desc": "서울시설공단(이사장 한국영, 이하 공단)이 도시 인프라를 인공지능(AI) 기술을 시험해볼 수 있는 '실험장'으로 개방하고, 대학·기업과 함께 서울의 현안을 해결하는 민·관·학 협력 생태계 구축에 나서고 있다고 26일 밝혔다.그 첫걸음으로 공단은 지난 22일부터 '...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40707",
+      "title": "온세미, 시냅틱스 인수... 차세대 피지컬 AI를 위한 교두보 확보",
+      "desc": "지능형 전력 및 센싱 기술의 선도 기업인 온세미(Onsemi)가 시냅틱스(Synaptics)를 전액 주식 거래 방식으로 인수하는 최종 계약을 체결했다고 26일(현지시간) 발표했다. 이번 거래의 총 기업 가치는 약 70억 달러로, 시냅틱스 보통주 1주를 온세미 보통...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40712",
       "source": "AI Times"
     }
   ]
