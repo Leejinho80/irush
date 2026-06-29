@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T00:06:44.944Z",
+  "lastUpdated": "2026-06-29T00:12:43.280Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "\"AI 블랙박스, 한계 넘는다\"...EPFL 연구진, 인간 뇌처럼 사고하는 AI 모델 'MiCRo' 개발",
-      "desc": "스위스 로잔연방공과대학교(École Polytechnique Fédérale de Lausanne. 이하, EPFL) 자연어처리연구실(NLP Lab)과 뉴로AI 연구실(NeuroAI Lab) 공동 연구팀이 인간의 뇌 구조를 모방한 새로운 대형언어모델(LLM) '마...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40717",
+      "title": "K-AI 얼라이언스, 50개 멤버사로 확대…SK 글로벌 AI 플랫폼 본격화",
+      "desc": "SK AI위원회(위원장 유영상)는 대한민국 인공지능(AI) 생태계 활성화를 위해 결성된 AI 기업 연합체인 ‘K-AI 얼라이언스(Alliance)’가 지난 26일(현지시간) 미국 실리콘밸리 멘로파크(Menlo Park)에서 ‘유나이트 2026’을 개최했다고 28일...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40721",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "AI로 '돌연심장사' 위험 예측 정확도 높였다…UC 버클리, 심전도에서 새로운 생체 신호 발견",
-      "desc": "미국 캘리포니아대학교 버클리(University of California, Berkeley) 연구진이 인공지능(AI)을 활용해 돌연심장사(Sudden Cardiac Death) 위험을 기존 의료기법보다 훨씬 정확하게 예측할 수 있는 새로운 기술을 개발했다. 연구진...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40716",
+      "title": "LG전자, AI 시대 고객 맞춤형 주거 솔루션 사업 진출...LG 스마트코티지, B2B 맞춤형 20평대 신제품 출시",
+      "desc": "LG전자(대표이사 류재철)가 29일 모듈러 주택 ‘LG 스마트코티지’ 신제품 2종을 출시하고 고객 맞춤형 주거 솔루션 사업을 확대한다. LG 스마트코티지는 인공지능(AI) 가전 및 냉난방공조 기술을 집약한 모듈러 주택이다.이번에 출시한 제품은 20평대 단층형 모델...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40720",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "\"AI 데이터센터, 전력 사용 시간만 바꿔도 전기요금 최대 5% 절감\"",
-      "desc": "미국 전역에서 인공지능(AI) 확산에 따른 데이터센터 건설이 급증하는 가운데, 데이터센터가 전력을 사용하는 시간대를 유연하게 조정할 경우 전력망 운영 비용을 크게 낮출 수 있다는 연구 결과가 나왔다. 다만 지역별 전력 믹스에 따라 탄소배출량은 감소할 수도, 오히려...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40715",
+      "title": "\"AI는 왜 보고 들을 때 더 잘 배울까?\"...UNIST 윤성환 교수팀, 멀티모달 AI 강건해지는 원리 수학적으로 밝혀",
+      "desc": "이미지나 소리, 텍스트 등 다양한 형태의 데이터를 함께 학습하는 멀티모달 인공지능(AI)이 왜 한 종류의 데이터만 학습한 AI보다 더 정확하고 안정적인지 수학적으로 설명됐다.UNIST 인공지능대학원 윤성환 교수팀은 멀티모달 인공지능이 단일모달 인공지능보다 더 좋은...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40719",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "오픈AI, 세계 최고 수준 차세대 추론 모델 'GPT-5.6' 공개…플래그십 '솔' 제한 프리뷰 시작",
-      "desc": "오픈AI(OpenAI)가 26일(현지시간) 차세대 추론 모델 GPT-5.6 시리즈를 공개하고 생성형 AI 시장의 새로운 경쟁 구도를 제시했다.새 제품군은 최고 성능 모델인 솔(Sol), 균형형 모델인 테라(Terra), 경량·저비용 모델인 루나(Luna) 등 3종...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40714",
+      "title": "한전, 오픈AI와 에너지 산업 AI 전환 협력...‘글로벌 에너지 AI 표준’ 주도",
+      "desc": "한국전력(사장 김동철, 이하 ‘한전’)이 지난 26일 서울대학교에서 글로벌 AI 선도기업인 오픈AI(OpenAI, 한국 총괄대표 김경훈)와 에너지 산업의 인공지능 전환(AX) 협력을 위한 업무협약(MOU)을 체결했다고 28일 밝혔다.이번 협약은 한전이 보유한 세계...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40718",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "온세미, 시냅틱스 인수... 차세대 피지컬 AI를 위한 교두보 확보",
-      "desc": "지능형 전력 및 센싱 기술의 선도 기업인 온세미(Onsemi)가 시냅틱스(Synaptics)를 전액 주식 거래 방식으로 인수하는 최종 계약을 체결했다고 26일(현지시간) 발표했다. 이번 거래의 총 기업 가치는 약 70억 달러로, 시냅틱스 보통주 1주를 온세미 보통...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40712",
+      "title": "\"AI 블랙박스, 한계 넘는다\"...EPFL 연구진, 인간 뇌처럼 사고하는 AI 모델 'MiCRo' 개발",
+      "desc": "스위스 로잔연방공과대학교(École Polytechnique Fédérale de Lausanne. 이하, EPFL) 자연어처리연구실(NLP Lab)과 뉴로AI 연구실(NeuroAI Lab) 공동 연구팀이 인간의 뇌 구조를 모방한 새로운 대형언어모델(LLM) '마...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40717",
       "source": "AI Times"
     }
   ]
