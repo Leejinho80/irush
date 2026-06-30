@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-06-29T00:12:43.280Z",
+  "lastUpdated": "2026-06-30T00:10:06.211Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "“M6 프로는 건너뛸까” 애플, AI 대응 위해 M7 조기 투입 전망",
-      "desc": "애플이 더 강력한 칩을 예정보다 약 6개월 앞당겨 출시하기 위해 M 시리즈 제품 전략을 조정하는 것으로 전해졌다.\n\n\n\n지금까지 애플의 M 시리즈 칩 출시 주기는 비교적 일정했다. 그러나 블룸버그의 마크 거먼 보도에 따르면, 애플은 보다 강력한 제품을 조기에 시장...",
-      "link": "https://www.itworld.co.kr/article/4189725/m6-%ed%94%84%eb%a1%9c%eb%8a%94-%ea%b1%b4%eb%84%88%eb%9b%b8%ea%b9%8c-%ec%95%a0%ed%94%8c-ai-%eb%8c%80%ec%9d%91-%ec%9c%84%ed%95%b4-m7-%ec%a1%b0%ea%b8%b0-%ed%88%ac%ec%9e%85-%ec%a0%84.html",
+      "title": "AI가 메모리 독식하는 시대, 사용자 부담은 누가 지나",
+      "desc": "애플의 RAM 부족과 가격 상승 문제는 당분간 해결되기 어려울 전망이다. 고성능 AI 메모리 수요가 급격히 가속화하며 사용자 가전 산업 전반을 압박하고 있기 때문이다. 고프로(GoPro)는 이미 사업 존폐 위기를 경고했으며, 이번 공급난의 규모를 두고 애널리스트는...",
+      "link": "https://www.itworld.co.kr/article/4190783/ai%ea%b0%80-%eb%a9%94%eb%aa%a8%eb%a6%ac-%eb%8f%85%ec%8b%9d%ed%95%98%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%82%ac%ec%9a%a9%ec%9e%90-%eb%b6%80%eb%8b%b4%ec%9d%80-%eb%88%84%ea%b0%80-%ec%a7%80%eb%82%98.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "잘 만든 AI 에이전트도 실패하는 이유…답은 ‘실행 거버넌스’",
-      "desc": "지난 1년 동안 기업 AI 생태계에는 막대한 역량이 추가됐지만 합의는 전혀 이뤄지지 않았다.\n\n\n\n이제 개발자는 다양한 툴셋을 사용해 AI 에이전트를 구축할 수 있다. 오픈AI 프레임워크, 앤트로픽 클로드(Claude) 툴, 랭체인(LangChain), 랭그래프(...",
-      "link": "https://www.itworld.co.kr/article/4189709/%ec%9e%98-%eb%a7%8c%eb%93%a0-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%8f%84-%ec%8b%a4%ed%8c%a8%ed%95%98%eb%8a%94-%ec%9d%b4%ec%9c%a0%eb%8b%b5%ec%9d%80-%ec%8b%a4%ed%96%89-%ea%b1%b0.html",
+      "title": "‘역대 최대 규모’ AI 탈취 주장…앤트로픽, 알리바바 직접 지목",
+      "desc": "앤트로픽이 알리바바가 가짜 계정 2만5,000개가량을 이용해 자사 클로드 AI 모델의 기능을 추출하려 했다고 주장했다. 미국 AI 기업 앤트로픽은 자사 역사상 알려진 것 중 최대 규모의 공격이라고 밝혔다.\n\n\n\n로이터 보도에 따르면, 앤트로픽이 6월 10일 미국 ...",
+      "link": "https://www.itworld.co.kr/article/4190778/%ec%97%ad%eb%8c%80-%ec%b5%9c%eb%8c%80-%ea%b7%9c%eb%aa%a8-ai-%ed%83%88%ec%b7%a8-%ec%a3%bc%ec%9e%a5%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%95%8c%eb%a6%ac%eb%b0%94%eb%b0%94-%ec%a7%81.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "“윈도우 팬도 설득했다” 크롬북을 선택하게 만든 3가지 반전",
-      "desc": "필자는 오랫동안 크롬북의 열렬한 지지자였다. 첫 번째 크롬북을 구입한 것은 제품이 처음 등장한 지 얼마 지나지 않은 2013년이었고, 이후에도 여러 대를 추가로 구매했다. 이유를 묻는다면 합리적인 가격, 높은 활용성, 단순한 사용 경험 때문이다. 이런 장점 덕분에...",
-      "link": "https://www.itworld.co.kr/article/4189163/%ec%9c%88%eb%8f%84%ec%9a%b0-%ed%8c%ac%eb%8f%84-%ec%84%a4%eb%93%9d%ed%96%88%eb%8b%a4-%ed%81%ac%eb%a1%ac%eb%b6%81%ec%9d%84-%ec%84%a0%ed%83%9d%ed%95%98%ea%b2%8c-%eb%a7%8c%eb%93%a0-3%ea%b0%80%ec%a7%80.html",
+      "title": "연간 200만 유로로 40만 명 지원…프랑스 교육부가 선택한 오픈소스 전략",
+      "desc": "프랑스가 공공 부문 전반에 걸쳐 비유럽권 기술 공급업체 의존도를 줄이려는 움직임을 본격화하면서, 오픈소스 소프트웨어가 점점 더 중요한 역할을 맡고 있다.\n\n\n\n이 같은 흐름을 보여주는 대표적인 사례가 뉘아주(Nuage)다. 교사와 행정직원 등 교육부 소속 직원을 ...",
+      "link": "https://www.itworld.co.kr/article/4190291/%ec%97%b0%ea%b0%84-%ec%98%88%ec%82%b0-200%eb%a7%8c-%ec%9c%a0%eb%a1%9c%eb%a1%9c-40%eb%a7%8c-%eb%aa%85-%ec%a7%80%ec%9b%90%ed%94%84%eb%9e%91%ec%8a%a4-%ea%b5%90%ec%9c%a1%eb%b6%80%ea%b0%80.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "“소버린 클라우드가 답일까?” 유럽 주권 전략에 회의를 제기하다",
-      "desc": "유럽연합(EU)이 해외 기술 기업에 대한 의존도를 낮추기 위해 추진 중인 클라우드 주권 강화 정책은 충분히 이해할 만한 움직임이다. 유럽이 핵심 디지털 서비스가 외국 정부나 해외 법체계, 또는 외국 기업의 영향으로 중단될 수 있다고 우려한다면 이에 대응하려는 것은...",
-      "link": "https://www.itworld.co.kr/article/4189157/%ec%86%8c%eb%b2%84%eb%a6%b0-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ea%b0%80-%eb%8b%b5%ec%9d%bc%ea%b9%8c-%ec%9c%a0%eb%9f%bd-%ec%a3%bc%ea%b6%8c-%ec%a0%84%eb%9e%b5%ec%97%90-%ed%9a%8c.html",
+      "title": "비용은 사용자가, 수익은 AI 업체가…메모리 위기 구조는 누가 설계했나",
+      "desc": "메모리 비용 인상에 대응해 가격을 올리기로 한 결정은 사실 애플만의 일이 아니다. 애플이 올려야 한다면, 다른 기업도 마찬가지다.\n\n\n\n애플은 목요일 제품 전반에 걸쳐 최대 25%에 달하는 가격 인상을 발표했다. 리퍼브 맥과 아이패드도 포함됐으며, 일부 제품은 최...",
+      "link": "https://www.itworld.co.kr/article/4190269/%eb%b9%84%ec%9a%a9%ec%9d%80-%ec%82%ac%ec%9a%a9%ec%9e%90%ea%b0%80-%ec%88%98%ec%9d%b5%ec%9d%80-ai-%ec%97%85%ec%b2%b4%ea%b0%80-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ec%9c%84%ea%b8%b0-%ea%b5%ac%ec%a1%b0.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "API를 바꾸는 AI와 ‘의도 이해’ 기반 웹 아키텍처 시대",
-      "desc": "웹이 등장한 이후 오랫동안 개발자들은 네트워크를 통해 컴포넌트를 연결하는 최적의 방법을 고민해왔다. 그 핵심에는 원격 API(Remote API)가 있으며, 이는 오늘날 소프트웨어 아키텍처 전반에 영향을 미친다. 현재 업계는 JSON API를 중심으로 일정 수준의...",
-      "link": "https://www.itworld.co.kr/article/4189147/api%eb%a5%bc-%eb%b0%94%ea%be%b8%eb%8a%94-ai%ec%99%80-%ec%9d%98%eb%8f%84-%ec%9d%b4%ed%95%b4-%ea%b8%b0%eb%b0%98-%ec%9b%b9-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98-%ec%8b%9c%eb%8c%80.html",
+      "title": "프라이빗 AI가 더 현명한 선택인 이유",
+      "desc": "지난 몇 년간 기업 IT 업계의 기본 전제는 AI가 다른 워크로드와 마찬가지로 퍼블릭 클라우드에 자리를 잡을 것이라는 가정이었다. 겉으로 보기엔 근거 없는 가정이 아니었다. 하이퍼스케일러들은 인프라와 GPU 용량, 관리형 서비스, 개발자 생태계를 갖추고 있었다. ...",
+      "link": "https://www.itworld.co.kr/article/4190256/%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b9%97-ai%ea%b0%80-%eb%8d%94-%ed%98%84%eb%aa%85%ed%95%9c-%ec%84%a0%ed%83%9d%ec%9d%b8-%ec%9d%b4%ec%9c%a0.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "K-AI 얼라이언스, 50개 멤버사로 확대…SK 글로벌 AI 플랫폼 본격화",
-      "desc": "SK AI위원회(위원장 유영상)는 대한민국 인공지능(AI) 생태계 활성화를 위해 결성된 AI 기업 연합체인 ‘K-AI 얼라이언스(Alliance)’가 지난 26일(현지시간) 미국 실리콘밸리 멘로파크(Menlo Park)에서 ‘유나이트 2026’을 개최했다고 28일...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40721",
+      "title": "中 시안, 세계 최초 문화관광 특화 멀티모달 LLM '보관' 상용화 확대… AI로 문화유산 보존·관광 혁신 가속",
+      "desc": "중국 시안(西安)에서 세계 최초의 문화관광 특화 상용 멀티모달 대규모언어모델(LLM)인 '보관(BoGuan)'이 본격적인 상용 단계에 진입하며 문화유산 보존과 관광산업 혁신을 동시에 이끌고 있다.화웨이(Huawei)는 29일 중국 산시문화산업투자그룹(Shaanxi...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40742",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "LG전자, AI 시대 고객 맞춤형 주거 솔루션 사업 진출...LG 스마트코티지, B2B 맞춤형 20평대 신제품 출시",
-      "desc": "LG전자(대표이사 류재철)가 29일 모듈러 주택 ‘LG 스마트코티지’ 신제품 2종을 출시하고 고객 맞춤형 주거 솔루션 사업을 확대한다. LG 스마트코티지는 인공지능(AI) 가전 및 냉난방공조 기술을 집약한 모듈러 주택이다.이번에 출시한 제품은 20평대 단층형 모델...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40720",
+      "title": "한국피지컬AI협회, \"정부 '대한민국 대도약 3대 메가프로젝트' 추진 지지 및 환영한다!\"",
+      "desc": "사단법인 한국피지컬AI협회(회장 유태준)는 29일, 정부가 반도체, 피지컬 인공지능(Physical AI), 인공지능 데이터센터(AIDC)를 중심으로 발표한 '대한민국 대도약 3대 메가프로젝트' 추진에 대해 공식 지지선언 및 환영 성명을 발표했다.한국피지컬AI협회...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40741",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "\"AI는 왜 보고 들을 때 더 잘 배울까?\"...UNIST 윤성환 교수팀, 멀티모달 AI 강건해지는 원리 수학적으로 밝혀",
-      "desc": "이미지나 소리, 텍스트 등 다양한 형태의 데이터를 함께 학습하는 멀티모달 인공지능(AI)이 왜 한 종류의 데이터만 학습한 AI보다 더 정확하고 안정적인지 수학적으로 설명됐다.UNIST 인공지능대학원 윤성환 교수팀은 멀티모달 인공지능이 단일모달 인공지능보다 더 좋은...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40719",
+      "title": "SK, AI 인프라에 1100조원 투자…전국 15GW 데이터센터·서남권 반도체 거점 구축",
+      "desc": "SK그룹이 대한민국 인공지능(AI) 경쟁력 강화를 위한 초대형 투자 계획을 발표했다. 전국에 총 15GW 규모의 AI 데이터센터를 구축하고, 용인·청주·서남권을 연결하는 AI 메모리 생산벨트를 조성하는 등 AI 인프라 구축에 총 1100조원을 투입한다는 구상이다....",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40740",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "한전, 오픈AI와 에너지 산업 AI 전환 협력...‘글로벌 에너지 AI 표준’ 주도",
-      "desc": "한국전력(사장 김동철, 이하 ‘한전’)이 지난 26일 서울대학교에서 글로벌 AI 선도기업인 오픈AI(OpenAI, 한국 총괄대표 김경훈)와 에너지 산업의 인공지능 전환(AX) 협력을 위한 업무협약(MOU)을 체결했다고 28일 밝혔다.이번 협약은 한전이 보유한 세계...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40718",
+      "title": "AI가 이끄는 제조업의 대전환, 청사진 나왔다....정부, 2030년까지 민·관 합동 20조원 투자",
+      "desc": "인구 감소와 글로벌 경쟁 격화로 대한민국 제조업의 위기감이 커지는 가운데, 정부가 인공지능(AI)을 앞세워 제조업 재도약의 신호탄을 쏘아 올렸다. 정부는 29일 열린 대한민국 대도약 3대 메가프로젝트 국민보고회 계기에, 제조업 대전환의 막을 여는 대한민국 제조업 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40739",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "\"AI 블랙박스, 한계 넘는다\"...EPFL 연구진, 인간 뇌처럼 사고하는 AI 모델 'MiCRo' 개발",
-      "desc": "스위스 로잔연방공과대학교(École Polytechnique Fédérale de Lausanne. 이하, EPFL) 자연어처리연구실(NLP Lab)과 뉴로AI 연구실(NeuroAI Lab) 공동 연구팀이 인간의 뇌 구조를 모방한 새로운 대형언어모델(LLM) '마...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40717",
+      "title": "삼성, \"AI 시대 국가 산업 지형 바꾼다\"...국내에 2655조원 투자",
+      "desc": "삼성이 인공지능(AI) 시대 국가 경쟁력 강화를 위해 총 2655조원 규모의 국내 투자 계획을 발표했다. 평택·용인 반도체 클러스터를 중심으로 한 초대형 반도체 투자와 함께 호남·충청·영남권에 AI 반도체, AI 데이터센터, 로봇, 차세대 배터리, 디스플레이 등 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40738",
       "source": "AI Times"
     }
   ]
