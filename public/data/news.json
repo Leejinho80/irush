@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-07-03T00:10:37.901Z",
+  "lastUpdated": "2026-07-04T00:09:30.064Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "쇼피파이가 증명한 것 : 에이전트보다 중요한 것은 작업장 설계",
+      "desc": "에이전트가 어떤 일을 하면 회사 전체가 그 과정에서 뭔가를 배울 수 있어야 한다. 그래야 모든 개발자가 공유된 인사이트와 성공 사례를 자신의 것으로 흡수할 수 있다.\n\n\n\n토비 뤼트케는 쇼피파이(Shopify)를 이끌기 전에 독일의 견습 시스템을 통해 프로그래밍을...",
+      "link": "https://www.itworld.co.kr/article/4192545/%ec%87%bc%ed%94%bc%ed%8c%8c%ec%9d%b4%ea%b0%80-%ec%a6%9d%eb%aa%85%ed%95%9c-%ea%b2%83-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%b3%b4%eb%8b%a4-%ec%a4%91%ec%9a%94%ed%95%9c-%ea%b2%83%ec%9d%80-%ec%9e%91.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "윈도우, 개발자 플랫폼으로 귀환 선언",
+      "desc": "마이크로소프트의 윈도우 전략이 달라지고 있다. 한동안 웹 기반 사용자 경험을 강조하던 윈도우 인사이더 빌드가 네이티브 코드 중심으로 방향을 선회했다. 빌드 2026에서는 개발자가 플랫폼을 활용하는 데 도움이 되는 툴과 기능에 초점을 맞춘 여러 발표를 통해 이 방향...",
+      "link": "https://www.itworld.co.kr/article/4192528/%ec%9c%88%eb%8f%84%ec%9a%b0-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9c%bc%eb%a1%9c-%ea%b7%80%ed%99%98-%ec%84%a0%ec%96%b8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "“가장 똑똑한 모델”보다 “내 것인 모델” 미스트랄의 틈새 전략",
+      "desc": "지난 몇 년 동안의 AI 시장은 간단히 정리할 수 있다. 오픈AI가 사용자의 관심을, 앤트로픽이 개발자들의 마음을 차지했고 구글은 점점 더 강력해지는 모델과 이를 보완하는 제품군을 통해 기대를 모았다. 그리고 그 외의 모든 기업은 아직 망하지 않은 이유가 무엇인지...",
+      "link": "https://www.itworld.co.kr/article/4192517/%ea%b0%80%ec%9e%a5-%eb%98%91%eb%98%91%ed%95%9c-%eb%aa%a8%eb%8d%b8%eb%b3%b4%eb%8b%a4-%eb%82%b4-%ea%b2%83%ec%9d%b8-%eb%aa%a8%eb%8d%b8-%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84%ec%9d%98-%ed%8b%88.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "페이블 재출시했지만…앤트로픽, 구독자 이용 조건 대폭 축소",
+      "desc": "미국 정부의 명령으로 약 3주 간 운영이 중단됐던 앤트로픽의 강력한 모델 페이블(Fable) 5와 미토스(Mythos) 5가 다시 서비스를 재개한다. 하지만 클로드 구독자들은 이미 짧았던 페이블 이용 가능 기간이 더욱 축소됐다는 사실을 뒤늦게 알고 분통을 터뜨리고...",
+      "link": "https://www.itworld.co.kr/article/4192513/%ed%8e%98%ec%9d%b4%eb%b8%94-%ec%9e%ac%ec%b6%9c%ec%8b%9c%ed%96%88%ec%a7%80%eb%a7%8c-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ea%b5%ac%eb%8f%85%ec%9e%90-%ec%9d%b4%ec%9a%a9-%ec%a1%b0%ea%b1%b4-%eb%8c%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "‘아이폰 18 프로의 심장’ A20 프로 해부 – 2nm 공정이 바꾸는 것들",
       "desc": "애플은 오는 9월 아이폰 18 프로와 아이폰 울트라를 출시하며, 두 제품 모두 최신 A 시리즈 칩을 탑재할 예정이다. 최근 몇 년간의 추세와 같이, 차세대 프로세서는 두 가지로 나뉠 가능성이 높다. 풀 성능의 ‘프로’ 버전과 저가 제품용 비(非)프로 모델이다. 올...",
       "link": "https://www.itworld.co.kr/article/4191956/%ec%95%84%ec%9d%b4%ed%8f%b0-18-%ed%94%84%eb%a1%9c%ec%9d%98-%ec%8b%ac%ec%9e%a5-a20-%ed%94%84%eb%a1%9c-%ed%95%b4%eb%b6%80-2nm-%ea%b3%b5%ec%a0%95%ec%9d%b4-%eb%b0%94%ea%be%b8%eb%8a%94-%ea%b2%83.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "AI 비용 절반으로 줄이는 모델 라우팅, 이제는 토큰매칭이다",
-      "desc": "오랜 델파이(Delphi) 사용자로서, 비주얼 베이직 진영과 벌였던 ‘언어 전쟁’을 생생히 기억한다. 당시 델파이의 초기 코드명은 ‘VBK’, 즉 VB 킬러(VB Killer)였고, 비주얼 베이직 커뮤니티는 크게 반발했다. 비주얼 베이직 진영 사람들이 델파이 포럼...",
-      "link": "https://www.itworld.co.kr/article/4191945/ai-%eb%b9%84%ec%9a%a9-%ec%a0%88%eb%b0%98%ec%9c%bc%eb%a1%9c-%ec%a4%84%ec%9d%b4%eb%8a%94-%eb%aa%a8%eb%8d%b8-%eb%9d%bc%ec%9a%b0%ed%8c%85-%ec%9d%b4%ec%a0%9c%eb%8a%94-%ed%86%a0%ed%81%b0%eb%a7%a4%ec%b9%ad.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "가장 약한 공급망 고리가 뚫렸다, 애플 협력사 연이어 해킹 피해",
-      "desc": "타타 일렉트로닉스(Tata Electronics)를 겨냥한 최근 사이버 공격이 애플의 중요 영업 비밀, 나아가 다른 고객사 기밀까지 노출한 역대 최악의 침해 사건 중 하나로 부상하고 있다. 공개된 정보에는 출시 예정인 아이폰 18 프로에 관한 세부 사항이 대거 포...",
-      "link": "https://www.itworld.co.kr/article/4191939/%ea%b0%80%ec%9e%a5-%ec%95%bd%ed%95%9c-%ea%b3%b5%ea%b8%89%eb%a7%9d-%ea%b3%a0%eb%a6%ac%ea%b0%80-%eb%9a%ab%eb%a0%b8%eb%8b%a4-%ec%95%a0%ed%94%8c-%ed%98%91%eb%a0%a5%ec%82%ac-%ec%97%b0%ec%9d%b4%ec%96%b4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "미국 AI 차단 카드 꺼내자, EU ‘기술 주권’ 논의 급물살",
-      "desc": "AI 대기업들의 기업공개(IPO) 경쟁이 달아오르던 6월, 미국이 전격적으로 ‘블로킹 카드’를 꺼내 앤트로픽의 최신 모델을 무력화했다. 트럼프 행정부는 국가 안보를 이유로 비미국 시민(미국 내 거주자 포함)이 앤트로픽이 막 공개한 최첨단 모델에 접근하지 못하도록 ...",
-      "link": "https://www.itworld.co.kr/article/4191912/%eb%af%b8%ea%b5%ad-ai-%ec%b0%a8%eb%8b%a8-%ec%b9%b4%eb%93%9c-%ea%ba%bc%eb%82%b4%ec%9e%90-eu-%ea%b8%b0%ec%88%a0-%ec%a3%bc%ea%b6%8c-%eb%85%bc%ec%9d%98-%ea%b8%89%eb%ac%bc%ec%82%b4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "토큰 소비 최대 98% 절감…마이크로소프트, AI 에이전트 메모리 한계 넘는 ‘메모라’ 공개",
-      "desc": "AI 에이전트의 장기 기억 한계를 극복하기 위해, 마이크로소프트 리서치가 추상화와 큐 기반 검색을 결합한 메모리 시스템 메모라(Memora)를 개발했다.\n\n\n\nAI 에이전트가 장기간에 걸쳐 대화, 선호도, 의사결정을 기억해야 한다는 요구가 커지면서, 마이크로소프트...",
-      "link": "https://www.itworld.co.kr/article/4191363/%ed%86%a0%ed%81%b0-%ec%86%8c%eb%b9%84-%ec%b5%9c%eb%8c%80-98-%ec%a0%88%ea%b0%90-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%a9%94.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "서울아산병원, '근침윤성 방광암' AI로 항암제 효과 예측하고 내성 단서 찾았다",
-      "desc": "방광암 중에서도 종양이 방광 근육층까지 침범한 근침윤성 방광암은 혈관이나 림프관을 통해 다른 장기로 전이될 위험도 크고 사망률도 높다. 방광과 주변 조직에 침범한 암을 제거하는 수술 전에 항암치료를 시행하는데 환자마다 항암 효과가 크게 다르고 불필요한 치료로 수술...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40811",
+      "title": "앤트로픽, '클로드 페이블 5' 보안 체계 전격 공개… AI 탈옥 위험도 평가 기준도 제안",
+      "desc": "앤트로픽(Anthropic)이 지난 1일부터 재배포한 차세대 인공지능 모델 '클로드 페이블 5(Claude Fable 5)'에 적용된 사이버 보안 안전장치의 구체적인 내용을 2일(현지시간) 공개했다.아울러, AI 모델의 안전장치를 우회하는 '탈옥(Jailbreak...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40825",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "제틱에이아이, LG 슈퍼스타트 인큐베이터 선정… \"산업 전반 온디바이스 AI 확장\"",
-      "desc": "온디바이스 AI 배포 플랫폼 기업 제틱에이아이(ZETIC, 대표 김연석)가 LG의 스타트업 육성 프로그램 'LG 슈퍼스타트' 인큐베이터 5기에 최종 선정됐다. 제틱에이아이는 이를 계기로 LG전자를 비롯한 복수의 LG 계열사와 온디바이스 인공지능 프로젝트 협업을 논...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40810",
+      "title": "서울공대 송현오 교수팀, 반도체 설계 검증 자동화하는 AI 에이전트 기술 개발",
+      "desc": "서울대학교 공과대학 컴퓨터공학부 머신러닝 연구실의 송현오 교수 연구팀이 삼성 AI 센터와 함께, 반도체 설계 검증에 필요한 검사 코드를 인공지능이 사람 대신 작성하는 인공지능(AI) 에이전트 기술 ‘Rule2DRC’를 개발했다고 3일 밝혔다.제조를 앞둔 반도체 칩...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40824",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "SKT, T 우주 ‘구글 AI 플랜’ 출시...구독 플랫폼 중 가장 다양한 라인업 갖춰",
-      "desc": "SK텔레콤(대표이사 CEO 정재헌)은 구독 서비스 플랫폼 ‘T 우주’에서 구글 인공지능 구독 서비스 ‘구글 AI 플랜(Google AI Plans)’을 출시했다고 3일 밝혔다.‘구글 AI 플랜’은 제미나이를 비롯한 나노 바나나, 노트북LM, 지메일, 구글독스(Do...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40809",
+      "title": "한동대 김인중 교수, \"AI 거품론... 무엇을 놓치고 있는가?\"",
+      "desc": "요즘 미디어에서는 인공지능(AI)의 발전과 확산 속도가 매우 빠르다는 평가와 함께 AI 거품론이 끊임없이 제기되고 있다. 적어도 한 차례의 AI 겨울(AI Winter)을 경험했고, 카페(Caffe), 텐서플로(TensorFlow), 파이토치(PyTorch), 쿠...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40821",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "“한국 AI 기본법은 EU와 미국의 절충형 모델”...국제 AI 법률저널, 한국 AI법 집중 조명",
-      "desc": "유럽의 법률 전문 출판사인 렉시온 퍼블리셔(Lexxion Publisher)가 발간하는 AI 법·규제 전문 저널 'AIRe: 저널 오브 AI 로 앤드 레귤레이션(AIRe: Journal of AI Law and Regulation)'이 한국을 비롯해 일본, 영국,...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40808",
+      "title": "서울AI허브, 공군 AX 거점 구축…군·산·학 AI 협력 확대",
+      "desc": "국방 분야 인공지능 전환(AX)이 본격화되는 가운데 서울시 AI 산업 육성 거점인 서울AI허브가 산업 현장을 넘어 국방 분야까지 AI 혁신을 연결하는 협력 플랫폼으로 역할을 확대한다.서울시는 서울AI허브와 공군 항공우주전투발전단이 3일 서울AI허브 메인센터에서 '...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40820",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "AI가 119 신고 '긴급도' 판정한다!… NEC, “폭염 속 구급 신고 급증 대응 나섰다”",
-      "desc": "일본에서 장마가 끝나고 본격적인 여름철 폭염이 시작되면서 열사병과 응급환자 증가에 따른 119 신고 급증이 예상되는 가운데, 일본전기주식회사(이하, NEC)가 인공지능(AI)을 활용해 소방 지령관의 긴급도 판정을 지원하는 시스템 개발에 나섰다. 일본의 긴급전화 체...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40807",
+      "title": "\"세계 최고 AI 석학·기업 한자리에\"...KAIST, '글로벌 AI 프론티어 심포지엄 2026' 개최",
+      "desc": "KAIST(총장 배충식)는 과학기술정보통신부(부총리 겸 장관 배경훈)와 정보통신기획평가원(원장 홍진배)이 주최하고, 국가AI연구거점(센터장 김기응)이 글로벌AI프론티어랩(공동소장 얀 르쿤·조경현)과 공동 주관한 '글로벌 AI 프론티어 심포지엄 2026(Global...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40819",
       "source": "AI Times"
     }
   ]
