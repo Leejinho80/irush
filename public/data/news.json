@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-07-07T00:13:15.750Z",
+  "lastUpdated": "2026-07-08T00:01:23.802Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "“문서 아닌 운영에 새겨야” AI 책임 체계를 확보하는 6가지 방법",
+      "desc": "AI 시스템이 프로덕션 환경에 도입되어 실질적인 행동을 취하기 시작하면서, 기업은 책임 소재 파악이 훨씬 더 어려워진다는 사실을 빠르게 깨닫고 있다. 기존 엔터프라이즈 소프트웨어와 달리, AI 도구는 데이터, API, 비즈니스 워크플로와 동적으로 상호작용하면서 예...",
+      "link": "https://www.itworld.co.kr/article/4193507/%eb%ac%b8%ec%84%9c-%ec%95%84%eb%8b%8c-%ec%9a%b4%ec%98%81%ec%97%90-%ec%83%88%ea%b2%a8%ec%95%bc-ai-%ec%b1%85%ec%9e%84-%ec%b2%b4%ea%b3%84%eb%a5%bc-%ed%99%95%eb%b3%b4%ed%95%98%eb%8a%94-6%ea%b0%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "AI 에이전트, 네트워크 자율 해킹부터 랜섬 요구까지 자율 수행하다",
+      "desc": "AI 에이전트가 보안 취약점을 스스로 익스플로잇하고, 자격증명을 탈취하며, 내부망을 횡단해 데이터베이스 레코드 1,300개 이상을 암호화한 뒤 비트코인 랜섬을 요구했다. 클라우드 보안 업체 시스디그(Sysdig)는 이를 대규모 언어 모델이 처음부터 끝까지 구동한 ...",
+      "link": "https://www.itworld.co.kr/article/4193485/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%ec%9e%90%ec%9c%a8-%ed%95%b4%ed%82%b9%eb%b6%80%ed%84%b0-%eb%9e%9c%ec%84%ac-%ec%9a%94%ea%b5%ac%ea%b9%8c%ec%a7%80-%ec%9e%90.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "수천만원짜리 자격증도 막지 못하는 침해, 실전 훈련이 메운다",
+      "desc": "농구 스타가 되고 싶다면 어디서부터 시작하겠는가? 농구에 관한 책을 읽고 온라인 강좌를 수강하지는 않을 것이다. 집 앞 차도에 골대를 설치하고, 지역 팀에 들어가 훈련하고, 실제 경기에 뛰어들 것이다. 그렇다면 왜 우리는 사이버보안 전문가가 이론과 정적인 훈련만으...",
+      "link": "https://www.itworld.co.kr/article/4193474/%ec%88%98%ec%b2%9c%eb%a7%8c%ec%9b%90%ec%a7%9c%eb%a6%ac-%ec%9e%90%ea%b2%a9%ec%a6%9d%eb%8f%84-%eb%a7%89%ec%a7%80-%eb%aa%bb%ed%95%98%eb%8a%94-%ec%b9%a8%ed%95%b4-%ec%8b%a4%ec%a0%84-%ed%9b%88%eb%a0%a8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "폴더블 아이폰 울트라, 아이폰 X의 전철 밟나…늦은 출시에 고가 예고",
+      "desc": "많은 애플 팬은 폴더블 아이폰을 손에 넣기 위해 수년을 기다려왔다. 최신 보도가 정확하다면, 올 가을 아이폰 울트라가 공개될 때 그 기다림이 예상보다 조금 더 길어질 수도 있다.\n\n\n\n신뢰받는 업계 애널리스트 밍치 궈에 따르면, 애플은 첫 폴더블 폰을 기존 아이폰...",
+      "link": "https://www.itworld.co.kr/article/4193469/%ed%8f%b4%eb%8d%94%eb%b8%94-%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%95%84%ec%9d%b4%ed%8f%b0-x%ec%9d%98-%ec%a0%84%ec%b2%a0-%eb%b0%9f%eb%82%98-%eb%8a%a6%ec%9d%80-%ec%b6%9c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "오픈텍스트, 국경을 넘지 않는 AI 설계의 원칙을 제시하다",
       "desc": "약 150개국이 국가 데이터 프라이버시 법을 시행 중인 가운데 AI 시스템의 운영 환경이 근본적으로 변하고 있다. EU의 AI법은 2026년 8월부터 고위험 AI 시스템에 대한 규정을 본격 적용하며, 데이터 보관 위치를 넘어 AI 추론 실행 위치, 기업 데이터의 ...",
       "link": "https://www.itworld.co.kr/article/4192980/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b5%ad%ea%b2%bd%ec%9d%84-%eb%84%98%ec%a7%80-%ec%95%8a%eb%8a%94-ai-%ec%84%a4%ea%b3%84%ec%9d%98-%ec%9b%90%ec%b9%99%ec%9d%84-%ec%a0%9c%ec%8b%9c%ed%95%98.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "평가에서 에이전트까지, AI 관찰가능성을 재점검하라",
-      "desc": "많은 기업이 앞다퉈 AI를 프로덕션 환경에 도입하면서, 기존 소프트웨어 모니터링에 활용해온 도구들이 AI 시스템에는 그대로 적용되지 않는다는 사실을 깨닫고 있다. 문제는 근본적인 데 있다. AI는 소프트웨어처럼 장애를 일으키지 않는다. 명확한 오류 코드를 던지거나...",
-      "link": "https://www.itworld.co.kr/article/4192941/%ed%8f%89%ea%b0%80%ec%97%90%ec%84%9c-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b9%8c%ec%a7%80-ai-%ea%b4%80%ec%b0%b0%ea%b0%80%eb%8a%a5%ec%84%b1%ec%9d%84-%ec%9e%ac%ec%a0%90%ea%b2%80%ed%95%98%eb%9d%bc.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "RAM 가격 폭등에 메타가 내놓은 해법, 구형 메모리 재활용",
-      "desc": "메타에 따르면 메타 서버 수백만 대 중 약 40%는 메모리 부족으로 성능이 제한된 상태다. 그러나 RAM 칩의 수명이 서버 본체의 약 두 배에 달하는 탓에, 폐기 처분된 서버에서 나온 구형 듀얼 인라인 메모리 모듈(DIMM)이 대거 남아도는 상황이다.\n\n\n\n이 불...",
-      "link": "https://www.itworld.co.kr/article/4192929/ram-%ea%b0%80%ea%b2%a9-%ed%8f%ad%eb%93%b1%ec%97%90-%eb%a9%94%ed%83%80%ea%b0%80-%eb%82%b4%eb%86%93%ec%9d%80-%ed%95%b4%eb%b2%95-%ea%b5%ac%ed%98%95-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ec%9e%ac%ed%99%9c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "메타, 코딩·에이전틱 강화한 ‘뮤즈 스파크’ 업데이트 예고",
-      "desc": "메타가 코딩과 에이전틱 AI 역량을 강화한 새 뮤즈 스파크(Muse Spark) 모델을 출시할 예정이다. 최고 AI 책임자 알렉산드르 왕은 이번 업데이트가 경쟁 AI 플랫폼과의 격차를 좁히고 기업 AI 사업을 확대하기 위한 중요한 발걸음이 될 것이라고 강조했다.\n...",
-      "link": "https://www.itworld.co.kr/article/4192919/%eb%a9%94%ed%83%80-%ec%bd%94%eb%94%a9%c2%b7%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-%ea%b0%95%ed%99%94%ed%95%9c-%eb%ae%a4%ec%a6%88-%ec%8a%a4%ed%8c%8c%ed%81%ac-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "마이크로소프트 구조조정 또 온다…영업·컨설팅·엑스박스 직격",
-      "desc": "마이크로소프트가 이르면 이번 주 안에 수천 명 규모의 감원을 발표할 것으로 알려졌다. 비즈니스 인사이더는 복수의 내부 소식통을 인용해 이번 감원이 영업, 컨설팅, 엑스박스 부문 등 여러 기업에 영향을 미칠 것이라고 보도했다. 감원 규모는 전 세계 임직원 약 22만...",
-      "link": "https://www.itworld.co.kr/article/4192906/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ea%b5%ac%ec%a1%b0%ec%a1%b0%ec%a0%95-%eb%98%90-%ec%98%a8%eb%8b%a4%ec%98%81%ec%97%85%c2%b7%ec%bb%a8%ec%84%a4%ed%8c%85%c2%b7.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "아비바코리아, 박기범 신임 대표 선임...\"산업 AI와 디지털 트윈 통해 국내 산업 생산성과 운영 효율 높일 것\"",
-      "desc": "글로벌 산업용 소프트웨어 선도 기업인 아비바(AVEVA)는 박기범 대표를 한국 지사장으로 선임했다고 7일 밝혔다. 박기범 대표는 IT 및 OT 업계에서의 폭넓은 경험을 바탕으로 국내 사업 전반을 진두지휘 하며 전략 수립과 실행을 총괄할 예정이다.박 신임 대표는 2...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40854",
+      "title": "加 앨버타주 정부, ‘클로드’로 4억6600만 줄 코드 점검… 사이버 보안 취약점 수년치 작업 20시간 만에 해결",
+      "desc": "캐나다 앨버타주 정부(Government of Alberta)가 앤트로픽(Anthropic)의 생성형 인공지능(AI) 모델 ‘클로드(Claude)’를 활용해 정부 전산 시스템 전반의 사이버보안 취약점을 대규모로 점검·개선한 사례를 공개하고 글로벌 공공부문의 AI ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40870",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "\"생성형 AI, 사진의 경계까지 확장한다\"…퀄컴 특허 기술이 보여주는 '무한 캔버스'의 시대",
-      "desc": "생성형 인공지능(AI)은 이제 단순히 새로운 이미지를 만들어내는 수준을 넘어 기존 사진 자체를 다시 창조하는 단계로 진화하고 있다. 불과 몇 년 전까지만 하더라도 생성형 AI는 텍스트를 입력하면 새로운 그림을 생성하거나 사진 속 일부 영역을 수정하는 수준에 머물렀...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40853",
+      "title": "LG전자, 2분기 매출·영업이익 사상 최대… 상반기 영업이익만으로 지난해 연간 실적 돌파",
+      "desc": "LG전자(대표이사 류재철)가 2026년 2분기 매출과 영업이익 모두 역대 2분기 기준 최대 실적을 기록하며 시장 기대를 뛰어넘었다. 특히 상반기 영업이익은 지난해 연간 영업이익을 넘어서는 등 인공지능(AI) 시대를 겨냥한 신성장 사업과 프리미엄 전략이 본격적인 성...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40869",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "인피니언, 50억 유로 투자 ‘스마트 파워 팹’ 개소… AI 데이터센터·전기차·재생에너지용 반도체 생산",
-      "desc": "독일 반도체 기업 인피니언 테크놀로지스(Infineon Technologies)가 독일 드레스덴(Dresden)에 세계 최대 규모의 전력반도체 및 아날로그·혼합신호(Analog/Mixed-Signal) 반도체 생산공장을 지난 2일(현지시간) 공식 개소했다.인피니언...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40852",
+      "title": "서울시민대학, ‘AI 마스터 위크’ 5주 대장정…석학·빅테크 리더 특강부터 기술 체험까지",
+      "desc": "서울시평생교육진흥원(원장 한용진)이 오는 22일부터 8월 19일까지 5주간 서울시민대학 동남권 캠퍼스에서 ‘수요미래특강 : AI 마스터 위크’를 개최한다. AI 분야 석학과 국내 빅테크 기업 리더의 강연, 로봇·드론 실습, 최신 AI 기기 체험을 한자리에 모아 시...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40868",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "英 정부, AI 탑재 장난감 안전성 점검 나선다…장난감 안전 규정 전면 재검토 착수",
-      "desc": "영국 정부가 인공지능(AI) 기술이 적용된 장난감의 확산에 대응해 장난감 안전 규정을 전면 재검토한다. AI 기능을 갖춘 스마트 장난감과 화학물질 안전성 등 새로운 위험 요소를 점검해 어린이 보호 체계를 강화하겠다는 취지다.영국 기업통상부(Department fo...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40851",
+      "title": "흉부 CT 한 번으로 폐·심혈관 위험 함께 본다…강남하트스캔, 코어라인소프트 'AVIEW Aorta' 도입",
+      "desc": "의료 인공지능 기업 코어라인소프트가 종합검진센터 강남하트스캔과 인공지능(AI) 기반 심혈관 영상 검출·진단 보조 소프트웨어 ‘AVIEW Aorta’ 공급계약을 체결했다고 7일 밝혔다.이번 도입은 AVIEW Aorta(에이뷰 에이올타)가 건강검진센터에 적용된 첫 사...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40867",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "광주 군공항에 호남권 반도체 클러스터 조성 확정…정부·기업, 메가프로젝트 본격 추진",
-      "desc": "정부와 기업이 추진 중인 대규모 국가 전략사업인 '대한민국 대도약 3대 메가프로젝트'가 본격적인 실행 단계에 돌입했다. 특히 호남권 신규 반도체 클러스터 부지로 광주 군공항이 최종 결정되면서 국가 반도체 산업 지형에 새로운 변화가 예고되고 있다.강훈식 대통령 비서...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40850",
+      "title": "패스트파이브, AI 기반 운영 체계 강화...“문의 10건 중 8건, 상담원 없이 자동 해결”",
+      "desc": "국내 대표 오피스 브랜드 패스트파이브(대표 김대일)가 인공지능(AI) 챗봇을 기반으로 입주사 문의 응대 체계를 강화하며 업무 환경 관리 효율을 높이고 있다고 밝혔다.패스트파이브가 최근 입주 멤버의 챗봇 이용 데이터를 분석한 결과, 와이파이 설정, 회의실 이용 방법...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40866",
       "source": "AI Times"
     }
   ]
