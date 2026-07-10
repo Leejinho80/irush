@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-07-09T00:15:35.391Z",
+  "lastUpdated": "2026-07-10T00:09:21.621Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "LLM이 대화를 기억하게 하려면? 에이전트 메모리 프레임워크 4선",
+      "desc": "AI 에이전트, 그리고 에이전트를 구동하는 대규모 언어 모델(LLM)은 기억력이 짧다. 애초부터 그렇게 설계되어 있다. 토큰으로 인코딩해 LLM이 안정적으로 접근할 수 있는 대화량에는 한계가 있기 때문이다. 검색 증강 생성(RAG)을 활용하면 에이전트와 LLM에 ...",
+      "link": "https://www.itworld.co.kr/article/4194713/llm%ec%9d%b4-%eb%8c%80%ed%99%94%eb%a5%bc-%ea%b8%b0%ec%96%b5%ed%95%98%ea%b2%8c-%ed%95%98%eb%a0%a4%eb%a9%b4-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ed%94%84%eb%a0%88%ec%9e%84.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "내 컴퓨터가 슈퍼컴퓨터의 일부가 되는 시간…유휴 컴퓨팅이 여는 시민 과학 시대",
+      "desc": "보통 사람들은 매일 수 시간씩 컴퓨터를 그냥 켜둔다. 그 컴퓨터의 유휴 처리 능력 일부가 새로운 펄서(고속 자전 중성자별) 탐색이나 기후 시스템 모델링, 혹은 의학 연구에 활용된다면 어떨까?\n\n\n\n바로 이것이 BOINC(Berkeley Open Infrastruc...",
+      "link": "https://www.itworld.co.kr/article/4194693/%eb%82%b4-%ec%bb%b4%ed%93%a8%ed%84%b0%ea%b0%80-%ec%8a%88%ed%8d%bc%ec%bb%b4%ed%93%a8%ed%84%b0%ec%9d%98-%ec%9d%bc%eb%b6%80%ea%b0%80-%eb%90%98%eb%8a%94-%ec%8b%9c%ea%b0%84-%ec%9c%a0%ed%9c%b4-%ec%bb%b4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "홈 카메라 4K 녹화·AI 분석 등 애플 인텔리전스 홈, 최상위 요금제 전용",
+      "desc": "OS 27 업데이트(iOS, 맥OS, 아이패드OS 등)는 홈 앱에 AI 기반 기능을 여럿 추가했다. 추가된 기능 대부분은 홈킷 보안 비디오를 지원하는 카메라의 영상 처리와 관련이 있다. 희소식은, 그동안 경쟁 제품에 뒤처진다는 평가를 받아온 홈 카메라 경험을 이번...",
+      "link": "https://www.itworld.co.kr/article/4194682/%ed%99%88-%ec%b9%b4%eb%a9%94%eb%9d%bc-4k-%eb%85%b9%ed%99%94%c2%b7ai-%eb%b6%84%ec%84%9d-%eb%93%b1-%ec%95%a0%ed%94%8c-%ec%9d%b8%ed%85%94%eb%a6%ac%ec%a0%84%ec%8a%a4-%ed%99%88-%ec%b5%9c%ec%83%81%ec%9c%84.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "“실전에서 통했다” 전사 도입으로 검증된 AI 받아쓰기 앱의 가능성",
       "desc": "하루에도 수시간씩 AI 어시스턴트와 상호작용하는 직장인에게 키보드 타이핑은 어느새 하나의 부담이 되고 있다. 온라인 전문직 서비스 마켓플레이스 썸택(Thumbtack)의 CTO 크리스 파탈라노는 코딩 작업이든, 문서 작성이든, 전략 구상이든 AI와 함께하는 모든 ...",
       "link": "https://www.itworld.co.kr/article/4194219/%ec%8b%a4%ec%a0%84%ec%97%90%ec%84%9c-%ed%86%b5%ed%96%88%eb%8b%a4-%ec%a0%84%ec%82%ac-%eb%8f%84%ec%9e%85%ec%9c%bc%eb%a1%9c-%ea%b2%80%ec%a6%9d%eb%90%9c-ai-%eb%b0%9b%ec%95%84%ec%93%b0%ea%b8%b0.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "세일즈포스-인포마티카 합병이 바꾸는 엔터프라이즈 AI의 판도",
       "desc": "엔터프라이즈 기술 분야에서 AI는 단연 주목의 중심에 서 있다. 하지만 실질적인 무게 중심은 거버넌스, 데이터 소유권, 데이터 품질이 차지한다. 기업이 AI 실험 단계를 넘어 실제 운영 환경 배포로 이행하면서, 신뢰할 수 있는 컨텍스트가 AI 에이전트의 사업 가치...",
       "link": "https://www.itworld.co.kr/article/4194180/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ec%9d%b8%ed%8f%ac%eb%a7%88%ed%8b%b0%ec%b9%b4-%ed%95%a9%eb%b3%91%ec%9d%b4-%eb%b0%94%ea%be%b8%eb%8a%94-%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "AI가 소프트웨어 엔지니어링 재정의…초소형 팀 도입 기업 2029년 60%",
-      "desc": "가트너가 발표한 최신 분석에 따르면, AI가 소프트웨어 엔지니어링 역할을 근본적으로 재편하고 있다. 반복적인 기술 업무를 AI가 처리하면서 엔지니어들이 복잡한 문제 해결과 혁신에 집중할 수 있게 된 것이다. 이러한 변화는 초소형 팀 도입 증가로 이어지고 있으며, ...",
-      "link": "https://www.itworld.co.kr/article/4194153/ai%ea%b0%80-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a7%81-%ec%9e%ac%ec%a0%95%ec%9d%98%ec%b4%88%ec%86%8c%ed%98%95-%ed%8c%80-%eb%8f%84%ec%9e%85.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "엑스박스, 콘솔 내려놓고 세가 드림캐스트의 전철 밟을까",
-      "desc": "어린 시절 1~2년 동안, 필자에게 세가 드림캐스트는 미래 그 자체였다. 비디오 게임만이 아니라 모든 것의 미래였다. 당시 시장에 나온 어떤 제품보다 뛰어난 3D 그래픽, 온라인 게임을 위한 인터넷 연결, 그리고 크레이지 택시까지 갖췄다. 1999년, 드림캐스트는...",
-      "link": "https://www.itworld.co.kr/article/4194108/%ec%97%91%ec%8a%a4%eb%b0%95%ec%8a%a4-%ec%bd%98%ec%86%94-%eb%82%b4%eb%a0%a4%eb%86%93%ea%b3%a0-%ec%84%b8%ea%b0%80-%eb%93%9c%eb%a6%bc%ec%ba%90%ec%8a%a4%ed%8a%b8%ec%9d%98-%ec%a0%84%ec%b2%a0-%eb%b0%9f.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "“문서 아닌 운영에 새겨야” AI 책임 체계를 확보하는 6가지 방법",
-      "desc": "AI 시스템이 프로덕션 환경에 도입되어 실질적인 행동을 취하기 시작하면서, 기업은 책임 소재 파악이 훨씬 더 어려워진다는 사실을 빠르게 깨닫고 있다. 기존 엔터프라이즈 소프트웨어와 달리, AI 도구는 데이터, API, 비즈니스 워크플로와 동적으로 상호작용하면서 예...",
-      "link": "https://www.itworld.co.kr/article/4193507/%eb%ac%b8%ec%84%9c-%ec%95%84%eb%8b%8c-%ec%9a%b4%ec%98%81%ec%97%90-%ec%83%88%ea%b2%a8%ec%95%bc-ai-%ec%b1%85%ec%9e%84-%ec%b2%b4%ea%b3%84%eb%a5%bc-%ed%99%95%eb%b3%b4%ed%95%98%eb%8a%94-6%ea%b0%80.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "LG, 머신러닝 세계 최고 권위 학회서 ‘엑사원’ 혁신 사례 공개",
-      "desc": "LG가 지난 6일부터 11일까지 6일간 서울 코엑스 전관에서 열리고 있는 세계 최고 권위의 인공지능(AI) 머신러닝 학술대회인 국제머신러닝학회(ICML 2026, International Conference on Machine Learning)에 참가해 연구 성과...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40893",
+      "title": "메이사, 40억 규모 국토부 ‘AX 스프린트’ 선정… 건설 현장 리스크 관리 AI가 수행",
+      "desc": "공간AI 기업 메이사(대표 최석원·김동영)가 국토교통부의 'AI 응용제품 신속 상용화 지원사업(AX 스프린트)' 국토·교통 분야 과제에 최종 선정됐다고 밝혔다. 'AX 스프린트'는 정부 11개 관계부처가 합동으로 추진하는 범부처 최대 규모의 인공지능 전환(AX) ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40918",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "CJ올리브영, ‘AI 쇼핑 어시스턴트’ 출시… 실시간 대화형 AI 아바타 활용, K-뷰티 리테일 현장 혁신",
-      "desc": "CJ올리브영(이하 올리브영)이 지속 증가하는 글로벌 K뷰티 수요에 맞춰 외국인 고객의 쇼핑 편의를 높이기 위해 인공지능(AI) 기반 매장 서비스를 도입한다고 8일 밝혔다. 올리브영은 외국인 비중이 높고 쇼핑 정보 니즈가 큰 복층 매장을 중심으로 'AI 쇼핑 어시스...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40892",
+      "title": "GIST-송원대-광주산학융합원, 싱가포르서 글로벌 AI 기업 연계 프로그램 운영",
+      "desc": "최근 AI와 로봇 기술이 산업 전반의 혁신을 이끄는 핵심 기술로 자리 잡으면서, 지역 인재들에게 글로벌 AI 기술 동향과 산업 현장을 접할 수 있는 교육 기회를 확대해야 한다는 목소리가 높아지고 있다.이에 광주과학기술원(GIST·지스트, 총장 임기철)은 송원대학교...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40917",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "딥시크, 자체 AI 칩 개발 추진… 엔비디아 의존 탈피와 ‘AI 수직 통합’ 전략 본격화",
-      "desc": "중국 생성형 인공지능(AI) 스타트업 딥시크(DeepSeek)가 7일(현지시간) 로이터 등 주요외신들의 보도로 자체 AI 반도체 개발을 추진하고 있는 것으로 알려지면서 글로벌 AI 업계의 관심이 집중되고 있다.업계에서는 이를 단순한 신제품 개발이 아닌, AI 모델...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40891",
+      "title": "전문가 수준의 영상 편집을 단 몇 초 만에… 구글 포토에 '비디오 리믹스' 기능 전격 도입",
+      "desc": "앞으로는 전문가 수준의 동영상 클립을 만들기 위해 고가의 편집 프로그램을 배우거나 몇 시간씩 컴퓨터 앞에 앉아 있을 필요가 없어진다. 구글이 자사의 생성형 AI 기술을 활용해 누구나 손쉽게 공유 가능한 고품질 영상을 제작할 수 있는 새로운 시대를 열었다.구글은 8...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40916",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "AI 코딩 경험 전무한 美 공군 생도, 생성형 AI로 군사용 소프트웨어 개발 성공",
-      "desc": "생성형 인공지능(AI)이 이제 단순한 업무 보조를 넘어 전문적인 소프트웨어 개발 영역까지 빠르게 확장되고 있다. 특히 코딩 경험이 전혀 없는 군 장교 후보생이 AI 챗봇만을 활용해 실제 군사 임무 지원용 애플리케이션을 개발하는 데 성공하면서 국방 분야에서도 AI ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40890",
+      "title": "일론 머스크, AI 코딩 시장 본격 진출…스페이스XAI, 개발자 특화 모델 ‘그록 4.5’ 공개",
+      "desc": "일론 머스크(Elon Musk)가 인공지능(AI) 코딩 시장에 본격적으로 뛰어들었다. 생성형 AI와 대형언어모델(LLM) 경쟁에 집중해온 스페이스XAI(SpaceXAI)가 처음으로 소프트웨어 개발과 에이전틱 AI(Agentic AI)에 특화된 모델을 선보이며 개발...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40915",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "메타, “당신의 세상을 이해하는 창작 파트너”...첫 AI 이미지 생성 모델 ‘뮤즈 이미지’ 공개",
-      "desc": "메타(Meta)가 자사의 첫 차세대 이미지 생성 인공지능(AI) 모델인 ‘뮤즈 이미지(Muse Image)’를 7일(현지시간) 공개하고 생성형 AI 경쟁에 본격적으로 뛰어들었다.메타 초지능 연구소(Meta Superintelligence Labs)가 개발한 이미지...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40889",
+      "title": "IBM, 멀티 에이전트 기반 AI 개발 플랫폼 ‘밥’ 대규모 업그레이드…AI 코딩 넘어 개발 전 과정 자동화 추진",
+      "desc": "IBM이 기업용 소프트웨어 개발 플랫폼 ‘IBM 밥(IBM Bob)’의 기능을 대폭 강화하고 에이전틱 인공지능(Agentic AI) 기반 소프트웨어 개발 시장 공략에 나섰다. IBM은 9일(현지시간) AI 기반 소프트웨어 개발 플랫폼인 IBM 밥의 최신 버전을 공...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40914",
       "source": "AI Times"
     }
   ]
