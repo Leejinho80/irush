@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T00:00:34.854Z",
+  "lastUpdated": "2026-07-12T23:59:34.870Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "SK하이닉스, 美 나스닥 입성… ‘글로벌 AI 컴퍼니’ 위상 드높인다",
-      "desc": "SK하이닉스가 ADR(American Depositary Receipts, 미국주식예탁증서) 상장을 통해 글로벌 AI 산업과 자본시장의 심장부인 미국 나스닥(NASDAQ) 시장에 입성하며, ‘글로벌 컴퍼니’(Global Company)로서 위상을 드높일 수 있는 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40935",
+      "title": "양종희 회장, \"일하는 방식과 프로세스 다시 살펴보고, AI 기반으로 전면적인 재설계”",
+      "desc": "KB금융그룹(회장 양종희)이 지난 10일부터 11일까지 양일간 경남 사천 KB 인재니움 연수원에서 그룹 경영진 약 270명이 참석한 가운데 ‘2026년 하반기 그룹 경영진 워크숍’을 개최했다.이번 워크숍은 급변하는 금융시장 및 경쟁 환경 속에서 그룹의 중장기 성장...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40943",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "AI가 만드는 미래 전장...英 국방부, 4조 원 투입 'AI 전투' 체계 구축",
-      "desc": "영국 국방부(Ministry of Defence)가 인공지능 기반 차세대 전투훈련 체계 구축에 나선다. AI와 고급 데이터 분석, 가상 시뮬레이션 기술을 활용해 연간 최대 6만 명의 병력을 훈련시키고 미래 전장에 대비한 전투 준비태세를 강화한다는 계획이다.영국 국...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40934",
+      "title": "육사, 국방 AI 인재 허브로 부상...미래 전장 이끌 AI 장교 양성 본격화",
+      "desc": "육군사관학교(이하 육사) 인공지능(AI)·데이터과학과(학과장 권현 교수)가 지난 2021년 7월 설립된 이후 2022년부터 본격적으로 운영되며 지난 4년 간 꾸준히 쌓아온 교육·연구 성과가 국제 학술지(SCIE) 논문 게재 등으로 이어지며 주목받고 있다.국방분야 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40942",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "알리바바, \"중국 스마트 하드웨어 제조사 15만 곳 이상이 '큐웬(Qwen)' 채택\"… 피지컬 AI 생태계 확산 가속",
-      "desc": "알리바바 클라우드(Alibaba Cloud)가 자사의 대형언어모델(LLM) 및 멀티모달 AI 모델군인 큐웬(Qwen)이 중국 내 차세대 AI 하드웨어 생태계의 핵심 플랫폼으로 빠르게 자리 잡고 있다고 10일 밝혔다. 현재 중국 내 15만 개 이상의 스마트 하드웨어...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40933",
+      "title": "나우로보틱스, 2공장 FA센터 준공… 6,500평 규모 3개 거점 운영 체계 구축",
+      "desc": "인공지능(AI) 및 로봇 전문기업 나우로보틱스가 2공장인 FA(Factory Automation) Center의 준공을 완료하고 본격적인 운영에 들어갔다고 밝혔다. 이번 준공으로 나우로보틱스는 기존 본사, 신규 FA센터, 충남 내포 생산거점을 연계한 총 대지면적 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40941",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "AI 탑재, 렌즈 교체 없는 올인원 카메라...소니, ‘RX10 V’ 공개, 24~600mm 슈퍼줌에 초당 30매 연사 지원",
-      "desc": "소니가 인공지능(AI) 기반 피사체 인식 기능과 초망원 슈퍼줌 성능을 결합한 신형 하이엔드 카메라를 공개했다. 렌즈 교체 없이 광각부터 초망원까지 대응하는 올인원(All-in-One) 설계를 유지하면서도 AI 자동초점(AF)과 고속 연사 성능을 대폭 강화해 여행,...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40932",
+      "title": "국토부, 건설 AI·스마트건설 이끌어갈 실증 기술과 강소기업 선정",
+      "desc": "국토교통부(장관 김윤덕)와 한국건설기술연구원(원장 박선규)은 건설산업에 인공지능(AI) 도입을 촉진하고 자동화와 탈현장화를 이끌 선도기업 육성을 위해 12일, 스마트건설 기술실증 지원사업 10개와 스마트건설 강소기업 12개사를 선정하였다.스마트건설 얼라이언스(38...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40940",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "세계 최초 보육시설 전용 AI 에이전트 공개…일루민, “AI가 어린이집 입학 상담부터 등록까지”",
-      "desc": "인공지능(AI)이 의료와 금융, 제조업을 넘어 보육(Childcare) 산업으로 빠르게 확산되고 있다. 미국의 보육 운영 플랫폼 기업 일루민(illumine)이 업계 최초로 어린이집과 유아교육기관 전용 ‘에이전틱 AI(Agentic AI)’를 선보이며 보육 운영의...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40931",
+      "title": "‘가짜 구급차’ 잡는다...복지부, GPS 기반 실시간 운행관리로 '가짜 구급차’ 근절 기반 마련",
+      "desc": "보건복지부(장관 정은경)는 구급차의 허위·목적 외 운행을 근절하기 위해 GPS 기반의 실시간 운행관리 체계를 도입한다고 12일 밝혔다. 아울러 12년간 동결되어 온 이송처치료 현실화, 에피네프린 자동주입펜 구비 의무화, 현장 현실에 맞춘 환자인계 절차 합리화 등 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40939",
       "source": "AI Times"
     }
   ]
