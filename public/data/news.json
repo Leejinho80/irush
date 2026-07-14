@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-07-13T23:57:03.605Z",
+  "lastUpdated": "2026-07-14T23:55:36.857Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "오픈클로는 ‘AI의 스위스’가 될 수 있을까",
+      "desc": "오픈클로가 비영리 재단으로 전환한다고 발표하면서 IT 업계의 기대가 높아지고 있다. 인기 플랫폼임에도 그간 부재했던 거버넌스 및 개발 일관성을 확보할 가능성이 열렸기 때문이다. 다만 일각에서는 이번 전환이 야기할 리스크에 대한 우려도 있다.\n\n\n\n오픈클로는 공식 ...",
+      "link": "https://www.itworld.co.kr/article/4196455/%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c%eb%8a%94-ai%ec%9d%98-%ec%8a%a4%ec%9c%84%ec%8a%a4%ea%b0%80-%eb%90%a0-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "미스트랄, 카메라 1대만으로 길 찾는 로봇 AI 모델 출시",
+      "desc": "프랑스 AI 기업 미스트랄이 단일 컬러 카메라만으로 로봇을 자율 주행시키는 AI 모델 ‘로보스트랄 내비게이트’를 공개했다. 라이다(LiDAR), 깊이 센서, 다중 카메라 등 고가 센서 없이도 작동하는 것이 특징이다.\n\n\n\n로보스트랄 내비게이트는 RGB 이미지와 자...",
+      "link": "https://www.itworld.co.kr/article/4196444/%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84-%ec%b9%b4%eb%a9%94%eb%9d%bc-1%eb%8c%80%eb%a7%8c%ec%9c%bc%eb%a1%9c-%ea%b8%b8-%ec%b0%be%eb%8a%94-%eb%a1%9c%eb%b4%87-ai-%eb%aa%a8%eb%8d%b8-%ec%b6%9c%ec%8b%9c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "챗GPT·클로드 최신 모델, 경쟁의 반사이익 누리려면 지금",
+      "desc": "챗GPT와 클로드의 최신 모델을 아직 써보지 못했다면, 지금이 바로 그 기회다.\n\n\n\n오픈AI는 지난 일요일, 최고 성능 모델인 GPT-5.6 솔(Sol)의 사용 급증에 대응해 챗GPT 플러스·프로·비즈니스 구독자를 대상으로 5시간 사용 제한을 일시 해제하고, 모...",
+      "link": "https://www.itworld.co.kr/article/4196423/%ec%b1%97gpt%c2%b7%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%b5%9c%ec%8b%a0-%eb%aa%a8%eb%8d%b8-%ea%b2%bd%ec%9f%81%ec%9d%98-%eb%b0%98%ec%82%ac%ec%9d%b4%ec%9d%b5-%eb%88%84%eb%a6%ac%eb%a0%a4%eb%a9%b4-%ec%a7%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "내 PC가 왜 느린지 코파일럿이 알까? 마이크로소프트, PC 성능 저하 원인 진단하는 실험 기능 배포 중",
+      "desc": "마이크로소프트가 윈도우 11용 코파일럿에 새로운 ‘PC 인사이트(PC Insights)’ 기능을 테스트하기 시작했다. PC 성능을 분석하고 시스템 상태에 관한 질문에 답변하는 기능으로, 윈도우 레이티스트(Windows Latest)가 처음 보도했다.\n\n\n\n사용자가...",
+      "link": "https://www.itworld.co.kr/article/4196400/%eb%82%b4-pc%ea%b0%80-%ec%99%9c-%eb%8a%90%eb%a6%b0%ec%a7%80-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf%ec%9d%b4-%ec%95%8c%ea%b9%8c-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-pc.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "애플, 오픈AI 상대 영업비밀 소송 “전직 임원 400명이 기밀 빼내”",
       "desc": "주식 시장이 마감된 지난주 금요일, 애플이 챗GPT 하드웨어 관련 영업비밀 탈취를 이유로 오픈AI를 상대로 소송을 제기했다는 소식을 발표하며 기술 업계를 놀라게 했다. 소송은 현재 오픈AI에 재직 중인 전직 애플 고위 임원 일부를 집중 겨냥하고 있다.\n\n\n\n소장에...",
       "link": "https://www.itworld.co.kr/article/4195887/%ec%95%a0%ed%94%8c-%ec%98%a4%ed%94%88ai-%ec%83%81%eb%8c%80-%ec%98%81%ec%97%85%eb%b9%84%eb%b0%80-%ec%86%8c%ec%86%a1-%ec%a0%84%ec%a7%81-%ec%9e%84%ec%9b%90-400%eb%aa%85%ec%9d%b4-%ea%b8%b0%eb%b0%80.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "노조 혐오하던 IT 종사자, 파업으로 돌아오다…AI 시대 기술 노조 열풍",
-      "desc": "한때 자신을 특별한 노동 계층으로 여겼던 IT 업계 종사자들이 노동조합에 눈을 돌리고 있다. 2022년부터 이어진 대규모 해고, 빅테크에 대한 환멸, 그리고 AI가 개발자를 시작으로 수많은 IT 일자리를 대체할 것이라는 경영진의 공개 선언이 맞물리면서 노조에 대한...",
-      "link": "https://www.itworld.co.kr/article/4195884/%eb%85%b8%ec%a1%b0-%ed%98%90%ec%98%a4%ed%95%98%eb%8d%98-it-%ec%a2%85%ec%82%ac%ec%9e%90-%ed%8c%8c%ec%97%85%ec%9c%bc%eb%a1%9c-%eb%8f%8c%ec%95%84%ec%98%a4%eb%8b%a4-ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "“잘 쓰려면 덜 맡겨라” AI 위임의 판단 기준 3가지",
-      "desc": "챗GPT, 클로드, 제미나이에 위임하기에 적합한 작업인지 간단히 점검해보자. 의사결정만큼이나, 어쩌면 그보다 더 어려운 일이 있다. 무엇을 언제 남에게 맡길지 아는 것이다. 짧게나마 관리자 역할을 경험하며 얻은 교훈인데, AI 활용에도 그대로 적용된다.\n\n\n\n챗G...",
-      "link": "https://www.itworld.co.kr/article/4195873/%ec%9e%98-%ec%93%b0%eb%a0%a4%eb%a9%b4-%eb%8d%9c-%eb%a7%a1%ea%b2%a8%eb%9d%bc-ai-%ec%9c%84%ec%9e%84%ec%9d%98-%ed%8c%90%eb%8b%a8-%ea%b8%b0%ec%a4%80-3%ea%b0%80%ec%a7%80.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "AI 에이전트가 거짓말을 한다면, ‘휴먼 인 더 루프’는 의미가 있는가?",
-      "desc": "에이전트가 인간에게 허위 정보를 제공해 결정을 유도하는 방식으로 샌드박스 탈출이 가능하다는 사실이 드러났다.\n\n\n\n사이버보안 리서치 업체 위즈(Wiz)의 연구에 따르면, AI 개발 도구의 보안 허점을 악용한 공격자가 샌드박스를 탈출할 수 있는 것으로 나타났다. 에...",
-      "link": "https://www.itworld.co.kr/article/4195861/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-%ea%b1%b0%ec%a7%93%eb%a7%90%ec%9d%84-%ed%95%9c%eb%8b%a4%eb%a9%b4-%ed%9c%b4%eb%a8%bc-%ec%9d%b8-%eb%8d%94-%eb%a3%a8%ed%94%84%eb%8a%94-%ec%9d%98.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "일화·의미·절차적 기억으로 완성하는 AI 에이전트 장기 기억 전략",
-      "desc": "AI 에이전트가 작업에 대한 컨텍스트 데이터를 많이 기억할수록 에이전트의 성능은 좋아진다.\n\n\n\n문제는 에이전트가 의존하는 대규모 언어 모델(LLM)이 상태를 유지하지 않기 때문에 에이전트의 기억 용량이 그다지 크지 않다는 점이다. 에이전트 메모리가 바닥나면 에이...",
-      "link": "https://www.itworld.co.kr/article/4194247/%ec%9d%bc%ed%99%94%c2%b7%ec%9d%98%eb%af%b8%c2%b7%ec%a0%88%ec%b0%a8%ec%a0%81-%ea%b8%b0%ec%96%b5%ec%9c%bc%eb%a1%9c-%ec%99%84%ec%84%b1%ed%95%98%eb%8a%94-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%9e%a5.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "유럽연합, 13세 미만 SNS 이용 제한 추진…AI 동반자 서비스까지 규제 검토",
-      "desc": "유럽연합(EU)이 소셜미디어와 생성형 인공지능(AI)의 급속한 확산으로 인해 아동과 청소년이 직면하는 온라인 위험에 대응하기 위해 강도 높은 규제 방안을 제시했다. 특히 13세 미만 아동의 소셜미디어 이용을 제한하고 AI 동반자(AI Companion) 서비스까지...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40960",
+      "title": "한전, ‘전기국가’ 비전 및 3대 메가프로젝트 성공 위한 전력공급 속도전",
+      "desc": "한국전력(사장 김동철, 이하 한전)은 정부의 ‘전기국가’ 비전을 실현하고 국가 핵심 전략인 ‘3대 메가프로젝트’의 성공을 이끌기 위해 ‘2026년 전사 혁신 워크숍'을 개최했다고 15일 밝혔다.지난 13일, 나주 본사에서 열린 이날 행사에는 CEO를 비롯한 경영진...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40983",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "삼양그룹 AX 가속, 자체 개발한 업무용 AI 포털 ‘SAMI 2.0’ 오픈",
-      "desc": "삼양그룹(회장 김윤)은 자체 개발한 임직원 전용 인공지능(AI) 포털 ‘SAMI 2.0’을 오픈하고 그룹 차원의 인공지능 전환(AX)을 가속화한다고 13일 밝혔다.SAMI 2.0은 자체 개발한 임직원용 생성형 AI 서비스 ‘SAMI 1.0’의 업그레이드 버전이다....",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40959",
+      "title": "확산되는 오픈소스 AI, 'AI 컴플라이언스' 도입 필요...율촌·OSBC, 국내 최초 '기업형 AI 거버넌스' 체계 구축",
+      "desc": "법무법인 율촌은 OSBC와 함께 정보통신산업진흥원(NIPA)의 '오픈소스 AI·SW 개발·활용 지원사업' 수행기업 11개사를 대상으로 오픈소스 인공지능(AI) 거버넌스 컨설팅을 수행한다고 14일 밝혔다. 해당 사업은 올해 처음 추진되는 총 92억 원 규모의 신규 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40982",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "제조업의 AI 대전환 시대...국표원, 스마트제조 국제표준화 한국이 주도한다",
-      "desc": "제조업의 인공지능 대전환(M.AX) 시대를 맞아 스마트제조 분야 국제표준화를 이끌 전담 조직의 운영을 우리나라가 맡게 됐다. 산업통상부 국가기술표준원(원장 김대자, 이하 국표원)은 우리나라가 ‘국제전기기술위원회 산업자동화위원회(IEC TC65)’ 산하에 신설되는 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40958",
+      "title": "AI 에이전트로 로봇 학습용 가상세계 자동 생성…MIT·도요타연구소, '씬스미스' 오픈소스로 공개",
+      "desc": "최근 휴머노이드 로봇과 서비스 로봇이 빠르게 발전하고 있지만, 여전히 인간처럼 다양한 환경에서 복잡한 작업을 수행하는 데는 한계가 있다. 가장 큰 이유는 충분한 학습 데이터를 확보하기 어렵기 때문이다.인간은 실제 경험을 통해 학습하지만 로봇은 수많은 환경과 상황을...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40981",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "교육부, 2026년 대학 인공지능 기본교육 사업 출범식 개최",
-      "desc": "교육부(장관 최교진)와 한국대학교육협의회(회장 이기정)는 14일, 세종대학교에서 ‘2026년 대학 인공지능(AI) 기본교육과정 개발 지원사업’ 출범식을 개최한다.이번 출범식은 올해 시작하는 대학 AI 기본교육 사업의 공식 출범을 선언하는 자리이다. 사업에 참여하는...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40957",
+      "title": "NATO 지휘체계 핵심으로 부상하는 '메이븐 스마트 AI 시스템'…우크라이나 전장에서 실전 검증",
+      "desc": "북대서양조약기구(NATO)가 인공지능(AI) 기반 디지털 전장 관리 체계 구축에 속도를 내는 가운데, 현재 우크라이나 전장에서 시험 운용 중인 '메이븐 스마트 시스템(Maven Smart System)'이 향후 NATO 군 지휘통제의 핵심 플랫폼으로 자리 잡을 것...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40980",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "공무원이 직접 만든 ‘AI 법령 비서’ 서비스 개시...더 신속한 행정서비스 제공한다",
-      "desc": "법제처(처장 조원철)와 행정안전부(장관 윤호중), 과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 과기정통부)는 공무원이 법령과 판례를 쉽고 빠르게 검토하여 국민에게 한층 신속한 행정서비스를 제공할 수 있도록 ‘AI 법령 비서’를 공동 개발하고, 14일...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40956",
+      "title": "브릴스, 증권신고서 제출로 코스닥 상장 돌입··· K-로봇 경쟁력 앞세워 글로벌 시장 확장",
+      "desc": "로봇 모듈화 플랫폼 솔루션 전문기업 브릴스(대표이사 전진)가 코스닥 시장 상장을 위한 증권신고서를 제출하고 본격적인 기업공개(IPO) 절차에 돌입했다고 14일 밝혔다. 브릴스는 이번 상장을 통해 신주 1,200,000주를 공모할 계획이다. 희망 공모가 범위는 16...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=40979",
       "source": "AI Times"
     }
   ]
