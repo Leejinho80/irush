@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-07-16T00:02:15.632Z",
+  "lastUpdated": "2026-07-17T00:01:34.166Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "“두 전문성을 하나로” 파고·센티넬원의 하이브리드 MDR 출시하며 글로벌 파트너십 확대",
+      "desc": "AI 시대 보안 운영의 판이 바뀌고 있다. 공격자가 AI로 무장하면서 탐지와 대응의 속도는 더욱 가속화됐고, 한편 기업이 방어하며 처리해야 할 데이터는 폭발적으로 증가했다. 이제 기업에 중요한 것은 AI와 인적 전문성을 결합해 더 강력한 보안 운영 환경을 구축하는...",
+      "link": "https://www.itworld.co.kr/article/4197644/%eb%91%90-%ec%a0%84%eb%ac%b8%ec%84%b1%ec%9d%84-%ed%95%98%eb%82%98%eb%a1%9c-%ed%8c%8c%ea%b3%a0%c2%b7%ec%84%bc%ed%8b%b0%eb%84%ac%ec%9b%90%ec%9d%98-%ed%95%98%ec%9d%b4%eb%b8%8c%eb%a6%ac%eb%93%9c-mdr.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "수십 년치 핵 기록, 원자력 르네상스 시대 과제는 ‘기록물 관리’",
+      "desc": "인공지능(AI) 데이터센터의 전력 수요가 폭발적으로 증가하면서 원자력이 다시 주목받고 있다. 국제에너지기구(IEA)는 글로벌 데이터센터 전력 소비가 2030년까지 현재의 두 배 수준으로 늘어날 것으로 전망했으며, 글로벌 빅테크 기업들은 안정적인 대용량 전력원으로 ...",
+      "link": "https://www.itworld.co.kr/article/4197165/%ec%88%98%ec%8b%ad-%eb%85%84%ec%b9%98-%ed%95%b5-%ea%b8%b0%eb%a1%9d-%ec%9b%90%ec%9e%90%eb%a0%a5-%eb%a5%b4%eb%84%a4%ec%83%81%ec%8a%a4-%ec%8b%9c%eb%8c%80-%ea%b3%bc%ec%a0%9c%eb%8a%94-%ea%b8%b0%eb%a1%9d.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "3D 공간을 추론하는 AI, 공간지능과 월드 모델의 부상",
+      "desc": "교량 점검, 디지털 트윈 구축, 자율주행차 안전성 향상은 공간지능의 활용 사례 중 극히 일부에 불과하다. 3D 공간을 추론하는 AI 모델은 수많은 산업에서 적용 가능성을 넓히고 있다.\n\n\n\n생성형 AI와 대규모 언어 모델(LLM)이 세상을 뒤흔든 지 수년이 지났다...",
+      "link": "https://www.itworld.co.kr/article/4197040/3d-%ea%b3%b5%ea%b0%84%ec%9d%84-%ec%b6%94%eb%a1%a0%ed%95%98%eb%8a%94-ai-%ea%b3%b5%ea%b0%84%ec%a7%80%eb%8a%a5%ea%b3%bc-%ec%9b%94%eb%93%9c-%eb%aa%a8%eb%8d%b8%ec%9d%98-%eb%b6%80%ec%83%81.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "마이크로소프트의 선택, AI 전면 투자와 엑스박스 포기",
       "desc": "마이크로소프트가 구글 등 AI 경쟁사에 주도권을 내준 가운데 추격전에 나섰다. 주가는 지난 1년간 약 23% 하락했는데, 대규모 AI 투자 지출과 코파일럿 수익화 실패가 주요 원인으로 꼽힌다.\n\n\n\n변화가 절실한 상황에서 마이크로소프트는 지난주 행동에 나섰다. 예...",
       "link": "https://www.itworld.co.kr/article/4197018/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8%ec%9d%98-%ec%84%a0%ed%83%9d-ai-%ec%a0%84%eb%a9%b4-%ed%88%ac%ec%9e%90%ec%99%80-%ec%97%91%ec%8a%a4%eb%b0%95%ec%8a%a4-%ed%8f%ac%ea%b8%b0.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "AI 토큰, 많이 쓸수록 더 생산적인가?…스토리 포인트의 전철을 밟는 토큰맥싱",
       "desc": "수십 년간 소프트웨어 엔지니어링은 ‘생산성 퍼포먼스’에 시달려 왔다. 몇 년마다 업계는 새로운 허상 지표에 쏠리는데, 대개 그 시대에 유행하는 기술에 편승한 지표다. 창의성과 문제 해결을 근간으로 하는 분야에서 진보를 입증하는 방식으로는 부적절하다. 그런데도 우리...",
       "link": "https://www.itworld.co.kr/article/4197014/ai-%ed%86%a0%ed%81%b0-%eb%a7%8e%ec%9d%b4-%ec%93%b8%ec%88%98%eb%a1%9d-%eb%8d%94-%ec%83%9d%ec%82%b0%ec%a0%81%ec%9d%b8%ea%b0%80-%ec%8a%a4%ed%86%a0%eb%a6%ac-%ed%8f%ac%ec%9d%b8%ed%8a%b8%ec%9d%98.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "소프트웨어 개발자, 테크 기업 바깥에서 기회를 찾아라",
-      "desc": "프로그래밍 인재를 필요로 하는 산업은 다양하다. 개발자라면 테크 업계 너머를 바라봄으로써 취업 기회를 극대화할 수 있다.\n\n\n\n많은 기술 기업이 채용 속도를 늦추거나 대규모 감원에 나서고 있지만, 소프트웨어 개발자의 취업 기회가 사라진 것은 아니다. AI에 대한 ...",
-      "link": "https://www.itworld.co.kr/article/4197005/%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ed%85%8c%ed%81%ac-%ea%b8%b0%ec%97%85-%eb%b0%94%ea%b9%a5%ec%97%90%ec%84%9c-%ea%b8%b0%ed%9a%8c%eb%a5%bc-%ec%b0%be%ec%95%84.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "오픈클로는 ‘AI의 스위스’가 될 수 있을까",
-      "desc": "오픈클로가 비영리 재단으로 전환한다고 발표하면서 IT 업계의 기대가 높아지고 있다. 인기 플랫폼임에도 그간 부재했던 거버넌스 및 개발 일관성을 확보할 가능성이 열렸기 때문이다. 다만 일각에서는 이번 전환이 야기할 리스크에 대한 우려도 있다.\n\n\n\n오픈클로는 공식 ...",
-      "link": "https://www.itworld.co.kr/article/4196455/%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c%eb%8a%94-ai%ec%9d%98-%ec%8a%a4%ec%9c%84%ec%8a%a4%ea%b0%80-%eb%90%a0-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "미스트랄, 카메라 1대만으로 길 찾는 로봇 AI 모델 출시",
-      "desc": "프랑스 AI 기업 미스트랄이 단일 컬러 카메라만으로 로봇을 자율 주행시키는 AI 모델 ‘로보스트랄 내비게이트’를 공개했다. 라이다(LiDAR), 깊이 센서, 다중 카메라 등 고가 센서 없이도 작동하는 것이 특징이다.\n\n\n\n로보스트랄 내비게이트는 RGB 이미지와 자...",
-      "link": "https://www.itworld.co.kr/article/4196444/%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84-%ec%b9%b4%eb%a9%94%eb%9d%bc-1%eb%8c%80%eb%a7%8c%ec%9c%bc%eb%a1%9c-%ea%b8%b8-%ec%b0%be%eb%8a%94-%eb%a1%9c%eb%b4%87-ai-%eb%aa%a8%eb%8d%b8-%ec%b6%9c%ec%8b%9c.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "오라클, ‘퓨전 에이전틱 애플리케이션’ 개발 플랫폼 공개…기업용 AI 에이전트 시대 본격화",
-      "desc": "오라클(Oracle)이 기업 업무를 직접 수행하는 차세대 인공지능(AI) 애플리케이션 개발 환경을 공개하고 에이전틱 인공지능(Agentic AI) 시장 공략에 나섰다. 오라클은 14일(현지시간) ‘오라클 AI 에이전트 스튜디오 포 퓨전 애플리케이션(Oracle A...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41006",
+      "title": "\"십대 자녀, AI와 자해·자살 대화 시 부모에게 자동 알린다\"…메타, 청소년 보호 기능 대폭 강화",
+      "desc": "메타(Meta)가 청소년이 인공지능(AI) 챗봇과 자해 또는 자살 관련 대화를 나눌 경우 부모에게 자동으로 알림을 보내는 새로운 안전 기능을 도입한다. 또한 자살 위험이 임박한 것으로 판단될 경우 응급 구조기관에 직접 통보하는 시스템도 개발 중이라고 밝혔다.메타는...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41027",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "앤트로픽, 미국 K-12 교사 대상 ‘클로드 포 티처스’ 공개…프리미엄 AI 무료 제공",
-      "desc": "생성형 인공지능(AI)이 교육 현장으로 빠르게 확산되는 가운데, 앤트로픽(Anthropic)이 미국 초·중·고(K-12) 교사를 위한 전용 인공지능(AI) 서비스 ‘클로드 포 티처스(Claude for Teachers)’를 14일(현지시간) 출시했다.특히, 교사들...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41005",
+      "title": "현대로템, 피지컬AI 기반의 철도차량 자율주행 기술 고도화",
+      "desc": "현대로템, 피지컬 AI 기반의 철도차량 자율주행 기술 고도화에 나섰다. 현대로템은 최근 철도차량에 특화된 자동운전보조시스템(ADAS)을 개발 완료했다고 16일 밝혔다. 철도차량용 ADAS는 철도의 선로 조건과 운행 환경을 고려해 선로 상 장애물을 감지하고 운전자에...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41026",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "젠슨 황 CEO, 日 세가와 찾아...아키하바라서 30년간 이어온 PC 게이밍 협력 조명",
-      "desc": "엔비디아(NVIDIA) 창업자 겸 CEO 젠슨 황(Jensen Huang)이 15일, 일본을 방문해 세가(SEGA)와 이어온 30년간의 협력을 기념하며, ‘버추어 파이터 크로스로드(VIRTUA FIGHTER CROSSROADS)’와 향후 출시될 세가 타이틀을 엔비...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41004",
+      "title": "한전, 에너지 AI 혁신포럼 출범...국가 에너지 AI 생태계 견인",
+      "desc": "한국전력(사장 김동철, 이하 한전)이 한국인공지능소프트웨어산업협회(회장 조준희, 이하 KOSA)와 공동으로 16일, 한전 아트센터에서'에너지 AI 혁신포럼' 출범식과 함께 첫 포럼을 개최했다.‘생성형 AI 시대, 신뢰 기반 공공 인공지능 혁신 전략’을 주제로 열린...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41025",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "김정관 장관, “AI 시대 선도 위해서는 미래에 대비한 투자가 우선”",
-      "desc": "산업통상부(장관 김정관. 이하 산업부)는 15일 'AI 시대의 기업 투자와 노동의 미래' 토론회를 개최하였다. 이번 토론회는 인공지능 시대를 맞이하며 우리 기업과 노동자가 함께 생존할 수 있고, AI 시대를 살아갈 청년 세대에게 바람직한 방안을 모색하기 위해 마련...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41003",
+      "title": "시진핑, \"2035년 세계 과학기술 강국 달성\" 재천명…中 AI·반도체 굴기 전략 재확인",
+      "desc": "중국이 시진핑 국가주석의 국가 과학기술회의 연설을 15일(현지시간), 단행본으로 공식 발간하며 과학기술 자립과 혁신을 국가 전략의 최우선 과제로 다시 한번 강조했다. 이번 연설문 출간을 단순한 출판이 아닌 중국의 장기 기술 전략을 공식화하는 상징적 행보로 인공지능...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41024",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "재료硏, 'KIMS-GIST 공동연구센터' 설립...AI 기반 차세대 첨단 소재·제조 분야 공동연구 본격화",
-      "desc": "한국재료연구원(KIMS, 원장 최철진)이 14일, 경남 창원의 KIMS 본원에서 광주과학기술원(GIST, 총장 임기철)과 함께 'KIMS-GIST 공동연구센터' 설립 현판식을 개최하고, 인공지능(AI) 기반 차세대 첨단 소재·제조 분야의 공동연구를 본격화했다.공동...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41002",
+      "title": "AI 일상화 신뢰는 아직... AI시대 소비자 최대 불안은 ‘책임 없는 AI'",
+      "desc": "인공지능(AI)는 이제 소비자의 일상이 되었지만 AI에 대한 소비자 신뢰는 아직 따라가지 못하고 있는 것으로 나타났다.한국소비자연맹(회장 강정화)은 16일, 조사에 따르면 인공지능 이용 경험이 있는 전국 소비자 1,000명을 조사한 결과, 소비자는 AI 기술 발전...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41023",
       "source": "AI Times"
     }
   ]
