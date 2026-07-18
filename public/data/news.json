@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T23:56:02.967Z",
+  "lastUpdated": "2026-07-18T23:57:53.081Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "BMW, 자동차 판매 방식 바꾼다…챗GPT로 차량 구성·상담 서비스 제공",
+      "desc": "독일 자동차 제조사 BMW가 오픈AI(OpenAI)의 챗GPT(ChatGPT) 내에 차량 구성기(Vehicle Configurator)를 탑재하며 생성형 인공지능(AI) 기반 고객 경험 혁신에 나섰다. 사용자는 챗GPT와 자연스럽게 대화하는 것만으로 자신에게 적합...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41032",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
+      "title": "中 정부, AI 국제협력 행동계획 전격 발표…오픈소스·컴퓨팅·거버넌스로 글로벌 AI 질서 주도 나선다",
+      "desc": "중국이 인공지능(AI) 시대 글로벌 협력 질서 구축을 위한 종합 행동계획을 공식 발표했다. 이번 계획은 단순한 기술 협력 선언이 아니라 데이터와 컴퓨팅 인프라, 오픈소스 생태계, 국제 표준, AI 안전과 윤리, 글로벌 거버넌스까지 포괄하는 중국의 중장기 전략 청사...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41031",
+      "source": "AI Times"
+    },
+    {
+      "number": "08",
+      "title": "딥시크를 넘어 '키미 K3' 까지…중국 AI의 대반격, 글로벌 AI 경쟁 가속",
+      "desc": "지난 14일 중국 인공지능(AI) 스타트업 문샷AI(Moonshot AI)가 차세대 초거대 오픈모델 '키미 K3(Kimi K3)'를 공개하자 글로벌 AI 업계와 개발자 커뮤니티가 즉각 반응했다. 겉으로 보기에는 또 하나의 대형언어모델(LLM) 출시처럼 보일 수 있...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41030",
+      "source": "AI Times"
+    },
+    {
+      "number": "09",
       "title": "시진핑 \"AI는 거대한 기회이자 새로운 거버넌스 도전\"…오픈소스 AI·국제협력·개도국 지원 강조",
       "desc": "중국의 시진핑(Xi Jinping) 국가주석이 인공지능(AI)을 \"인류에게 거대한 기회이자 새로운 거버넌스 도전\"으로 규정하며 AI 시대 국제 질서에 대한 중국의 구상을 제시했다. 그는 오픈소스 AI 확대와 글로벌 거버넌스 체계 구축, 개발도상국 지원을 핵심 축으...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=41028",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "10",
       "title": "\"십대 자녀, AI와 자해·자살 대화 시 부모에게 자동 알린다\"…메타, 청소년 보호 기능 대폭 강화",
       "desc": "메타(Meta)가 청소년이 인공지능(AI) 챗봇과 자해 또는 자살 관련 대화를 나눌 경우 부모에게 자동으로 알림을 보내는 새로운 안전 기능을 도입한다. 또한 자살 위험이 임박한 것으로 판단될 경우 응급 구조기관에 직접 통보하는 시스템도 개발 중이라고 밝혔다.메타는...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=41027",
-      "source": "AI Times"
-    },
-    {
-      "number": "08",
-      "title": "현대로템, 피지컬AI 기반의 철도차량 자율주행 기술 고도화",
-      "desc": "현대로템, 피지컬 AI 기반의 철도차량 자율주행 기술 고도화에 나섰다. 현대로템은 최근 철도차량에 특화된 자동운전보조시스템(ADAS)을 개발 완료했다고 16일 밝혔다. 철도차량용 ADAS는 철도의 선로 조건과 운행 환경을 고려해 선로 상 장애물을 감지하고 운전자에...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41026",
-      "source": "AI Times"
-    },
-    {
-      "number": "09",
-      "title": "한전, 에너지 AI 혁신포럼 출범...국가 에너지 AI 생태계 견인",
-      "desc": "한국전력(사장 김동철, 이하 한전)이 한국인공지능소프트웨어산업협회(회장 조준희, 이하 KOSA)와 공동으로 16일, 한전 아트센터에서'에너지 AI 혁신포럼' 출범식과 함께 첫 포럼을 개최했다.‘생성형 AI 시대, 신뢰 기반 공공 인공지능 혁신 전략’을 주제로 열린...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41025",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "시진핑, \"2035년 세계 과학기술 강국 달성\" 재천명…中 AI·반도체 굴기 전략 재확인",
-      "desc": "중국이 시진핑 국가주석의 국가 과학기술회의 연설을 15일(현지시간), 단행본으로 공식 발간하며 과학기술 자립과 혁신을 국가 전략의 최우선 과제로 다시 한번 강조했다. 이번 연설문 출간을 단순한 출판이 아닌 중국의 장기 기술 전략을 공식화하는 상징적 행보로 인공지능...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41024",
       "source": "AI Times"
     }
   ]
