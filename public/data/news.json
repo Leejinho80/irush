@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-07-20T00:01:01.039Z",
+  "lastUpdated": "2026-07-21T00:00:14.537Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "AI 기업은 왜 성공한 기술을 공짜로 내줄까",
+      "desc": "앤트로픽은 지난해 자사 역사상 가장 성공적인 결과물을 사실상 무료로 공개했다. 클로드 얘기가 아니다. 현재 사실상 업계 표준으로 자리 잡은 모델 컨텍스트 프로토콜(MCP, Model Context Protocol)을 리눅스 재단 산하 에이전틱 AI 파운데이션(Ag...",
+      "link": "https://www.itworld.co.kr/article/4199076/ai-%ea%b8%b0%ec%97%85%ec%9d%80-%ec%99%9c-%ec%84%b1%ea%b3%b5%ed%95%9c-%ea%b8%b0%ec%88%a0%ec%9d%84-%ea%b3%b5%ec%a7%9c%eb%a1%9c-%eb%82%b4%ec%a4%84%ea%b9%8c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "최신 AI 모델, 저가 구독엔 없다…앤트로픽도 합류",
+      "desc": "앤트로픽이 앞서 한 약속을 지키며 가장 강력한 클로드 모델인 페이블을 최상위 구독 요금제에 존속하기로 했다. 단, 저가 요금제 사용자는 계속 사용하려면 추가 비용을 부담해야 한다.\n\n\n\n먼저 좋은 소식부터다. 앤트로픽은 지난 금요일 늦게 페이블을 모든 클로드 요금...",
+      "link": "https://www.itworld.co.kr/article/4199059/%ec%b5%9c%ec%8b%a0-ai-%eb%aa%a8%eb%8d%b8-%ec%a0%80%ea%b0%80-%ea%b5%ac%eb%8f%85%ec%97%94-%ec%97%86%eb%8b%a4%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%eb%8f%84-%ed%95%a9%eb%a5%98.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "애플, 오픈AI 이직 전직 직원 40명에 문서 보존 명령 발송",
+      "desc": "오픈AI에 재직 중인 전직 애플 직원 수십 명이 영업비밀 소송과 관련된 문서 및 커뮤니케이션 보존을 요구하는 법적 서한을 애플로부터 받은 것으로 알려졌다.\n\n\n\n파이낸셜타임스에 따르면 약 40명의 직원이 서한을 받았으며, 서한에는 기밀 정보 유출 가능성에 대한 애...",
+      "link": "https://www.itworld.co.kr/article/4198614/%ec%95%a0%ed%94%8c-%ec%98%a4%ed%94%88ai-%ec%9d%b4%ec%a7%81-%ec%a0%84%ec%a7%81-%ec%a7%81%ec%9b%90-40%eb%aa%85%ec%97%90-%eb%ac%b8%ec%84%9c-%eb%b3%b4%ec%a1%b4-%eb%aa%85%eb%a0%b9-%eb%b0%9c%ec%86%a1.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "AI가 코드를 짜는 시대…코딩 병목 해소 다음은 운영 환경",
+      "desc": "소프트웨어 엔지니어링 강의 첫날이라면 누구나 SDLC, 즉 소프트웨어 개발 생애주기(Software Development Life Cycle)를 배운다. 고품질 소프트웨어를 만들어 운영 환경에 배포하기까지, 코드 작성 외에도 해야 할 일이 훨씬 많다는 사실도 배운...",
+      "link": "https://www.itworld.co.kr/article/4198608/ai%ea%b0%80-%ec%bd%94%eb%93%9c%eb%a5%bc-%ec%a7%9c%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%bd%94%eb%94%a9-%eb%b3%91%eb%aa%a9-%ed%95%b4%ec%86%8c-%eb%8b%a4%ec%9d%8c%ec%9d%80-%ec%9a%b4%ec%98%81-%ed%99%98.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "메타 AI 해고 소송 파장, 기업 인사 결정의 새 기준을 요구하다",
       "desc": "채용과 해고 결정에 AI를 활용하는 기업이 계속해서 감시망 아래 놓이는 가운데, 이번에는 메타가 도마 위에 올랐다.\n\n\n\n7월 13일 미국 캘리포니아 연방지방법원에 접수된 소장에 따르면, 메타는 직원이 법정 휴가 중인 상황에서 AI 시스템을 이용해 부당하고 불법적...",
       "link": "https://www.itworld.co.kr/article/4198602/%eb%a9%94%ed%83%80-ai-%ed%95%b4%ea%b3%a0-%ec%86%8c%ec%86%a1-%ed%8c%8c%ec%9e%a5-%ea%b8%b0%ec%97%85-%ec%9d%b8%ec%82%ac-%ea%b2%b0%ec%a0%95%ec%9d%98-%ec%83%88-%ea%b8%b0%ec%a4%80%ec%9d%84-%ec%9a%94.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "가장 빠른 AI가 아니라, 설명할 수 있는 AI가 이긴다",
-      "desc": "1년 전만 해도 대다수 기업용 AI 시스템은 권고안을 생성하는 수준에 머물렀다. 그러나 오늘날 AI 시스템은 거래를 승인하고, 배송을 라우팅하고, 기록을 업데이트하고, 고객과 상호작용하며, 인간의 개입이 거의 없거나 전혀 없이 후속 소프트웨어 작업을 트리거한다.\n...",
-      "link": "https://www.itworld.co.kr/article/4198597/%ea%b0%80%ec%9e%a5-%eb%b9%a0%eb%a5%b8-ai%ea%b0%80-%ec%95%84%eb%8b%88%eb%9d%bc-%ec%84%a4%eb%aa%85%ed%95%a0-%ec%88%98-%ec%9e%88%eb%8a%94-ai%ea%b0%80-%ec%9d%b4%ea%b8%b4%eb%8b%a4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "“두 전문성을 하나로” 파고·센티넬원의 하이브리드 MDR 출시하며 글로벌 파트너십 확대",
-      "desc": "AI 시대 보안 운영의 판이 바뀌고 있다. 공격자가 AI로 무장하면서 탐지와 대응의 속도는 더욱 가속화됐고, 한편 기업이 방어하며 처리해야 할 데이터는 폭발적으로 증가했다. 이제 기업에 중요한 것은 AI와 인적 전문성을 결합해 더 강력한 보안 운영 환경을 구축하는...",
-      "link": "https://www.itworld.co.kr/article/4197644/%eb%91%90-%ec%a0%84%eb%ac%b8%ec%84%b1%ec%9d%84-%ed%95%98%eb%82%98%eb%a1%9c-%ed%8c%8c%ea%b3%a0%c2%b7%ec%84%bc%ed%8b%b0%eb%84%ac%ec%9b%90%ec%9d%98-%ed%95%98%ec%9d%b4%eb%b8%8c%eb%a6%ac%eb%93%9c-mdr.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "수십 년치 핵 기록, 원자력 르네상스 시대 과제는 ‘기록물 관리’",
-      "desc": "인공지능(AI) 데이터센터의 전력 수요가 폭발적으로 증가하면서 원자력이 다시 주목받고 있다. 국제에너지기구(IEA)는 글로벌 데이터센터 전력 소비가 2030년까지 현재의 두 배 수준으로 늘어날 것으로 전망했으며, 글로벌 빅테크 기업들은 안정적인 대용량 전력원으로 ...",
-      "link": "https://www.itworld.co.kr/article/4197165/%ec%88%98%ec%8b%ad-%eb%85%84%ec%b9%98-%ed%95%b5-%ea%b8%b0%eb%a1%9d-%ec%9b%90%ec%9e%90%eb%a0%a5-%eb%a5%b4%eb%84%a4%ec%83%81%ec%8a%a4-%ec%8b%9c%eb%8c%80-%ea%b3%bc%ec%a0%9c%eb%8a%94-%ea%b8%b0%eb%a1%9d.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "3D 공간을 추론하는 AI, 공간지능과 월드 모델의 부상",
-      "desc": "교량 점검, 디지털 트윈 구축, 자율주행차 안전성 향상은 공간지능의 활용 사례 중 극히 일부에 불과하다. 3D 공간을 추론하는 AI 모델은 수많은 산업에서 적용 가능성을 넓히고 있다.\n\n\n\n생성형 AI와 대규모 언어 모델(LLM)이 세상을 뒤흔든 지 수년이 지났다...",
-      "link": "https://www.itworld.co.kr/article/4197040/3d-%ea%b3%b5%ea%b0%84%ec%9d%84-%ec%b6%94%eb%a1%a0%ed%95%98%eb%8a%94-ai-%ea%b3%b5%ea%b0%84%ec%a7%80%eb%8a%a5%ea%b3%bc-%ec%9b%94%eb%93%9c-%eb%aa%a8%eb%8d%b8%ec%9d%98-%eb%b6%80%ec%83%81.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "KIST 유럽연구소, 창립 제30주년 기념식 개최... ‘BRIDGE to YOU 세계와 미래를 잇다’",
-      "desc": "한국과학기술연구원(KIST, 원장 오상록) 유럽연구소(KIST Europe, 소장 김진상)는 창립 30주년을 맞아 지난 17일(현지시간) 독일 자를란트주 자르브뤼켄 시청(Festsaal Hall)에서 기념식을 개최하고, 지난 30년간 한국과 유럽을 연결해 온 협력...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41036",
+      "title": "엔비디아 메트로폴리스, 코스모스 기반 비전 AI 에이전트 개발 가속하는 에이전트 지원 라이브러리 제공",
+      "desc": "엔비디아(NVIDIA)가 엔비디아 메트로폴리스(NVIDIA Metropolis)를 통해 엔비디아 코스모스 기반 비전 인공지능(AI) 에이전트 개발을 가속하는 에이전트 지원 라이브러리를 제공한다.기업들이 물리적 세계 전반에서 더 많은 영상 데이터를 수집하면서, 비전...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41052",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "분당서울대병원, ‘풀스택 의료 AI’ 시대 연다...국가 주도 의료 AI 대전환 시범사업 'AX-ready' 본격 착수",
-      "desc": "분당서울대병원(원장 전영태)이 환자가 병원을 찾기 전 건강관리부터 진료·협진, 퇴원 이후 예후 관리까지 환자 여정(Patient Journey) 전체를 인공지능으로 연결하는 ‘풀스택(Full-stack) 의료 AI 통합 모델’ 구축에 본격 착수했다.21개 기관이 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41034",
+      "title": "카카오, AI 모델이 반려동물 속마음 읽어주는 '펫레터 만들기'",
+      "desc": "카카오(대표이사 정신아)가 자체 개발한 옴니모달 인공지능(AI) 모델 '카나나-오(Kanana-o)'를 활용한 '카나나 펫레터 만들기' 이벤트를 오는 8월 14일까지 진행한다. 이번 이벤트는 카나나-오가 반려동물의 사진을 AI로 분석한 뒤 속마음을 유추해 메시지가...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41051",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "SKT-하나금융그룹, ‘TECH4GOOD 해커톤’ 성료… 포용적 미래를 위한 AI 서비스 발굴",
-      "desc": "SK텔레콤(대표이사 CEO 정재헌)은 하나금융그룹(회장 함영주)과 함께 ‘포용적 미래를 위한 인공지능(AI) 서비스’를 주제로 개최한 ‘TECH4GOOD 해커톤’을 성공적으로 마쳤다고 19일 밝혔다.이번 해커톤 대회는 양사가 추진하고 있는 AI 인재 양성 프로그램...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41033",
+      "title": "까다로운 특허심판 쟁점, 판례로 한눈에 잡는다!...특허심판원, 판례 중심 심판가이드 발간",
+      "desc": "지식재산처(처장 김용선) 특허심판원은 지식재산 심사·심판관의 전문성과 심판고객의 심판에 대한 이해도를 높이기 위해, 특허 및 상표 심판실무에서 문제가 되는 주요 쟁점과 판례를 체계적으로 정리한 '자주 인용되는 판례 중심 심판가이드' 를 발간했다.이번 안내서는 ‘특...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41050",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "BMW, 자동차 판매 방식 바꾼다…챗GPT로 차량 구성·상담 서비스 제공",
-      "desc": "독일 자동차 제조사 BMW가 오픈AI(OpenAI)의 챗GPT(ChatGPT) 내에 차량 구성기(Vehicle Configurator)를 탑재하며 생성형 인공지능(AI) 기반 고객 경험 혁신에 나섰다. 사용자는 챗GPT와 자연스럽게 대화하는 것만으로 자신에게 적합...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41032",
+      "title": "ABB 로보틱스, 고정밀 제조 산업용 피지컬 AI 백서 발간…스카이인텔리전스, 합성데이터 프레임워크 기여",
+      "desc": "ABB 로보틱스(ABB Robotics)와 엔비디아(NVIDIA)는 고정밀 제조 산업에서의 피지컬 인공지능(Physical AI) 구현을 다룬 ‘고정밀 제조 산업용 피지컬 AI(Industrial Physical AI in High-Precision Manufac...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41049",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "中 정부, AI 국제협력 행동계획 전격 발표…오픈소스·컴퓨팅·거버넌스로 글로벌 AI 질서 주도 나선다",
-      "desc": "중국이 인공지능(AI) 시대 글로벌 협력 질서 구축을 위한 종합 행동계획을 공식 발표했다. 이번 계획은 단순한 기술 협력 선언이 아니라 데이터와 컴퓨팅 인프라, 오픈소스 생태계, 국제 표준, AI 안전과 윤리, 글로벌 거버넌스까지 포괄하는 중국의 중장기 전략 청사...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41031",
+      "title": "데이터브릭스, 기업가치 1,880억 달러로 전략적 투자 유치 가속",
+      "desc": "업계 선도적인 데이터 및 인공지능(AI) 기업 데이터브릭스(Databricks)가 기업가치 1,880억 달러(약 278조원)로 전략적 투자 유치를 추진하고 있다고 20일 발표했다.이번 투자 라운드는 기존 투자사인 코튜(Coatue)가 주도하며, 신규 및 기존 투자...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41048",
       "source": "AI Times"
     }
   ]
