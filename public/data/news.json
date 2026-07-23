@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-07-21T23:58:26.314Z",
+  "lastUpdated": "2026-07-23T00:03:48.535Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "지침 완수를 위해 규칙을 스스로 깬 AI…오픈AI 미공개 모델, 샌드박스 해킹으로 자체 규칙 위반",
+      "desc": "최신 고성능 AI 모델은 더 똑똑하고 유능해진 것은 물론, 장애물에 부딪혀도 쉽사리 포기하지 않는 경향도 강해졌다. 오픈AI의 미공개 모델은 내장된 가드레일과 충돌하는 지침을 완수하기 위해 샌드박스를 탈출하는 방식으로, 이 집요함을 극단적인 수준까지 밀어붙였다.\n...",
+      "link": "https://www.itworld.co.kr/article/4200314/%ec%a7%80%ec%b9%a8-%ec%99%84%ec%88%98%eb%a5%bc-%ec%9c%84%ed%95%b4-%ea%b7%9c%ec%b9%99%ec%9d%84-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ea%b9%ac-ai-%ec%98%a4%ed%94%88ai-%eb%af%b8%ea%b3%b5%ea%b0%9c-%eb%aa%a8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "속도는 앞섰지만 깊이는 멈춘 구글, 제미나이 플래시 3종 출시",
+      "desc": "구글이 빠르고 효율적인 제미나이 플래시 모델 신버전 3종을 선보였다. 다목적 범용 모델과 사이버보안 특화 모델이 포함됐다. 플래시 신모델의 등장은 동시에 라인업에서 빠진 것을 더욱 부각시키는 결과가 됐다. 새로운 ‘프로’ 모델의 부재다.\n\n\n\n제미나이 3.6 플래...",
+      "link": "https://www.itworld.co.kr/article/4199751/%ec%86%8d%eb%8f%84%eb%8a%94-%ec%95%9e%ec%84%b0%ec%a7%80%eb%a7%8c-%ea%b9%8a%ec%9d%b4%eb%8a%94-%eb%a9%88%ec%b6%98-%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ed%94%8c%eb%9e%98%ec%8b%9c-3.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "AI 시대 SaaS 생존…소프트웨어는 기능을 팔고 플랫폼은 책임을 판다",
+      "desc": "지능형 워크플로우 자동화 업체인 텅스텐 오토메이션(Tungsten Automation)에서 AI 회의 전사 도구를 내부적으로 평가하던 중 흥미로운 일이 벌어졌다. 제품은 제대로 작동했다. 그러나 가격을 마주하고 나서 자꾸 같은 질문이 머릿속을 맴돌았다. 정확히 무...",
+      "link": "https://www.itworld.co.kr/article/4199703/ai-%ec%8b%9c%eb%8c%80-saas-%ec%83%9d%ec%a1%b4-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4%eb%8a%94-%ea%b8%b0%eb%8a%a5%ec%9d%84-%ed%8c%94%ea%b3%a0-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9d%80-%ec%b1%85.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "“규칙은 지켰지만 경계는 넘었다” AI 코딩 에이전트의 샌드박스 취약점 보고",
       "desc": "보안 업체 필라 시큐리티(Pillar Security)가 커서(Cursor), 코덱스, 제미나이 CLI, 안티그래비티(Antigravity) 등의 여러 AI 코딩 도구에서 에이전트가 샌드박스를 직접 탈출하지 않고도 간접적으로 보안 경계를 넘는 취약점을 공개했다.\n...",
       "link": "https://www.itworld.co.kr/article/4199698/%ea%b7%9c%ec%b9%99%ec%9d%80-%ec%a7%80%ec%bc%b0%ec%a7%80%eb%a7%8c-%ea%b2%bd%ea%b3%84%eb%8a%94-%eb%84%98%ec%97%88%eb%8b%a4-ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "스팀 머신 리뷰 : 귀엽지만 아쉬운 161만원짜리 미니 PC",
       "desc": "이번 주 2세대 스팀 머신을 손에 넣다. 마음에 드는 면이 분명 있지만, 아쉬움도 적지 않다. PC 하드웨어 시장이 이 지경이 된 책임을 밸브에 묻기는 어렵다. 하지만 현재 가격대의 스팀 머신은 게이밍 PC로서도, 콘솔 대안으로서도 납득하기 쉽지 않다.\n\n\n\n설정...",
       "link": "https://www.itworld.co.kr/article/4199108/%ec%8a%a4%ed%8c%80-%eb%a8%b8%ec%8b%a0-%eb%a6%ac%eb%b7%b0-%ea%b7%80%ec%97%bd%ec%a7%80%eb%a7%8c-%ec%95%84%ec%89%ac%ec%9a%b4-161%eb%a7%8c%ec%9b%90%ec%a7%9c%eb%a6%ac-%eb%af%b8%eb%8b%88-pc.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "오픈텍스트, FIFA 월드컵에서 찾은 사이버 복원력 전략 제시",
-      "desc": "오픈텍스트(OpenText) FIFA 월드컵 우승팀이 철저한 준비로 예상치 못한 상황에 대응하듯, 기업도 사이버 공격과 시스템 장애에 대비하기 위해 사전 준비된 데이터 보호 전략이 필수적이라고 강조했다.\n\n\n\n오늘날 기업은 랜섬웨어 공격, 소프트웨어 업데이트 오류...",
-      "link": "https://www.itworld.co.kr/article/4199193/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-fifa-%ec%9b%94%eb%93%9c%ec%bb%b5%ec%97%90%ec%84%9c-%ec%b0%be%ec%9d%80-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b5%ec%9b%90%eb%a0%a5-%ec%a0%84%eb%9e%b5.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "“가격에 자신 없으면 기한을 바꾼다”…앤트로픽 페이블 무료 연장의 속내",
-      "desc": "앤트로픽이 유료 구독자에게 오는 7월 19일까지 최고급 모델 페이블(Fable)에 무료 접근을 제공하기로 결정한 배경에는 관대함이라기보다 사용자 확보, 데이터 수집, 모델 평가 결과를 노린 막판 전략이 깔려 있다.\n\n\n\n무료 접근 기간이 끝나면 앤트로픽은 페이블을...",
-      "link": "https://www.itworld.co.kr/article/4199081/%ea%b0%80%ea%b2%a9%ec%97%90-%ec%9e%90%ec%8b%a0-%ec%97%86%ec%9c%bc%eb%a9%b4-%ea%b8%b0%ed%95%9c%ec%9d%84-%eb%b0%94%ea%be%bc%eb%8b%a4%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%8e%98%ec%9d%b4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "AI 기업은 왜 성공한 기술을 공짜로 내줄까",
-      "desc": "앤트로픽은 지난해 자사 역사상 가장 성공적인 결과물을 사실상 무료로 공개했다. 클로드 얘기가 아니다. 현재 사실상 업계 표준으로 자리 잡은 모델 컨텍스트 프로토콜(MCP, Model Context Protocol)을 리눅스 재단 산하 에이전틱 AI 파운데이션(Ag...",
-      "link": "https://www.itworld.co.kr/article/4199076/ai-%ea%b8%b0%ec%97%85%ec%9d%80-%ec%99%9c-%ec%84%b1%ea%b3%b5%ed%95%9c-%ea%b8%b0%ec%88%a0%ec%9d%84-%ea%b3%b5%ec%a7%9c%eb%a1%9c-%eb%82%b4%ec%a4%84%ea%b9%8c.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "BMW, 휴머노이드 로봇 위한 ‘피지컬 AI’ 소프트웨어 개발 박차",
-      "desc": "BMW 그룹(BMW Group)이 휴머노이드 로봇의 산업 현장 활용을 위한 ‘피지컬 인공지능(Physical AI)’ 역량 강화에 본격적으로 나섰다. BMW는 독일 란츠후트 공장(Plant Landshut)을 중심으로 부품 생산 공정에 적용할 AI 기반 로봇 소프...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41074",
+      "title": "日, 국가 AI 모델 승부수 띄웠다…소니·소프트뱅크·NEC·혼다 주도 '국산 멀티모달 AI' 개발 본격화",
+      "desc": "일본이 소니그룹(Sony Group), 소프트뱅크(SoftBank), NEC, 혼다(Honda)를 중심으로 국가 차원의 멀티모달 인공지능(AI) 개발 프로젝트를 본격 가동한다. 일본 산업계와 연구기관이 총결집해 AI 로봇과 피지컬 인공지능(Physical AI)의...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41096",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "데이블, MCP 기반 AI 광고 연동 기능 선봬… 광고 성과 확인, 이제 AI에게 직접 묻는다",
-      "desc": "데이블(대표 이채현)이 광고주가 평소 쓰는 인공지능(AI) 비서에 말 한마디로 광고 성과를 확인하는 기능을 21일 선보였다.이는 광고 관리 화면에 접속하거나 리포트를 내려받던 기존 과정 없이 클로드·챗GPT 등 AI 비서에 데이블 계정을 한 번 연결해두면 ‘이번 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41073",
+      "title": "\"美, 첫 AI 스마트팩토리 개소\"…위스트론, 엔비디아 'GB300·베라 루빈' 현지 생산 본격화",
+      "desc": "대만 전자제조서비스(EMS) 기업 위스트론(Wistron)이 美 텍사스주 포트워스(Fort Worth)에 첫 AI 스마트팩토리를 개소하고 차세대 인공지능 인프라 생산 확대에 나섰다. 이 시설은 미국에서 처음으로 엔비디아(NVIDIA)의 GB300 그레이스 블랙웰 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41095",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "“AI 성능의 숨은 핵심은 메모리 대역폭”… 인텔, 차세대 제온 6로 8000MT/s RDIMM 시대 연다",
-      "desc": "인공지능(AI) 인프라 경쟁이 GPU 성능과 대규모 클러스터 구축에 집중되는 가운데, 인텔(Intel)이 AI 시스템의 성능을 좌우하는 핵심 요소로 ‘메모리 대역폭(Memory Bandwidth)’을 지목했다. 특히 AI 모델 규모가 급격히 커지고 GPU 집적도가...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41072",
+      "title": "웨카,  AI 스토리지 플랫폼 'WEKApod 3' 공개...단일 랙에서 1.1엑사바이트 구현, AI 스토리지·메모리 집적도 새 기준 제시",
+      "desc": "인공지능(AI), 고성능 컴퓨팅(HPC) 등 차세대 워크로드를 위한 소프트웨어 정의 데이터 플랫폼 선도기업 웨카(WEKA)가 에이전틱 AI(Agentic AI)와 초대규모 추론 환경을 위한 차세대 스토리지 플랫폼 '위카팟(WEKApod) 3'를 21일(현지시간) ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41094",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "마이크로소프트, 차세대 AMD 인스팅트 및 AMD 에픽 프로세서 도입…양사 전략적 파트너십 확대",
-      "desc": "AMD는 마이크로소프트 애저(Azure)에서 AMD GPU, CPU, 네트워킹 및 소프트웨어 전반에 걸친 전략적 파트너십을 확대한다고 20일(현지시간) 발표했다. 이번 협력 확대의 핵심으로 마이크로소프트는 AMD 헬리오스 랙스케일 솔루션(Helios Racksca...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41071",
+      "title": "딜로이트, 산업별 AI 혁신 가속화…'에이전틱 AI' 전담 엔지니어 전진 배치",
+      "desc": "글로벌 컨설팅 기업 딜로이트(Deloitte)가 산업별 인공지능(AI) 혁신을 가속화하기 위해 '인더스트리 솔루션 스튜디오(Industry Solution Studios)'를 확대하고, 고객 현장에 직접 투입되는 '포워드 디플로이드 엔지니어(Forward Depl...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41093",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "알리바바, 2.4조 파라미터 '큐웬 3.8' 공개… 오픈 웨이트 전략으로 글로벌 AI 시장 정조준",
-      "desc": "중국 알리바바가 2조4,000억(2.4T) 개의 파라미터를 갖춘 차세대 대형언어모델 '큐웬 3.8(Qwen 3.8)'을 공개하고 글로벌 생성형 AI 경쟁에 다시 한 번 승부수를 던졌다. 특히 모델 가중치를 공개하는 오픈 웨이트(Open-weight) 방식을 채택하...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41069",
+      "title": "HP·어도비, AI 기반 디지털 트윈 제작 혁신…실물 소재, 클릭 한 번에 디지털 자산으로",
+      "desc": "HP는 어도비(Adobe)와 디지털 트윈(Digital Twin) 구축을 위한 소재(Material) 디지털화 기술을 한층 강화했다. 양사는 HP Z 캡티스(HP Z Captis)와 어도비 서브스턴스 3D 샘플러(Adobe Substance 3D Sampler)의...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41092",
       "source": "AI Times"
     }
   ]
