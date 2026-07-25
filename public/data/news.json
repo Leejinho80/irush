@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-07-24T00:04:35.435Z",
+  "lastUpdated": "2026-07-25T00:08:24.122Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "깃허브·버셀·파이어스토어, 인디 개발자의 초고속 배포 삼각편대",
+      "desc": "요즘 애플리케이션 개발자는 방대한 아키텍처 솔루션 메뉴에서 마음에 드는 것을 선택할 수 있다. 메뉴에는 잘 알려진 것부터 실험적인 솔루션까지 펼쳐져 있고, 그 사이에는 둘을 적당히 혼합한 솔루션도 있다. 클라우드 혁명기에 등장한 강력한 여러 중간 지대(middle...",
+      "link": "https://www.itworld.co.kr/article/4200404/%ea%b9%83%ed%97%88%eb%b8%8c%c2%b7%eb%b2%84%ec%85%80%c2%b7%ed%8c%8c%ec%9d%b4%ec%96%b4%ec%8a%a4%ed%86%a0%ec%96%b4-%ec%9d%b8%eb%94%94-%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%9d%98-%ec%b4%88%ea%b3%a0%ec%86%8d.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "“어떻게 만들고 어떻게 관리할 것인가” 데이터 제품 개발의 성패를 가르는 5가지 핵심 질문",
+      "desc": "데이터 제품은 제공 속도를 높이고 데이터 자산을 재사용하고 위험을 줄이고 비용을 관리하기 위한 좋은 방법이다. 또한 표준화된 데이터 제품은 분석과 AI 역량을 개선하는 데도 도움이 될 수 있다.\n\n\n\n데이터 제품은 원시 데이터 세트, 데이터 웨어하우스 뷰, 데이터...",
+      "link": "https://www.itworld.co.kr/article/4199156/%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%a7%8c%eb%93%a4%ea%b3%a0-%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b4%80%eb%a6%ac%ed%95%a0-%ea%b2%83%ec%9d%b8%ea%b0%80-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%a0%9c%ed%92%88-%ea%b0%9c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "AI 모델 선택에 매몰되면 안 되는 이유",
+      "desc": "지난 한 주 동안 매일 LLM 모델 선택 화면을 노려보면서 어떤 모델을 선택하는 것이 좋을지 고민했다. 아마 다른 많은 이들이 마찬가지일 것이다.\n\n\n\n오픈AI가 GPT-5.6 솔(Sol), 테라, 루나를 출시했다. 솔은 최상위 모델이고 테라는 솔의 지능 대부분을...",
+      "link": "https://www.itworld.co.kr/article/4199733/ai-%eb%aa%a8%eb%8d%b8-%ec%84%a0%ed%83%9d%ec%97%90-%eb%a7%a4%eb%aa%b0%eb%90%98%eb%a9%b4-%ec%95%88-%eb%90%98%eb%8a%94-%ec%9d%b4%ec%9c%a0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "“AI가 뒤집은 규모의 법칙” 소규모 컨설팅 업체가 대형사를 이길 수 있는 이유",
       "desc": "주요 AI 기업이 기업 고객 확보를 위해 현장 배치 엔지니어(FDE)를 대거 투입하고 있다. 대형 컨설팅 업체도 인간과 에이전트 컨설턴트를 동원해 같은 경쟁에 뛰어들었다.\n\n\n\n소규모 전문 업체도 이 대열에 합류하고 있다. 뉴욕에 본사를 둔 자본시장 전문 기술 컨...",
       "link": "https://www.itworld.co.kr/article/4200386/ai%ea%b0%80-%eb%92%a4%ec%a7%91%ec%9d%80-%ea%b7%9c%eb%aa%a8%ec%9d%98-%eb%b2%95%ec%b9%99-%ec%86%8c%ea%b7%9c%eb%aa%a8-%ec%bb%a8%ec%84%a4%ed%8c%85-%ec%97%85%ec%b2%b4%ea%b0%80-%eb%8c%80%ed%98%95.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "OECD, 육체 노동직도 AI 자동화 위험군으로 경고",
       "desc": "경제협력개발기구(OECD)가 AI와 자동화 위험에서 안전하다고 여겨지던 산업군도 실제로는 그렇지 않을 수 있다고 밝혔다. 노동 시장 전반에서는 AI 관련 일자리 충격이 계속되고 있다.\n\n\n\nOECD는 최근 연구에서 AI 로봇 등 신기술이 확산되면서 육체 노동 직종...",
       "link": "https://www.itworld.co.kr/article/4200362/oecd-%ec%9c%a1%ec%b2%b4-%eb%85%b8%eb%8f%99%ec%a7%81%eb%8f%84-ai-%ec%9e%90%eb%8f%99%ed%99%94-%ec%9c%84%ed%97%98%ea%b5%b0%ec%9c%bc%eb%a1%9c-%ea%b2%bd%ea%b3%a0.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "“LLM에 취해 규칙이 무너진 시대” 밖에서는 말 못 할 현대 개발자의 7가지 민낯",
-      "desc": "공식 석상에서 개발자의 공식 입장은 소프트웨어 엔지니어링 규범이 여전히 유효하다는 것이다. 엄격한 CI/CD 파이프라인, 우아한 아키텍처 패턴, 유지 보수 가능한 코드에 대한 흔들리지 않는 헌신이 여전히 기준이다. 개발자는 “결정론”, “확장성”, “멱등성”, “...",
-      "link": "https://www.itworld.co.kr/article/4200324/llm%ec%97%90-%ec%b7%a8%ed%95%b4-%ea%b7%9c%ec%b9%99%ec%9d%b4-%eb%ac%b4%eb%84%88%ec%a7%84-%ec%8b%9c%eb%8c%80-%eb%b0%96%ec%97%90%ec%84%9c%eb%8a%94-%eb%a7%90-%eb%aa%bb-%ed%95%a0-%ed%98%84%eb%8c%80.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "지침 완수를 위해 규칙을 스스로 깬 AI…오픈AI 미공개 모델, 샌드박스 해킹으로 자체 규칙 위반",
-      "desc": "최신 고성능 AI 모델은 더 똑똑하고 유능해진 것은 물론, 장애물에 부딪혀도 쉽사리 포기하지 않는 경향도 강해졌다. 오픈AI의 미공개 모델은 내장된 가드레일과 충돌하는 지침을 완수하기 위해 샌드박스를 탈출하는 방식으로, 이 집요함을 극단적인 수준까지 밀어붙였다.\n...",
-      "link": "https://www.itworld.co.kr/article/4200314/%ec%a7%80%ec%b9%a8-%ec%99%84%ec%88%98%eb%a5%bc-%ec%9c%84%ed%95%b4-%ea%b7%9c%ec%b9%99%ec%9d%84-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ea%b9%ac-ai-%ec%98%a4%ed%94%88ai-%eb%af%b8%ea%b3%b5%ea%b0%9c-%eb%aa%a8.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "속도는 앞섰지만 깊이는 멈춘 구글, 제미나이 플래시 3종 출시",
-      "desc": "구글이 빠르고 효율적인 제미나이 플래시 모델 신버전 3종을 선보였다. 다목적 범용 모델과 사이버보안 특화 모델이 포함됐다. 플래시 신모델의 등장은 동시에 라인업에서 빠진 것을 더욱 부각시키는 결과가 됐다. 새로운 ‘프로’ 모델의 부재다.\n\n\n\n제미나이 3.6 플래...",
-      "link": "https://www.itworld.co.kr/article/4199751/%ec%86%8d%eb%8f%84%eb%8a%94-%ec%95%9e%ec%84%b0%ec%a7%80%eb%a7%8c-%ea%b9%8a%ec%9d%b4%eb%8a%94-%eb%a9%88%ec%b6%98-%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ed%94%8c%eb%9e%98%ec%8b%9c-3.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "LS 일렉트릭, 독보적인 AIDC 전력 솔루션 앞세워 ‘분기 사상 최대 실적’ 기록...2분기 '매출 1조 5770억·영업익 1785억'",
-      "desc": "LS ELECTRIC(일렉트릭)이 글로벌 전력시장 슈퍼사이클에 힘입어 매출과 영업이익 모두 사상 최대를 기록했다.LS일렉트릭은 23일, 공시를 통해 올해 2분기 매출 1조 5,770억 원, 영업이익 1,785억 원을 기록했다고 밝혔다. 전년 동기 대비 각각 32....",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41128",
+      "title": "엔비디아, 샌프란시스코 AI 서밋서 한국 AI 생태계 협력 확대… 글로벌 AI 혁신 중심지 도약 가속",
+      "desc": "엔비디아(NVIDIA)가 이번 주 샌프란시스코에서 열리는 AI 서밋에서 이재명 대통령을 비롯한 한국의 주요 기업인과 연구자들이 엔비디아 및 생태계 파트너들과 만나 한국의 AI 발전 방향을 모색한다고 23일(현지시간) 밝혔다.지난 6월 엔비디아 창립자 겸 CEO 젠...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41153",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "유럽연합, \"한국 개인정보 보호 수준 여전히 적정\"...공식 재확인, 데이터 자유 이전 지속",
-      "desc": "유럽연합(EU)이 대한민국의 개인정보 보호 체계가 유럽연합 일반개인정보보호규정(GDPR)에 부합하는 수준을 계속 유지하고 있다고 공식 재확인했다. 이에 따라 유럽연합과 한국 간 개인정보의 자유로운 이전이 지속될 수 있게 되면서, 인공지능(AI), 클라우드, 디지털...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41126",
+      "title": "HD한국조선해양, 미래 ‘AI 조선소’로 조선업 패러다임 전환 이끈다",
+      "desc": "HD한국조선해양이 인공지능(AI) 기반 미래 조선소 구축을 통해 조선업 패러다임 전환에 나선다.HD현대 조선 부문 중간지주사인 HD한국조선해양은 美 현지시각 23일, 글로벌 엔지니어링 기업 ‘지멘스 디지털 인더스트리 소프트웨어(Siemens Digital Indu...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41152",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "EU '디지털시장법' 첫 대규모 제재, 구글에 1.5조원 과징금 부과...\"검색 자사 우대와 구글플레이 반경쟁 행위는 DMA 위반\"",
-      "desc": "유럽연합(EU)이 디지털시장법(Digital Markets Act. 이하, DMA) 위반을 이유로 구글에 총 8억9,000만 유로(약 1조5,000억 원)의 과징금을 부과했다. 구글이 검색 서비스에서 자사 서비스를 경쟁사보다 우선 노출하고, 구글플레이(Google...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41125",
+      "title": "KT, 개발부터 운영까지 AI로 혁신… AID-X 적용 경험과 노하우 공유",
+      "desc": "KT(대표이사 박윤영)는 경기도 성남시 KT 판교사옥에서 IT부문과 IT 전문 그룹사 KT DS가 참여하는 ‘AID-X Demo Day'를 개최했다고 24일 밝혔다.AID-X(AI-Driven Everything)는 기존 인공지능(AI) 기반 개발 체계인 AIDD...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41151",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "구글, 2분기 매출 24% 성장…순다 피차이, \"AI가 검색·클라우드·유튜브 모두 바꿨다\"",
-      "desc": "구글의 인공지능(AI) 투자가 본격적인 실적 성장으로 이어지고 있다. 검색(Search)은 AI 기반 서비스 확대로 두 자릿수 성장을 이어갔고, 클라우드 사업은 AI 인프라 수요 급증에 힘입어 80%가 넘는 성장률을 기록했다. 생성형 AI 플랫폼 제미나이는 일반 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41124",
+      "title": "NIA-행안부, AI 정부 실험실 이용자 포럼 개최...\"현장 가장 잘 아는 공무원 아이디어, AI 정부 실험실에서 실현\"",
+      "desc": "한국지능정보사회진흥원(원장 김형철, 이하 NIA)과 행정안전부(장관 윤호중)는 24일, 서울 DDP에서 '제1회 AI 정부 실험실 이용자 포럼(이하, 포럼)'을 개최했다.인공지능 정부 실험실은 현업 공무원이 대화형 코딩, AI 코딩 도구 등을 활용해 공공 AX 과...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41150",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "\"AI는 직장보다 일상에서 더 많이 쓰인다\"…구글, AI 경제 보고서 'ATLAS' 공개",
-      "desc": "인공지능(AI)이 실제 경제와 노동시장에 어떤 영향을 미치고 있는지를 둘러싼 논의는 지금까지 대부분 전망과 시뮬레이션에 의존해 왔다. AI가 일자리를 얼마나 대체할 것인지, 생산성을 얼마나 높일 것인지에 대한 수많은 예측이 쏟아졌지만, 실제 사람들이 AI를 어떻게...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41123",
+      "title": "[인사] KAIST, 부총장 3명·단과대학장급·처장급·학과장급 보직자 등 총 31명 인사",
+      "desc": "KAIST(총장 배충식)은 7월 27일자로 주요 보직자 31명을 임명한다고 24일 밝혔다. 이번 인사에는 부총장 3명과 단과대학장급 10명 등이 포함됐다.주요 보직 인사 명단은 다음과 같다.교학부총장 겸 학장 배병수 ▷연구부총장 최성율 ▷대외부총장 겸 CFO 겸 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41149",
       "source": "AI Times"
     }
   ]
