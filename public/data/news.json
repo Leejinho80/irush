@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T00:08:24.122Z",
+  "lastUpdated": "2026-07-26T00:03:18.893Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "엔비디아, 샌프란시스코 AI 서밋서 한국 AI 생태계 협력 확대… 글로벌 AI 혁신 중심지 도약 가속",
-      "desc": "엔비디아(NVIDIA)가 이번 주 샌프란시스코에서 열리는 AI 서밋에서 이재명 대통령을 비롯한 한국의 주요 기업인과 연구자들이 엔비디아 및 생태계 파트너들과 만나 한국의 AI 발전 방향을 모색한다고 23일(현지시간) 밝혔다.지난 6월 엔비디아 창립자 겸 CEO 젠...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41153",
+      "title": "알리바바, 차세대 이미지 생성 AI '큐웬 이미지 3.0' 공개… \"보기 좋은 이미지 넘어 실용적 생산성 도구로\"",
+      "desc": "알리바바가 차세대 이미지 생성 인공지능(AI) 모델 '큐웬 이미지 3.0(Qwen-Image 3.0)​'을 지난 22일(현지시간) 공개하고 생성형 AI의 활용 범위를 디자인을 넘어 교육, 콘텐츠 제작, 전자상거래 등 생산성 중심 영역으로 확대하겠다는 청사진을 제시...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41164",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "HD한국조선해양, 미래 ‘AI 조선소’로 조선업 패러다임 전환 이끈다",
-      "desc": "HD한국조선해양이 인공지능(AI) 기반 미래 조선소 구축을 통해 조선업 패러다임 전환에 나선다.HD현대 조선 부문 중간지주사인 HD한국조선해양은 美 현지시각 23일, 글로벌 엔지니어링 기업 ‘지멘스 디지털 인더스트리 소프트웨어(Siemens Digital Indu...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41152",
+      "title": "英 국방부, 우크라이나가 검증한 AI 정찰드론 'AR5' 도입… 4억 파운드 투입해 전장 감시체계 고도화",
+      "desc": "영국 정부가 최대 4억 파운드(약 7,700억 원)를 투자해 차세대 정찰 드론을 육군에 배치한다. 우크라이나 전장에서 성능이 입증된 드론을 도입해 정보·감시·정찰(ISR) 능력을 강화하는 동시에, 영국 내 방위산업 제조 기반을 확대하고 첨단 국방기술 생태계 육성에...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41163",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "KT, 개발부터 운영까지 AI로 혁신… AID-X 적용 경험과 노하우 공유",
-      "desc": "KT(대표이사 박윤영)는 경기도 성남시 KT 판교사옥에서 IT부문과 IT 전문 그룹사 KT DS가 참여하는 ‘AID-X Demo Day'를 개최했다고 24일 밝혔다.AID-X(AI-Driven Everything)는 기존 인공지능(AI) 기반 개발 체계인 AIDD...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41151",
+      "title": "엔비디아, 네이버에 1.4조원 투자… 세종에 200MW 소버린 AI 팩토리 구축",
+      "desc": "엔비디아(NVIDIA)가 네이버(NAVER)와 함께 한국의 소버린 AI 팩토리 인프라 확대 투자 계획을 24일(현지시각) 발표했다. 이를 통해 초기 엔비디아 DSX™ AI 팩토리 구축 규모는 지난달 발표한 55메가와트(MW)보다 3배 이상 확대된 200메가와트(M...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41162",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "NIA-행안부, AI 정부 실험실 이용자 포럼 개최...\"현장 가장 잘 아는 공무원 아이디어, AI 정부 실험실에서 실현\"",
-      "desc": "한국지능정보사회진흥원(원장 김형철, 이하 NIA)과 행정안전부(장관 윤호중)는 24일, 서울 DDP에서 '제1회 AI 정부 실험실 이용자 포럼(이하, 포럼)'을 개최했다.인공지능 정부 실험실은 현업 공무원이 대화형 코딩, AI 코딩 도구 등을 활용해 공공 AX 과...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41150",
+      "title": "이 대통령, \"대한민국 AI 대전환 함께하자\"..아모데이·올트먼·젠슨 황·혹 탄 연쇄 회동",
+      "desc": "이재명 대통령이 24일(현지시간) 미국 샌프란시스코에서 세계 인공지능(AI) 산업을 이끄는 글로벌 빅테크 최고경영자(CEO)들과 연쇄 회동을 갖고 대한민국의 AI 국가 전략과 협력 확대 방안을 논의했다.이날 이 대통령은 다리오 아모데이(Dario Amodei) 앤...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41161",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "[인사] KAIST, 부총장 3명·단과대학장급·처장급·학과장급 보직자 등 총 31명 인사",
-      "desc": "KAIST(총장 배충식)은 7월 27일자로 주요 보직자 31명을 임명한다고 24일 밝혔다. 이번 인사에는 부총장 3명과 단과대학장급 10명 등이 포함됐다.주요 보직 인사 명단은 다음과 같다.교학부총장 겸 학장 배병수 ▷연구부총장 최성율 ▷대외부총장 겸 CFO 겸 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41149",
+      "title": "\"오픈웨이트 AI가 미국 AI 패권 지킨다\"...메타·오픈AI·MS·엔비디아·IBM 등 美 AI 업계 공동성명",
+      "desc": "미국의 주요 인공지능(AI) 기업과 투자사, 오픈소스 커뮤니티가 한목소리로 오픈웨이트(Open-weight) AI 모델 확대를 미국 AI 리더십의 핵심 전략으로 제시했다.메타, 마이크로소프트, 엔비디아, IBM, 허깅페이스, 미스트랄 AI, 팔란티어, 퍼플렉시티,...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41158",
       "source": "AI Times"
     }
   ]
