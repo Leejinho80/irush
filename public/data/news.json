@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-07-28T00:05:18.521Z",
+  "lastUpdated": "2026-07-29T00:01:08.524Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "1년만의 AMD 신작 라데온 RX 9050, 4GB VRAM으로의 퇴보",
+      "desc": "터무니없이 비싸거나 부끄러울 정도로 성능이 낮은 노트북 가운데 하나를 골라야 하는 최악의 상황이 RAM 부족 사태의 극단이라고 생각했다면 오산이다. 그래픽 카드도 퇴보 수순을 밟을 조짐이 보인다. 이번주 막 발표된 신형 AMD 라데온 카드가 그 증거다. 완제품 P...",
+      "link": "https://www.itworld.co.kr/article/4202498/1%eb%85%84%eb%a7%8c%ec%9d%98-amd-%ec%8b%a0%ec%9e%91-%eb%9d%bc%eb%8d%b0%ec%98%a8-rx-9050-4gb-vram%ec%9c%bc%eb%a1%9c%ec%9d%98-%ed%87%b4%eb%b3%b4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "“기업 회복탄력성의 최전선” CISO 역할의 전략적 전환",
+      "desc": "회복탄력성이 예방을 제치고 보안 리더와 기업의 최우선 과제로 부상하면서, 전략적 전환을 이미 단행한 CISO들이 실천 방안을 공유했다.\n\n\n\nCISO는 조용히 기업의 사실상 최고 회복탄력성 책임자 자리에 올라 있다. 본래 예방 중심이었던 역할이 사고 대응과 비즈니...",
+      "link": "https://www.itworld.co.kr/article/4202060/%ea%b8%b0%ec%97%85-%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1%ec%9d%98-%ec%b5%9c%ec%a0%84%ec%84%a0-ciso-%ec%97%ad%ed%95%a0%ec%9d%98-%ec%a0%84%eb%9e%b5%ec%a0%81-%ec%a0%84%ed%99%98.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "CFO의 질문에 답하지 못하는 AI 지출 관리의 구조적 한계",
+      "desc": "경영진은 AI 투자 확대를 밀어붙이고 있다. 예산은 세 배로 불어났고 도입률도 가파르게 오르고 있다. 그런데 어느 날 CFO가 이사회에서 불편한 질문 하나를 꺼낸다. “이 중에 실제로 돈이 되는 건 무엇인가?”\n\n\n\n대다수 기업은 이 질문에 답하지 못한다. 비용 ...",
+      "link": "https://www.itworld.co.kr/article/4202033/cfo%ec%9d%98-%ec%a7%88%eb%ac%b8%ec%97%90-%eb%8b%b5%ed%95%98%ec%a7%80-%eb%aa%bb%ed%95%98%eb%8a%94-ai-%ec%a7%80%ec%b6%9c-%ea%b4%80%eb%a6%ac%ec%9d%98-%ea%b5%ac%ec%a1%b0%ec%a0%81-%ed%95%9c%ea%b3%84.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "허깅페이스가 오픈AI에 내민 청구서 “로그 공개와 컴퓨팅 자원 지원”",
+      "desc": "허깅페이스(Hugging Face) CEO 클레망 들랑게가 오픈AI의 AI 에이전트가 자사 시스템을 해킹한 사건을 계기로 ‘과격한 투명성(radical transparency)’을 요구하고 나섰다.\n\n\n\n들랑게는 7월 26일 X에 올린 게시물에서 오픈AI에 ‘이탈...",
+      "link": "https://www.itworld.co.kr/article/4202030/%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4%ea%b0%80-%ec%98%a4%ed%94%88ai%ec%97%90-%eb%82%b4%eb%af%bc-%ec%b2%ad%ea%b5%ac%ec%84%9c-%eb%a1%9c%ea%b7%b8-%ea%b3%b5%ea%b0%9c%ec%99%80-%ec%bb%b4%ed%93%a8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "깃허브·버셀·파이어스토어, 인디 개발자의 초고속 배포 삼각편대",
       "desc": "요즘 애플리케이션 개발자는 방대한 아키텍처 솔루션 메뉴에서 마음에 드는 것을 선택할 수 있다. 메뉴에는 잘 알려진 것부터 실험적인 솔루션까지 펼쳐져 있고, 그 사이에는 둘을 적당히 혼합한 솔루션도 있다. 클라우드 혁명기에 등장한 강력한 여러 중간 지대(middle...",
       "link": "https://www.itworld.co.kr/article/4200404/%ea%b9%83%ed%97%88%eb%b8%8c%c2%b7%eb%b2%84%ec%85%80%c2%b7%ed%8c%8c%ec%9d%b4%ec%96%b4%ec%8a%a4%ed%86%a0%ec%96%b4-%ec%9d%b8%eb%94%94-%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%9d%98-%ec%b4%88%ea%b3%a0%ec%86%8d.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "“어떻게 만들고 어떻게 관리할 것인가” 데이터 제품 개발의 성패를 가르는 5가지 핵심 질문",
-      "desc": "데이터 제품은 제공 속도를 높이고 데이터 자산을 재사용하고 위험을 줄이고 비용을 관리하기 위한 좋은 방법이다. 또한 표준화된 데이터 제품은 분석과 AI 역량을 개선하는 데도 도움이 될 수 있다.\n\n\n\n데이터 제품은 원시 데이터 세트, 데이터 웨어하우스 뷰, 데이터...",
-      "link": "https://www.itworld.co.kr/article/4199156/%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%a7%8c%eb%93%a4%ea%b3%a0-%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b4%80%eb%a6%ac%ed%95%a0-%ea%b2%83%ec%9d%b8%ea%b0%80-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%a0%9c%ed%92%88-%ea%b0%9c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "AI 모델 선택에 매몰되면 안 되는 이유",
-      "desc": "지난 한 주 동안 매일 LLM 모델 선택 화면을 노려보면서 어떤 모델을 선택하는 것이 좋을지 고민했다. 아마 다른 많은 이들이 마찬가지일 것이다.\n\n\n\n오픈AI가 GPT-5.6 솔(Sol), 테라, 루나를 출시했다. 솔은 최상위 모델이고 테라는 솔의 지능 대부분을...",
-      "link": "https://www.itworld.co.kr/article/4199733/ai-%eb%aa%a8%eb%8d%b8-%ec%84%a0%ed%83%9d%ec%97%90-%eb%a7%a4%eb%aa%b0%eb%90%98%eb%a9%b4-%ec%95%88-%eb%90%98%eb%8a%94-%ec%9d%b4%ec%9c%a0.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "“AI가 뒤집은 규모의 법칙” 소규모 컨설팅 업체가 대형사를 이길 수 있는 이유",
-      "desc": "주요 AI 기업이 기업 고객 확보를 위해 현장 배치 엔지니어(FDE)를 대거 투입하고 있다. 대형 컨설팅 업체도 인간과 에이전트 컨설턴트를 동원해 같은 경쟁에 뛰어들었다.\n\n\n\n소규모 전문 업체도 이 대열에 합류하고 있다. 뉴욕에 본사를 둔 자본시장 전문 기술 컨...",
-      "link": "https://www.itworld.co.kr/article/4200386/ai%ea%b0%80-%eb%92%a4%ec%a7%91%ec%9d%80-%ea%b7%9c%eb%aa%a8%ec%9d%98-%eb%b2%95%ec%b9%99-%ec%86%8c%ea%b7%9c%eb%aa%a8-%ec%bb%a8%ec%84%a4%ed%8c%85-%ec%97%85%ec%b2%b4%ea%b0%80-%eb%8c%80%ed%98%95.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "OECD, 육체 노동직도 AI 자동화 위험군으로 경고",
-      "desc": "경제협력개발기구(OECD)가 AI와 자동화 위험에서 안전하다고 여겨지던 산업군도 실제로는 그렇지 않을 수 있다고 밝혔다. 노동 시장 전반에서는 AI 관련 일자리 충격이 계속되고 있다.\n\n\n\nOECD는 최근 연구에서 AI 로봇 등 신기술이 확산되면서 육체 노동 직종...",
-      "link": "https://www.itworld.co.kr/article/4200362/oecd-%ec%9c%a1%ec%b2%b4-%eb%85%b8%eb%8f%99%ec%a7%81%eb%8f%84-ai-%ec%9e%90%eb%8f%99%ed%99%94-%ec%9c%84%ed%97%98%ea%b5%b0%ec%9c%bc%eb%a1%9c-%ea%b2%bd%ea%b3%a0.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "영국, 전장 AI 드론 전력 고도화… 군집 드론·표적 식별·드론 요격 기술 검증",
-      "desc": "영국이 인공지능(AI)을 활용한 차세대 드론 전력 구축에 속도를 내고 있다. 우크라이나 전쟁에서 드론이 전장의 판도를 바꾸는 핵심 무기로 자리 잡으면서, 영국은 AI 기반 표적 식별과 대드론(Counter-Drone) 기술 개발을 통해 미래 전장 대응 능력을 강화...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41187",
+      "title": "메타, 블랙록과 AI 데이터센터 합작법인 설립… 20조원 투자, 텍사스에 1GW급 '메타 컴퓨트' 캠퍼스 구축",
+      "desc": "메타(Meta)가 글로벌 자산운용사 블랙록(BlackRock)과 28일(현지시간) 미국 텍사스주 엘패소(El Paso)에 초대형 인공지능 데이터센터(AIDC) 캠퍼스를 구축하고 이를 공동 개발·운영하기 위한 합작법인(JV)을 설립한다고 밝혔다.총 개발비만 약 14...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41211",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "한전KDN, ‘2026 빛가람 AI·ICT 경진대회’ 참여 작품 공모",
-      "desc": "에너지ICT 전문 공기업 한전KDN(사장 박상형)이 산·학 연 ESG 활동을 통한 사회적 가치 실현과 에너지ICT 맞춤형 인재 발굴을 위해 ‘제12회 2026 빛가람 AI·ICT 경진대회’를 개최한다.이번 대회는 지난 11회까지 ‘빛가람 에너지밸리 SW 작품 경진...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41186",
+      "title": "ITU, 개발도상국 AI 확산 지원 위한 'AI for Good Lab' 출범… 정책·인재·인프라 구축 본격화",
+      "desc": "국제전기통신연합(ITU, International Telecommunication Union)이 개발도상국과 신흥국의 책임 있는 인공지능(AI) 도입과 확산을 지원하기 위한 글로벌 협력 플랫폼 'AI 포 굿 랩(AI for Good Lab)'을 28일(현지시간) ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41210",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "엔비디아, 베라 CPU로 차세대 CPU·GPU 설계 가속...케이던스·시놉시스와 핵심 EDA 애플리케이션 최적화",
-      "desc": "엔비디아(NVIDIA(가 엔비디아 베라 CPU(Vera CPU)를 활용해 차세대 CPU와 GPU 설계를 가속화한다고 27일 밝혔다. 엔비디아는 케이던스(Cadence), 시놉시스(Synopsys)와 핵심 전자설계자동화(EDA) 애플리케이션을 최적화하고 있으며, 초...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41185",
+      "title": "'생각하면서 움직이는' 로봇 AI 공개…MIT, 동작 속도 2배·반응속도 최대 30배 향상",
+      "desc": "매사추세츠공과대학교(MIT)가 로봇이 현재 움직이는 동안 다음 행동을 미리 계획할 수 있도록 하는 새로운 인공지능(AI) 기술 '브이래시(VLASH, Vision-Language-Action with State Horizon)'를 28일(현지시간) 공개했다.이 모...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41209",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "메타, '행동하는 AI' 시대 선언… 메타 AI, 일정 관리부터 슬라이드 제작까지 직접 수행",
-      "desc": "메타(Meta)가 자사의 최신 인공지능(AI) 모델 '뮤즈 스파크 1.1(Muse Spark 1.1)'을 기반으로 단순히 질문에 답하는 수준을 넘어 사용자를 대신해 계획을 세우고 실행까지 수행하는 새로운 '에이전트(Agent) AI' 기능을 지난 24일(현지시간)...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41184",
+      "title": "구글, 美 해양대기청 차세대 기상 슈퍼컴퓨터 구축… \"AI·클라우드로 일기예보 혁신\"",
+      "desc": "미국 해양대기청(National Oceanic and Atmospheric Administration. 이하, NOAA)이 차세대 기상예측 인프라를 위해 구글 클라우드를 핵심 슈퍼컴퓨팅(HPC) 인프라 사업자로 선정했다.이를 통해 NOAA는 기존 온프레미스(자체 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41208",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "기아, 2026년 하반기 엔지니어 대규모 채용",
-      "desc": "기아가 2026년 하반기 엔지니어 채용을 실시한다고 27일 밝혔다. 지원서 접수는 오는 8월 10일부터 21일까지 총 2주 동안 진행된다.지원 자격은 고등학교 졸업 이상으로 연령 및 성별 제한은 없으며 채용 관련 보다 자세한 내용은 기아 채용 홈페이지에서 확인할 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41183",
+      "title": "문샷 AI, AI의 '보는 능력'만 측정하는 '퍼셉션벤치' 오픈소스로 공개… \"추론보다 시각 인지가 더 큰 병목\"",
+      "desc": "최근 멀티모달 인공지능(AI)의 성능 경쟁이 추론 능력을 넘어 '얼마나 정확하게 세상을 인식하는가'로 확장되고 있는 가운데, 중국 AI 스타트업 문샷 AI(Moonshot AI)가 AI의 순수한 시각 인지 능력을 독립적으로 평가하는 새로운 벤치마크 '퍼셉션벤치(P...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41207",
       "source": "AI Times"
     }
   ]
