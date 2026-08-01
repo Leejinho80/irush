@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-07-31T00:06:27.459Z",
+  "lastUpdated": "2026-08-01T00:04:08.352Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "개발 머신으로 손색없는 윈도우, 설정이 관건",
+      "desc": "마이크로소프트 윈도우는 지난 몇 년 동안 개발 환경 측면에서 큰 발전을 이뤘다. 윈도우 리눅스 서브시스템(WSL)을 사용하면 VM의 거추장스러움과 오버헤드 없이 윈도우에서 매끄럽게 리눅스를 다룰 수 있다. 일반적인 워크플로우에 포함되는 모든 주요 소프트웨어 개발 ...",
+      "link": "https://www.itworld.co.kr/article/4203215/%ea%b0%9c%eb%b0%9c-%eb%a8%b8%ec%8b%a0%ec%9c%bc%eb%a1%9c-%ec%86%90%ec%83%89%ec%97%86%eb%8a%94-%ec%9c%88%eb%8f%84%ec%9a%b0-%ec%84%a4%ec%a0%95%ec%9d%b4-%ea%b4%80%ea%b1%b4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "빨라진 배포, 복잡해진 장애…사이트 신뢰성 엔지니어가 AI에 거는 기대와 현실",
+      "desc": "사이트 신뢰성 엔지니어(SRE)는 성능 및 신뢰성 문제 해결이라는 까다로운 일을 처리해야 하지만 사실 SRE의 주 업무는 데브옵스 팀에 운영 인사이트를 제공하고 비즈니스 시스템 성능, 보안, 그리고 전반적인 견고성에 대한 구현 측면의 개선 방안을 제안하는 데 있다...",
+      "link": "https://www.itworld.co.kr/article/4203177/%eb%b9%a8%eb%9d%bc%ec%a7%84-%eb%b0%b0%ed%8f%ac-%eb%b3%b5%ec%9e%a1%ed%95%b4%ec%a7%84-%ec%9e%a5%ec%95%a0%ec%82%ac%ec%9d%b4%ed%8a%b8-%ec%8b%a0%eb%a2%b0%ec%84%b1-%ec%97%94%ec%a7%80%eb%8b%88.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
       "title": "오픈소스는 미끼, 진짜 목표는 개발자",
       "desc": "필자는 개발자 도구 전문 업체 볼랜드(Borland)의 오랜 사용자다. 1990년대 초 터보 파스칼(Turbo Pascal)부터 델파이(Delphi)까지 볼랜드 도구를 사용해 왔다. 패러독스(Paradox)도 써봤고, 볼랜드 오피스(Borland Office)를 ...",
       "link": "https://www.itworld.co.kr/article/4203163/%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4%eb%8a%94-%eb%af%b8%eb%81%bc-%ec%a7%84%ec%a7%9c-%eb%aa%a9%ed%91%9c%eb%8a%94-%ea%b0%9c%eb%b0%9c%ec%9e%90.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "04",
       "title": "“오픈·효율·최신 기술, 3개 축으로 간다”…엔비디아 생성형 AI 부사장 인터뷰",
       "desc": "엔비디아 CEO 젠슨 황이 발언하면 기술 업계가 주목한다. 황은 지난주 X에 처음으로 게시물을 올려, 오픈 AI 모델이 안전성과 사이버 보안을 강화하고 혁신과 확산을 가속화하며 주권 확립을 가능하게 한다고 주장했다.\n\n\n\n엔비디아는 GPU에 특화된 반도체 기업이다...",
       "link": "https://www.itworld.co.kr/article/4203151/%ec%98%a4%ed%94%88%c2%b7%ed%9a%a8%ec%9c%a8%c2%b7%ec%b5%9c%ec%8b%a0-%ea%b8%b0%ec%88%a0-3%ea%b0%9c-%ec%b6%95%ec%9c%bc%eb%a1%9c-%ea%b0%84%eb%8b%a4%ec%97%94%eb%b9%84%eb%94%94%ec%95%84.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "05",
       "title": "오픈AI 탈주 에이전트, 허깅페이스 이어 모달 랩스 고객까지 연쇄 침해",
       "desc": "오픈AI의 AI 에이전트가 AI 플랫폼 허깅페이스를 침해한 사건의 피해 범위가 단일 피해에 그치지 않은 것으로 드러났다. 로이터 보도에 따르면, 오픈AI의 탈주 에이전트는 허깅페이스를 상대로 수일에 걸친 해킹 공세를 펼치는 과정에서 클라우드 컴퓨팅 플랫폼 업체 모...",
       "link": "https://www.itworld.co.kr/article/4203142/%ec%98%a4%ed%94%88ai-%ed%83%88%ec%a3%bc-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4-%ec%9d%b4%ec%96%b4-%eb%aa%a8%eb%8b%ac-%eb%9e%a9%ec%8a%a4-%ea%b3%a0%ea%b0%9d.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
-      "title": "오픈 웨이트, AI를 더 정직하게 만들 수 있을까",
-      "desc": "지난달 필자는 클로드 페이블 5 모델에 18세기 유언 검인 서류 4건을 분석해달라고 요청했다. 모델은 존재하지 않는 가족을 만들어냈다.\n\n\n\n20년 넘게 필자는 1725년경 뉴저지주 벌링턴 인근에서 태어난 존 제이콥 에이세이의 부모를 추적해왔다. 해외의 에이세이 ...",
-      "link": "https://www.itworld.co.kr/article/4203127/%ec%98%a4%ed%94%88-%ec%9b%a8%ec%9d%b4%ed%8a%b8-ai%eb%a5%bc-%eb%8d%94-%ec%a0%95%ec%a7%81%ed%95%98%ea%b2%8c-%eb%a7%8c%eb%93%a4-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "“누가 만들었나”가 중요하지 않은 세상…에이전트 코딩의 끝없는 연쇄",
-      "desc": "필자는 아스트로(Astro)라는 매우 훌륭하고 비교적 새로운 웹 프레임워크를 사용한다. 아스트로 팀의 핵심 통찰은 대다수 웹사이트가 정적 콘텐츠로 구성된다는 점이었고, 덕분에 사이트에 콘텐츠를 추가하는 과정이 크게 간소화됐다. 개인 웹사이트에 블로그 게시물을 올리...",
-      "link": "https://www.itworld.co.kr/article/4202565/%eb%88%84%ea%b0%80-%eb%a7%8c%eb%93%a4%ec%97%88%eb%82%98%ea%b0%80-%ec%a4%91%ec%9a%94%ed%95%98%ec%a7%80-%ec%95%8a%ec%9d%80-%ec%84%b8%ec%83%81-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%bd%94.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "현대차 정몽구 재단, 'CMK 과학기술 펠로우' 8인 선정...1.4억 연구비 및 혁신 프로그램 지원",
-      "desc": "현대차 정몽구 재단(이사장 정무성)은 과학기술을 통해 전지구적 사회문제를 해결하고 국가 경쟁력을 이끌어갈 차세대 연구자를 집중 육성하기 위해, ‘CMK 과학기술 펠로우(박사후연구원)’ 프로그램을 올해 새롭게 출범하고, 첫 수혜자 8명을 최종 선발했다. 'CMK 과...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41257",
+      "title": "뉴로레스터, 동전 크기 '심장-뇌 동기화' AI 웨어러블 공개…수면·대사 관리 통합",
+      "desc": "미국 헬스테크 기업 뉴로레스터(NeuroRester)가 심장과 뇌의 생체 신호를 동시에 분석하고 개인 맞춤형으로 조절하는 초소형 인공지능(AI) 웨어러블 시스템을 31일(현지시간) 공개했다. 회사는 기존 웨어러블이 건강 데이터를 수집하는 데 그쳤다면, 이번 제품은...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41275",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "퀄컴, BMW 차세대 AI 차량 두뇌 맡는다…디지털 콕핏·자율주행 반도체 공급",
-      "desc": "퀄컴(Qualcomm)이 BMW 그룹(BMW Group)의 차세대 소프트웨어 정의 차량(SDV)을 위한 핵심 컴퓨팅 반도체 공급업체로 선정됐다고 29일(현지시간) 밝혔다.양사는 디지털 콕핏과 첨단운전자보조시스템(ADAS), 자율주행(AD) 플랫폼 전반에 걸쳐 장기...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41256",
+      "title": "AI 날개 단 아마존, 2분기 매출 288조·영업이익 39.5조원…AWS 37% 성장 '18분기 만에 최고'",
+      "desc": "아마존(Amazon.com)이 인공지능(AI)과 클라우드 사업의 고성장에 힘입어 올해 2분기 시장 기대를 웃도는 실적을 거뒀다. 특히 아마존웹서비스(Amazon Web Services, AWS)는 18분기 만에 가장 높은 성장률을 기록하며 AI 인프라 수요 확대의...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41274",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "마이크로소프트, 2026 4분기 매출 129조·영업이익 58조원…애저 연매출 첫 143.5조원 돌파",
-      "desc": "마이크로소프트(Microsoft)가 클라우드와 인공지능(AI) 사업의 성장에 힘입어 시장 기대를 웃도는 2026 회계연도 4분기(2026년 4~6월) 실적을 기록했다.특히 클라우드 플랫폼 애저(Azure)의 연간 매출이 사상 처음으로 1,000억 달러를 넘어섰고,...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41255",
+      "title": "\"우리 아이가 AI 동화 주인공\"... LG유플러스, U+tv 아이들나라 고객 사연으로 AI 동화 만든다",
+      "desc": "LG유플러스는 키즈 전용 플랫폼 ‘U+tv 아이들나라’에서 고객 사연을 바탕으로 인공지능(AI) 동화 콘텐츠를 제작하는 참여형 이벤트 ‘우리 아이가 동화 주인공’을 진행한다고 31일 밝혔다. U+tv 아이들나라는 IPTV 기반 키즈 서비스로, 동영상·도서·놀이·학...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41273",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "美 의회, AI 딥페이크 정치광고 규제법 재발의…선거 허위정보 차단 입법 속도",
-      "desc": "미국 의회가 인공지능(AI)을 이용한 딥페이크 정치광고와 허위 선거정보 확산을 막기 위한 입법에 다시 나섰다. AI 기술이 정치인의 음성이나 모습을 조작해 유권자를 오도하는 사례가 늘어나면서, 연방 차원의 규제 필요성이 커지고 있다는 판단에서다.미국 민주당 소속 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41254",
+      "title": "\"피지컬 AI 항만 혁신, 광양항에서 시작한다\"...해수부, ‘항만자동화 테스트베드’ 구축사업 착공",
+      "desc": "해양수산부(장관 황종우)는 지난 30일, 광양항에서 ‘항만자동화 테스트베드(이하, 테스트베드)’ 구축사업 착공식을 개최했다. 이날 착공식에는 황종우 해양수산부 장관, 황기연 전남광주통합특별시 행정부시장, 최관호 여수광양항만공사 사장을 비롯해 항만기술산업계와 항만·...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41272",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "텐센트, AI 에이전트 운영 플랫폼 'ADP 4.0' 글로벌 공개…기업용 '에이전트옵스' 시대 본격화",
-      "desc": "텐센트 클라우드(Tencent Cloud)가 기업들이 인공지능(AI) 에이전트를 실제 업무 환경에서 안정적으로 구축·운영할 수 있도록 지원하는 차세대 에이전트 개발 플랫폼을 공개했다. 단순한 AI 에이전트 개발 도구를 넘어 구축부터 배포, 운영, 보안, 거버넌스까...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41253",
+      "title": "AI와 관세무역데이터로 창업 아이디어 싹틔우다...'26 관세청 공공데이터·인공지능 활용 창업경진대회 시상식",
+      "desc": "관세청은 지난 30일, 서울세관에서 '2026 관세청 공공데이터·인공지능(AI) 활용 창업경진대회'를 개최하고, 6편의 우수사례를 선정하여 시상했다. 공공데이터로 개방된 관세무역데이터와 인공지능 기술을 활용한 창업 아이디어를 발굴·지원하기 위해 2024년 처음 시...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41271",
       "source": "AI Times"
     }
   ]
