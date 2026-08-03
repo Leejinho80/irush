@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T00:00:11.392Z",
+  "lastUpdated": "2026-08-03T00:01:55.065Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "폐 딱딱하게 굳는 특발성 폐섬유증... AI로 경과 확인하고 예후 예측",
+      "desc": "특발성 폐섬유증은 폐가 딱딱하게 굳어가며 호흡 기능이 저하되는 원인 불명의 만성 진행성 폐질환이다. 한 번 생기면 폐 기능이 회복되기 어렵고, 진단 후 5년 생존율이 주요 암보다 낮을 정도로 예후가 좋지 않다.질병 진행 속도가 환자마다 크게 달라 환자 상태를 정확...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41280",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
+      "title": "\"1,760배 빠르게 녹조를 지운다\"...KIST, 햇빛으로 움직이는 자율 수상 로봇 세계 최초 개발",
+      "desc": "매년 여름 강과 호수에서는 대규모 녹조 발생으로 수질 관리 문제가 반복된다. 녹조는 악취를 유발하고 수중 산소를 감소시켜 어류 폐사의 원인이 되며, 독성 물질을 생성해 상수원 수질 안전에도 영향을 미칠 수 있어 효과적인 제거 기술 개발이 요구되고 있다.한국과학기술...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41279",
+      "source": "AI Times"
+    },
+    {
+      "number": "08",
       "title": "오픈AI, \"AI는 더 싸지고 더 똑똑해져야 한다\"…GPT-5.6 루나 80%·테라 20% 인하",
       "desc": "오픈AI(OpenAI)가 인공지능(AI)의 성능을 높이는 동시에 비용은 지속적으로 낮춰 누구나 활용할 수 있는 '지능의 풍요(Abundant Intelligence)' 시대를 만들겠다는 새로운 성장 전략을 지난 31일(현지시간) 공개했다.이는 AI 모델과 인프라,...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=41278",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "09",
       "title": "\"아마존, AI 반도체 기업인가?\"....인공지능 칩 사업 연매출 36조원 돌파",
       "desc": "아마존(Amazon)이 자체 설계한 인공지능(AI) 반도체 사업이 연매출 기준 250억 달러(Annual Revenue Run Rate)를 돌파하며 세계적인 AI 칩 기업으로 자리매김했다. 생성형 AI 확산으로 AI 인프라 수요가 폭증하는 가운데, 자체 AI 가속...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=41277",
       "source": "AI Times"
     },
     {
-      "number": "08",
+      "number": "10",
       "title": "\"인공지능, 잠시 속도를 늦춰야 한다\"…오픈AI·앤트로픽·구글 연구자 등 1,300여 명, 美 정부에 공개 서한",
       "desc": "인공지능(AI) 개발 경쟁의 최전선에 있는 연구자들이 이례적으로 미국 정부에 \"AI 개발 속도를 조절할 수 있는 안전장치를 마련해 달라\"고 요구하고 나섰다. AI 산업을 이끌고 있는 기업 내부 연구진이 경쟁보다 안전을 우선해야 한다는 목소리를 집단적으로 낸 것은 ...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=41276",
-      "source": "AI Times"
-    },
-    {
-      "number": "09",
-      "title": "뉴로레스터, 동전 크기 '심장-뇌 동기화' AI 웨어러블 공개…수면·대사 관리 통합",
-      "desc": "미국 헬스테크 기업 뉴로레스터(NeuroRester)가 심장과 뇌의 생체 신호를 동시에 분석하고 개인 맞춤형으로 조절하는 초소형 인공지능(AI) 웨어러블 시스템을 31일(현지시간) 공개했다. 회사는 기존 웨어러블이 건강 데이터를 수집하는 데 그쳤다면, 이번 제품은...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41275",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "AI 날개 단 아마존, 2분기 매출 288조·영업이익 39.5조원…AWS 37% 성장 '18분기 만에 최고'",
-      "desc": "아마존(Amazon.com)이 인공지능(AI)과 클라우드 사업의 고성장에 힘입어 올해 2분기 시장 기대를 웃도는 실적을 거뒀다. 특히 아마존웹서비스(Amazon Web Services, AWS)는 18분기 만에 가장 높은 성장률을 기록하며 AI 인프라 수요 확대의...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41274",
       "source": "AI Times"
     }
   ]
