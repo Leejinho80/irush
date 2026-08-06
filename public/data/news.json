@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-08-05T00:08:16.838Z",
+  "lastUpdated": "2026-08-06T00:02:31.935Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "AI 에이전트의 IT 업무 자동화, 인간 감독이 결정적 변수",
+      "desc": "AI 에이전트가 기업 IT 워크플로 전체 작업의 약 3분의 1을 처리하고 있으며, 그 비중은 빠르게 증가하고 있다. 반면, 인간 애널리스트가 AI의 제안 행동을 반려하는 비율은 약 4분의 1 수준에서 점차 낮아지는 추세다. 수만 건의 인간-AI 상호작용을 분석한 ...",
+      "link": "https://www.itworld.co.kr/article/4205385/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-it-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94-%ec%9d%b8%ea%b0%84-%ea%b0%90%eb%8f%85%ec%9d%b4-%ea%b2%b0%ec%a0%95%ec%a0%81-%eb%b3%80%ec%88%98.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "스마트 글라스 촬영 논란, 보안 컨퍼런스 입장 금지로 확산",
+      "desc": "보안 컨퍼런스 데프콘이 오디오·비디오 녹화 금지 기기 목록에 스마트 글라스를 추가했다. 시대 변화를 단적으로 보여주는 결정이다.\n\n\n\n데프콘 주최 측은 스마트 글라스의 녹화 여부를 외관상 일관되게 판별할 방법이 없다며, 신뢰 훼손과 사생활 침해를 이유로 스마트 글...",
+      "link": "https://www.itworld.co.kr/article/4205359/%ec%8a%a4%eb%a7%88%ed%8a%b8-%ea%b8%80%eb%9d%bc%ec%8a%a4-%ec%b4%ac%ec%98%81-%eb%85%bc%eb%9e%80-%eb%b3%b4%ec%95%88-%ec%bb%a8%ed%8d%bc%eb%9f%b0%ec%8a%a4-%ec%9e%85%ec%9e%a5-%ea%b8%88%ec%a7%80%eb%a1%9c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "아이폰과 윈도우 PC 간 클립보드 공유, 2027년 EU서 현실화",
+      "desc": "유니버설 클립보드(Universal Clipboard)는 애플 생태계에서 가장 저평가된 기능이라 할 수 있다. 아이폰에서 텍스트나 URL을 복사하면 근처의 맥에 바로 붙여넣을 수 있어, 기기 간 텍스트 전달을 위해 번거로운 과정을 거칠 필요가 없다.\n\n\n\n이 기능...",
+      "link": "https://www.itworld.co.kr/article/4205340/%ec%95%84%ec%9d%b4%ed%8f%b0%ea%b3%bc-%ec%9c%88%eb%8f%84%ec%9a%b0-pc-%ea%b0%84-%ed%81%b4%eb%a6%bd%eb%b3%b4%eb%93%9c-%ea%b3%b5%ec%9c%a0-2027%eb%85%84-eu%ec%84%9c-%ed%98%84%ec%8b%a4%ed%99%94.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "앤트로픽, AI 안전성 평가 중 클로드의 실제 기업 해킹 인정",
       "desc": "앤트로픽은 가상 네트워크 환경에서 클로드 오퍼스 4.7, 클로드 미토스 5, 내부 테스트 모델의 정보 탐색 역량을 검증하는 평가를 진행했다. 문제는 파트너사 중 한 곳이 설정을 잘못 구성하면서 시작됐다. 인터넷에 접속하게 된 모델은 가상 기업과 이름이 같거나 비슷...",
       "link": "https://www.itworld.co.kr/article/4204702/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%95%88%ec%a0%84%ec%84%b1-%ed%8f%89%ea%b0%80-%ec%a4%91-%ed%81%b4%eb%a1%9c%eb%93%9c%ec%9d%98-%ec%8b%a4%ec%a0%9c-%ea%b8%b0%ec%97%85-%ed%95%b4%ed%82%b9.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "발견한 취약점을 테스트로 남기지 않으면 어떤 일이 벌어지나",
       "desc": "전통적인 소프트웨어 엔지니어링에서 심각한 버그는 회귀 테스트로 남는다. 에이전트 보안에도 같은 수준의 엄격한 접근법이 필요하다.\n\n\n\nAI 에이전트가 실제 시스템과 연결되는 속도는 대다수 기업이 보안 역량을 쌓는 속도를 앞지르고 있다. 우리는 이 상황을 심각하게 ...",
       "link": "https://www.itworld.co.kr/article/4204698/%eb%b0%9c%ea%b2%ac%ed%95%9c-%ec%b7%a8%ec%95%bd%ec%a0%90%ec%9d%84-%ed%85%8c%ec%8a%a4%ed%8a%b8%eb%a1%9c-%eb%82%a8%ea%b8%b0%ec%a7%80-%ec%95%8a%ec%9c%bc%eb%a9%b4-%ec%96%b4%eb%96%a4-%ec%9d%bc%ec%9d%b4.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "AI 데이터센터가 촉발한 메모리 대란, 2027년 이후에도 해소 불투명",
-      "desc": "AI가 주도하는 메모리 부족 사태가 계속되면서 전반적인 가격 상승세가 이어지고 있다. 노트북, PC, 플래시 드라이브, SSD, 라우터, 스마트폰 가격이 일제히 치솟고 있는 것도 같은 이유다.\n\n\n\n내년에도 상황이 개선될 기미는 보이지 않는다. 삼성전자 메모리 반...",
-      "link": "https://www.itworld.co.kr/article/4204693/ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0%ea%b0%80-%ec%b4%89%eb%b0%9c%ed%95%9c-%eb%a9%94%eb%aa%a8%eb%a6%ac-%eb%8c%80%eb%9e%80-2027%eb%85%84-%ec%9d%b4%ed%9b%84%ec%97%90%eb%8f%84-%ed%95%b4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "아이폰 18 프로·울트라, 올가을 가격 인상 초읽기",
-      "desc": "애플이 지난달 가격을 인상했을 때, 눈에 띄게 가격 동결을 유지한 제품이 있었다. 바로 아이폰이다. 애플이 현재 판매 중인 아이폰 7개 모델은 2년 된 아이폰 16과 아이폰 16 플러스를 포함해 모두 기존과 동일한 시작가를 유지하고 있다. 아이폰 17e의 599달...",
-      "link": "https://www.itworld.co.kr/article/4204688/%ec%95%84%ec%9d%b4%ed%8f%b0-18-%ed%94%84%eb%a1%9c%c2%b7%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%98%ac%ea%b0%80%ec%9d%84-%ea%b0%80%ea%b2%a9-%ec%9d%b8%ec%83%81-%ec%b4%88%ec%9d%bd%ea%b8%b0.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "“제때 살 수 있을까” 올가을 아이폰 18, 품귀 현상 예고",
-      "desc": "8월로 달력이 넘어가면서 업계의 시선이 애플의 가을 행사와 함께 새 아이폰에 쏠리고 있다. 올해는 아이폰 18 프로와 프로 맥스, 그리고 완전히 새로운 폴더블 기기인 아이폰 울트라까지 함께 등장할 예정으로, 수요는 그 어느 때보다 클 것으로 기대된다.\n\n\n\n그러나...",
-      "link": "https://www.itworld.co.kr/article/4204226/%ec%a0%9c%eb%95%8c-%ec%82%b4-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c-%ec%98%ac%ea%b0%80%ec%9d%84-%ec%95%84%ec%9d%b4%ed%8f%b0-18-%ed%92%88%ea%b7%80-%ed%98%84%ec%83%81-%ec%98%88%ea%b3%a0.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "'삼성호암상' 2027부터 상금 5억원으로 증액...총상금 30억 원으로 확대, 수상자 예우 강화",
-      "desc": "호암재단(이사장 김황식)은 내년부터 삼성호암상 수상자에게 수여하는 상금을 현행 3억 원에서 5억 원으로 대폭 증액한다고 5일 밝혔다. 이에 따라 6개 부문 총상금은 기존 18억 원에서 30억 원으로 확대된 것이다.이는 국내 최고 권위의 상으로 인정받는 삼성호암상의...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41314",
+      "title": "KT, AI 기반 실시간 스팸차단 서비스 전 고객 확대 적용...오차단율 0.003% · VOC 0건",
+      "desc": "KT가 ‘인공지능 기반 실시간 스팸차단 서비스(이하, AI 스팸차단)’를 전 고객 대상으로 확대 적용했다고 6일 밝혔다.최근 스팸은 패턴의 주기가 점점 짧아지고, 키워드 차단을 피하기 위해 특수문자를 포함해 변형하는 등 수법 또한 갈수록 정교해지고 있다. KT는 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41327",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "한림대강남성심병원, AI기반 감염관리 체계 구축…의료현장 스마트 감염관리 제시",
-      "desc": "한림대학교강남성심병원(병원장 이동진)은 생성형 AI를 활용한 감염관리 업무 혁신과 인공지능 기반 항생제 처방지원 시스템 구축을 추진하며 스마트 감염관리 체계 고도화에 나서고 있다.감염내과 이재갑 교수(감염관리실장)는 지난달 29일 감염관리 서포터즈와 교직원을 대상...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41313",
+      "title": "엔비디아·AI 업계 리더, 사이버보안 투명성 강화를 위한 SAFE 가이드라인 제안",
+      "desc": "엔비디아가 미국 라스베이거스에서 개최된 블랙햇(Black Hat) 연례 컨퍼런스에서 120개가 넘는 조직이 참여하고 있는 '오픈 시큐어 AI 얼라이언스(Open Secure AI Alliance)' 회원사들이 에이전틱 AI 사이버보안을 강화하기 위한 새로운 가이드...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41326",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "빅밸류, 515만 데이터 AI에 개방...사업자·상권 데이터 등 AI 인용 최적화",
-      "desc": "데이터테크(Data Tech) 기업 빅밸류(공동 대표 구름, 이병욱)가 5일, 전국 사업자·상권·의료 등 20개 카테고리에 걸친 약 515만 페이지 분량의 데이터를 인공지능이 읽을 수 있는 형태로 대폭 개방했다.사람보다 AI가 먼저 정보를 찾아 답하는 시대에 맞춰...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41312",
+      "title": "UNIST 이연창 교수팀, 내 안의 다양한 ‘쇼핑 자아 ’취향 저격하는 상품 추천 AI 기술 개발",
+      "desc": "같은 전자제품군이라도 컴퓨터를 살 때와 홈 오디오를 살 때 소비 성향이 달라질 수 있는데, 이러한 세부 상품군별 취향 차이를 읽어 추천에 반영할 수 있는 인공지능(AI) 기술이 나왔다.UNIST 인공지능대학원 이연창 교수팀은 세부 상품군에 따라 달라지는 소비자의 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41325",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "AI 데이터센터 시대 '거대한 배터리' 상용화 앞당긴다…KAIST, 전해질 생산시간 67% 단축",
-      "desc": "폭발적으로 늘어나는 인공지능 데이터센터(AIDC) 시대를 뒷받침할‘거대한 배터리'의 상용화가 한층 가까워졌다. KAIST 연구진이 대용량 배터리의 핵심 소재 생산 시간을 67% 줄이는 공정 기술을 개발해 상용화의 가장 큰 생산 병목을 해결했다.KAIST(총장 배충...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41311",
+      "title": "GIST 이현주 교수팀, 알파폴드3 '내부 표현 정보' 활용한 AI ‘알파 DTA’ 개발...신약 후보물질 예측 정확도 향상",
+      "desc": "신약을 개발하려면 수많은 후보 약물 가운데 어떤 물질이 질병의 원인이 되는 단백질에 가장 잘 달라붙는지를 먼저 찾아야 한다. 하지만 이를 모두 실험으로 확인하려면 막대한 시간과 비용이 들기 때문에, 컴퓨터가 약물과 단백질의 결합 가능성을 미리 예측하는 인공지능(A...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41324",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "삼성전자, AI 시대 메모리 혁신 청사진 제시...AI 가속기 위에 메모리 올린 'zHBM' 첫 선",
-      "desc": "삼성전자가 미국에서 열린 세계 최대 메모리·스토리지 행사에서 차세대 3D 메모리 기술과 AI 메모리 로드맵을 공개하며 미래 인공지능(AI) 인프라 시장 선점에 나섰다. 기존 HBM의 한계를 뛰어넘는 새로운 3D 메모리 아키텍처와 400단 이상 초고적층 낸드 기술을...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41310",
+      "title": "순다 피차이, \"AGI 시대 대비 리더십 재편\"…허사비스, 알파벳 최고과학자 맡고 '코레이 카부크추오글루'가 딥마인드 총괄",
+      "desc": "구글과 알파벳(Alphabet)이 인공지능(AI) 시대의 다음 도약을 위한 대규모 리더십 개편을 단행했다. 순다 피차이(Sundar Pichai) 구글 및 알파벳 최고경영자(CEO)와 데미스 허사비스(Demis Hassabis) 구글 딥마인드(Google Deep...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41323",
       "source": "AI Times"
     }
   ]
