@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T23:32:56.416Z",
+  "lastUpdated": "2026-08-09T23:35:27.698Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "메타가 자체 'AI 데이터센터'를 짓는 이유는?...자체 인프라로 ‘개인용 초지능’ 시대 준비",
-      "desc": "메타(Meta)가 인공지능(AI) 경쟁의 핵심을 모델 개발뿐 아니라 대규모 데이터센터와 컴퓨팅 인프라 확보로 확장하고 있다.메타의 데이터센터 사업을 총괄하는 레이철 피터슨(Rachel Peterson) 부사장은 6일(현지시간) 개발자이자 크리에이터인 톰 쇼(Tom...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41354",
+      "title": "[AI 리뷰] “AI 영상 생성, 이젠 30초”…알리바바, 멀티모달 입력 지원 ‘완3.0’ 공개",
+      "desc": "알리바바 클라우드(Alibaba Cloud)는 지난 7일(현지시간) 영상 생성 모델 ‘완3.0(Wan3.0)’ 베타 버전​을 공개하고 공개 테스트에 들어갔다.완3.0의 가장 큰 특징은 영상 생성 길이를 기존 모델보다 두 배 늘린 최대 30초로 확대하고, 텍스트·이...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41358",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "미소정보기술, AI 에이전트 개발부터 운영까지 하나의 플랫폼으로 통합관리",
-      "desc": "멀티모달 데이터 플랫폼 및 AI 전문기업 미소정보기술(대표이사 남상도)은 기업이 AI 에이전트를 보다 쉽고 안전하게 구축하고 지속적으로 운영할 수 있도록 AI 에이전트의 개발부터 배포, 보안, 품질관리, 운영까지 전 과정을 하나의 운영체계(OS)처럼 통합 관리하는...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41352",
+      "title": "삼성전자, 美 오크리지 국립연구소와 차세대 극한 한랭지 히트펌프 기술 개발",
+      "desc": "삼성전자가 미국 에너지부(DOE) 산하 오크리지 국립연구소(Oak Ridge National Laboratory. 이하, ORNL)와 손잡고 영하 30℃ 이하의 극한 환경에서도 안정적으로 작동하는 차세대 히트펌프 난방 기술 개발에 나선다.9일 삼성전자에 따르면 이...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41357",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "아마존, 영국서 ‘AI 자율 물류’ 현실화…MK30 드론, 12km 반경 배송 상용화",
-      "desc": "아마존(Amazon)이 영국에서 인공지능(AI)과 자율비행 기술을 결합한 드론 배송 서비스를 본격 가동했다. 단순히 드론으로 상품을 운송하는 수준을 넘어 AI 기반 공간 분석, 자율비행, 실시간 장애물 회피, 기상 데이터 분석, 물류센터 로봇 자동화가 하나의 배송...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41351",
+      "title": "한국연구재단, '2026 한·미 과학기술학술대회(UKC)' 참석… 양국 R&D 및 지역혁신 협력 지평 넓혀",
+      "desc": "한국연구재단(이하 연구재단) 홍원화 이사장은 현지 시각 지난 5일부터 8일까지 미국 플로리다주 옴니 올란도 리조트(Omni Orlando Resort)에서 ‘상상에서 혁신으로 : 현실 속으로’라는 주제로 열린 2026년 한·미 과학기술학술대회(UKC)에 참석했다....",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41356",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "앤트로픽, '클로드 페이블 5' 생물학 안전장치 개선…오탐 85% 줄였다",
-      "desc": "앤트로픽(Anthropic)이 7일(현지시간), 최신 인공지능(AI) 모델 '클로드 페이블 5(Claude Fable 5)'의 생물학 분야 안전장치를 대폭 개선했다.이는 생물학 관련 질문을 위험 요청으로 잘못 판단해 더 낮은 성능의 모델로 전환하는 '폴백(fall...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41348",
+      "title": "“혼융합으로 답을 찾다”...GIST AI-ACE 이노코어 연구단, '2026 성과공유회 및 역량강화 워크숍' 개최",
+      "desc": "광주과학기술원(GIST·지스트, 총장 임기철)은 뇌질환 조기진단을 위한 AI+나노융합 이노코어(AI-ACE InnoCORE) 연구단(단장 이은지)이 지난 6일부터 7일까지 이틀간 GIST 오룡관에서 ‘2026년 성과공유회 및 역량강화 워크숍’을 개최했다.이번 행사...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41355",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "\"인공지능, 태풍 예측 정확도 하루 앞당겼다\"...구글 AI 기상예측 '웨더넥스트', 모델·코드 전면 오픈소스 공개",
-      "desc": "구글 딥마인드(Google DeepMind)와 구글 리서치(Google Research)가 태풍(열대성 저기압)의 이동 경로와 강도, 풍속 구조를 하나의 인공지능(AI) 모델로 동시에 예측하는 차세대 기상예측 모델 '웨더넥스트(WeatherNext)'를 6일(현지...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41347",
+      "title": "메타가 자체 'AI 데이터센터'를 짓는 이유는?...자체 인프라로 ‘개인용 초지능’ 시대 준비",
+      "desc": "메타(Meta)가 인공지능(AI) 경쟁의 핵심을 모델 개발뿐 아니라 대규모 데이터센터와 컴퓨팅 인프라 확보로 확장하고 있다.메타의 데이터센터 사업을 총괄하는 레이철 피터슨(Rachel Peterson) 부사장은 6일(현지시간) 개발자이자 크리에이터인 톰 쇼(Tom...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41354",
       "source": "AI Times"
     }
   ]
