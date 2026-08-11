@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-08-10T23:38:56.744Z",
+  "lastUpdated": "2026-08-11T23:47:03.441Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "비용과 운영 혼란의 근원, 클라우드 아키텍처 기본기를 되묻다",
-      "desc": "클라우드 아키텍처 컨설팅 20년 경력을 바탕으로, 필자는 기업 배포 환경에서 변하지 않는 패턴이 있음을 목격하고 있다. 예상치 못하게 높은 클라우드 청구서, 운영 혼란, 문서상으로는 훌륭해 보이지만 실제 운영 환경에서는 골칫거리가 되는 아키텍처를 안은 많은 기업이...",
-      "link": "https://www.itworld.co.kr/article/4207038/%eb%b9%84%ec%9a%a9%ea%b3%bc-%ec%9a%b4%ec%98%81-%ed%98%bc%eb%9e%80%ec%9d%98-%ea%b7%bc%ec%9b%90-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98-%ea%b8%b0%eb%b3%b8%ea%b8%b0.html",
+      "title": "스팀 머신 vs 플레이스테이션 5 프로·엑스박스…승부처는 성능이 아닌 개방성",
+      "desc": "스팀 머신은 PC 게이밍을 거실로 끌어들인 제품이다. 컴팩트하고 조용하며, TV에 연결해 사용하도록 설계됐다. 밸브의 신제품이 어떤 기능을 갖추고 있는지, 플레이스테이션 5·플레이스테이션 5 프로·엑스박스 시리즈 X/S·일반 게이밍 PC와 어떻게 비교되는지, 자신...",
+      "link": "https://www.itworld.co.kr/article/4207616/%ec%8a%a4%ed%8c%80-%eb%a8%b8%ec%8b%a0-vs-%ed%94%8c%eb%a0%88%ec%9d%b4%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%85%98-5-%ed%94%84%eb%a1%9c%c2%b7%ec%97%91%ec%8a%a4%eb%b0%95%ec%8a%a4-%ec%8a%b9%eb%b6%80%ec%b2%98.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "클라우드플레어, AI 퍼스트 기업 겨냥한 운영체제 출시",
-      "desc": "하드웨어와 파일을 관리하던 운영체제 개념이, 에이전틱 AI 시대를 맞아 완전히 새로운 형태로 재정의되고 있다.\n\n\n\n클라우드플레어가 클라우드플레어 OS를 발표했다. 클라우드플레어 OS는 AI 에이전트, 기업 데이터 및 컨텍스트, 내부 시스템, 워크플로를 하나의 안...",
-      "link": "https://www.itworld.co.kr/article/4207020/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ed%94%8c%eb%a0%88%ec%96%b4-ai-%ed%8d%bc%ec%8a%a4%ed%8a%b8-%ea%b8%b0%ec%97%85-%ea%b2%a8%eb%83%a5%ed%95%9c-%ec%9a%b4%ec%98%81%ec%b2%b4%ec%a0%9c-%ec%b6%9c%ec%8b%9c.html",
+      "title": "애플의 메모리 위기, 가격이 아닌 공급량의 문제",
+      "desc": "애플은 미국 정부의 제재 대상인 중국 메모리 공급업체 CXMT로부터 메모리를 조달하기 위해 백악관의 승인을 얻으려는 작업을 계속하고 있다.\n\n\n\n애플 입장에서 문제는 단순한 수학으로 귀결된다. 2025년 초 이후 메모리 가격이 약 7배 급등하면서 아이폰 제조 원가...",
+      "link": "https://www.itworld.co.kr/article/4207593/%ec%95%a0%ed%94%8c%ec%9d%98-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ec%9c%84%ea%b8%b0-%ea%b0%80%ea%b2%a9%ec%9d%b4-%ec%95%84%eb%8b%8c-%ea%b3%b5%ea%b8%89%eb%9f%89%ec%9d%98-%eb%ac%b8%ec%a0%9c.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "AGI에 올인한 구글, 알파벳 수석 과학자로 하사비스 선임",
-      "desc": "구글 딥마인드의 핵심 동력이었던 구글 딥마인드 CEO 데미스 하사비스가 구글 모회사 알파벳의 수석 과학자직에 올랐다. 신생업체 창업을 위해 구글을 떠나는 알파벳 수석 과학자 제프 딘의 뒤를 잇는 자리다.\n\n\n\n알파벳 CEO 순다르 피차이는 구글 블로그에 게재한 글...",
-      "link": "https://www.itworld.co.kr/article/4207011/agi%ec%97%90-%ec%98%ac%ec%9d%b8%ed%95%9c-%ea%b5%ac%ea%b8%80-%ec%95%8c%ed%8c%8c%eb%b2%b3-%ec%88%98%ec%84%9d-%ea%b3%bc%ed%95%99%ec%9e%90%eb%a1%9c-%ed%95%98%ec%82%ac%eb%b9%84%ec%8a%a4-%ec%84%a0%ec%9e%84.html",
+      "title": "AI가 바꾸는 노동 시장, 기술 부문만 나 홀로 성장",
+      "desc": "7월 미국 전체 일자리가 2만 3,000개 감소한 가운데, AI 혁명이 가속화하면서 기술 부문 고용은 반등했다. 미국 노동통계국(Bureau of Labor Statistics, BLS)은 지난주 전국 실업 지표를 발표했다. 복수의 리서치 기관도 6월과 비교해 7...",
+      "link": "https://www.itworld.co.kr/article/4207560/ai%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-%eb%85%b8%eb%8f%99-%ec%8b%9c%ec%9e%a5-%ea%b8%b0%ec%88%a0-%eb%b6%80%eb%ac%b8%eb%a7%8c-%eb%82%98-%ed%99%80%eb%a1%9c-%ec%84%b1%ec%9e%a5.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "AI 에이전트 킬 스위치, 선택 아닌 필수",
-      "desc": "지난 7월 발생한 오픈AI 보안 사고는 의도된 범위를 벗어나 작동하는 AI 에이전트의 위협을 여실히 드러냈다. 보안 책임자들이 킬 스위치를 포함한 엄격한 통제 체계를 시급히 마련해야 한다는 필요성도 함께 부각됐다.\n\n\n\n최근 오픈AI와 앤트로픽과 관련해 잇달아 발...",
-      "link": "https://www.itworld.co.kr/article/4207005/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%82%ac-%ec%8a%a4%ec%9c%84%ec%b9%98-%ec%84%a0%ed%83%9d-%ec%95%84%eb%8b%8c-%ed%95%84%ec%88%98.html",
+      "title": "AI로 무장한 사이버 범죄, 가드레일 우회부터 공급망 침투까지",
+      "desc": "복구된 프롬프트 로그, 공격 도구, 위협 행위자 간 대화를 바탕으로 진행된 시스코 탈로스(Cisco Talos)의 연구가 AI가 악성 코드 개발, 사기 인프라 구축, 취약점 연구 및 익스플로잇 가속화에 어떻게 활용되는지 구체적으로 기록했다.\n\n\n\n블랙햇 USA 컨...",
+      "link": "https://www.itworld.co.kr/article/4207554/ai%eb%a1%9c-%eb%ac%b4%ec%9e%a5%ed%95%9c-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b2%94%ec%a3%84-%ea%b0%80%eb%93%9c%eb%a0%88%ec%9d%bc-%ec%9a%b0%ed%9a%8c%eb%b6%80%ed%84%b0-%ea%b3%b5%ea%b8%89%eb%a7%9d-%ec%b9%a8.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "AI 회의록 앱의 ‘동의 없는 녹음’ 법정 공방",
-      "desc": "AI 회의록 앱 업체 그라놀라가 직장 내 대화를 무단 녹음했다는 혐의로 개인정보 침해 소송에 휘말렸다. 오터.ai를 상대로 한 유사 소송도 진행 중이다.\n\n\n\n7월 30일 캘리포니아 연방법원에 제기된 소장에 따르면, AI 회의록 앱 업체 그라놀라(Granola)는...",
-      "link": "https://www.itworld.co.kr/article/4206507/ai-%ed%9a%8c%ec%9d%98%eb%a1%9d-%ec%95%b1%ec%9d%98-%eb%8f%99%ec%9d%98-%ec%97%86%eb%8a%94-%eb%85%b9%ec%9d%8c-%eb%b2%95%ec%a0%95-%ea%b3%b5%eb%b0%a9.html",
+      "title": "오픈텍스트, 9월 개인정보 보호법 개정 대응…콘텐츠 거버넌스로 규제 선제 대응",
+      "desc": "오는 9월 11일 개정되는 『개인정보 보호법』 시행을 앞두고 기업들의 개인정보 보호체계 정비가 시급한 과제로 떠오르고 있다. 이번 개정안은 개인정보 유출사고 예방과 대응 역량 강화에 초점을 맞추고 있어, 기업의 정보 거버넌스 전반에 대한 재점검이 요구되고 있다.\n...",
+      "link": "https://www.itworld.co.kr/article/4207710/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-9%ec%9b%94-%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4-%eb%b3%b4%ed%98%b8%eb%b2%95-%ea%b0%9c%ec%a0%95-%eb%8c%80%ec%9d%91%ec%bd%98%ed%85%90%ec%b8%a0.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "당뇨병 환자의 응급실 방문 위험, AI로 미리 예측...예측모델 정확도 87%로 기존 모델(73%)보다 크게 향상",
-      "desc": "질병관리청(청장 임승관) 국립보건연구원(원장 남재환)은 국내 대규모 2형 당뇨병 환자의 실제 진료데이터(전자의무기록)를 활용하여 당뇨병 환자의 응급실 방문 위험을 미리 예측할 수 있는 인공지능(AI) 머신러닝 모델을 개발했다.이번 연구는 2022년부터 국립보건연구...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41384",
+      "title": "삼성물산, AI 시니어 리빙 솔루션 ‘에버링’ 출시...돌봄의 새로운 표준 제시",
+      "desc": "삼성물산 건설부문(이하 삼성물산)이 시니어의 삶과 공간을 잇는 인공지능(AI) 시니어 리빙 솔루션 ‘에버링(Everling)’을 11일, 공식 출시한다고 밝혔다.삼성물산 AI 시니어 리빙 솔루션의 정식 브랜드명인 ‘에버링(Everling)’은 ‘언제나’를 뜻하는 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41401",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "록히드마틴, AI로 잠수함 탐지하는 ‘휴대형 소나 전문가’ 실증…5분 이내 모델 재학습·공중 OTA 업데이트",
-      "desc": "록히드마틴(Lockheed Martin)이 인공지능(AI)을 활용해 수중 음향 데이터를 분석하고 잠수함 위협 탐지를 지원하는 차세대 대잠전(ASW) 기술을 태평양 지역 최대 규모의 다국적 해상훈련인 ‘환태평양연합군사훈련(RIMPAC) 2026’에서 성공적으로 실증...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41383",
+      "title": "힛파우 에디마코르, 새 학기 프로모션 진행… AI 영상 편집, 최대 65% 할인 및 2000 무료 크레딧 제공",
+      "desc": "인공지능(AI) 영상 편집 플랫폼 '힛파우 에디마코르(HitPaw Edimakor)'가 새 학기를 맞아 다양한 할인 혜택과 참여형 이벤트를 포함한 특별 프로모션을 진행한다고 11일 밝혔다. 이번 프로모션은 9월 1일까지 진행되며, VIP 플랜 할인 혜택과 함께 A...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41400",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "러시아, AI 기반 ‘쿠브-10ME’ 신형 자폭 드론 공개…11kg 탄두 장착·이미 군에 배치",
-      "desc": "러시아가 일정 지역에서 체공하며 목표를 탐색한 뒤 공격하는 방식의 무인체계로 사거리 100km 이상의 신형 전술 유도형 배회탄약(loitering munition)​을 개발해 군에 배치한 것으로 알려졌다.러시아 국영 타스통신(TASS)은 9일(현지시간) 칼라시니코...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41382",
+      "title": "네이버페이, 한국전력공사와 전기요금 청구·수납 디지털화로 사용자 편의 증진",
+      "desc": "네이버페이(Npay, 대표이사 박상진)가 한국전력공사(이하 한국전력)와 전기요금 청구·수납 디지털화를 위한 업무협약(MOU)을 체결했다고 11일 밝혔다.양사는 이번 협약을 통해 전기요금 납부 서비스를 모바일 기반으로 고도화하기 위해 상호 협력한다. 서비스는 올해 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41399",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "나우로보틱스, 과기정통부 ‘피지컬 AI’ 실증사업 선정…산업용 휴머노이드 개발·실증 본격화",
-      "desc": "지능형 로봇 전문기업 나우로보틱스가 과학기술정보통신부가 추진하는 국산 인공지능(AI) 반도체 기반 ‘피지컬 AI(Physical AI)’ 실증사업에 선정되며 산업용 휴머노이드 개발과 상용화에 속도를 낸다.나우로보틱스는 과학기술정보통신부가 추진하는 국산 AI 반도체...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41381",
+      "title": "오픈AI, 사이버보안 파트너 프로그램 확대…“최전선 AI 모델을 방어 현장에”",
+      "desc": "오픈AI(OpenAI)가 사이버보안 분야에서 최첨단 인공지능(AI) 모델을 보다 많은 보안 전문기업과 서비스 사업자가 활용할 수 있도록 ‘데이브레이크 사이버 파트너 프로그램(Daybreak Cyber Partner Program)’을 확대한다.오픈AI는 자사의 최...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41398",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "메타 저커버그 CEO, “초지능은 모두의 것이 돼야”…‘개인용 초지능’ 시대 선언",
-      "desc": "메타(Meta) 창업자이자 CEO인 마크 저커버그(Mark Zuckerberg)가 인공지능(AI)의 미래를 소수 기업이나 정부가 통제하는 중앙집중형 초지능이 아니라 모든 개인에게 널리 제공되는 ‘개인용 초지능’​으로 만들어야 한다고 주장했다.저커버그는 10일 공개...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41380",
+      "title": "EPFL, 암 조직 공간정보 학습하는 AI 모델 개발…‘환자별 치료 반응 예측’ 길 열어",
+      "desc": "스위스 로잔 연방 공과대학교(EPFL) 연구진이 다양한 암 조직에서 세포와 단백질의 공간적 배치와 상호작용을 학습하는 인공지능(AI) 파운데이션 모델을 개발했다. 연구진은 이 기술이 향후 환자별 암 치료 반응과 질병 진행을 예측하는 정밀의료 기술로 발전할 수 있을...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41397",
       "source": "AI Times"
     }
   ]
