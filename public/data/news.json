@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T23:23:58.534Z",
+  "lastUpdated": "2026-08-16T23:23:55.328Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "빌 게이츠, 한국 원전 공급망에 러브콜…테라파워 SMR, AI 전력시장 정조준",
-      "desc": "산업통상부 김정관 장관은 14일, 방한한 빌 게이츠 빌 게이츠(Bill Gates) 테라파워(TerraPower) 이사회 의장과 서울에서 만나 테라파워 SMR 사업에 한국기업 참여 확대 방안 등에 대하여 논의하였다.테라파워는 빌 게이츠가 공동 설립한 미국의 차세대...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41466",
+      "title": "“이 글, 인공지능이 썼을까?”…이제 알 수 있다, 앤트로픽 'AI 텍스트'에 워터마크 심는다",
+      "desc": "앤트로픽(Anthropic)이 자사의 생성형 AI 클로드(Claude)가 생성하는 텍스트에 워터마크를 적용한다.앤트로픽은 14일(현지시간) 공개한 기술 설명을 통해 향후 클로드 모델이 생성하는 텍스트에 워터마크를 포함한다고 밝혔다. 이번 조치는 유럽연합(EU) 인...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41471",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "\"딥페이크 범죄, 꼼짝마라 \"... 경찰청, AI 3중 대응으로 끝까지 쫓는다",
-      "desc": "경찰청 국가수사본부는 2026년 1 ~ 7월까지 허위영상물(이하, 딥페이크) 범죄 피의자 419명(구속 17명)을 검거하였으며, 진화하는 범죄에 대응하기 위해 ‘딥페이크 탐지 소프트웨어’ 판별, 과학수사 영상 분석관 판독, 인공지능(AI) 범행도구 분석 등 3중 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41465",
+      "title": "美 공군, ‘인지 무기체계’ 강조...“AI 시대, 인간의 마음이 핵심 무기”",
+      "desc": "美 공군이 14일(현지시간), 인공지능(AI) 시대의 군사적 경쟁력으로 기술뿐 아니라 인간의 사고력과 가치관, 정신적 역량을 강조했다.매트 로크마이어(Matt Lohmeier) 미국 공군 차관은 지난 12일(현지시간) 미국 플로리다주 올랜도에서 열린 미국 공군하사...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41470",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "현대차그룹, 육군·산업통상부와 피지컬 AI 및 첨단기술 활용 확대",
-      "desc": "현대차그룹은 14일, 충남 계룡시 육군본부에서 육군, 산업통상부(산업부)와 ‘로봇·피지컬 인공지능(Physical AI) 및 첨단기술 활용 확대를 위한 업무협약(MOU)’을 체결했다. 이날 협약식에는 김규하 육군참모총장, 최장식 육군참모차장, 산업부 이민우 산업성...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41464",
+      "title": "IBM·오픈AI 맞손…GPT-5.6·코덱스로 기업 핵심업무 AI 전환 가속",
+      "desc": "IBM이 오픈AI(OpenAI)와 전략적 파트너십을 체결하고 기업의 핵심 업무와 복잡한 비즈니스 프로세스 전반에 인공지능(AI)을 안전하게 도입하기 위한 협력을 확대한다.양사는 기업이 기존 레거시 시스템과 복잡한 업무 프로세스를 AI 기반 운영환경으로 전환하고, ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41469",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "레노버, '2026·27' 1분기 매출 39조·이익 1.5조원...역사상 최고 분기 실적 달성, '하이브리드 AI 전략이 성장 동인'",
-      "desc": "레노버 그룹(Lenovo Group)는 2026·27 회계연도 1분기 실적을 14일 발표했다. 이는 지난 5년간 최고 분기 매출 성장률과 그룹 역사상 최고 분기 실적을 기록한 것이라고 밝혔다.해당 분기에 그룹 전체 매출은 전년 대비 43% 증가한 269억달러(약 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41463",
+      "title": "AI가 화면 밖 현실로…서울 AI 허브, '피지컬 AI' 해커톤 개최",
+      "desc": "서울시 인공지능(AI) 산업 육성 거점인 서울 AI 허브(센터장 변우석)가 글로벌 AI 기업과 액셀러레이터, 빌더 커뮤니티, 하드웨어 스타트업과 손잡고 생성형 AI와 하드웨어를 결합한 피지컬 AI(Physical AI)의 가능성을 탐색하는 장을 마련한다.서울 AI...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41468",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "솔트룩스, 2026년 상반기 누적 수주 188.9억 달성… 연간 수주 목표 달성 청신호",
-      "desc": "인공지능(AI) 풀스택 전문기업 솔트룩스(대표 이경일)가 2026년 상반기 누적 매출 87억 2천만 원, 누적 수주 188억 9천만 원을 기록했다고 14일 밝혔다. 상반기 말 기준 별도 수주잔고는 약 155억 원으로, 이를 바탕으로 하반기 매출 확대가 기대된다.최...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41462",
+      "title": "LG전자, 브라질 파라나 新공장 가동...AI·산업용 로봇 기반 스마트팩토리 솔루션 도입",
+      "desc": "LG전자(대표이사 류재철)가 세계 7위 인구 대국이자 중남미 최대 내수 시장인 브라질에 새로운 가전 공장을 가동하며 ‘글로벌 사우스(Global South)’에서 성장을 가속화한다.지난 13일(현지시간) 가동을 시작한 파라나(Paraná) 공장은 1996년 설립된...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41467",
       "source": "AI Times"
     }
   ]
