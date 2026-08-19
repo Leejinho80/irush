@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-08-18T23:26:04.008Z",
+  "lastUpdated": "2026-08-19T23:26:21.165Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "빠른 속도 아래 그늘, 기업을 위협하는 바이브 코딩의 허점",
+      "desc": "바이브 코딩이 기업의 최대 보안 위협 중 하나로 부상하고 있다. 애널리스트와 임원들은 바이브 코딩이 데이터를 외부로 유출시킬 수 있다고 경고한다.\n\n\n\n가트너 사이버보안 리서치 총괄 피트 쇼어드는 “현재 가장 큰 리스크는 바이브 코딩으로 개발한 애플리케이션을 통해...",
+      "link": "https://www.itworld.co.kr/article/4211278/%eb%b9%a0%eb%a5%b8-%ec%86%8d%eb%8f%84-%ec%95%84%eb%9e%98-%ea%b7%b8%eb%8a%98-%ea%b8%b0%ec%97%85%ec%9d%84-%ec%9c%84%ed%98%91%ed%95%98%eb%8a%94-%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9%ec%9d%98.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "절제가 독이 된 애플, AI 시대의 주가 역설",
+      "desc": "애플 CEO 팀 쿡의 발언을 꾸준히 들어온 이들에게는 다소 낯선 평가일 수 있지만, 기술 기업 기준에서 애플은 AI에 미온적인 기업으로 분류된다. 어떤 면에서 그런 인식은 오히려 호재로 작용하기도 한다.\n\n\n\n올여름 초, 주가 상승으로 애플 시가총액은 6,000억...",
+      "link": "https://www.itworld.co.kr/article/4211266/%ec%a0%88%ec%a0%9c%ea%b0%80-%eb%8f%85%ec%9d%b4-%eb%90%9c-%ec%95%a0%ed%94%8c-ai-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%a3%bc%ea%b0%80-%ec%97%ad%ec%84%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "공격엔 앞서고 방어엔 뒤처지는 AI 코딩, 얼마나 안전한가",
+      "desc": "AI 모델의 공격·방어 역량 격차가 커지면서, 기업이 심각한 사이버 비대칭 문제에 직면하고 있다.\n\n\n\n최근 몇 달 사이, 대규모 언어 모델(LLM)은 개발자 시간을 낭비시키는 부실한 보안 보고서로 오픈소스 프로젝트와 버그 바운티 프로그램을 잠식하던 수준에서, 사...",
+      "link": "https://www.itworld.co.kr/article/4211249/%ea%b3%b5%ea%b2%a9%ec%97%94-%ec%95%9e%ec%84%9c%ea%b3%a0-%eb%b0%a9%ec%96%b4%ec%97%94-%eb%92%a4%ec%b2%98%ec%a7%80%eb%8a%94-ai-%ec%bd%94%eb%94%a9-%ec%96%bc%eb%a7%88%eb%82%98-%ec%95%88%ec%a0%84%ed%95%9c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "윈도우 XP 시대의 유산 WMIC는 퇴장, 파워셸은 부상",
+      "desc": "마이크로소프트가 최신 윈도우 11 프리뷰 업데이트(KB5120998)를 통해 윈도우 XP 시절부터 운영체제의 일부로 자리해 온 도구인 WMIC(Windows Management Instrumentation Command-line)를 운영체제에서 완전히 퇴출하고 있...",
+      "link": "https://www.itworld.co.kr/article/4211245/%ec%9c%88%eb%8f%84%ec%9a%b0-xp-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%9c%a0%ec%82%b0-wmic%eb%8a%94-%ed%87%b4%ec%9e%a5-%ed%8c%8c%ec%9b%8c%ec%85%b8%ec%9d%80-%eb%b6%80%ec%83%81.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "AI 정책, 직원 없이 만들어도 될까?",
       "desc": "많은 기업이 이미 AI 정책을 수립했거나 적어도 검토 중일 것이다. 승인된 AI 툴과 활용 방법을 명시하고, 직원이 업무에 툴을 활용할 수 있도록 교육 프로그램을 마련하며, 보안 취약점·데이터 편향 같은 문제를 예방하기 위한 가드레일을 갖추는 내용이다.\n\n\n\n하지...",
       "link": "https://www.itworld.co.kr/article/4210781/ai-%ec%a0%95%ec%b1%85-%ec%a7%81%ec%9b%90-%ec%97%86%ec%9d%b4-%eb%a7%8c%eb%93%a4%ec%96%b4%eb%8f%84-%eb%90%a0%ea%b9%8c.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "“되돌릴 수 있다면, 검토도 가볍게” 변경 관리 경량화의 조건",
-      "desc": "한가한 화요일 오후를 상상해보자. 프로덕션 변경에 적용할 CostCenter 태그 업데이트를 승인받기 위해 변경 관리 콜을 3시간째 진행 중이다. 영향을 받는 건 핀옵스(FinOps) 보고 업무뿐이다. 실제 변경 작업은 테라폼(Terraform) 실행 2분이면 끝...",
-      "link": "https://www.itworld.co.kr/article/4210774/%eb%90%98%eb%8f%8c%eb%a6%b4-%ec%88%98-%ec%9e%88%eb%8b%a4%eb%a9%b4-%ea%b2%80%ed%86%a0%eb%8f%84-%ea%b0%80%eb%b3%8d%ea%b2%8c-%eb%b3%80%ea%b2%bd-%ea%b4%80%eb%a6%ac-%ea%b2%bd%eb%9f%89%ed%99%94.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "보이지 않는 클로드 텍스트 워터마크, 단어 선택에도 개입하는가",
-      "desc": "앤트로픽은 그간 곧 클로드가 모든 텍스트 출력에 워터마크를 삽입할 예정이며, 외부에서는 감지할 수 없는 방식으로 적용된다고 밝혀왔다. 핵심 쟁점은 워터마크가 클로드 생성 텍스트의 의미를 변경하거나 품질을 저하시키는지다.\n\n\n\n앤트로픽은 최근 공개한 블로그 포스트에...",
-      "link": "https://www.itworld.co.kr/article/4210764/%eb%b3%b4%ec%9d%b4%ec%a7%80-%ec%95%8a%eb%8a%94-%ed%81%b4%eb%a1%9c%eb%93%9c-%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%9b%8c%ed%84%b0%eb%a7%88%ed%81%ac-%eb%8b%a8%ec%96%b4-%ec%84%a0%ed%83%9d%ec%97%90%eb%8a%94.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "“매출 400억 달러, 윤리 책임자 0명” 오픈AI의 AI 수장들 잇단 이탈",
-      "desc": "파이낸셜타임즈가 오픈AI의 AI 윤리 책임자 클로에 바칼라르가 합류 1년 만에 퇴사했다고 보도했다. 따르면 바칼라르는 현재까지 별다른 입장을 밝히지 않았으며, 링크드인 프로필도 아직 업데이트하지 않은 상태다. 퇴사 사실이 사실로 확인될 경우, 최근 수개월 사이 오...",
-      "link": "https://www.itworld.co.kr/article/4210731/%eb%a7%a4%ec%b6%9c-400%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ec%9c%a4%eb%a6%ac-%ec%b1%85%ec%9e%84%ec%9e%90-0%eb%aa%85-%ec%98%a4%ed%94%88ai%ec%9d%98-ai-%ec%88%98%ec%9e%a5%eb%93%a4-%ec%9e%87%eb%8b%a8.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "씨클리너 위장 악성코드, 크롬을 자격증명 탈취 감시 도구로 악용",
-      "desc": "널리 사용되는 씨클리너 유틸리티의 정교한 위조 버전이 다단계 윈도우 악성코드를 배포하는 수단으로 악용되고 있다. 궁극적으로는 구글 크롬을 자격증명 탈취 및 감시 목적으로 전용하는 구조다.\n\n\n\n멀웨어바이트(Malwarebytes) 연구팀은 고스트데스크(GhostD...",
-      "link": "https://www.itworld.co.kr/article/4210717/%ec%94%a8%ed%81%b4%eb%a6%ac%eb%84%88-%ec%9c%84%ec%9e%a5-%ec%95%85%ec%84%b1%ec%bd%94%eb%93%9c-%ed%81%ac%eb%a1%ac%ec%9d%84-%ec%9e%90%ea%b2%a9%ec%a6%9d%eb%aa%85-%ed%83%88%ec%b7%a8-%ea%b0%90%ec%8b%9c.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "英 경찰, AI로 101 비긴급 신고 전화 분류…연간 850만 파운드 절감 기대",
-      "desc": "영국 경찰이 비긴급 신고 전화인 ‘101’에 인공지능(AI)을 도입해 전화 대기시간을 줄이고 경찰 인력의 업무 부담을 낮춘다.영국 내무부(Home Office)는 18일(현지시간) AI 기반 101 전화 분류·연결 시스템을 도입한다고 밝혔다. 정부는 시스템 구축에...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41500",
+      "title": "세레브라스, 혁신적인 AI 가속기 ‘CS-4’ 공개… GPU 대비 최대 30배 빠른 추론 속도",
+      "desc": "초대형 인공지능(AI) 반도체 설계 전문 기업 세레브라스 시스템즈(Cerebras System)가 지난 5월 14일, 미국 나스닥 상장 이후 18일(현지시간), 차세대 랙 스케일 AI 가속기 ‘CS-4’를 공개했다. 이 혁신적인 가속기는 새로운 웨이퍼 스케일 엔진...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41524",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "알리바바, 초소형부터 2.4조 파라미터까지…‘큐웬3.8’ 글로벌 오픈소스 생태계 선도",
-      "desc": "알리바바(Alibaba)가 초소형 오픈웨이트 모델부터 2.4조 파라미터 규모의 플래그십 모델까지 잇따라 공개하고 큐웬3.8(Qwen3.8) 오픈소스 생태계를 확대하고 있다. 알리바바 클라우드는 Qwen3.8 시리즈의 최신 오픈웨이트 모델인 ‘Qwen3.8-27B’...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41499",
+      "title": "파워젠, ‘GEN OCR v6.0’ 출시… AI 기반 자동 학습으로 비정형 문서 처리 간소화",
+      "desc": "인공지능(AI)·업무자동화 전문기업 파워젠(대표 이정규)이 지능형 문서인식 솔루션 ‘GEN OCR v6.0’을 19일 출시했다.GEN OCR v6.0은 기존 v5.0 대비 한글 학습 데이터를 1억 자에서 1억5천만 자로 확대해 인식 성능을 높였다. 인쇄체는 99%...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41523",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "운세박사, 챗GPT 플러그인 엔터테인먼트 부문 세계 2위에 올라!",
-      "desc": "인공지능(AI) 사주 서비스 ‘운세박사’가 챗GPT(ChatGPT) 플러그인 스토어 엔터테인먼트 카테고리에서 세계 2위에 올랐다.18일, 확인된 챗GPT 플러그인 스토어 엔터테인먼트 카테고리 화면에 따르면 운세박사는 애플뮤직(Apple Music)에 이어 두 번째...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41498",
+      "title": "스태빌리티 AI, ‘스테이블 오디오 3.0’ 작업 방식 확장…음악 생성 넘어 편곡·편집·믹싱까지 지원",
+      "desc": "스태빌리티 AI(Stability AI)가 음악 생성 인공지능(AI) 모델 ‘스테이블 오디오 3.0(Stable Audio 3.0)’을 음악 제작 과정에 직접 활용할 수 있도록 작업 환경을 확장했다.스태빌리티 AI는 18일(현지시간) 스테이블 오디오 3.0을 위한...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41522",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "\"의료AI, 높은 정확도가 의료격차를 숨긴다\"…데이터가 만드는 불평등",
-      "desc": "인공지능은 흔히 인간의 편견에서 벗어난 객관적인 판단 도구로 소개된다. 동일한 계산 기준을 적용하기 때문에 모든 환자를 공평하게 평가할 것이라는 기대도 크다. 그러나 의료AI의 높은 평균 정확도가 모든 환자에게 동일한 혜택을 의미하지는 않는다.AI가 학습하는 의료...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41497",
+      "title": "히타치 에너지, 중국에 3억 달러 투자…AI 데이터센터 전력 인프라 수요 대응",
+      "desc": "히타치 에너지가 중국에 3억 달러(약 4,184억원)를 투자하고 변압기와 관련 전력기기 생산능력을 대폭 확대한다. 인공지능(AI)과 데이터센터 확산으로 전력 수요가 빠르게 증가하면서 핵심 전력망 장비의 공급망을 강화하기 위한 투자다.히타치에너지는 중국 동부 안후이...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41520",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "GM, 인공지능·배터리·충전 기술 이끄는 ‘라이징 스타’ 3명 선정",
-      "desc": "제너럴 모터스(GM)가 배터리 화학, 인공지능(AI), 전기차 충전 분야에서 차세대 자동차 기술 혁신을 이끌고 있는 핵심 인재 3명을 배출했다.GM은 17일(현지시간) 자동차 전문 매체 오토모티브 뉴스(Automotive News)가 자사 임직원인 슈리람 산타나고...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41496",
+      "title": "GM, 2028년 ‘아이즈 오프’ 슈퍼 크루즈 출시…핸즈프리에서 운전자 시선까지 자유롭게",
+      "desc": "제너럴 모터스(GM)가 운전자의 손을 운전대에서 떼는 수준을 넘어 도로에서 시선을 돌릴 수 있는 차세대 운전자 보조 기술 개발에 속도를 내고 있다.GM은 2028년 차세대 슈퍼 크루즈(Super Cruise)에 ‘아이즈 오프(eyes-off)’ 기능을 도입할 계획...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41519",
       "source": "AI Times"
     }
   ]
