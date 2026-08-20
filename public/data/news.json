@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-08-19T23:26:21.165Z",
+  "lastUpdated": "2026-08-20T23:29:09.265Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "AI 추론 아키텍처, 파일럿 단계에서 결정하라…AI 추론 인프라의 5가지 원칙",
+      "desc": "아직 AI 전략을 수립하는 단계에 머물러 있는 기업이 있는가 하면, 실험이나 개념 증명(POC)이 프로덕션 단계에 도달하지 못한 채 ‘파일럿 연옥’에 갇혀 있는 기업도 적지 않다. ‘기업 AI 현황(The State of AI in the Enterprise)’ ...",
+      "link": "https://www.itworld.co.kr/article/4211748/ai-%ec%b6%94%eb%a1%a0-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98-%ed%8c%8c%ec%9d%bc%eb%9f%bf-%eb%8b%a8%ea%b3%84%ec%97%90%ec%84%9c-%ea%b2%b0%ec%a0%95%ed%95%98%eb%9d%bc-ai-%ec%b6%94%eb%a1%a0-%ec%9d%b8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "노드 VPN 리뷰 : 단순 VPN을 넘어선 종합 보안 플랫폼",
+      "desc": "노드VPN(NordVPN)은 방대한 사용자층을 보유한, 가장 널리 알려진 가상 사설망(VPN) 서비스 중 하나다. 뛰어난 속도, 대규모 서버 네트워크, 타의 추종을 불허하는 보안 기능으로 신뢰받는 프리미엄 서비스다.\n\n\n\n모든 보안 요구를 단일 서비스로 해결하기 ...",
+      "link": "https://www.itworld.co.kr/article/4211735/%eb%85%b8%eb%93%9c-vpn-%eb%a6%ac%eb%b7%b0-%eb%8b%a8%ec%88%9c-vpn%ec%9d%84-%eb%84%98%ec%96%b4%ec%84%a0-%ec%a2%85%ed%95%a9-%eb%b3%b4%ec%95%88-%ed%94%8c%eb%9e%ab%ed%8f%bc.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "실수하는 AI 개발자, 그래도 채용해야 하는 이유",
+      "desc": "필자의 기사를 꾸준히 읽어온 독자라면 필자가 대체로 낙관주의자라는 사실을 알아챘을 것이다. 필자는 상황이 항상 나아지고 있으며, 인류의 미래도 꽤 밝다고 생각한다. 기술은 인류를 극심한 빈곤에서 벗어나 지구에서 제법 괜찮은 삶을 누릴 수 있게 해줬다.\n\n\n\n또한 ...",
+      "link": "https://www.itworld.co.kr/article/4211725/%ec%8b%a4%ec%88%98%ed%95%98%eb%8a%94-ai-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ea%b7%b8%eb%9e%98%eb%8f%84-%ec%b1%84%ec%9a%a9%ed%95%b4%ec%95%bc-%ed%95%98%eb%8a%94-%ec%9d%b4%ec%9c%a0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "카메라 없이도 침입 감지, 라우터가 감시 장치로 진화하는 시대",
+      "desc": "미국 최대 주거용 인터넷 서비스 업체 컴캐스트가 와이파이 신호만으로 물리적 움직임을 감지하는 신기능 와이파이 모션(WiFi Motion)을 도입한다. 와이파이 모션은 신호 간섭을 분석해 실내 공간에서 사람과 사물의 움직임을 정밀하게 감지하고 추적한다.\n\n\n\n와이파...",
+      "link": "https://www.itworld.co.kr/article/4211719/%ec%b9%b4%eb%a9%94%eb%9d%bc-%ec%97%86%ec%9d%b4%eb%8f%84-%ec%b9%a8%ec%9e%85-%ea%b0%90%ec%a7%80-%eb%9d%bc%ec%9a%b0%ed%84%b0%ea%b0%80-%ea%b0%90%ec%8b%9c-%ec%9e%a5%ec%b9%98%eb%a1%9c-%ec%a7%84%ed%99%94.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "빠른 속도 아래 그늘, 기업을 위협하는 바이브 코딩의 허점",
       "desc": "바이브 코딩이 기업의 최대 보안 위협 중 하나로 부상하고 있다. 애널리스트와 임원들은 바이브 코딩이 데이터를 외부로 유출시킬 수 있다고 경고한다.\n\n\n\n가트너 사이버보안 리서치 총괄 피트 쇼어드는 “현재 가장 큰 리스크는 바이브 코딩으로 개발한 애플리케이션을 통해...",
       "link": "https://www.itworld.co.kr/article/4211278/%eb%b9%a0%eb%a5%b8-%ec%86%8d%eb%8f%84-%ec%95%84%eb%9e%98-%ea%b7%b8%eb%8a%98-%ea%b8%b0%ec%97%85%ec%9d%84-%ec%9c%84%ed%98%91%ed%95%98%eb%8a%94-%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9%ec%9d%98.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "절제가 독이 된 애플, AI 시대의 주가 역설",
-      "desc": "애플 CEO 팀 쿡의 발언을 꾸준히 들어온 이들에게는 다소 낯선 평가일 수 있지만, 기술 기업 기준에서 애플은 AI에 미온적인 기업으로 분류된다. 어떤 면에서 그런 인식은 오히려 호재로 작용하기도 한다.\n\n\n\n올여름 초, 주가 상승으로 애플 시가총액은 6,000억...",
-      "link": "https://www.itworld.co.kr/article/4211266/%ec%a0%88%ec%a0%9c%ea%b0%80-%eb%8f%85%ec%9d%b4-%eb%90%9c-%ec%95%a0%ed%94%8c-ai-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%a3%bc%ea%b0%80-%ec%97%ad%ec%84%a4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "공격엔 앞서고 방어엔 뒤처지는 AI 코딩, 얼마나 안전한가",
-      "desc": "AI 모델의 공격·방어 역량 격차가 커지면서, 기업이 심각한 사이버 비대칭 문제에 직면하고 있다.\n\n\n\n최근 몇 달 사이, 대규모 언어 모델(LLM)은 개발자 시간을 낭비시키는 부실한 보안 보고서로 오픈소스 프로젝트와 버그 바운티 프로그램을 잠식하던 수준에서, 사...",
-      "link": "https://www.itworld.co.kr/article/4211249/%ea%b3%b5%ea%b2%a9%ec%97%94-%ec%95%9e%ec%84%9c%ea%b3%a0-%eb%b0%a9%ec%96%b4%ec%97%94-%eb%92%a4%ec%b2%98%ec%a7%80%eb%8a%94-ai-%ec%bd%94%eb%94%a9-%ec%96%bc%eb%a7%88%eb%82%98-%ec%95%88%ec%a0%84%ed%95%9c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "윈도우 XP 시대의 유산 WMIC는 퇴장, 파워셸은 부상",
-      "desc": "마이크로소프트가 최신 윈도우 11 프리뷰 업데이트(KB5120998)를 통해 윈도우 XP 시절부터 운영체제의 일부로 자리해 온 도구인 WMIC(Windows Management Instrumentation Command-line)를 운영체제에서 완전히 퇴출하고 있...",
-      "link": "https://www.itworld.co.kr/article/4211245/%ec%9c%88%eb%8f%84%ec%9a%b0-xp-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%9c%a0%ec%82%b0-wmic%eb%8a%94-%ed%87%b4%ec%9e%a5-%ed%8c%8c%ec%9b%8c%ec%85%b8%ec%9d%80-%eb%b6%80%ec%83%81.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "AI 정책, 직원 없이 만들어도 될까?",
-      "desc": "많은 기업이 이미 AI 정책을 수립했거나 적어도 검토 중일 것이다. 승인된 AI 툴과 활용 방법을 명시하고, 직원이 업무에 툴을 활용할 수 있도록 교육 프로그램을 마련하며, 보안 취약점·데이터 편향 같은 문제를 예방하기 위한 가드레일을 갖추는 내용이다.\n\n\n\n하지...",
-      "link": "https://www.itworld.co.kr/article/4210781/ai-%ec%a0%95%ec%b1%85-%ec%a7%81%ec%9b%90-%ec%97%86%ec%9d%b4-%eb%a7%8c%eb%93%a4%ec%96%b4%eb%8f%84-%eb%90%a0%ea%b9%8c.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "세레브라스, 혁신적인 AI 가속기 ‘CS-4’ 공개… GPU 대비 최대 30배 빠른 추론 속도",
-      "desc": "초대형 인공지능(AI) 반도체 설계 전문 기업 세레브라스 시스템즈(Cerebras System)가 지난 5월 14일, 미국 나스닥 상장 이후 18일(현지시간), 차세대 랙 스케일 AI 가속기 ‘CS-4’를 공개했다. 이 혁신적인 가속기는 새로운 웨이퍼 스케일 엔진...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41524",
+      "title": "오픈AI, ‘제로 데이터 보존’ 고객 위한 프라이빗 안전 처리 공개…“콘텐츠 안 보고도 AI 오남용 탐지”",
+      "desc": "오픈AI(OpenAI)가 고객의 프롬프트와 모델 응답을 보존하지 않는 ‘제로 데이터 보존(ZDR, Zero Data Retention)’ 환경에서도 인공지능(AI) 안전성을 강화할 수 있는 새로운 기술을 공개했다.오픈AI는 19일(현지시간) ‘프라이빗 안전 처리(...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41542",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "파워젠, ‘GEN OCR v6.0’ 출시… AI 기반 자동 학습으로 비정형 문서 처리 간소화",
-      "desc": "인공지능(AI)·업무자동화 전문기업 파워젠(대표 이정규)이 지능형 문서인식 솔루션 ‘GEN OCR v6.0’을 19일 출시했다.GEN OCR v6.0은 기존 v5.0 대비 한글 학습 데이터를 1억 자에서 1억5천만 자로 확대해 인식 성능을 높였다. 인쇄체는 99%...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41523",
+      "title": "[AI 리뷰] 손정의 회장, \"인공슈퍼지능 이코노미 도래할 것!\"…2040년, 세계 GDP 20%가 AI로 대체",
+      "desc": "손정의 소프트뱅크그룹 회장이 오는 2040년 인공지능(AI)이 세계 경제의 약 20%를 차지하는 ‘인공슈퍼지능 이코노미(Artificial Superintelligence Economy)’가 도래할 것이라는 전망을 내놨다.AI 에이전트가 100조개 규모로 확대되고...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41541",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "스태빌리티 AI, ‘스테이블 오디오 3.0’ 작업 방식 확장…음악 생성 넘어 편곡·편집·믹싱까지 지원",
-      "desc": "스태빌리티 AI(Stability AI)가 음악 생성 인공지능(AI) 모델 ‘스테이블 오디오 3.0(Stable Audio 3.0)’을 음악 제작 과정에 직접 활용할 수 있도록 작업 환경을 확장했다.스태빌리티 AI는 18일(현지시간) 스테이블 오디오 3.0을 위한...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41522",
+      "title": "대동, 제조현장에 피지컬 AI 접목…대구공장 제조 AX 본격화",
+      "desc": "미래농업 리딩 기업 대동(공동대표 김준식·원유현)이 인공지능(AI) 트랙터와 농업로봇 등으로 추진해온 농업 인공지능 전환(AX)에 이어 생산현장에 AI·로봇·데이터를 적용하는 제조 AX를 본격화한다. 대구공장을 생산성과 품질, 시장 대응력을 높이는 피지컬 AI 기...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41540",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "히타치 에너지, 중국에 3억 달러 투자…AI 데이터센터 전력 인프라 수요 대응",
-      "desc": "히타치 에너지가 중국에 3억 달러(약 4,184억원)를 투자하고 변압기와 관련 전력기기 생산능력을 대폭 확대한다. 인공지능(AI)과 데이터센터 확산으로 전력 수요가 빠르게 증가하면서 핵심 전력망 장비의 공급망을 강화하기 위한 투자다.히타치에너지는 중국 동부 안후이...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41520",
+      "title": "오늘의집 북촌서 ‘레노버 AI 팝업스토어’ 운영…한국레노버, AI로 아티스트 작품 재해석",
+      "desc": "한국레노버가 커넥트웨이브 가격비교 서비스 ‘다나와’와 함께 서울 종로구에 위치한 ‘오늘의집 북촌’에서 ‘레노버 AI 팝업스토어’를 오는 30일까지 운영한다.이번 팝업스토어는 최신 인공지능(AI) PC와 태블릿 체험부터 AI를 활용한 창작 프로그램까지 다채로운 참여...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41539",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "GM, 2028년 ‘아이즈 오프’ 슈퍼 크루즈 출시…핸즈프리에서 운전자 시선까지 자유롭게",
-      "desc": "제너럴 모터스(GM)가 운전자의 손을 운전대에서 떼는 수준을 넘어 도로에서 시선을 돌릴 수 있는 차세대 운전자 보조 기술 개발에 속도를 내고 있다.GM은 2028년 차세대 슈퍼 크루즈(Super Cruise)에 ‘아이즈 오프(eyes-off)’ 기능을 도입할 계획...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41519",
+      "title": "\"보는 데이터 넘어, 행동하는 데이터로\"…세일즈포스, ‘에이전틱 분석’ 시대 본격화",
+      "desc": "전 세계 에이전틱 CRM 시장을 선도하고 있는 세일즈포스의 지능형 데이터 분석 플랫폼 태블로(Tableau)가 20일, 서울 삼성동 그랜드 인터컨티넨탈 서울 파르나스에서 연례 인공지능(AI)·데이터 컨퍼런스 ‘데이터팸 서울 2026(DataFam Seoul 202...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41538",
       "source": "AI Times"
     }
   ]
