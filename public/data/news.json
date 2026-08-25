@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-08-24T23:25:40.807Z",
+  "lastUpdated": "2026-08-25T23:28:07.861Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "AI 예산을 갉아먹는 진짜 주범은 GPU 아니라 데이터 품질",
+      "desc": "AI 애플리케이션을 구축하는 팀은 흔히 오래된 습관에 의존한다. 관련성이 있을 법한 데이터를 모두 수집하고, 무엇이 중요한지는 나중에 판단하는 방식이다. 원시 로그나 전체 테이블 같은 완전한 데이터셋을 프롬프트나 벡터 데이터베이스에 그대로 밀어 넣으면서도, 사전에...",
+      "link": "https://www.itworld.co.kr/article/4213357/ai-%ec%98%88%ec%82%b0%ec%9d%84-%ea%b0%89%ec%95%84%eb%a8%b9%eb%8a%94-%ec%a7%84%ec%a7%9c-%ec%a3%bc%eb%b2%94%ec%9d%80-gpu-%ec%95%84%eb%8b%88%eb%9d%bc-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%92%88%ec%a7%88.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "오픈AI, 프롬프트 보유 없이 AI 오용 패턴 탐지하는 ‘프라이빗 세이프티 프로세싱’ 공개",
+      "desc": "오픈AI가 여러 상호작용에 걸쳐 AI 시스템의 오용을 탐지하면서도 프롬프트나 응답을 보유하지 않는 새 안전 기능을 추가했다. 기업 고객이 제로 데이터 리텐션(ZDR, Zero Data Retention) 정책을 유지하면서도 위험 모니터링을 수행할 수 있도록 설계됐...",
+      "link": "https://www.itworld.co.kr/article/4213336/%ec%98%a4%ed%94%88ai-%ed%94%84%eb%a1%ac%ed%94%84%ed%8a%b8-%eb%b3%b4%ec%9c%a0-%ec%97%86%ec%9d%b4-ai-%ec%98%a4%ec%9a%a9-%ed%8c%a8%ed%84%b4-%ed%83%90%ec%a7%80%ed%95%98%eb%8a%94-%ed%94%84%eb%9d%bc.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "링크드인 ‘AI 슬롭 신고’ 버튼, 출시 3주 만에 100만 클릭 돌파",
+      "desc": "몇 주 전, 링크드인은 소셜미디어 플랫폼 내 스팸 의심 게시물을 신고하는 “AI 슬롭 같음(seems like AI slop)”을 신고하는 버튼 테스트를 시작했다. ‘AI 슬롭’은 AI가 생성한 저품질·무성의 콘텐츠를 일컫는 신조어다. 신고 버튼은 출시 직후부터 ...",
+      "link": "https://www.itworld.co.kr/article/4213312/%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-ai-%ec%8a%ac%eb%a1%ad-%ec%8b%a0%ea%b3%a0-%eb%b2%84%ed%8a%bc-%ec%b6%9c%ec%8b%9c-3%ec%a3%bc-%eb%a7%8c%ec%97%90-100%eb%a7%8c-%ed%81%b4%eb%a6%ad-%eb%8f%8c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "완벽한 비밀주의에 균열, 애플은 왜 스스로 발목을 잡나",
+      "desc": "두 달 전만 해도 필자는 두 가지를 믿었다. 잉글랜드가 월드컵에서 우승할 수 있다는 것, 그리고 애플이 지구상에서 가장 세련된 홍보 기업을 갖추고 있다는 것이었다. 두 가지 모두 필자의 착각이었다.\n\n\n\n선수들이 패스와 슈팅, 거친 태클로 경쟁하는 동안, 애플은 ...",
+      "link": "https://www.itworld.co.kr/article/4213305/%ec%99%84%eb%b2%bd%ed%95%9c-%eb%b9%84%eb%b0%80%ec%a3%bc%ec%9d%98%ec%97%90-%ea%b7%a0%ec%97%b4-%ec%95%a0%ed%94%8c%ec%9d%80-%ec%99%9c-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%eb%b0%9c%eb%aa%a9%ec%9d%84-%ec%9e%a1.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "챗GPT, 맥 메시지 완전 접근 요구…’프라이버시의 새로운 경계’",
       "desc": "경쟁사들이 사용자의 가장 민감한 데이터에 접근하려 한다는 애플의 경고는 결코 과장이 아니었다. 오픈AI의 챗GPT가 맥에서 애플 메시지 앱을 제어할 수 있는 새 플러그인을 출시했다. 앞서 맥에서의 사용자 활동을 모니터링하는 ‘컴퓨터 히스토리(Computer His...",
       "link": "https://www.itworld.co.kr/article/4212670/%ec%b1%97gpt-%eb%a7%a5-%eb%a9%94%ec%8b%9c%ec%a7%80-%ec%99%84%ec%a0%84-%ec%a0%91%ea%b7%bc-%ec%9a%94%ea%b5%ac-%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b2%84%ec%8b%9c%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "AI가 설명할수록 인간 판단력 저하…LLM 추천 근거의 역설",
-      "desc": "대규모 언어 모델(LLM)이 생성한 추천 근거를 함께 제시할 경우, 평가자의 생산적인 이견 제기를 억제하고 잠재력 높은 아이디어를 탈락시킬 수 있다는 연구 결과가 나왔다.\n\n\n\nAI가 자신 있게 오답을 내놓는다는 사실은 잘 알려져 있다. 이제 AI는 인간마저 같은...",
-      "link": "https://www.itworld.co.kr/article/4212648/ai%ea%b0%80-%ec%84%a4%eb%aa%85%ed%95%a0%ec%88%98%eb%a1%9d-%ec%9d%b8%ea%b0%84-%ed%8c%90%eb%8b%a8%eb%a0%a5-%ec%a0%80%ed%95%98llm-%ec%b6%94%ec%b2%9c-%ea%b7%bc%ea%b1%b0%ec%9d%98-%ec%97%ad.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "오퍼스 모델 언어 혼선, 토큰 비용 2배·개발 속도 저하로 이어져",
-      "desc": "AI 코딩 어시스턴트는 개발자의 의도를 작동 가능한 소프트웨어로 전환하는 데 필요한 작업량을 줄이기 위해 설계된 도구다. 그러나 앤트로픽의 오퍼스 4.8과 오퍼스 5 모델 사용자 일부는 모델의 언어를 교정하는 데 추가 시간과 프롬프트, 토큰을 소비한다. 일부 사용...",
-      "link": "https://www.itworld.co.kr/article/4212644/%ec%98%a4%ed%8d%bc%ec%8a%a4-%eb%aa%a8%eb%8d%b8-%ec%96%b8%ec%96%b4-%ed%98%bc%ec%84%a0-%ed%86%a0%ed%81%b0-%eb%b9%84%ec%9a%a9-2%eb%b0%b0%c2%b7%ea%b0%9c%eb%b0%9c-%ec%86%8d%eb%8f%84-%ec%a0%80%ed%95%98.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "애플, 비전 프로·시리 팀 200명 감원으로 AI 전략 재편",
-      "desc": "블룸버그 보도에 따르면, 애플은 “신규 기기와 AI에 집중”하기 위해 여러 부서에서 직원을 정리해고하고 “재배치”하고 있다. 약 200명이 조정 대상이다.\n\n\n\n비전 프로 팀에서는 100개 직위가 줄었으며, 감원 대부분은 게임 및 몰입형 비디오 관련 팀에서 이뤄졌...",
-      "link": "https://www.itworld.co.kr/article/4212639/%ec%95%a0%ed%94%8c-%eb%b9%84%ec%a0%84-%ed%94%84%eb%a1%9c%c2%b7%ec%8b%9c%eb%a6%ac-%ed%8c%80-200%eb%aa%85-%ea%b0%90%ec%9b%90%ec%9c%bc%eb%a1%9c-ai-%ec%a0%84%eb%9e%b5-%ec%9e%ac%ed%8e%b8.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "데모 에이전트와 배포 에이전트 사이를 가로막는 5개의 장벽",
-      "desc": "데모에서 인상적으로 보이는 AI 에이전트를 만드는 일은 이제 숙련된 개발자라면 주말 이틀 만에도 완성할 수 있는 수준이 됐다. 그러나 실제 기업 환경에서 CRM, 데이터 웨어하우스, 고객 정보에 접근하도록 허용되는 에이전트를 구축하는 것은 전혀 다른 영역의 일이다...",
-      "link": "https://www.itworld.co.kr/article/4212247/%eb%8d%b0%eb%aa%a8-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%99%80-%eb%b0%b0%ed%8f%ac-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%82%ac%ec%9d%b4%eb%a5%bc-%ea%b0%80%eb%a1%9c%eb%a7%89%eb%8a%94-5%ea%b0%9c.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "‘의사처럼 생각하는’ 위암 진단 AI 개발…고려대 곽진태 교수팀, 단계적 추론으로 정확도 높여",
-      "desc": "고려대학교(총장 김동원) 전기전자공학부 곽진태 교수 연구팀이 실제 병리과 의사처럼 단계별 추론을 거쳐 위암을 정확하게 진단하는 AI 모델 ‘AUGUST(Adaptive Unified Gastric diagnosis Using Sequential Tasks)’를 개...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41576",
+      "title": "마키나락스, LLM 기반 코드 분석으로 PLC 메모리 최적화…삼성디스플레이 베트남 적용",
+      "desc": "마키나락스가 삼성디스플레이 베트남 공장 양산 라인에 AI 기반 설비 제어 최적화 기술 개발 협력에 나선다.대한민국 대표 피지컬 AI 기업 마키나락스(MakinaRocks, 대표 윤성호)가 삼성디스플레이 베트남 공장에 인공지능(AI) 기반 설비 제어 최적화를 위한 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41598",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "DGIST, 과기부 50억 차세대 AI 과제 선정...과학·공학 난제 풀 ‘AI 역학자’ 개발",
-      "desc": "DGIST(총장 이건우)는 과학기술정보통신부가 추진하는 ‘차세대 AI+S&T(과학기술) 기반기술 개발’ 사업 신규 과제에 최종 선정됐다고 24일 밝혔다.이를 통해 복잡한 다공(多孔, 구멍이 많은) 구조 내부에서 일어나는 유체·열·물질 등의 이동 현상을 인공지능이 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41574",
+      "title": "답변하는 AI에서 일하는 AI로 진화…유베이스, 컨택센터 운영 혁신",
+      "desc": "인공지능 BPO 테크기업 유베이스 그룹(대표 목진원)이 상담 업무를 직접 수행하는 ‘AI 에이전트(AI Agent)’ 서비스 상용화를 본격화한다. 유베이스는 AI 에이전트를 컨택센터 상담 업무에 적용해 상담 효율과 생산성을 높이는 등 가시적인 성과를 확인했다고 2...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41597",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "AMD, AI 도입 비용 계산하는 ‘토크노믹스 계산기’ 공개…손익분기점과 최적 하드웨어 구성 제안",
-      "desc": "AMD는 기업의 대규모 인공지능(AI) 도입에 따른 비용과 경제성을 분석할 수 있는 ‘AMD 클라이언트 토크노믹스 계산기(AMD Client Tokenomics Calculator)’를 24일 공개했다.이 계산기는 AI 워크로드를 클라우드에서만 실행하는 방식과 로...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41573",
+      "title": "미스트랄·휴메인, 사우디 ‘주권형 AI’ 구축 맞손…수억 유로 규모 전략 협력",
+      "desc": "프랑스 인공지능(AI) 기업 미스트랄(Mistral)과 사우디아라비아의 인공지능 기업 휴메인(HUMAIN)이 사우디아라비아와 중동 지역의 주권형 AI(Sovereign AI) 생태계 구축을 위해 전략적 협력에 나선다.미스트랄과 휴메인은 24일(현지시간) 사우디아라...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41596",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "현대차, 9월 대규모 신입 채용 실시...\"SDV·AI·로보틱스 등 미래 신사업 주도할 인재\"",
-      "desc": "현대자동차가 소프트웨어 중심 차량(SDV), 인공지능(AI), 로보틱스 등 미래 신사업을 주도할 인재를 확보하기 위해 대규모 신입 채용에 나선다. 서류전형 면제 혜택을 제공하는 오프라인 상담회 등 지원자를 위한 프로그램도 다양하게 운영한다.현대차는 오는 9월 1일...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41572",
+      "title": "“민간 AI 역량 모아 공공문제 해결한다”...행안부, ‘2026년 AI 분석모델 개발 경진대회’ 개최",
+      "desc": "정부가 민간 전문가들의 아이디어를 한데 모아, 사회문제를 해결할 인공지능(AI) 모델을 직접 만들고 해법을 겨루는 경쟁의 장을 연다.행정안전부(장관 윤호중)는 민간의 AI 기술과 역량을 활용해 국민생활과 밀접한 정책 현안을 해결하기 위한 '2026년 AI 기반 현...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41595",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "현대차·기아, 사내 해커톤 '24H 코드 레이스' 성료...생성형  AI 활용한 바이브 코딩 통해 아이디어 빠르게 구현·고도화",
-      "desc": "현대자동차·기아가 차세대 인포테인먼트 시스템 ‘플레오스 커넥트(Pleos Connect)’ 기반의 개방형 앱 생태계 ‘앱 마켓(App Market)’ 활성화와 소프트웨어 중심 조직문화 확산을 위해 개최한 사내 해커톤 '24H 코드 레이스(Code Race)'를 성...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41571",
+      "title": "\"국민이 주인 되는 정부, AI로 만든다\"... 행안부, 'AI 민주정부' 실현 본격 추진",
+      "desc": "행정안전부(장관 윤호중)가 인공지능(AI)을 활용해 국민과 소통하고 정책을 수립·집행하는 국정 전반에 국민주권의 가치를 구현하는 ‘AI 민주정부’ 실현에 본격 나선다.행정안전부 윤호중 장관은 25일 국무회의에서 ‘세계 최고의 AI 민주정부 실현 전략’을 보고했다....",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41594",
       "source": "AI Times"
     }
   ]
