@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-08-25T23:28:07.861Z",
+  "lastUpdated": "2026-08-27T04:26:08.146Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "AI 예산을 갉아먹는 진짜 주범은 GPU 아니라 데이터 품질",
-      "desc": "AI 애플리케이션을 구축하는 팀은 흔히 오래된 습관에 의존한다. 관련성이 있을 법한 데이터를 모두 수집하고, 무엇이 중요한지는 나중에 판단하는 방식이다. 원시 로그나 전체 테이블 같은 완전한 데이터셋을 프롬프트나 벡터 데이터베이스에 그대로 밀어 넣으면서도, 사전에...",
-      "link": "https://www.itworld.co.kr/article/4213357/ai-%ec%98%88%ec%82%b0%ec%9d%84-%ea%b0%89%ec%95%84%eb%a8%b9%eb%8a%94-%ec%a7%84%ec%a7%9c-%ec%a3%bc%eb%b2%94%ec%9d%80-gpu-%ec%95%84%eb%8b%88%eb%9d%bc-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%92%88%ec%a7%88.html",
+      "title": "경보 과부하 시대, AI로 기업 보안을 강화하는 7가지 방법",
+      "desc": "AI의 활용 범위는 사실상 무한하지만, 기업 보안 강화 측면에서 AI만큼 중요한 역할을 하는 분야는 없다.\n\n\n\nNTT DATA 글로벌 사이버보안 총괄 쉬탈 메타는 AI가 자율성과 혁신이 융합돼 사람, 프로세스, 기술의 상호작용 방식을 재정의하는 새로운 비즈니스 ...",
+      "link": "https://www.itworld.co.kr/article/4214504/%ea%b2%bd%eb%b3%b4-%ea%b3%bc%eb%b6%80%ed%95%98-%ec%8b%9c%eb%8c%80-ai%eb%a1%9c-%ea%b8%b0%ec%97%85-%eb%b3%b4%ec%95%88%ec%9d%84-%ea%b0%95%ed%99%94%ed%95%98%eb%8a%94-7%ea%b0%80%ec%a7%80-%eb%b0%a9.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "오픈AI, 프롬프트 보유 없이 AI 오용 패턴 탐지하는 ‘프라이빗 세이프티 프로세싱’ 공개",
-      "desc": "오픈AI가 여러 상호작용에 걸쳐 AI 시스템의 오용을 탐지하면서도 프롬프트나 응답을 보유하지 않는 새 안전 기능을 추가했다. 기업 고객이 제로 데이터 리텐션(ZDR, Zero Data Retention) 정책을 유지하면서도 위험 모니터링을 수행할 수 있도록 설계됐...",
-      "link": "https://www.itworld.co.kr/article/4213336/%ec%98%a4%ed%94%88ai-%ed%94%84%eb%a1%ac%ed%94%84%ed%8a%b8-%eb%b3%b4%ec%9c%a0-%ec%97%86%ec%9d%b4-ai-%ec%98%a4%ec%9a%a9-%ed%8c%a8%ed%84%b4-%ed%83%90%ec%a7%80%ed%95%98%eb%8a%94-%ed%94%84%eb%9d%bc.html",
+      "title": "슬랙, 개발자·비기술 직원 함께 쓰는 AI 코딩 채널 ‘슬랙 코드’ 출시",
+      "desc": "슬랙이 이번 주 ‘슬랙 코드(Slack Code)’ 채널을 출시하며 개발자와 비기술 직원이 코딩 에이전트와 협업하는 새로운 방식을 선보였다.\n\n\n\n슬랙은 이미 다수의 코딩 에이전트와 연동되지만, 개발자는 작업 수행을 위해 에이전트와 개별적으로 상호작용해야 했다. ...",
+      "link": "https://www.itworld.co.kr/article/4214539/%ec%8a%ac%eb%9e%99-%ea%b0%9c%eb%b0%9c%ec%9e%90%c2%b7%eb%b9%84%ea%b8%b0%ec%88%a0-%ec%a7%81%ec%9b%90-%ed%95%a8%ea%bb%98-%ec%93%b0%eb%8a%94-ai-%ec%bd%94%eb%94%a9-%ec%b1%84%eb%84%90-%ec%8a%ac%eb%9e%99.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "링크드인 ‘AI 슬롭 신고’ 버튼, 출시 3주 만에 100만 클릭 돌파",
-      "desc": "몇 주 전, 링크드인은 소셜미디어 플랫폼 내 스팸 의심 게시물을 신고하는 “AI 슬롭 같음(seems like AI slop)”을 신고하는 버튼 테스트를 시작했다. ‘AI 슬롭’은 AI가 생성한 저품질·무성의 콘텐츠를 일컫는 신조어다. 신고 버튼은 출시 직후부터 ...",
-      "link": "https://www.itworld.co.kr/article/4213312/%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-ai-%ec%8a%ac%eb%a1%ad-%ec%8b%a0%ea%b3%a0-%eb%b2%84%ed%8a%bc-%ec%b6%9c%ec%8b%9c-3%ec%a3%bc-%eb%a7%8c%ec%97%90-100%eb%a7%8c-%ed%81%b4%eb%a6%ad-%eb%8f%8c.html",
+      "title": "AI는 들였는데, 보안은 준비됐나…도입 속도 빠를수록 보안 공백 커진다",
+      "desc": "여러 애널리스트가 입을 모아 AI 도구와 서비스를 업무 프로세스에 빠르게 추가해온 기업이 시스템의 취약점을 드러낼 수 있는 내·외부 보안 위협에 준비가 부족한 경우가 많다고 밝혔다.\n\n\n\n가트너 사이버보안 리서치 책임자 피트 쇼어드는 “준비가 됐다고 생각하지 않는...",
+      "link": "https://www.itworld.co.kr/article/4214531/ai%eb%8a%94-%eb%93%a4%ec%98%80%eb%8a%94%eb%8d%b0-%eb%b3%b4%ec%95%88%ec%9d%80-%ec%a4%80%eb%b9%84%eb%90%90%eb%82%98-%eb%8f%84%ec%9e%85-%ec%86%8d%eb%8f%84-%eb%b9%a0%eb%a5%bc%ec%88%98%eb%a1%9d.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "완벽한 비밀주의에 균열, 애플은 왜 스스로 발목을 잡나",
-      "desc": "두 달 전만 해도 필자는 두 가지를 믿었다. 잉글랜드가 월드컵에서 우승할 수 있다는 것, 그리고 애플이 지구상에서 가장 세련된 홍보 기업을 갖추고 있다는 것이었다. 두 가지 모두 필자의 착각이었다.\n\n\n\n선수들이 패스와 슈팅, 거친 태클로 경쟁하는 동안, 애플은 ...",
-      "link": "https://www.itworld.co.kr/article/4213305/%ec%99%84%eb%b2%bd%ed%95%9c-%eb%b9%84%eb%b0%80%ec%a3%bc%ec%9d%98%ec%97%90-%ea%b7%a0%ec%97%b4-%ec%95%a0%ed%94%8c%ec%9d%80-%ec%99%9c-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%eb%b0%9c%eb%aa%a9%ec%9d%84-%ec%9e%a1.html",
+      "title": "폴더블 아이폰 드디어 공개되나, 애플 9월 9일 행사 기대 제품 총정리",
+      "desc": "애플이 9월 아이폰 발표 행사 일자를 공식 발표했다. 행사는 미국 태평양 시간 기준 9월 9일(수) 오전 10시에 열리며 한국 시간으로는 9월 10일(목) 새벽 2시로, 월요일 노동절 연휴로 인해 기존 가을 행사보다 하루 늦게 진행된다.\n\n\n\n애플은 이번 행사 초...",
+      "link": "https://www.itworld.co.kr/article/4214485/%ed%8f%b4%eb%8d%94%eb%b8%94-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%9c%eb%94%94%ec%96%b4-%ea%b3%b5%ea%b0%9c%eb%90%98%eb%82%98-%ec%95%a0%ed%94%8c-9%ec%9b%94-9%ec%9d%bc-%ed%96%89%ec%82%ac-%ea%b8%b0%eb%8c%80.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "챗GPT, 맥 메시지 완전 접근 요구…’프라이버시의 새로운 경계’",
-      "desc": "경쟁사들이 사용자의 가장 민감한 데이터에 접근하려 한다는 애플의 경고는 결코 과장이 아니었다. 오픈AI의 챗GPT가 맥에서 애플 메시지 앱을 제어할 수 있는 새 플러그인을 출시했다. 앞서 맥에서의 사용자 활동을 모니터링하는 ‘컴퓨터 히스토리(Computer His...",
-      "link": "https://www.itworld.co.kr/article/4212670/%ec%b1%97gpt-%eb%a7%a5-%eb%a9%94%ec%8b%9c%ec%a7%80-%ec%99%84%ec%a0%84-%ec%a0%91%ea%b7%bc-%ec%9a%94%ea%b5%ac-%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b2%84%ec%8b%9c%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4.html",
+      "title": "AI 지출 폭증 시대가 요구하는 것 ‘검증된 귀속 데이터’",
+      "desc": "기업의 AI 투자 가속화와 에이전트 도입 확산으로 예산은 통제 불능 상태로 불어나고 있으며, 리더는 비용 정당성을 입증해야 하는 압박에 직면하고 있다. 그러나 투자 대비 수익(ROI)에 대한 통찰은 여전히 불투명한 상태다.\n\n\n\n템포는 신규 워크포스 인텔리전스(W...",
+      "link": "https://www.itworld.co.kr/article/4213924/ai-%ec%a7%80%ec%b6%9c-%ed%8f%ad%ec%a6%9d-%ec%8b%9c%eb%8c%80%ea%b0%80-%ec%9a%94%ea%b5%ac%ed%95%98%eb%8a%94-%ea%b2%83-%ea%b2%80%ec%a6%9d%eb%90%9c-%ea%b7%80%ec%86%8d-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "마키나락스, LLM 기반 코드 분석으로 PLC 메모리 최적화…삼성디스플레이 베트남 적용",
-      "desc": "마키나락스가 삼성디스플레이 베트남 공장 양산 라인에 AI 기반 설비 제어 최적화 기술 개발 협력에 나선다.대한민국 대표 피지컬 AI 기업 마키나락스(MakinaRocks, 대표 윤성호)가 삼성디스플레이 베트남 공장에 인공지능(AI) 기반 설비 제어 최적화를 위한 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41598",
+      "title": "\"한국 AI 활용 수준 글로벌 평균보다 1.7배 정교\"…AI 역량이 채용 및 생산성 핵심 요인으로 부상",
+      "desc": "구글코리아는 글로벌 컨설팅 기관 퍼블릭 퍼스트(Public First)가 발표한 ‘AI로 주도하는 대한민국의 성장과 혁신’ 보고서를 인용해, 한국의 평균 인공지능(AI) 활용 수준이 글로벌 평균보다 1.7배 더 정교하며 국내 기업의 채용 현장에서 AI 실무 역량이...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41626",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "답변하는 AI에서 일하는 AI로 진화…유베이스, 컨택센터 운영 혁신",
-      "desc": "인공지능 BPO 테크기업 유베이스 그룹(대표 목진원)이 상담 업무를 직접 수행하는 ‘AI 에이전트(AI Agent)’ 서비스 상용화를 본격화한다. 유베이스는 AI 에이전트를 컨택센터 상담 업무에 적용해 상담 효율과 생산성을 높이는 등 가시적인 성과를 확인했다고 2...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41597",
+      "title": "ams OSRAM, 디지털 포토닉스로 휴머노이드 로봇의 시각·촉각·소통 능력 지원",
+      "desc": "혁신적인 조명 및 센서 솔루션 분야의 세계적인 선도기업인 ams OSRAM(한국 대표 심한섭)은 자사의 첨단 디지털 포토닉스 기술을 통해 휴머노이드 로봇이 주변 환경을 정확하게 인식하고, 물체를 정밀하게 다루며, 사람과 자연스럽게 소통할 수 있도록 지원한다고 27...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41625",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "미스트랄·휴메인, 사우디 ‘주권형 AI’ 구축 맞손…수억 유로 규모 전략 협력",
-      "desc": "프랑스 인공지능(AI) 기업 미스트랄(Mistral)과 사우디아라비아의 인공지능 기업 휴메인(HUMAIN)이 사우디아라비아와 중동 지역의 주권형 AI(Sovereign AI) 생태계 구축을 위해 전략적 협력에 나선다.미스트랄과 휴메인은 24일(현지시간) 사우디아라...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41596",
+      "title": "KAIST, 써모 피셔 사이언티픽과‘자율실험실’구축…AI가 설계하고 로봇이 실험한다 새창으로 읽기",
+      "desc": "KAIST가 인공지능과 로봇이 실험을 스스로 설계하고 수행하는 ‘자율실험실(Autonomous Lab)’ 연구를 위해 써모 피셔 사이언티픽(Thermo Fisher Scientific)과 손잡고, 과학 연구와 신약개발의 속도를 높일 차세대 자율형 연구 허브 ‘SH...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41623",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "“민간 AI 역량 모아 공공문제 해결한다”...행안부, ‘2026년 AI 분석모델 개발 경진대회’ 개최",
-      "desc": "정부가 민간 전문가들의 아이디어를 한데 모아, 사회문제를 해결할 인공지능(AI) 모델을 직접 만들고 해법을 겨루는 경쟁의 장을 연다.행정안전부(장관 윤호중)는 민간의 AI 기술과 역량을 활용해 국민생활과 밀접한 정책 현안을 해결하기 위한 '2026년 AI 기반 현...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41595",
+      "title": "中 지푸AI, 차세대 모델 ‘GLM-5.3-Flash’ 오픈웨이트로 공개…“프런티어급 AI 성능을 10분의 1 비용으로”",
+      "desc": "중국 인공지능 기업 지푸AI(Zhipu AI. 이하, Z.ai)가 프런티어급 인공지능(AI) 성능을 낮은 추론 비용으로 제공하는 차세대 모델 ‘GLM-5.3-Flash’를 공개했다.Z.ai는 26일(현지시간) GLM-5.3-Flash를 발표하고, 이 모델이 GLM...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41624",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "\"국민이 주인 되는 정부, AI로 만든다\"... 행안부, 'AI 민주정부' 실현 본격 추진",
-      "desc": "행정안전부(장관 윤호중)가 인공지능(AI)을 활용해 국민과 소통하고 정책을 수립·집행하는 국정 전반에 국민주권의 가치를 구현하는 ‘AI 민주정부’ 실현에 본격 나선다.행정안전부 윤호중 장관은 25일 국무회의에서 ‘세계 최고의 AI 민주정부 실현 전략’을 보고했다....",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41594",
+      "title": "SKT 컨소시엄, 사이버 보안 특화 AI 모델 개발 도전...대한민국 지킬 방패 만든다",
+      "desc": "SK텔레콤(대표이사 CEO 정재헌)은 ‘독자 AI 파운데이션 모델’ 프로젝트 3강(强) 가운데 2개 정예팀이 뭉친 보안 올스타팀을 꾸려, 대한민국 사이버 보안을 위한 AI 파운데이션 모델을 개발한다고 27일 밝혔다.SKT는 업스테이지, 국내 대표 보안 기업, 대학...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41622",
       "source": "AI Times"
     }
   ]
