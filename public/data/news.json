@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-08-27T04:26:08.146Z",
+  "lastUpdated": "2026-08-28T06:49:26.904Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "챗GPT 필수 설정 5가지…보안·개인정보·개성까지 한 번에 정비한다면",
+      "desc": "챗GPT가 여전히 이모지를 너무 많이 쏟아내고 있지는 않은가? 챗GPT가 사용자에 대해 무엇을 알고 있는지, 혹은 알고 있다고 생각하는지 궁금한 적이 있는가? 그리고 챗GPT 계정은 과연 얼마나 안전한가?\n\n\n\n챗GPT 설정은 끊임없이 바뀌는 탓에 놓치기 쉽다. ...",
+      "link": "https://www.itworld.co.kr/article/4214563/%ec%b1%97gpt-%ed%95%84%ec%88%98-%ec%84%a4%ec%a0%95-5%ea%b0%80%ec%a7%80-%eb%b3%b4%ec%95%88%c2%b7%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4%c2%b7%ea%b0%9c%ec%84%b1%ea%b9%8c%ec%a7%80-%ed%95%9c-%eb%b2%88.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "“왜 파일럿에서 멈추는가” 에이전틱 AI 배포를 결정하는 3가지 인프라 조건",
+      "desc": "이제 신용카드만 있으면 기업 내의 거의 누구나 반나절 만에 에이전트를 구축할 수 있다. 툴에 액세스해서 손쉽게 배포하기만 하면 된다. 어려운 부분은 의도한 결과를 얻는 것이다.\n\n\n\n가트너는 2027년까지 에이전틱 AI 프로젝트의 40% 이상이 중단될 것으로 전망...",
+      "link": "https://www.itworld.co.kr/article/4214550/%ec%99%9c-%ed%8c%8c%ec%9d%bc%eb%9f%bf%ec%97%90%ec%84%9c-%eb%a9%88%ec%b6%94%eb%8a%94%ea%b0%80-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%eb%b0%b0%ed%8f%ac%eb%a5%bc-%ea%b2%b0%ec%a0%95%ed%95%98.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "학습 데이터 삭제해도 이미지는 그대로, MIT가 밝힌 확산 모델의 맹점",
+      "desc": "확산 모델의 정교함은 이제 원본에 접근할 수 없는 상황에서도 이미지를 재현할 수 있을 정도로 발전했다.\n\n\n\nMIT 컴퓨터과학 및 AI 연구소(CSAIL) 연구진은 일련의 ‘가정(what-if)’ 시나리오를 통해 다양한 학습 데이터세트를 교체해가며 원본 이미지 데...",
+      "link": "https://www.itworld.co.kr/article/4212715/%ed%95%99%ec%8a%b5-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%82%ad%ec%a0%9c%ed%95%b4%eb%8f%84-%ec%9d%b4%eb%af%b8%ec%a7%80%eb%8a%94-%ea%b7%b8%eb%8c%80%eb%a1%9c-mit%ea%b0%80-%eb%b0%9d%ed%9e%8c-%ed%99%95%ec%82%b0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "경보 과부하 시대, AI로 기업 보안을 강화하는 7가지 방법",
       "desc": "AI의 활용 범위는 사실상 무한하지만, 기업 보안 강화 측면에서 AI만큼 중요한 역할을 하는 분야는 없다.\n\n\n\nNTT DATA 글로벌 사이버보안 총괄 쉬탈 메타는 AI가 자율성과 혁신이 융합돼 사람, 프로세스, 기술의 상호작용 방식을 재정의하는 새로운 비즈니스 ...",
       "link": "https://www.itworld.co.kr/article/4214504/%ea%b2%bd%eb%b3%b4-%ea%b3%bc%eb%b6%80%ed%95%98-%ec%8b%9c%eb%8c%80-ai%eb%a1%9c-%ea%b8%b0%ec%97%85-%eb%b3%b4%ec%95%88%ec%9d%84-%ea%b0%95%ed%99%94%ed%95%98%eb%8a%94-7%ea%b0%80%ec%a7%80-%eb%b0%a9.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "슬랙, 개발자·비기술 직원 함께 쓰는 AI 코딩 채널 ‘슬랙 코드’ 출시",
       "desc": "슬랙이 이번 주 ‘슬랙 코드(Slack Code)’ 채널을 출시하며 개발자와 비기술 직원이 코딩 에이전트와 협업하는 새로운 방식을 선보였다.\n\n\n\n슬랙은 이미 다수의 코딩 에이전트와 연동되지만, 개발자는 작업 수행을 위해 에이전트와 개별적으로 상호작용해야 했다. ...",
       "link": "https://www.itworld.co.kr/article/4214539/%ec%8a%ac%eb%9e%99-%ea%b0%9c%eb%b0%9c%ec%9e%90%c2%b7%eb%b9%84%ea%b8%b0%ec%88%a0-%ec%a7%81%ec%9b%90-%ed%95%a8%ea%bb%98-%ec%93%b0%eb%8a%94-ai-%ec%bd%94%eb%94%a9-%ec%b1%84%eb%84%90-%ec%8a%ac%eb%9e%99.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "AI는 들였는데, 보안은 준비됐나…도입 속도 빠를수록 보안 공백 커진다",
-      "desc": "여러 애널리스트가 입을 모아 AI 도구와 서비스를 업무 프로세스에 빠르게 추가해온 기업이 시스템의 취약점을 드러낼 수 있는 내·외부 보안 위협에 준비가 부족한 경우가 많다고 밝혔다.\n\n\n\n가트너 사이버보안 리서치 책임자 피트 쇼어드는 “준비가 됐다고 생각하지 않는...",
-      "link": "https://www.itworld.co.kr/article/4214531/ai%eb%8a%94-%eb%93%a4%ec%98%80%eb%8a%94%eb%8d%b0-%eb%b3%b4%ec%95%88%ec%9d%80-%ec%a4%80%eb%b9%84%eb%90%90%eb%82%98-%eb%8f%84%ec%9e%85-%ec%86%8d%eb%8f%84-%eb%b9%a0%eb%a5%bc%ec%88%98%eb%a1%9d.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "폴더블 아이폰 드디어 공개되나, 애플 9월 9일 행사 기대 제품 총정리",
-      "desc": "애플이 9월 아이폰 발표 행사 일자를 공식 발표했다. 행사는 미국 태평양 시간 기준 9월 9일(수) 오전 10시에 열리며 한국 시간으로는 9월 10일(목) 새벽 2시로, 월요일 노동절 연휴로 인해 기존 가을 행사보다 하루 늦게 진행된다.\n\n\n\n애플은 이번 행사 초...",
-      "link": "https://www.itworld.co.kr/article/4214485/%ed%8f%b4%eb%8d%94%eb%b8%94-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%9c%eb%94%94%ec%96%b4-%ea%b3%b5%ea%b0%9c%eb%90%98%eb%82%98-%ec%95%a0%ed%94%8c-9%ec%9b%94-9%ec%9d%bc-%ed%96%89%ec%82%ac-%ea%b8%b0%eb%8c%80.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "AI 지출 폭증 시대가 요구하는 것 ‘검증된 귀속 데이터’",
-      "desc": "기업의 AI 투자 가속화와 에이전트 도입 확산으로 예산은 통제 불능 상태로 불어나고 있으며, 리더는 비용 정당성을 입증해야 하는 압박에 직면하고 있다. 그러나 투자 대비 수익(ROI)에 대한 통찰은 여전히 불투명한 상태다.\n\n\n\n템포는 신규 워크포스 인텔리전스(W...",
-      "link": "https://www.itworld.co.kr/article/4213924/ai-%ec%a7%80%ec%b6%9c-%ed%8f%ad%ec%a6%9d-%ec%8b%9c%eb%8c%80%ea%b0%80-%ec%9a%94%ea%b5%ac%ed%95%98%eb%8a%94-%ea%b2%83-%ea%b2%80%ec%a6%9d%eb%90%9c-%ea%b7%80%ec%86%8d-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "\"한국 AI 활용 수준 글로벌 평균보다 1.7배 정교\"…AI 역량이 채용 및 생산성 핵심 요인으로 부상",
-      "desc": "구글코리아는 글로벌 컨설팅 기관 퍼블릭 퍼스트(Public First)가 발표한 ‘AI로 주도하는 대한민국의 성장과 혁신’ 보고서를 인용해, 한국의 평균 인공지능(AI) 활용 수준이 글로벌 평균보다 1.7배 더 정교하며 국내 기업의 채용 현장에서 AI 실무 역량이...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41626",
+      "title": "전북대병원, 임상데이터 활용 AI 기법 공유...‘의료 AI 연구 역량 강화’ 세미나 개최",
+      "desc": "전북대학교병원(병원장 양종철)이 임상시험지원센터 1층 세미나실에서 ‘의료 인공지능(AI) 연구 역량 강화 세미나’를 개최했다고 28일 밝혔다.전북대병원 혁신형미래의료연구센터(센터장 고명환)이 주관한 이번 세미나는 임상 현장에서 축적되는 다양한 의료데이터를 인공지능...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41648",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "ams OSRAM, 디지털 포토닉스로 휴머노이드 로봇의 시각·촉각·소통 능력 지원",
-      "desc": "혁신적인 조명 및 센서 솔루션 분야의 세계적인 선도기업인 ams OSRAM(한국 대표 심한섭)은 자사의 첨단 디지털 포토닉스 기술을 통해 휴머노이드 로봇이 주변 환경을 정확하게 인식하고, 물체를 정밀하게 다루며, 사람과 자연스럽게 소통할 수 있도록 지원한다고 27...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41625",
+      "title": "NIA, 공공 AX 현장 활용 본격화...AI 정부 실험실 이용자 설명회 개최",
+      "desc": "한국지능정보사회진흥원(원장 김형철, 이하 NIA)과 행정안전부(장관 윤호중)는 지난 27일 세종에서 ‘AI 정부 실험실 이용 설명회’(이하 설명회)를 개최했으며, 28일에는 서울에서 설명회를 이어간다.AI 정부 실험실은 현업 공무원이 대화형 코딩, 인공지능 코딩 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41647",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "KAIST, 써모 피셔 사이언티픽과‘자율실험실’구축…AI가 설계하고 로봇이 실험한다 새창으로 읽기",
-      "desc": "KAIST가 인공지능과 로봇이 실험을 스스로 설계하고 수행하는 ‘자율실험실(Autonomous Lab)’ 연구를 위해 써모 피셔 사이언티픽(Thermo Fisher Scientific)과 손잡고, 과학 연구와 신약개발의 속도를 높일 차세대 자율형 연구 허브 ‘SH...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41623",
+      "title": "\"전 국민 AI 비서 나온다\"...SKT, 10월 베타 출시 국내 최대 AI 서비스 생태계 구축",
+      "desc": "SK텔레콤(대표이사 CEO 정재헌)은 과학기술정보통신부와 정보통신산업진흥원이 추진하는 ‘전 국민 AI 서비스 보편적 활용 지원(모두의 AI)’ 사업의 수행사업자로 선정됐다고 28일 밝혔다. ‘모두의 AI’는 국민 누구나 비용 부담과 이용 제약 없이 AI를 쓸 수 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41646",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "中 지푸AI, 차세대 모델 ‘GLM-5.3-Flash’ 오픈웨이트로 공개…“프런티어급 AI 성능을 10분의 1 비용으로”",
-      "desc": "중국 인공지능 기업 지푸AI(Zhipu AI. 이하, Z.ai)가 프런티어급 인공지능(AI) 성능을 낮은 추론 비용으로 제공하는 차세대 모델 ‘GLM-5.3-Flash’를 공개했다.Z.ai는 26일(현지시간) GLM-5.3-Flash를 발표하고, 이 모델이 GLM...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41624",
+      "title": "데이터 지워도 AI 추천은 그대로”… DGIST, '잊힐 권리' 지키는 똑똑한 AI 개발",
+      "desc": "DGIST(총장 이건우) 나노기술연구부 이상철 책임연구원(학제학과 인공지능전공 겸무) 연구팀이 사용자 데이터 삭제 이후 추천 성능이 크게 저하되는 사용자군을 자동으로 찾아 보정하는 인공지능 기술을 개발했다. 최근 개인정보 보호 요구가 커지면서, 이용자가 자신의 데...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41645",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "SKT 컨소시엄, 사이버 보안 특화 AI 모델 개발 도전...대한민국 지킬 방패 만든다",
-      "desc": "SK텔레콤(대표이사 CEO 정재헌)은 ‘독자 AI 파운데이션 모델’ 프로젝트 3강(强) 가운데 2개 정예팀이 뭉친 보안 올스타팀을 꾸려, 대한민국 사이버 보안을 위한 AI 파운데이션 모델을 개발한다고 27일 밝혔다.SKT는 업스테이지, 국내 대표 보안 기업, 대학...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41622",
+      "title": "“AI·로봇, 미래를 밝히다”… KIRO, 제26회 한국지능로봇경진대회 개최",
+      "desc": "한국로봇융합연구원(KIRO, 원장 강기원)은 오는 9월 5일부터 6일까지 이틀간 포항종합운동장 만인당에서 '제26회 한국지능로봇경진대회'를 개최한다고 밝혔다.지난 1999년 시작해 올해로 26회를 맞은 한국지능로봇경진대회는 창의적인 아이디어와 기술력을 갖춘 미래 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41644",
       "source": "AI Times"
     }
   ]
