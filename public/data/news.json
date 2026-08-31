@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-08-30T01:10:09.631Z",
+  "lastUpdated": "2026-08-31T01:14:55.002Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "데모는 성공하는데 운영은 왜 무너지나…AI 프로젝트가 반복 실패하는 이유",
+      "desc": "필자는 지난 3년간 독립적인 클라우드·AI 컨설턴트, 어드바이저, 업계 인플루언서로서 전문성을 필요로 하는 수많은 기업과 협업했다. 기업의 생성형 AI 및 에이전틱 AI 이니셔티브를 평가하고 최적화하며 코칭하고 지원하는 역할을 맡았다. 이 작업들은 단순한 이론적 ...",
+      "link": "https://www.itworld.co.kr/article/4215570/%eb%8d%b0%eb%aa%a8%eb%8a%94-%ec%84%b1%ea%b3%b5%ed%95%98%eb%8a%94%eb%8d%b0-%ec%9a%b4%ec%98%81%ec%9d%80-%ec%99%9c-%eb%ac%b4%eb%84%88%ec%a7%80%eb%82%98-ai-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8%ea%b0%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "받은 편지함의 이메일, AI는 다른 내용을 읽는다?",
+      "desc": "보안 연구진이 사용자와 AI 어시스턴트가 서로 다른 이메일을 읽는 상황이 실제로 가능하다고 주장하고 나섰다.\n\n\n\n사이버보안 기업 포스포인트(Forcepoint) X-랩스는 눈에 보이지 않는 HTML 코드 몇 줄을 이메일에 심는 것만으로 AI 이메일 요약기가 명령...",
+      "link": "https://www.itworld.co.kr/article/4215550/%eb%b0%9b%ec%9d%80-%ed%8e%b8%ec%a7%80%ed%95%a8%ec%9d%98-%ec%9d%b4%eb%a9%94%ec%9d%bc-ai%eb%8a%94-%eb%8b%a4%eb%a5%b8-%eb%82%b4%ec%9a%a9%ec%9d%84-%ec%9d%bd%eb%8a%94%eb%8b%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
       "title": "챗GPT 필수 설정 5가지…보안·개인정보·개성까지 한 번에 정비한다면",
       "desc": "챗GPT가 여전히 이모지를 너무 많이 쏟아내고 있지는 않은가? 챗GPT가 사용자에 대해 무엇을 알고 있는지, 혹은 알고 있다고 생각하는지 궁금한 적이 있는가? 그리고 챗GPT 계정은 과연 얼마나 안전한가?\n\n\n\n챗GPT 설정은 끊임없이 바뀌는 탓에 놓치기 쉽다. ...",
       "link": "https://www.itworld.co.kr/article/4214563/%ec%b1%97gpt-%ed%95%84%ec%88%98-%ec%84%a4%ec%a0%95-5%ea%b0%80%ec%a7%80-%eb%b3%b4%ec%95%88%c2%b7%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4%c2%b7%ea%b0%9c%ec%84%b1%ea%b9%8c%ec%a7%80-%ed%95%9c-%eb%b2%88.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "04",
       "title": "“왜 파일럿에서 멈추는가” 에이전틱 AI 배포를 결정하는 3가지 인프라 조건",
       "desc": "이제 신용카드만 있으면 기업 내의 거의 누구나 반나절 만에 에이전트를 구축할 수 있다. 툴에 액세스해서 손쉽게 배포하기만 하면 된다. 어려운 부분은 의도한 결과를 얻는 것이다.\n\n\n\n가트너는 2027년까지 에이전틱 AI 프로젝트의 40% 이상이 중단될 것으로 전망...",
       "link": "https://www.itworld.co.kr/article/4214550/%ec%99%9c-%ed%8c%8c%ec%9d%bc%eb%9f%bf%ec%97%90%ec%84%9c-%eb%a9%88%ec%b6%94%eb%8a%94%ea%b0%80-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%eb%b0%b0%ed%8f%ac%eb%a5%bc-%ea%b2%b0%ec%a0%95%ed%95%98.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "05",
       "title": "학습 데이터 삭제해도 이미지는 그대로, MIT가 밝힌 확산 모델의 맹점",
       "desc": "확산 모델의 정교함은 이제 원본에 접근할 수 없는 상황에서도 이미지를 재현할 수 있을 정도로 발전했다.\n\n\n\nMIT 컴퓨터과학 및 AI 연구소(CSAIL) 연구진은 일련의 ‘가정(what-if)’ 시나리오를 통해 다양한 학습 데이터세트를 교체해가며 원본 이미지 데...",
       "link": "https://www.itworld.co.kr/article/4212715/%ed%95%99%ec%8a%b5-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%82%ad%ec%a0%9c%ed%95%b4%eb%8f%84-%ec%9d%b4%eb%af%b8%ec%a7%80%eb%8a%94-%ea%b7%b8%eb%8c%80%eb%a1%9c-mit%ea%b0%80-%eb%b0%9d%ed%9e%8c-%ed%99%95%ec%82%b0.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
-      "title": "경보 과부하 시대, AI로 기업 보안을 강화하는 7가지 방법",
-      "desc": "AI의 활용 범위는 사실상 무한하지만, 기업 보안 강화 측면에서 AI만큼 중요한 역할을 하는 분야는 없다.\n\n\n\nNTT DATA 글로벌 사이버보안 총괄 쉬탈 메타는 AI가 자율성과 혁신이 융합돼 사람, 프로세스, 기술의 상호작용 방식을 재정의하는 새로운 비즈니스 ...",
-      "link": "https://www.itworld.co.kr/article/4214504/%ea%b2%bd%eb%b3%b4-%ea%b3%bc%eb%b6%80%ed%95%98-%ec%8b%9c%eb%8c%80-ai%eb%a1%9c-%ea%b8%b0%ec%97%85-%eb%b3%b4%ec%95%88%ec%9d%84-%ea%b0%95%ed%99%94%ed%95%98%eb%8a%94-7%ea%b0%80%ec%a7%80-%eb%b0%a9.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "슬랙, 개발자·비기술 직원 함께 쓰는 AI 코딩 채널 ‘슬랙 코드’ 출시",
-      "desc": "슬랙이 이번 주 ‘슬랙 코드(Slack Code)’ 채널을 출시하며 개발자와 비기술 직원이 코딩 에이전트와 협업하는 새로운 방식을 선보였다.\n\n\n\n슬랙은 이미 다수의 코딩 에이전트와 연동되지만, 개발자는 작업 수행을 위해 에이전트와 개별적으로 상호작용해야 했다. ...",
-      "link": "https://www.itworld.co.kr/article/4214539/%ec%8a%ac%eb%9e%99-%ea%b0%9c%eb%b0%9c%ec%9e%90%c2%b7%eb%b9%84%ea%b8%b0%ec%88%a0-%ec%a7%81%ec%9b%90-%ed%95%a8%ea%bb%98-%ec%93%b0%eb%8a%94-ai-%ec%bd%94%eb%94%a9-%ec%b1%84%eb%84%90-%ec%8a%ac%eb%9e%99.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "한 총리, “공공데이터, 정부에서만 활용되서는 안 돼”...파급효과가 큰 공공데이터 100종 조기개방",
-      "desc": "한성숙 국무총리는 27일 정부서울청사에서 과기정통부·행안부·문체부·복지부·국토부·기획처·데이터처·개인정보위 장·차관, 국가AI전략위 데이터분과장 등이 참여한 가운데 ‘데이터 관계장관회의’를 주재하였다.이날 회의는 지난 5월 범정부 데이터 총괄기구로 신설한 데이터 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41659",
+      "title": "DGIST·유한양행·제이인츠바이오·연세-유일한 폐암 연구소, 바이오산업 AX 공동연구 업무협약 체결",
+      "desc": "DGIST(총장 이건우)는 지난 28일, 유한양행(대표이사 조욱제), 제이인츠바이오(대표이사 조안나), 연세-유일한 폐암 연구소(소장 조병철)와 바이오산업 AX 공동연구를 위한 업무협약을 체결했다고 31일 밝혔다.이날 서울 동작구 유한양행 본사에서 열린 협약식에는...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41669",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "오픈AI, “약관 준수 확신할 수 없다”...스페이스X가 인수한 '커서(Cursor)'와 계약 해지",
-      "desc": "오픈AI(OpenAI)가 지난 14일(현지시간) 일론 머스크가 이끄는 스페이스X(SpaceX)의 인수 이후 '커서(Cursor)'에 제공해 온 오픈AI 모델 공급 계약을 종료하기로 결정했다.오픈AI는 28일(현지시간) 스페이스X에 커서에 대한 오픈AI 모델 제공 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41658",
+      "title": "아스테로모프 AI 모델, 세계적 권위 국제물리올림피아드서 금메달 성적 기록",
+      "desc": "아스테로모프의 인공지능(AI) 모델이 세계적 권위의 물리 경시대회인 국제물리올림피아드(International Physics Olympiad, IPhO)에서 금메달에 해당하는 성적을 거뒀다.아스테로모프(대표 이민형)는 자사의 AI 모델이 지난 7월 열린 제56회 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41668",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "“AI가 이제 현실 세계를 움직인다”…앤트로픽, '모델 하드웨어 표준(MHS)’ 프리뷰 공개",
-      "desc": "앤트로픽(Anthropic)이 인공지능(AI) 에이전트가 실제 로봇 등 물리적 장비 및 기기를 안전하게 제어할 수 있도록 하는 새로운 하드웨어 표준을 선보였다.앤트로픽은 27일(현지시간) AI 에이전트가 연구실과 제조 현장의 다양한 장비를 표준 방식으로 연결하고 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41657",
+      "title": "이스트소프트,  AI 비서 ‘알비서’ 하반기 출시… 가장 쓰기 편한 설치형 에이전트",
+      "desc": "인공지능(AI) 서비스 전문 기업 이스트소프트(대표 정상원)는 AI 비서 ‘알비서’를 올 하반기에 선보일 계획이라고 31일 밝혔다.이스트소프트는 국민 소프트웨어 알툴즈와 포털 줌의 운영 노하우, 에이전틱 AI 앨런(Alan) 상용화 경험, AI 휴먼 기반 생성 서...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41667",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "하정우 전 AI미래기획수석, “AI 경쟁력, 메모리·데이터·전력이 좌우”",
-      "desc": "인공지능(AI)이 국가 경쟁력을 좌우하는 핵심 전략기술로 부상한 가운데, 광주의 AI·모빌리티와 전남의 에너지·산업AX 역량을 AI 반도체로 연결해 국가 AI 전략거점으로 육성해야 한다는 비전이 제시됐다.인공지능산업융합사업단(이하 AICA)은 28일 광주과학기술원...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41656",
+      "title": "이 대통령, AI 미래전략 수석에 이해민 의원 선임…국가AI전략위 부위원장에 하정우 지명",
+      "desc": "이재명 대통령이 AI 3대 강국 도약과 국민 모두의 AI 활용 확대를 위한 핵심 인선을 단행했다.이재명 대통령은 30일 경제부총리 겸 재정경제부 장관, 법무부 장관, 국방부 장관, 성평등가족부 장관, 국토교통부 장관, 중소벤처기업부 장관 등 6명의 장관 후보자를 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41666",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "켄트 워커 구글·알파벳 사장, “AI 혁신과 창작자 권리, 기존 지식재산 체계 안에서 함께 해결”",
-      "desc": "구글이 인공지능(AI)의 급격한 발전에 맞춰 지식재산권(IP) 체계를 발전시켜야 하지만, 기존 법체계를 근본적으로 뒤엎을 필요는 없다는 입장을 밝혔다.AI 학습에 대해서는 공공적으로 접근 가능한 콘텐츠를 활용할 수 있는 명확한 텍스트·데이터 마이닝 예외를 마련하는...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41655",
+      "title": "“인공지능, 수백만 소재 중 쓸 수 있는 후보 처음부터 골라낸다”...MIT, AI로 ‘안정적인 신소재’ 생성 기술 개발",
+      "desc": "인공지능(AI)을 활용하면 단 몇 분 만에 수백만 개의 새로운 소재 설계안을 생성할 수 있지만, 실제 산업에 활용할 수 있는 소재는 극히 일부에 불과하다. 생성된 소재 가운데 화학적으로 불안정한 물질이 대량으로 포함되기 때문이다.미국 매사추세츠공과대학교(MIT) ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41664",
       "source": "AI Times"
     }
   ]
