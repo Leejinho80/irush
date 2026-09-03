@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-09-02T00:54:19.713Z",
+  "lastUpdated": "2026-09-03T01:00:54.037Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "말은 넘치고 의미는 부족한 시대, 기업에는 오히려 국문학도가 필요하다",
+      "desc": "지난주 〈스파이더맨: 브랜드 뉴 데이〉를 관람했다. 영화를 즐기기가 쉽지 않았다. CGI 과부하에 걸린 것 같다. 로튼 토마토에서 89% 점수를 받은 것을 보면, 다른 관객들의 내성이 더 높은 모양이다. 링크드인도 마찬가지다. 하루에 적어도 한 번은 링크드인에 접...",
+      "link": "https://www.itworld.co.kr/article/4217315/%eb%a7%90%ec%9d%80-%eb%84%98%ec%b9%98%ea%b3%a0-%ec%9d%98%eb%af%b8%eb%8a%94-%eb%b6%80%ec%a1%b1%ed%95%9c-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85%ec%97%90%eb%8a%94-%ec%98%a4%ed%9e%88%eb%a0%a4-%ea%b5%ad.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "독점 AI를 넘어서는 오픈 모델의 부상",
+      "desc": "기술 업계는 2022년 말 오픈AI의 챗GPT 등장으로 일종의 전환점을 맞았다. 챗GPT는 마치 마법처럼 질문에 답하는 단순한 챗봇이었다.\n\n\n\n오픈AI와 앤트로픽, 구글 등 많은 기업이 선보인 초기 프런티어 대규모 언어 모델은 추론하고, 문제를 해결하며, 자연어...",
+      "link": "https://www.itworld.co.kr/article/4217250/%eb%8f%85%ec%a0%90-ai%eb%a5%bc-%eb%84%98%ec%96%b4%ec%84%9c%eb%8a%94-%ec%98%a4%ed%94%88-%eb%aa%a8%eb%8d%b8%ec%9d%98-%eb%b6%80%ec%83%81.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
       "title": "AI를 바라보는 세대 격차 “디지털 네이티브의 AI 공포”",
       "desc": "구인·구직 플랫폼 글래스도어(Glassdoor)의 신규 조사에 따르면, 연령대가 높은 직장인일수록 AI에 더 긍정적인 시각을 보이는 것으로 나타났다.\n\n\n\n1965년부터 1980년 사이에 태어난 X세대 응답자 가운데 거의 절반이 새로운 AI 기술에 긍정적인 견해를...",
       "link": "https://www.itworld.co.kr/article/4217234/ai%eb%a5%bc-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%8a%94-%ec%84%b8%eb%8c%80-%ea%b2%a9%ec%b0%a8-%eb%94%94%ec%a7%80%ed%84%b8-%eb%84%a4%ec%9d%b4%ed%8b%b0%eb%b8%8c%ec%9d%98-ai-%ea%b3%b5%ed%8f%ac.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "04",
       "title": "‘신뢰받는 디지털 트윈의 조건’ 디지털 트윈에도 ‘기억’이 필요하다",
       "desc": "디지털 트윈은 물리적 시스템의 가상 대응물로 출발했다. 항공우주, 제조업, 그 밖의 고위험 산업 환경에서 디지털 트윈은 엔지니어에게 실세계 변경을 적용하기 전 시스템 동작을 관찰하고, 시나리오를 테스트하며, 리스크를 줄일 수 있는 안전한 환경을 열어줬다. 그러나 ...",
       "link": "https://www.itworld.co.kr/article/4216787/%ec%8b%a0%eb%a2%b0%eb%b0%9b%eb%8a%94-%eb%94%94%ec%a7%80%ed%84%b8-%ed%8a%b8%ec%9c%88%ec%9d%98-%ec%a1%b0%ea%b1%b4-%eb%94%94%ec%a7%80%ed%84%b8-%ed%8a%b8%ec%9c%88%ec%97%90%eb%8f%84-%ea%b8%b0.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "05",
       "title": "“발열 관리가 성능 좌우” 레노버 씽크스테이션 P4, 워크스테이션 수랭식 냉각으로 안정성 강화",
       "desc": "온디바이스 AI 시대가 본격화되면서 고성능 데스크톱 워크스테이션 수요가 빠르게 증가하고 있다. 설계 엔지니어링, 콘텐츠 제작, 데이터 분석 등 고부하 연산이 필요한 전문 분야에서 로컬 환경의 AI 처리 능력이 새로운 경쟁력이 되고 있다.\n\n\n\n한국레노버가 9월 1...",
       "link": "https://www.itworld.co.kr/article/4216764/%eb%b0%9c%ec%97%b4-%ea%b4%80%eb%a6%ac%ea%b0%80-%ec%84%b1%eb%8a%a5-%ec%a2%8c%ec%9a%b0-%eb%a0%88%eb%85%b8%eb%b2%84-%ec%94%bd%ed%81%ac%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%85%98-p4-%ec%9b%8c%ed%81%ac.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
-      "title": "에이전틱 AI의 청사진 오픈클로, 2.0 버전으로 귀환",
-      "desc": "오픈클로를 기억하는가? PC에 설치돼 사용자가 자는 동안에도 묵묵히 지시를 수행하던 소박한 AI 도구, 오픈클로는 2026년 초 혜성처럼 등장해 놀랍고도 섬뜩한 에이전틱 AI 능력으로 세간의 이목을 사로잡았고, 수많은 클로 계열 클론의 탄생을 이끌며 순식간에 화제...",
-      "link": "https://www.itworld.co.kr/article/4216734/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%ec%9d%98-%ec%b2%ad%ec%82%ac%ec%a7%84-%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c-2-0-%eb%b2%84%ec%a0%84%ec%9c%bc%eb%a1%9c-%ea%b7%80%ed%99%98.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "AI 에이전트 시대, ‘빅 볼 오브 머드’는 이제 과거의 유물인가",
-      "desc": "거대한 진흙 덩어리(big ball of mud)는 피할 수 없는 숙명처럼 보인다. 필자는 방대하고 유지보수하기 어려운 코드베이스가 어디서 비롯되는지, 그리고 어떻게 대처할 수 있는지를 앞서 다룬 바 있다. 뾰족한 해결책이 없어 보이는 것도 사실이다.\n\n\n\n하지만...",
-      "link": "https://www.itworld.co.kr/article/4215672/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8b%9c%eb%8c%80-%eb%b9%85-%eb%b3%bc-%ec%98%a4%eb%b8%8c-%eb%a8%b8%eb%93%9c%eb%8a%94-%ec%9d%b4%ec%a0%9c-%ea%b3%bc%ea%b1%b0%ec%9d%98-%ec%9c%a0%eb%ac%bc.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "KAIST-칼텍, 연구 넘어‘인재도 함께 키운다’…글로벌 공동지도 모델 구축",
-      "desc": "KAIST가 세계적인 연구기관인 미국 캘리포니아공과대학교(California Institute of Technology, 이하 Caltech)와 공동연구를 넘어 차세대 연구자까지 함께 키우는 새로운 글로벌 협력 모델을 구축한다.KAIST(총장 배충식)는 1일부터 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41711",
+      "title": "구글, 역대 최고 수준의 추론 및 코딩 모델 ‘제미나이 3.8 플래시’ 공개…‘제미나이 3.8 플래시 사이버’도 출시",
+      "desc": "구글이 2일(현지시간) 지금까지의 최고 수준의 추론 및 코딩 모델로 인공지능(AI) 에이전트와 소프트웨어 개발, 복잡한 다단계 추론에 특화된 차세대 경량 모델 ‘제미나이 3.8 플래시(Gemini 3.8 Flash)’와 사이버보안에 특화된 ‘제미나이 3.8 플래시...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41728",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "정재헌 SKT CEO, 서울대 강단에서 “AI 시대엔 통찰과 공감 갖춘 인재 필요”",
-      "desc": "SK텔레콤(대표이사 CEO 정재헌) 정재헌 CEO가 지난 1일 서울대학교 제1공학관에서 대학(원)생 300여 명을 대상으로 특강을 진행하며 이렇게 말했다.이번 특강은 SKT와 서울대학교가 10년째 이어온 AI 공동과정의 일환으로 열린 첫 수업으로, ‘AI 시대의 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41710",
+      "title": "SKT, AI로 불꽃축제 통신 품질 지킨다...여의도·이촌 한강공원 일대 불꽃축제 맞춰",
+      "desc": "SK텔레콤(CEO 정재헌)은 오는 5일 여의도한강시민공원과 이촌한강공원 일대에서 열리는 불꽃축제에 대비해 통신 서비스 특별 소통 대책을 운영한다고 2일 밝혔다.행사는 4일 전야제를 시작으로 5일 오후 1시부터 밤 11시까지 진행되며, 오후 7시 40분부터 9시 1...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41727",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "링커스앤컴퍼니, Quantum Expo Korea 2026서 통합 양자보안 운용 방안 소개",
-      "desc": "양자내성암호와 인공지능(AI) 기반 차세대 인프라 솔루션 기업 링커스앤컴퍼니(Linkers & Company Inc)가 ‘국제양자산업대전 2026(Quantum Expo Korea 2026)’에 참가해 서로 다른 양자보안 기술을 하나의 보안체계에서 연계·운영하는 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41708",
+      "title": "[AI 이슈] 페이페이 리 교수의 '월드랩스', 세계 최초 멀티모달 월드 모델 ‘아틀라스’ 공개",
+      "desc": "스탠퍼드대학교 인간중심인공지능연구소(Stanford Institute for Human-Centered AI, HAI)의 공동 창립자이자 인공지능(AI) 분야의 대표적인 컴퓨터 비전 연구자인 페이페이 리(Fei-Fei Li) 교수가 공동 설립한 월드랩스(World...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41725",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "퀄컴, “엣지 AI 대중화 앞당긴다”...엣지 프로세서 ‘드래곤윙 Q-2390·IQ-2390’ 2종 출시",
-      "desc": "퀄컴(Qualcomm)은 인공지능(AI), 비전, 연결성을 하나의 플랫폼에 통합한 차세대 엣지 프로세서 '드래곤윙 Q-2390(Dragonwing Q-2390)'과 '드래곤윙 IQ-2390(Dragonwing IQ-2390)' 2종을 1일(현지시간) 를 발표했다....",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41707",
+      "title": "샘 올트먼, “강력한 AI가 가져올 결과 아무도 완전히 이해하지 못해”... 아스트라,  출시 앞두고 안전성에 ‘속도 조절’",
+      "desc": "샘 올트먼 오픈AI(OpenAI) CEO가 차세대 인공지능(AI) 모델 ‘아스트라(Astra)’ 출시를 앞두고 AI 역량과 안전성·정렬(alignment)을 함께 발전시키는 것이 그 어느 때보다 중요하다고 강조했다.아스트라는 사이버보안 분야에서 오픈AI의 준비 프...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41724",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "현대로템, 軍 장병 생명 지킬 장갑형구급차 개발… 양산 거쳐 전력화 전망",
-      "desc": "현대로템이 야전 응급의료 체계의 진화를 이끌 장갑형구급차를 국내 기술로 개발해 전장의 생명선을 잇는다.현대로템은 방위사업청에서 주관한 장갑형의무후송차량 체계개발 사업을 완료했다고 1일 밝혔다. 지난 2024년부터 약 2년간 진행된 이번 사업을 통해 현대로템은 설계...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41706",
+      "title": "카카오, 아이돌 그룹 ‘리센느’와 일상 속 AI 경험 알린다...카카오톡 AI 서비스 등 새로운 대화 경험 소개",
+      "desc": "카카오(대표이사 정신아)가 아이돌 그룹 ‘리센느(RESCENE)'와 AI를 활용한 일상 속 새로운 대화 경험을 알리기 위해 이용자 대상 캠페인을 시작한다고 2일 밝혔다.이번 캠페인은 이용자들의 목소리에 귀 기울이고 더 나은 카카오톡을 만들어가기 위한 '유저퍼스트'...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41723",
       "source": "AI Times"
     }
   ]
