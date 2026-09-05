@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-09-04T00:52:05.153Z",
+  "lastUpdated": "2026-09-05T00:45:25.189Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "로컬 AI의 새 선택지, 언슬로스 데스크톱의 가능성",
+      "desc": "언슬로스 데스크톱(Unsloth Desktop)은 LM 스튜디오(LM Studio)와 마찬가지로 로컬 하드웨어에서 생성형 AI 모델을 실행할 수 있게 해준다. 또한 편리한 웹 기반 UI를 사용해 다단계 워크플로우를 만들고 새 모델을 학습시킬 수도 있다.\n\n\n\nLM...",
+      "link": "https://www.itworld.co.kr/article/4218508/%eb%a1%9c%ec%bb%ac-ai%ec%9d%98-%ec%83%88-%ec%84%a0%ed%83%9d%ec%a7%80-%ec%96%b8%ec%8a%ac%eb%a1%9c%ec%8a%a4-%eb%8d%b0%ec%8a%a4%ed%81%ac%ed%86%b1%ec%9d%98-%ea%b0%80%eb%8a%a5%ec%84%b1.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "100fps 게이밍 약속의 이면, 엔비디아 RTX 스파크 노트북의 DLSS 의존성",
+      "desc": "퀄컴의 스냅드래곤 Arm 칩을 탑재한 윈도우 노트북이 2024년 시장에 출시됐지만, 반응은 냉담하기 그지없었다. 초기에는 뛰어난 배터리 수명이 강점으로 꼽혔으나 게이밍 성능은 낮은 수준에 머물렀고, 이후 인텔과 AMD도 전력 효율 면에서 격차를 좁혔다.\n\n\n\n수십...",
+      "link": "https://www.itworld.co.kr/article/4218494/100fps-%ea%b2%8c%ec%9d%b4%eb%b0%8d-%ec%95%bd%ec%86%8d%ec%9d%98-%ec%9d%b4%eb%a9%b4-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-rtx-%ec%8a%a4%ed%8c%8c%ed%81%ac-%eb%85%b8%ed%8a%b8%eb%b6%81%ec%9d%98-dlss.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "마이크로소프트, 워드·아웃룩 텍스트 예측 기능 기본 비활성화 전환",
+      "desc": "마이크로소프트의 텍스트 예측 기능이 워드와 아웃룩 모두에서 기본 비활성화 상태로 전환된다고 더 레지스터(The Register)가 보도했다. 텍스트 예측 기능은 사용자가 입력하려는 단어나 문구를 사전에 제안한다.\n\n\n\n마이크로소프트에 따르면, 일부 사용자는 텍스트...",
+      "link": "https://www.itworld.co.kr/article/4218484/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%9b%8c%eb%93%9c%c2%b7%ec%95%84%ec%9b%83%eb%a3%a9-%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%98%88%ec%b8%a1-%ea%b8%b0%eb%8a%a5-%ea%b8%b0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "네오클라우드가 AI 컴퓨팅 시장을 장악할 수 있을까?",
+      "desc": "저비용 GPU 기반 대안과 AI 학습 및 추론을 위한 특화 기능을 앞세워 AI 컴퓨팅 인프라 시장을 파고든 새로운 유형의 대체 클라우드인 네오클라우드가 실제로 하이퍼스케일러의 비즈니스를 빼앗을 수 있을까? \n\n\n\n일각에서는 네오클라우드가 AI 네이티브 워크로드에서...",
+      "link": "https://www.itworld.co.kr/article/4218335/%eb%84%a4%ec%98%a4%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ea%b0%80-ai-%ec%bb%b4%ed%93%a8%ed%8c%85-%ec%8b%9c%ec%9e%a5%ec%9d%84-%ec%9e%a5%ec%95%85%ed%95%a0-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "‘빠를수록 무너지는’ 바이브 코딩의 치명적 실수 7가지",
       "desc": "애플리케이션이나 AI 에이전트를 바이브 코딩한다는 것은 실화라고 믿기 어려울 만큼 매력적으로 들린다. 개발자 한 명이 프롬프트만으로 계획을 진행하면, 며칠이 아닌 단 몇 분 만에 작동하는 프로토타입 코드를 얻을 수 있다. 이후 반복 작업을 통해 수정과 개선을 거듭...",
       "link": "https://www.itworld.co.kr/article/4217755/%eb%b9%a0%eb%a5%bc%ec%88%98%eb%a1%9d-%eb%ac%b4%eb%84%88%ec%a7%80%eb%8a%94-%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9%ec%9d%98-%ec%b9%98%eb%aa%85%ec%a0%81-%ec%8b%a4%ec%88%98-7%ea%b0%80%ec%a7%80.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "“모델보다 인프라, 기술보다 거버넌스” AI Infrastructure & Data 2026 에이전틱 AI 수용 전략 제시",
-      "desc": "2026년 기업의 생존 전략은 개별 AI 모델의 도입을 넘어, AI가 기업의 모든 의사결정에 스며드는 ‘에이전틱 워크플로우(Agentic Workflow)’의 완성에 달려 있다. 기업이 직면한 과제는 더 이상 AI 도입의 유무가 아니라, 경쟁사보다 먼저 AI를 정...",
-      "link": "https://www.itworld.co.kr/article/4217744/%eb%aa%a8%eb%8d%b8%eb%b3%b4%eb%8b%a4-%ec%9d%b8%ed%94%84%eb%9d%bc-%ea%b8%b0%ec%88%a0%eb%b3%b4%eb%8b%a4-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4-ai-infrastructure-data-2026-%ec%97%90%ec%9d%b4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "TSMC는 어떻게 애플의 반도체 파트너가 됐나",
-      "desc": "한때 애플에 칩을 공급했던 인텔은 애플이 고객사에서 빠진 이후 상당한 어려움에 직면해 있다. 인텔은 애플의 프로세서 제조 사업 일부를 되찾으려 시도했으나, 신뢰라는 근본적인 장벽에 막혀 있는 것으로 보인다.\n\n\n\n기술 분석 매체 컬피엄(Culpium)이 최근 발행...",
-      "link": "https://www.itworld.co.kr/article/4217740/tsmc%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%95%a0%ed%94%8c%ec%9d%98-%eb%b0%98%eb%8f%84%ec%b2%b4-%ed%8c%8c%ed%8a%b8%eb%84%88%ea%b0%80-%eb%90%90%eb%82%98.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "문자 한 통이 악몽의 시작—AI 시대 디지털 재난 대비 3단계",
-      "desc": "AI가 사이버 공격의 위협을 키우고 있다. 그러나 오늘날의 위험에 맞서 디지털 생활을 더 견고하게 만드는 것은 충분히 가능하다. 디지털 재난 대비 계획을 세우는 방법을 소개한다.\n\n\n\n홍수, 화재, 태풍, 지진 같은 현실의 재난 시나리오에 대비하듯, 디지털 생활에...",
-      "link": "https://www.itworld.co.kr/article/4217730/%eb%ac%b8%ec%9e%90-%ed%95%9c-%ed%86%b5%ec%9d%b4-%ec%95%85%eb%aa%bd%ec%9d%98-%ec%8b%9c%ec%9e%91-ai-%ec%8b%9c%eb%8c%80-%eb%94%94%ec%a7%80%ed%84%b8-%ec%9e%ac%eb%82%9c-%eb%8c%80%eb%b9%84-3.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "말은 넘치고 의미는 부족한 시대, 기업에는 오히려 국문학도가 필요하다",
-      "desc": "지난주 〈스파이더맨: 브랜드 뉴 데이〉를 관람했다. 영화를 즐기기가 쉽지 않았다. CGI 과부하에 걸린 것 같다. 로튼 토마토에서 89% 점수를 받은 것을 보면, 다른 관객들의 내성이 더 높은 모양이다. 링크드인도 마찬가지다. 하루에 적어도 한 번은 링크드인에 접...",
-      "link": "https://www.itworld.co.kr/article/4217315/%eb%a7%90%ec%9d%80-%eb%84%98%ec%b9%98%ea%b3%a0-%ec%9d%98%eb%af%b8%eb%8a%94-%eb%b6%80%ec%a1%b1%ed%95%9c-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85%ec%97%90%eb%8a%94-%ec%98%a4%ed%9e%88%eb%a0%a4-%ea%b5%ad.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "세계 최고 AI 모델 ‘GPT-6 아스트라’ 전격 공개... 오픈AI, \"AGI 전환점에 섰다, AI 자율성 새 단계로\"",
-      "desc": "오픈AI(OpenAI)가 차세대 추론·에이전트 모델인 'GPT-6 아스트라(Astra)'​를 3일(현지시간)전격 공개했다. 오픈AI가 지금까지 광범위하게 배포한 모델 가운데 가장 높은 수준의 능력을 갖춘 모델로, 특히 사이버보안 분야에서 회사의 ‘대비 프레임워크(...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41756",
+      "title": "다후아테크놀로지, 24시간 AI 기술 지원 서비스 ‘HuaBot 화붓’ 공개",
+      "desc": "글로벌 영상 중심 AIoT 솔루션 및 서비스 기업 다후아테크놀로지(Dahua Technology, 이하 다후아)는 인공지능(AI) 기반 기술 지원 어시스턴트 ‘HuaBot(이하 화붓)’을 출시했다고 4일 밝혔다.화붓은 다후아가 축적해 온 방대한 기술지원 자료에 A...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41775",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "SDT, Quantum Expo Korea 2026서 극저온 냉각·양자 제어·계측 장비 선보여",
-      "desc": "SDT(대표 윤지원)가 오는 9월 9일부터 11일까지 서울 코엑스 B홀에서 열리는 국제양자산업대전 2026(Quantum Expo Korea 2026)에 참가한다. 펄스튜브 냉각기와 희석냉각 유닛을 실물로 전시하고, 큐비트 제어와 광자 측정에 사용하는 장비, 하이...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41755",
+      "title": "삼성전자, ‘비스포크 AI 무풍콤보 프로 벽걸이’ IFA 2026 최고 혁신상 수상",
+      "desc": "삼성전자가 유럽 최대 가전 전시회 ‘IFA 2026’에서 혁신상(Innovation Award) 4개를 수상하며 AI 기반 가전의 기술력과 디자인 경쟁력을 입증했다. 특히 ‘비스포크 AI 무풍콤보 프로 벽걸이’ 에어컨은 디자인 부문 최고 혁신상(Winner)과 가...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41774",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "비자, 자금 인출 전 금융기관의 사기 차단 돕는 AI기반 'A2A 프로텍트' 혁신 기능",
-      "desc": "디지털 결제 분야의 세계적인 리더인 비자(Visa)는 은행이 고객 계좌에서 자금이 빠져나가기 전에 계좌 간 사기를 차단하도록 돕는 실시간 리스크 인사이트를 제공하는 강화된 버전의 'A2A 프로텍트(A2A Protect)'를 지난 1일(현지시간) 출시했다.기능이 확...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41754",
+      "title": "AIM B2B '로버트 헬트' CEO, “검색 넘어, AI가 기업을 평가한다”…B2B 마케팅, ‘디지털 신뢰 자산’이 승부처",
+      "desc": "생성형 인공지능(Generative AI)의 확산이 B2B 기업의 마케팅과 고객의 구매 방식까지 바꾸고 있다. 과거에는 잠재 고객이 검색엔진을 통해 기업과 제품 정보를 찾고, 여러 웹사이트를 직접 비교한 뒤 구매를 결정했다면 이제는 챗GPT, 제미나이, 퍼플렉시티...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41773",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "카카오, ‘테크포임팩트 캠퍼스’ 13개 대학서 2학기 개강...교육부와 AI 교육 전국으로 확대",
-      "desc": "카카오 임팩트재단(이사장 류석영)이 전국 13개 대학, 대학생 355명과 함께 ‘테크포임팩트 캠퍼스’ 2026년도 2학기 과정을 본격 시작한다. 교육부와의 협력을 바탕으로 교육 기회를 전국으로 넓히고, 대학생들이 인공지능과 전공 지식을 활용해 지역 사회문제를 해결...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41753",
+      "title": "LG, 글로벌 빅테크·AI 미래인재와 ‘AI 축제’...‘LG SPARK 2026’ 개최, 마곡 LG사이언스파크서",
+      "desc": "LG의 기술경영진과 글로벌 빅테크가 한자리에 모여 미래 산업 지형을 변화시킬 인공지능(AI) 기술력 확보를 위해 머리를 맞댄다.LG는 7일부터 17일까지 서울 마곡동에 위치한 LG의 R&D 혁신 허브 LG사이언스파크에서 AI혁신·기술·문화 축제이자 ‘고객가치 혁신...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41772",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "의료 AI, 환자가 왜? 어떻게 변화했는지까지 학습해야...분당서울대병원 양은주 교수팀, 원인·과정까지 학습하는 새로운 접근법(CRTC) 제시",
-      "desc": "의료 인공지능(AI) 경쟁이 알고리즘의 정확도를 높이는 데 집중된 가운데, AI에 무엇을 학습시킬 것인지를 먼저 고려해야 한다는 관점이 제기됐다.분당서울대병원 재활의학과 양은주 교수 연구팀(교신저자 국립암센터 재활의학과 정승현 교수)은 의료 AI가 ‘환자의 상태가...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41752",
+      "title": "\"설계부터 제조까지, AI가 스스로 협업한다\"...중앙대, 자율화 이끄는 ‘에이전틱 AI’ 개발",
+      "desc": "중앙대학교(총장 박세현)는 기계공학부 이수영 교수 연구팀이 여러 인공지능(AI)이 각자의 전문 역할을 수행하고 상호 협업하며, 엔지니어링 설계부터 성능 평가, 제조 의사결정까지 전 과정을 자율적으로 수행할 수 있는 대형언어모델(LLM) 기반 ‘에이전틱 AI(Age...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41771",
       "source": "AI Times"
     }
   ]
