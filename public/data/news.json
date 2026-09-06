@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T00:45:25.189Z",
+  "lastUpdated": "2026-09-06T00:44:42.729Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "구글, 글로벌 실시간 날씨 AI 모델 ‘웨더넥스트 3’ 공개...실시간 위성 데이터 학습, 5km 고해상도·시간 단위 예측",
+      "desc": "구글 딥마인드(Google DeepMind)와 구글 리서치(Google Research)는 3일(현지시간) 실시간 위성 관측 데이터를 직접 학습해 매시간 전 세계 날씨를 예측하고, 기존 모델보다 공간·시간 해상도와 강수 예측 정확도를 크게 높인 글로벌 인공지능(A...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41778",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
+      "title": "아이디퀀티크, Quantum Expo Korea 2026서 양자키분배·양자난수생성 기술 선보여",
+      "desc": "아이온큐(IonQ)의 양자보안 사업부인 아이디퀀티크(ID Quantique, 대표 엄상윤)가 오는 9월 9일부터 11일까지 서울 코엑스 B홀에서 열리는 국제양자산업대전 2026(Quantum Expo Korea 2026)에 참가한다. 국가정보원 보안기능확인서를 받...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41777",
+      "source": "AI Times"
+    },
+    {
+      "number": "08",
+      "title": "충북양자연구센터, Quantum Expo Korea 2026서 양자컴퓨팅·어닐링·센싱 연구 선보여",
+      "desc": "충북양자연구센터(ChungBuk Quantum Research Center)가 오는 9월 9일부터 11일까지 서울 코엑스 B홀에서 열리는 국제양자산업대전 2026(Quantum Expo Korea 2026)에 참가한다. 센터가 수행 중인 양자컴퓨팅, 양자 어닐링,...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41776",
+      "source": "AI Times"
+    },
+    {
+      "number": "09",
       "title": "다후아테크놀로지, 24시간 AI 기술 지원 서비스 ‘HuaBot 화붓’ 공개",
       "desc": "글로벌 영상 중심 AIoT 솔루션 및 서비스 기업 다후아테크놀로지(Dahua Technology, 이하 다후아)는 인공지능(AI) 기반 기술 지원 어시스턴트 ‘HuaBot(이하 화붓)’을 출시했다고 4일 밝혔다.화붓은 다후아가 축적해 온 방대한 기술지원 자료에 A...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=41775",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "10",
       "title": "삼성전자, ‘비스포크 AI 무풍콤보 프로 벽걸이’ IFA 2026 최고 혁신상 수상",
       "desc": "삼성전자가 유럽 최대 가전 전시회 ‘IFA 2026’에서 혁신상(Innovation Award) 4개를 수상하며 AI 기반 가전의 기술력과 디자인 경쟁력을 입증했다. 특히 ‘비스포크 AI 무풍콤보 프로 벽걸이’ 에어컨은 디자인 부문 최고 혁신상(Winner)과 가...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=41774",
-      "source": "AI Times"
-    },
-    {
-      "number": "08",
-      "title": "AIM B2B '로버트 헬트' CEO, “검색 넘어, AI가 기업을 평가한다”…B2B 마케팅, ‘디지털 신뢰 자산’이 승부처",
-      "desc": "생성형 인공지능(Generative AI)의 확산이 B2B 기업의 마케팅과 고객의 구매 방식까지 바꾸고 있다. 과거에는 잠재 고객이 검색엔진을 통해 기업과 제품 정보를 찾고, 여러 웹사이트를 직접 비교한 뒤 구매를 결정했다면 이제는 챗GPT, 제미나이, 퍼플렉시티...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41773",
-      "source": "AI Times"
-    },
-    {
-      "number": "09",
-      "title": "LG, 글로벌 빅테크·AI 미래인재와 ‘AI 축제’...‘LG SPARK 2026’ 개최, 마곡 LG사이언스파크서",
-      "desc": "LG의 기술경영진과 글로벌 빅테크가 한자리에 모여 미래 산업 지형을 변화시킬 인공지능(AI) 기술력 확보를 위해 머리를 맞댄다.LG는 7일부터 17일까지 서울 마곡동에 위치한 LG의 R&D 혁신 허브 LG사이언스파크에서 AI혁신·기술·문화 축제이자 ‘고객가치 혁신...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41772",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "\"설계부터 제조까지, AI가 스스로 협업한다\"...중앙대, 자율화 이끄는 ‘에이전틱 AI’ 개발",
-      "desc": "중앙대학교(총장 박세현)는 기계공학부 이수영 교수 연구팀이 여러 인공지능(AI)이 각자의 전문 역할을 수행하고 상호 협업하며, 엔지니어링 설계부터 성능 평가, 제조 의사결정까지 전 과정을 자율적으로 수행할 수 있는 대형언어모델(LLM) 기반 ‘에이전틱 AI(Age...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41771",
       "source": "AI Times"
     }
   ]
