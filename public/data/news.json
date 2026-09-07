@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T00:44:42.729Z",
+  "lastUpdated": "2026-09-07T00:47:56.778Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "구글, 글로벌 실시간 날씨 AI 모델 ‘웨더넥스트 3’ 공개...실시간 위성 데이터 학습, 5km 고해상도·시간 단위 예측",
-      "desc": "구글 딥마인드(Google DeepMind)와 구글 리서치(Google Research)는 3일(현지시간) 실시간 위성 관측 데이터를 직접 학습해 매시간 전 세계 날씨를 예측하고, 기존 모델보다 공간·시간 해상도와 강수 예측 정확도를 크게 높인 글로벌 인공지능(A...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41778",
+      "title": "레노버·모토로라, 개인용 AI ‘Qira’ 디바이스·앱·시장 전반으로 확장",
+      "desc": "레노버가 개인용 인공지능 ‘Qira(키라)’의 적용 범위를 확대하며 더 많은 디바이스와 앱, 서비스를 아우르는 개인 맞춤형 AI 경험을 강화한다.올해 초 ‘CES 2026’에서 열린 ‘레노버 테크월드(Tech World)’에서 처음 공개된 Qira는 호환 가능한 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41790",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "아이디퀀티크, Quantum Expo Korea 2026서 양자키분배·양자난수생성 기술 선보여",
-      "desc": "아이온큐(IonQ)의 양자보안 사업부인 아이디퀀티크(ID Quantique, 대표 엄상윤)가 오는 9월 9일부터 11일까지 서울 코엑스 B홀에서 열리는 국제양자산업대전 2026(Quantum Expo Korea 2026)에 참가한다. 국가정보원 보안기능확인서를 받...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41777",
+      "title": "KB금융 임직원 아이디어로 AI 업무 혁신 가속, '2026 그룹 통합 AI 에이전트 경진대회' 개최",
+      "desc": "KB금융그룹(회장 양종희)은 지난 3일, 서울 여의도 KB국민은행 신관에서 임직원들이 현장에서 발굴한 문제를 인공지능(AI)으로 해결하고 실질적인 업무 혁신으로 연결하기 위한 '2026 그룹 통합 AI 에이전트 경진대회'를 개최했다고 7일 밝혔다.이번 경진대회는 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41789",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "충북양자연구센터, Quantum Expo Korea 2026서 양자컴퓨팅·어닐링·센싱 연구 선보여",
-      "desc": "충북양자연구센터(ChungBuk Quantum Research Center)가 오는 9월 9일부터 11일까지 서울 코엑스 B홀에서 열리는 국제양자산업대전 2026(Quantum Expo Korea 2026)에 참가한다. 센터가 수행 중인 양자컴퓨팅, 양자 어닐링,...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41776",
+      "title": "삼성메디슨, AI 기반 프리미엄 초음파 진단기기 ‘HERA Z10’ 출시…여성 건강 통합 진단 플랫폼 확장",
+      "desc": "삼성메디슨이 프리미엄 산부인과 초음파 진단기기 ‘HERA Z10’을 출시하고, 기존 ‘HERA Z20’과 함께 여성 건강 전반을 아우르는 ‘HERA Z 시리즈(Z20·Z10)’ 라인업을 본격 구축한다.전 세계적으로 고령 임신과 임신 합병증이 증가하면서 정밀 영상 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41788",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "다후아테크놀로지, 24시간 AI 기술 지원 서비스 ‘HuaBot 화붓’ 공개",
-      "desc": "글로벌 영상 중심 AIoT 솔루션 및 서비스 기업 다후아테크놀로지(Dahua Technology, 이하 다후아)는 인공지능(AI) 기반 기술 지원 어시스턴트 ‘HuaBot(이하 화붓)’을 출시했다고 4일 밝혔다.화붓은 다후아가 축적해 온 방대한 기술지원 자료에 A...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41775",
+      "title": "아이피스랩, K-water와 싱크홀 탐지 AI '그라운드세이프 AI’ 개발 착수",
+      "desc": "인공지능(AI) 합성데이터 전문기업 아이피스랩㈜(대표이사 백준기)이 한국수자원공사(K-water)와 함께 지반침하(싱크홀)를 선제적으로 찾아내는 인공지능 ‘GroundSafe AI(그라운드세이프 AI)’ 개발에 착수한다고 7일 밝혔다.아이피스랩은 ‘2026년 민관...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41787",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "삼성전자, ‘비스포크 AI 무풍콤보 프로 벽걸이’ IFA 2026 최고 혁신상 수상",
-      "desc": "삼성전자가 유럽 최대 가전 전시회 ‘IFA 2026’에서 혁신상(Innovation Award) 4개를 수상하며 AI 기반 가전의 기술력과 디자인 경쟁력을 입증했다. 특히 ‘비스포크 AI 무풍콤보 프로 벽걸이’ 에어컨은 디자인 부문 최고 혁신상(Winner)과 가...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41774",
+      "title": "NIA, ‘AI 3대 강국’ 도약 뒷받침할 조직개편 단행...AI정부, 안정적인 운영 기반 강화",
+      "desc": "한국지능정보사회진흥원(원장 김형철, 이하 NIA)은 국가 인공지능(AI) 정책의 현장 실행력을 높이고 ‘AI 3대 강국’ 실현을 견인하기 위해 7일, 조직개편을 단행했다.그동안 NIA는 AI 전문기관으로서 인공지능 데이터 구축, AX 확산, 포용적 AI 실현, A...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41785",
       "source": "AI Times"
     }
   ]
