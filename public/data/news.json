@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-09-09T01:07:01.601Z",
+  "lastUpdated": "2026-09-10T00:55:36.695Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "아이폰 18 프로, 가변 조리개·2나노 칩·다이나믹 아일랜드 2.0으로 완성한 프로 경험",
+      "desc": "큰 기대를 모은 ‘서프라이즈 앤 샤인’ 행사에서 애플이 아이폰 18 프로와 아이폰 18 프로 맥스를 발표했다. 아이폰 듀오가 완전히 새로운 폴더블 폼팩터로 이목을 집중시켰고, 프로 제품군에서도 일반 사용자를 대상으로 다양한 모바일 기술을 선보였다.\n\n\n\n아이폰 1...",
+      "link": "https://www.itworld.co.kr/article/4220425/%ec%95%84%ec%9d%b4%ed%8f%b0-18-%ed%94%84%eb%a1%9c-%ea%b0%80%eb%b3%80-%ec%a1%b0%eb%a6%ac%ea%b0%9c%c2%b72%eb%82%98%eb%85%b8-%ec%b9%a9%c2%b7%eb%8b%a4%ec%9d%b4%eb%82%98%eb%af%b9-%ec%95%84%ec%9d%bc.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "아이폰, 이제는 애플의 ‘인텔리전트 퍼스널 허브’",
+      "desc": "25년 전, 필자는 행사장 앞쪽 좌석에서 당시 애플 CEO 스티브 잡스가 애플의 ‘디지털 허브’ 전략을 발표하는 장면을 직접 목격했다. 맥이 온갖 휴대용 디지털 기기를 중앙에서 관리하는 역할을 맡는다는 구상이었다.\n\n\n\n4분의 1세기가 지난 지금, 당시의 디지털 ...",
+      "link": "https://www.itworld.co.kr/article/4220423/%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%9d%b4%ec%a0%9c%eb%8a%94-%ec%95%a0%ed%94%8c%ec%9d%98-%ec%9d%b8%ed%85%94%eb%a6%ac%ec%a0%84%ed%8a%b8-%ed%8d%bc%ec%8a%a4%eb%84%90-%ed%97%88%eb%b8%8c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "엔비디아 RTX 스파크, 노트북의 미래인가",
+      "desc": "엔비디아가 CPU를 만들고 있다. 구체적으로는 RTX 브랜드를 붙인 Arm 기반 프로세서로, 사용자 지향 고성능 노트북과 미니 PC 일부에 탑재될 예정이다. 올해 PC 하드웨어 분야에서 가장 큰 사건임은 분명하다. 그러나 지금 당장 RTX 스파크 노트북을 구매하라...",
+      "link": "https://www.itworld.co.kr/article/4219908/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-rtx-%ec%8a%a4%ed%8c%8c%ed%81%ac-%eb%85%b8%ed%8a%b8%eb%b6%81%ec%9d%98-%eb%af%b8%eb%9e%98%ec%9d%b8%ea%b0%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "AI 시대 SaaS 종말론, 왜 틀렸나",
       "desc": "엔비디아 CEO 젠슨 황은 AI가 SaaS를 도태시킬 것이라는 믿음이 “세상에서 가장 비논리적인 것”이라고 주장하며, SaaS 주가를 폭락시킨 시장의 반응에 대해 “시장이 틀렸다”고 밝혔다. 왜 비논리적인가? 애널리스트 베네딕트 에번스가 강조하듯, 누구나 손쉽게 ...",
       "link": "https://www.itworld.co.kr/article/4219903/ai-%ec%8b%9c%eb%8c%80-saas-%ec%a2%85%eb%a7%90%eb%a1%a0-%ec%99%9c-%ed%8b%80%eb%a0%b8%eb%82%98.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "기조연설 하루 전, 애플워치 SE 3 온라인 스토어서 돌연 ‘구매 불가’",
       "desc": "애플은 24시간 이내에 ‘서프라이즈 앤드 샤인(Surprise and Shine)’ 이벤트를 열고 애플워치 시리즈 12와 울트라 4 등 최소 두 종류의 신형 워치를 포함한 신제품 라인업을 공개할 예정이다. 이런 가운데 이벤트를 앞두고 애플 스토어에서 이상 징후가 ...",
       "link": "https://www.itworld.co.kr/article/4219896/%ea%b8%b0%ec%a1%b0%ec%97%b0%ec%84%a4-%ed%95%98%eb%a3%a8-%ec%a0%84-%ec%95%a0%ed%94%8c%ec%9b%8c%ec%b9%98-se-3-%ec%98%a8%eb%9d%bc%ec%9d%b8-%ec%8a%a4%ed%86%a0%ec%96%b4%ec%84%9c-%eb%8f%8c%ec%97%b0.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "디지털 전환 실패, 컨설팅 업계가 남긴 상처",
-      "desc": "컨설팅 업체는 이번엔 다를 것이라고 말했다. 세련된 슬라이드 덱과 값비싼 공급업체 패키지를 들고 나타나, 비즈니스 방식을 혁신해 주겠다고 약속했다. 컨설팅 업체의 메시지는 명확했다. 디지털 전환은 더 이상 선택이 아니라 생존의 문제라는 것이었다. 변화에 적응하지 ...",
-      "link": "https://www.itworld.co.kr/article/4219892/%eb%94%94%ec%a7%80%ed%84%b8-%ec%a0%84%ed%99%98-%ec%8b%a4%ed%8c%a8-%ec%bb%a8%ec%84%a4%ed%8c%85-%ec%97%85%ea%b3%84%ea%b0%80-%eb%82%a8%ea%b8%b4-%ec%83%81%ec%b2%98.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "폴더블 아이폰에 신임 CEO까지, 올가을 애플 행사 총정리",
-      "desc": "애플 행사는 항상 태평양 표준시 기준 오전 10시에 시작하며, 아이폰 출시 행사는 보통 9월 두 번째 화요일 또는 수요일에 열린다. 한국 시간으로는 9월 10일(수요일) 새벽 2시다. 올해 행사는 ‘서프라이즈 앤 샤인(Surprise and Shine)’이라는 이...",
-      "link": "https://www.itworld.co.kr/article/4219385/%ed%8f%b4%eb%8d%94%eb%b8%94-%ec%95%84%ec%9d%b4%ed%8f%b0%ec%97%90-%ec%8b%a0%ec%9e%84-ceo%ea%b9%8c%ec%a7%80-%ec%98%ac%ea%b0%80%ec%9d%84-%ec%95%a0%ed%94%8c-%ed%96%89%ec%82%ac-%ec%b4%9d%ec%a0%95%eb%a6%ac.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "‘AI 퍼스트 개발’ 선택 아닌 필수인 이유",
-      "desc": "AI를 소프트웨어 개발 프로세스의 단순한 구성 요소가 아닌 핵심 중심축으로 삼는 기업이 빠르게 늘고 있다.\n\n\n\n이런 기업은 AI 퍼스트 개발 전략으로 전환하고 있다. AI 퍼스트 개발 전략은 프로세스 진행 중 선택적으로 사용하는 기능이 아니라, 소프트웨어 개발 ...",
-      "link": "https://www.itworld.co.kr/article/4219375/ai-%ed%8d%bc%ec%8a%a4%ed%8a%b8-%ea%b0%9c%eb%b0%9c-%ec%84%a0%ed%83%9d-%ec%95%84%eb%8b%8c-%ed%95%84%ec%88%98%ec%9d%b8-%ec%9d%b4%ec%9c%a0.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "삼성SDS AX센터 정천수 부장, \"AI가 코드를 짜는 시대, 엔지니어는 무엇을 해야 하나\"",
-      "desc": "생성형 AI의 확산과 함께 소프트웨어 엔지니어링의 방식이 빠르게 변화하고 있다. 특히 최근에는 단순히 AI에게 “무엇을 해달라”고 지시하는 수준을 넘어, AI가 계획을 세우고 개발하고 검증하며 다시 개선하는 에이전틱 엔지니어링으로 관심이 확대되고 있다.이러한 변화...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41829",
+      "title": "SK스퀘어, ‘AI 네이티브’ 투자회사로 본격 부상...스퀘어 투자업무, 포트폴리오 사업모델 빠르게 혁신",
+      "desc": "SK스퀘어(대표이사 사장 김정규)가 인공지능 전환(AX)을 통해 본연의 투자업무와 포트폴리오 회사의 사업모델을 빠르게 혁신하며 ‘AI 네이티브(Native)’ 투자회사로 거듭나고 있다고 10일 밝혔다.‘AI 네이티브’는 AI를 중심에 두고 조직의 업무방식, 의사결...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41852",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "KT, 가성비와 인공지능 앞세운 ‘지니 TV 셋톱박스 A2’ 출시",
-      "desc": "KT(대표이사 박윤영)가 지니 TV의 핵심 AI 기능을 콤팩트한 디자인에 담고 이용 부담을 낮춘 ‘지니 TV 셋톱박스 A2’를 출시했다고 9일 밝혔다.KT는 앞서 실시간 채널과 지상파·종편 드라마/예능, 최신 영화 등의 다양한 VOD를 부담 없이 즐길 수 있는 요...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41828",
+      "title": "“엔터프라이즈 AI, 안전성과 관측성까지 관리한다”...레드햇, AI 3.5 출시",
+      "desc": "글로벌 오픈소스 솔루션 기업 레드햇(Red Hat)이 기업의 인공지능을 실험 단계에서 실제 운영 환경으로 확장하기 위한 엔터프라이즈 AI 플랫폼을 강화했다.레드햇은 10일 ‘레드햇 AI 3.5(Red Hat AI 3.5)’를 출시하고, AI 모델의 안전성 검증과 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41851",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "임팩터스, 부산 고교 40%에서 경험한 AI 수업 솔루션… \"교사 실증이 공교육 에듀테크 표준 만든다\"",
-      "desc": "교육분야 인공지능(AI) 스타트업 임팩터스(대표 김보경)가 지난 7일, 부산 해운대구 파크 하얏트에서 열린 ‘동남권 지·산·학 커넥트 데이’에서 실증기업 대표로 선정돼 AI 기반 학생 개인화 수업 운영·평가·지원 솔루션 ‘임팩트 스페이스’의 부산 지역 실증 성과를...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41827",
+      "title": "애피어, AI가 ‘한계’를 알고 과업에 맞는 언어로 추론...기업용 에이전틱 AI 신뢰성 강화",
+      "desc": "인공지능 네이티브 AaaS(Agentic AI as a Service) 기업 애피어(Appier)가 AI 혁신과 연구를 지속하며 마케팅 및 광고 기술의 영역을 확장하고 있다.에이전틱 AI가 기업의 핵심 업무에 빠르게 도입되는 가운데, 애피어 AI 연구팀은 대형언어...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41850",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "삼성전자, 미스트랄 AI와 전략적 파트너십...미스트랄 AI 기술 결합한 자체 AI 모델 구축",
-      "desc": "삼성전자가 프랑스 인공지능 기업 '미스트랄 AI(Mistral AI)'와 전략적 파트너십을 체결하고, 반도체 설계와 제조에 특화된 자체 AI 모델을 공동 개발하기로 했다고 9일 밝혔다.이번 파트너십 체결은 8일(현지시간) 한·프랑스 양국 정상회담 시점에 진행됐다....",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41826",
+      "title": "DGIST, ‘AI 국가대표 양성 사업’ 릴레이 출범… 미래 전략기술 융합연구 본격 가동",
+      "desc": "DGIST(총장 이건우)는 미래 첨단기술 분야의 혁신 연구와 신진 연구인재 양성을 이끌 ‘2026년 과학기술원 InnoCORE(이노코어) 사업’을 본격적으로 가동하고, 지난달 18일부터 9월 8일까지 산하 연구조직의 출범식을 릴레이로 개최하였다.‘InnoCORE ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41849",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "“혁신, AI 데이터센터가 하나의 칩처럼 움직인다”…파네시아·메타, CXL 기반 AI 인프라 공개",
-      "desc": "인공지능(AI) 인프라용 고속 인터커넥트 기술을 개발하는 국내 팹리스 기업 파네시아(Panmnesia. 대표 정명수)와 메타(Meta)가 협업을 통해, 데이터센터 전체를 하나의 칩처럼 동작시키는 차세대 인공지능 데이터센터(AIDC) 구조를 제시했다. 이 협업 성과...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41811",
+      "title": "에스투더블유, 오픈AI 주도 글로벌 사이버보안 이니셔티브 ‘데이브레이크’ 참여",
+      "desc": "빅데이터 분석 인공지능(AI) 기업 에스투더블유(488280, 이하 S2W)가 오픈AI(OpenAI)가 주도하는 사이버보안 이니셔티브 ‘데이브레이크(Daybreak)’의 글로벌 파트너 생태계 ‘데이브레이크 디펜스 네트워크(Daybreak Defense Networ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41848",
       "source": "AI Times"
     }
   ]
