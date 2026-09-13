@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T00:58:12.056Z",
+  "lastUpdated": "2026-09-13T00:43:08.361Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "“AI가 DNA의 진화를 읽었다”…UC버클리, 질병 유발 변이 찾아내는 AI ‘GPN-Star’ 개발",
+      "desc": "인간 유전체의 대부분을 차지하는 비암호화 DNA 영역에서 질병과 연관된 유전적 변이를 찾아내는 새로운 인공지능(AI) 모델이 개발됐다. 이 모델은 DNA 자체의 패턴뿐 아니라 여러 종의 유전체가 진화 과정에서 어떻게 보존되고 변화했는지를 학습해 기능성 유전자 영역...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41886",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
+      "title": "“AI가 공격 도구 넘어 공격 자체를 조율한다”...앤트로픽, 실제 AI 악용 사례 전격 공개",
+      "desc": "인공지능(AI)이 사이버 공격자의 단순한 ‘코딩 조수’를 넘어 정찰부터 침투, 데이터 탈취와 분석까지 공격 과정 전반을 조율하는 ‘오케스트레이터(orchestrator)’로 진화하고 있다는 분석이 나왔다. 특히 AI 에이전트가 여러 작업을 병렬로 수행하면서 과거 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41885",
+      "source": "AI Times"
+    },
+    {
+      "number": "08",
       "title": "미래양자융합포럼 김효실 센터장, 한국 양자산업 협력 기반 국제무대에 소개",
       "desc": "‘국제양자산업대전 2026(Quantum Expo Korea 2026)’에서 미래양자융합포럼 김효실 센터장이 한국의 양자산업 현황과 산학연관·수요기관 협력체계를 국제 참가자들에게 소개했다. 기업과 연구기관의 참여 현황을 기술 분야와 지역별로 정리하고, 공동연구와 ...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=41883",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "09",
       "title": "아나로그디바이스, 알리프 세미컨덕터 13.5억달러에 인수...AI 네이티브 프로세싱 플랫폼 확보",
       "desc": "아나로그디바이스(Analog Devices, ADI)가 인공지능(AI) 네이티브 프로세싱 기술을 확보하고 피지컬 인텔리전스 분야 경쟁력 강화에 나선다.아나로그디바이스와 알리프 세미컨덕터(Alif Semiconductor)는 10일(현지시간) 아나로그디바이스가 알리...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=41882",
       "source": "AI Times"
     },
     {
-      "number": "08",
+      "number": "10",
       "title": "비자, 소비자 신뢰가 에이전틱 커머스 도입 가속화",
       "desc": "비자(Visa)는 에이전틱 커머스에 관한 비자 신뢰 지수(Visa Trust Index)를 지난 9일(현지시간) 발표하고, 소비자들이 인공지능(AI) 쇼핑과 결제의 다음 단계에 어떻게 대응하고 있는지에 대한 새로운 인사이트를 제시했다.소비자들은 쇼핑 과정 전반에서...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=41881",
-      "source": "AI Times"
-    },
-    {
-      "number": "09",
-      "title": "엔비디아, 팔란티어와 핵심 공급망 위한 소버린 인텔리전스 구현",
-      "desc": "엔비디아(NVIDIA)가 팔란티어 테크놀로지스(Palantir Technologies, 이하 팔란티어)와 협력해 엔비디아 자체 운영을 시작으로 핵심 공급망에 소버린 AI를 도입한다고 10일(현지시간) 밝혔다.이번 협력을 통해 팔란티어 온톨로지(Ontology)를 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41880",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "KB금융, 혁신 스타트업 투자 유치 위한 'KB Innovation HUB - IR Day' 개최",
-      "desc": "KB금융그룹(회장 양종희)이 지난 10일, 서울 여의도 페어몬트 앰배서더에서 혁신 스타트업의 투자 유치와 성장을 지원하기 위해 'KB이노베이션허브 – IR 데이(KB Innovation HUB - IR Day)'를 개최했다.'KB이노베이션허브 – IR 데이'는 성...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41879",
       "source": "AI Times"
     }
   ]
