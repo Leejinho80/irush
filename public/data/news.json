@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-09-15T01:16:48.126Z",
+  "lastUpdated": "2026-09-16T01:11:01.683Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "iOS 27, 구형 아이폰 성능 되살리다",
+      "desc": "iOS 27의 핵심은 인공지능(AI)이지만, 구형 기기 사용자도 이번 업데이트로 의미 있는 개선을 경험할 수 있다.\n\n\n\n9월 14일 출시되는 iOS 27의 주요 특징은 AI로, 아이폰 15 프로 및 아이폰 16 이후 모델에서만 사용할 수 있다. 애플 공식 사이트...",
+      "link": "https://www.itworld.co.kr/article/4221847/ios-27-%ea%b5%ac%ed%98%95-%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%84%b1%eb%8a%a5-%eb%90%98%ec%82%b4%eb%a6%ac%eb%8b%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
       "title": "엔비디아, 미디어텍에 35억 달러 투자로 AI 인프라 주도권 확보",
       "desc": "엔비디아가 AI 기업에 대한 대규모 투자를 이어가고 있다. 이번에는 반도체 업체 미디어텍(MediaTek)에 35억 달러를 투자하고, 그 대가로 미디어텍이 엔비디아 기술을 라이선스하기로 했다.\n\n\n\n엔비디아는 미디어텍이 발행하는 35억 달러 규모의 전환사채를 인수...",
       "link": "https://www.itworld.co.kr/article/4221572/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%eb%af%b8%eb%94%94%ec%96%b4%ed%85%8d%ec%97%90-35%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ed%88%ac%ec%9e%90%eb%a1%9c-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%a3%bc%eb%8f%84.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "03",
       "title": "설렘 뒤에 남는 아이폰 듀오의 한계 “혁신인가, 타협인가”",
       "desc": "지난주 열린 애플의 ‘서프라이즈 앤드 샤인(Surprise and Shine)’ 프레스 행사에서 아이폰 듀오 세그먼트를 지켜보며 처음 든 생각은 단순했다. 직접 써보고 싶다는 것이었다. 20년 넘게 이런 행사를 취재해온 냉소적인 기자에게 이 정도 반응은 예사롭지 ...",
       "link": "https://www.itworld.co.kr/article/4221466/%ec%84%a4%eb%a0%98-%eb%92%a4%ec%97%90-%eb%82%a8%eb%8a%94-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4%ec%9d%98-%ed%95%9c%ea%b3%84-%ed%98%81%ec%8b%a0%ec%9d%b8%ea%b0%80-%ed%83%80%ed%98%91%ec%9d%b8.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "04",
       "title": "“상시 청취하되 녹음은 없다” 애플, AI 프라이버시 보호 방법 공개",
       "desc": "애플워치 시리즈 12와 울트라 4에서 애플은 실용적이고 흥미로운 새 음성 기반 AI 기능을 선보인다.\n\n\n\n새로운 S11 프로세서는 배터리 수명을 단축하지 않고 음성을 지속적으로 청취하고 (가볍게) 처리할 수 있는 하드웨어를 탑재했다. 애플은 S11 프로세서의 상...",
       "link": "https://www.itworld.co.kr/article/4221452/%ec%83%81%ec%8b%9c-%ec%b2%ad%ec%b7%a8%ed%95%98%eb%90%98-%eb%85%b9%ec%9d%8c%ec%9d%80-%ec%97%86%eb%8b%a4-%ec%95%a0%ed%94%8c-ai-%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b2%84%ec%8b%9c-%eb%b3%b4%ed%98%b8.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
+      "number": "05",
       "title": "“에이전트가 DB를 삭제하는 시대” 에이전틱 시스템 확산이 바꾼 LLM 보안 위협 지형도",
       "desc": "기술의 빠른 발전과 다양한 비즈니스 활용 사례의 등장으로 기업의 생성형 AI 기술 도입이 폭발적으로 늘어나고 있다.\n\n\n\n다만 대규모 언어 모델(LLM)은 유해한 결과물을 실수로 생성하거나, 정보를 유출하거나, 위협 행위자에게 노출될 수 있다. 기술이 발전하고 공...",
       "link": "https://www.itworld.co.kr/article/4221436/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-db%eb%a5%bc-%ec%82%ad%ec%a0%9c%ed%95%98%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ed%99%95.html",
       "source": "ITWorld"
     },
     {
-      "number": "05",
-      "title": "앤트로픽, 클로드의 4번째 탈출 사례 추가 확인…클로드 탈출 사례 총 4건 집계",
-      "desc": "앤트로픽이 AI 모델 클로드가 폐쇄 시스템으로 알려진 환경에서 사이버보안 역량 평가를 진행하는 도중 열린 인터넷으로 탈출해 다른 기업을 공격한 네 번째 보안 사고를 인정했다.\n\n\n\n앤트로픽은 지난 7월에도 예비 조사를 거쳐 유사한 사고 3건을 공개한 바 있다.\n\n...",
-      "link": "https://www.itworld.co.kr/article/4221424/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c%ec%9d%98-4%eb%b2%88%ec%a7%b8-%ed%83%88%ec%b6%9c-%ec%82%ac%eb%a1%80-%ec%b6%94%ea%b0%80-%ed%99%95%ec%9d%b8-%ed%81%b4%eb%a1%9c%eb%93%9c.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "애플, AI로 완전히 다시 만든 ‘시리 AI’ 공개…‘질문에 답하는 시리’에서 ‘일을 처리하는 AI’로",
-      "desc": "애플의 음성비서 ‘시리(Siri)’가 인공지능(AI)을 기반으로 전면 재설계됐다. 단순히 질문에 답하는 음성비서를 넘어 사용자의 메시지와 이메일, 사진 등 개인 정보를 이해하고, 화면에 표시된 내용을 인식하며, 여러 앱을 넘나들며 실제 작업까지 수행하는 개인형 A...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41918",
+      "title": "KAIST, “파란 소파 찾아가”…말 알아듣고 스스로 길 찾는 로봇, 국제대회 1·2위",
+      "desc": "“파란 소파를 찾아가.” 처음 들어간 건물에서도 사람의 말 한마디를 알아듣고 스스로 길을 찾은 뒤, 제대로 도착했는지까지 확인하는 로봇 기술이 국제 대회에서 잇달아 상위권에 올랐다. KAIST 연구팀은 로봇이 길을 찾는 데 그치지 않고 주변 상황을 이해하고, 자신...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41947",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "구글 클라우드, SK렌터카 전사에 구글 워크스페이스 통해 AI 기반 업무 환경 혁신",
-      "desc": "구글 클라우드는 SK렌터카가 전사에 구글 워크스페이스(Google Workspace)를 도입해 생성형 AI 기반 클라우드 업무 환경을 구축했다고 15일 밝혔다.SK렌터카는 그동안 보안을 위해 폐쇄형 가상 데스크톱(VDI) 기반의 업무 환경을 운영해 왔다. 그러나 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41917",
+      "title": "SKT, 글로벌 보안 기업 F5와 AI 클라우드 보안 파트너십...웹·API 공격 및 디도스·봇 공격 방어 역량 강화",
+      "desc": "SK텔레콤(대표이사 CEO 정재헌)은 글로벌 보안 기업 F5와 인공지능(AI) 클라우드 보안 사업 협력 강화를 위한 파트너십을 체결했다고 16일 밝혔다.SKT는 F5 솔루션의 부가가치 재판매 사업자(Value Added Reseller, VAR)와 관리형 서비스 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41946",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "AI 데이터센터 전력난에 ‘직류’ 뜬다…ABB·BCG, AC·DC 하이브리드 전력망 제시",
-      "desc": "인공지능 데이터센터(AIDC)의 폭발적인 전력 수요가 기존 교류(AC) 중심의 전력 인프라에 새로운 변화를 요구하고 있다. 태양광과 배터리, 전기차, AI 데이터센터 등 전력 생산과 소비 영역에서 직류(DC) 기반 기술이 빠르게 늘어나면서 AC와 DC를 결합한 하...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41916",
+      "title": "SK, ‘2026 SK AI 해커톤’ 성료··... AX 아이디어로 무장한 39개 멤버사 271개 팀 672명 참가",
+      "desc": "SK가 전체 구성원을 대상으로 진행한 ‘2026 SK AI 해커톤’을 성황리에 마쳤다고 16일 밝혔다. SK AI 해커톤은 SK의 교육 플랫폼 마이써니(mySUNI)가 2021년부터 그룹 내 다양한 난제를 구성원들의 인공지능 전환(AX)으로 풀어낸다는 목표로 6년...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41945",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "뉴엔AI, 뉴저지주에 북미 법인 설립… ‘뷰센스’로 북미 전역 비즈니스 본격화",
-      "desc": "산업 맞춤형 인공지능(AI) 분석 기업 뉴엔AI(대표 배성환)가 자사의 뷰티 특화 온톨로지 AI 분석 플랫폼 ‘뷰센스(VUSSENS)’의 해외 비즈니스 확대를 위해 미국 뉴저지주에 100% 자회사인 북미 법인(VUSSENS Inc.)을 설립했다고 15일 밝혔다.북...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41915",
+      "title": "멀티캠퍼스, AI 교육을 실무 성과로 잇는 ‘AX 해커톤’ 출시",
+      "desc": "기업교육 전문기업 멀티캠퍼스가 인공지능(AI) 교육을 실무 성과로 전환하는 올인원 서비스 'AX 해커톤'을 16일 출시했다.AX 해커톤은 AI 교육 이후 임직원이 학습한 내용을 직접 실제 업무 문제 해결에 적용해보는 실습형 프로그램으로, 참가 신청부터 기획서와 결...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41944",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "GIST, 110억 원 규모 'AI 최고급 신진연구자 지원사업' 선정…차세대 의료 AI 원천기술 개발",
-      "desc": "광주과학기술원(GIST·지스트, 총장 임기철)은 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 ‘2026년도 AI 최고급 신진연구자(박사후연구자 또는 최초 임용 7년 이내의 교원) 지원사업’의 학제연계형 과제에 선정됐다고 15일 밝혔다.이번 선정으로 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41914",
+      "title": "AI 데이터센터 ‘열’ 잡는다...화학연-SK이노베이션, 차세대 냉각소재 개발 맞손",
+      "desc": "한국화학연구원(원장 신석민, 이하 화학연)이 SK이노베이션 환경과학기술원(원장 김필석, 이하 SKI)과 손잡고 급증하는 인공지능 데이터센터(AIDC)의 전력 사용량을 줄이기 위한 차세대 냉각 소재 기술 개발에 나선다.화학연과 SKI는 지난 15일 대전 화학연에서 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41943",
       "source": "AI Times"
     }
   ]
