@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-09-16T01:11:01.683Z",
+  "lastUpdated": "2026-09-17T01:12:44.291Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "“내 사진이 진짜임을 어떻게 증명할까” 애플 레퍼런스 이미지가 답한다",
+      "desc": "AI 저품질 콘텐츠와의 싸움은 사진 분야에서도 현실로 다가왔다. 애플도 신형 아이폰을 출시하며 레퍼런스 이미지 기술을 선보였다. 레퍼런스 이미지 기술은 이미지 검증 시점을 촬영 순간으로 앞당기며, 뉴스룸과 기업, 개인이 사진의 진위를 입증하는 데 활용할 프라이버시...",
+      "link": "https://www.itworld.co.kr/article/4223043/%eb%82%b4-%ec%82%ac%ec%a7%84%ec%9d%b4-%ec%a7%84%ec%a7%9c%ec%9e%84%ec%9d%84-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%a6%9d%eb%aa%85%ed%95%a0%ea%b9%8c-%ec%95%a0%ed%94%8c-%eb%a0%88%ed%8d%bc%eb%9f%b0%ec%8a%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "로봇 두뇌를 클라우드에, 제너럴 로보틱스의 GRID 전략",
+      "desc": "로봇 두뇌 구축 방식을 놓고 업계의 많은 기업은 지능을 로봇 내부에 직접 탑재하는 데 집중한다.\n\n\n\n워싱턴주에 본사를 둔 제너럴 로보틱스(General Robotics)는 다른 방향을 택했다. 제너럴 로보틱스의 GRID 시스템은 로봇 지능 레이어를 클라우드에서 ...",
+      "link": "https://www.itworld.co.kr/article/4223031/%eb%a1%9c%eb%b4%87-%eb%91%90%eb%87%8c%eb%a5%bc-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%ec%a0%9c%eb%84%88%eb%9f%b4-%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4%ec%9d%98-grid-%ec%a0%84%eb%9e%b5.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "AI 에이전트 거버넌스 : 온보딩은 빌리고, 책임은 인간에게",
+      "desc": "잠도 안 자고, 임금 인상도 요구하지 않으며, 점심 전에 복제까지 가능한 존재가 기업 인력으로 합류하고 있다. 또한 누군가 알아채기 전까지 수천 번이나 자신 있게 잘못된 결정을 내릴 수도 있다.\n\n\n\n일부 기술 리더가 AI 에이전트를 소프트웨어가 아닌 직원, 동료...",
+      "link": "https://www.itworld.co.kr/article/4223020/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4-%ec%98%a8%eb%b3%b4%eb%94%a9%ec%9d%80-%eb%b9%8c%eb%a6%ac%ea%b3%a0-%ec%b1%85%ec%9e%84%ec%9d%80-%ec%9d%b8%ea%b0%84%ec%97%90.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "iOS 27, 구형 아이폰 성능 되살리다",
       "desc": "iOS 27의 핵심은 인공지능(AI)이지만, 구형 기기 사용자도 이번 업데이트로 의미 있는 개선을 경험할 수 있다.\n\n\n\n9월 14일 출시되는 iOS 27의 주요 특징은 AI로, 아이폰 15 프로 및 아이폰 16 이후 모델에서만 사용할 수 있다. 애플 공식 사이트...",
       "link": "https://www.itworld.co.kr/article/4221847/ios-27-%ea%b5%ac%ed%98%95-%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%84%b1%eb%8a%a5-%eb%90%98%ec%82%b4%eb%a6%ac%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "엔비디아, 미디어텍에 35억 달러 투자로 AI 인프라 주도권 확보",
       "desc": "엔비디아가 AI 기업에 대한 대규모 투자를 이어가고 있다. 이번에는 반도체 업체 미디어텍(MediaTek)에 35억 달러를 투자하고, 그 대가로 미디어텍이 엔비디아 기술을 라이선스하기로 했다.\n\n\n\n엔비디아는 미디어텍이 발행하는 35억 달러 규모의 전환사채를 인수...",
       "link": "https://www.itworld.co.kr/article/4221572/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%eb%af%b8%eb%94%94%ec%96%b4%ed%85%8d%ec%97%90-35%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ed%88%ac%ec%9e%90%eb%a1%9c-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%a3%bc%eb%8f%84.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "설렘 뒤에 남는 아이폰 듀오의 한계 “혁신인가, 타협인가”",
-      "desc": "지난주 열린 애플의 ‘서프라이즈 앤드 샤인(Surprise and Shine)’ 프레스 행사에서 아이폰 듀오 세그먼트를 지켜보며 처음 든 생각은 단순했다. 직접 써보고 싶다는 것이었다. 20년 넘게 이런 행사를 취재해온 냉소적인 기자에게 이 정도 반응은 예사롭지 ...",
-      "link": "https://www.itworld.co.kr/article/4221466/%ec%84%a4%eb%a0%98-%eb%92%a4%ec%97%90-%eb%82%a8%eb%8a%94-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4%ec%9d%98-%ed%95%9c%ea%b3%84-%ed%98%81%ec%8b%a0%ec%9d%b8%ea%b0%80-%ed%83%80%ed%98%91%ec%9d%b8.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "“상시 청취하되 녹음은 없다” 애플, AI 프라이버시 보호 방법 공개",
-      "desc": "애플워치 시리즈 12와 울트라 4에서 애플은 실용적이고 흥미로운 새 음성 기반 AI 기능을 선보인다.\n\n\n\n새로운 S11 프로세서는 배터리 수명을 단축하지 않고 음성을 지속적으로 청취하고 (가볍게) 처리할 수 있는 하드웨어를 탑재했다. 애플은 S11 프로세서의 상...",
-      "link": "https://www.itworld.co.kr/article/4221452/%ec%83%81%ec%8b%9c-%ec%b2%ad%ec%b7%a8%ed%95%98%eb%90%98-%eb%85%b9%ec%9d%8c%ec%9d%80-%ec%97%86%eb%8b%a4-%ec%95%a0%ed%94%8c-ai-%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b2%84%ec%8b%9c-%eb%b3%b4%ed%98%b8.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "“에이전트가 DB를 삭제하는 시대” 에이전틱 시스템 확산이 바꾼 LLM 보안 위협 지형도",
-      "desc": "기술의 빠른 발전과 다양한 비즈니스 활용 사례의 등장으로 기업의 생성형 AI 기술 도입이 폭발적으로 늘어나고 있다.\n\n\n\n다만 대규모 언어 모델(LLM)은 유해한 결과물을 실수로 생성하거나, 정보를 유출하거나, 위협 행위자에게 노출될 수 있다. 기술이 발전하고 공...",
-      "link": "https://www.itworld.co.kr/article/4221436/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-db%eb%a5%bc-%ec%82%ad%ec%a0%9c%ed%95%98%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ed%99%95.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "KAIST, “파란 소파 찾아가”…말 알아듣고 스스로 길 찾는 로봇, 국제대회 1·2위",
-      "desc": "“파란 소파를 찾아가.” 처음 들어간 건물에서도 사람의 말 한마디를 알아듣고 스스로 길을 찾은 뒤, 제대로 도착했는지까지 확인하는 로봇 기술이 국제 대회에서 잇달아 상위권에 올랐다. KAIST 연구팀은 로봇이 길을 찾는 데 그치지 않고 주변 상황을 이해하고, 자신...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41947",
+      "title": "삼성전자, 지역 맞춤형 AI 가전으로 인도 공략…“일상 속 AI 동반자로”",
+      "desc": "삼성전자가 지역별 기후와 생활문화에 맞춘 인공지능(AI) 가전 전략을 앞세워 글로벌 시장 공략을 강화하고 있다.삼성전자는 16일(현지시간) 인도 구루그람에서 가전 테크세미나 ‘더 브리프(The Brief)’를 개최하고, 인도 소비자의 생활 특성과 주거 환경을 반영...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41961",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "SKT, 글로벌 보안 기업 F5와 AI 클라우드 보안 파트너십...웹·API 공격 및 디도스·봇 공격 방어 역량 강화",
-      "desc": "SK텔레콤(대표이사 CEO 정재헌)은 글로벌 보안 기업 F5와 인공지능(AI) 클라우드 보안 사업 협력 강화를 위한 파트너십을 체결했다고 16일 밝혔다.SKT는 F5 솔루션의 부가가치 재판매 사업자(Value Added Reseller, VAR)와 관리형 서비스 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41946",
+      "title": "NC AI, 1조 4131억 원 규모 국가 프로젝트 참여...전북∙경남 피지컬 AI 대형 국책 과제 동시 선정",
+      "desc": "피지컬 AI 전문 기업 NC AI가 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 전북∙경남 피지컬 AI 연구개발사업에 참여해 국가 차원의 핵심 기술 개발에 본격 나선다고 17일 밝혔다. 이번 사업은 2026년부터 2030년까지 5년간 총 1조 4,1...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41960",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "SK, ‘2026 SK AI 해커톤’ 성료··... AX 아이디어로 무장한 39개 멤버사 271개 팀 672명 참가",
-      "desc": "SK가 전체 구성원을 대상으로 진행한 ‘2026 SK AI 해커톤’을 성황리에 마쳤다고 16일 밝혔다. SK AI 해커톤은 SK의 교육 플랫폼 마이써니(mySUNI)가 2021년부터 그룹 내 다양한 난제를 구성원들의 인공지능 전환(AX)으로 풀어낸다는 목표로 6년...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41945",
+      "title": "네이버 쇼핑앱 ‘AI 쇼핑 에이전트’ 배송 특화 기능 고도화 ...\"내일 도착 상품으로 알아서 추천\"",
+      "desc": "네이버(대표이사 최수연)는 사용자가 상품마다 배송일을 일일이 확인하지 않고도 원하는 시점에 받아볼 수 있는 상품을 쉽게 찾을 수 있도록, 네이버 쇼핑 앱의 ‘AI 쇼핑 에이전트’에 실시간 배송 정보를 반영한 추천 기능을 고도화 한다고 17일 밝혔다.예를 들어 사용...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41959",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "멀티캠퍼스, AI 교육을 실무 성과로 잇는 ‘AX 해커톤’ 출시",
-      "desc": "기업교육 전문기업 멀티캠퍼스가 인공지능(AI) 교육을 실무 성과로 전환하는 올인원 서비스 'AX 해커톤'을 16일 출시했다.AX 해커톤은 AI 교육 이후 임직원이 학습한 내용을 직접 실제 업무 문제 해결에 적용해보는 실습형 프로그램으로, 참가 신청부터 기획서와 결...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41944",
+      "title": "KT, 피지컬AI로 제조 혁신 이끈다...전북혁신도시 ‘다크팩토리’ 핵심 인프라 구축 추진",
+      "desc": "KT(대표이사 박윤영)가 과학기술정보통신부 주관 ‘AI기반 다크팩토리 설계·구축 솔루션 개발’ 과제 공동연구기관으로 참여해 관련 기술 개발에 나섰다고 17일 밝혔다.‘인공지능 기반 다크팩토리 설계·구축 솔루션 개발’은 과기부 ‘협업지능 피지컬 AI 기반 SW플랫폼...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41958",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "AI 데이터센터 ‘열’ 잡는다...화학연-SK이노베이션, 차세대 냉각소재 개발 맞손",
-      "desc": "한국화학연구원(원장 신석민, 이하 화학연)이 SK이노베이션 환경과학기술원(원장 김필석, 이하 SKI)과 손잡고 급증하는 인공지능 데이터센터(AIDC)의 전력 사용량을 줄이기 위한 차세대 냉각 소재 기술 개발에 나선다.화학연과 SKI는 지난 15일 대전 화학연에서 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41943",
+      "title": "ETRI, 대한민국 AI 글라스 생태계 구축 나섰다...산·학·연·관 모여 경쟁력 강화 논의",
+      "desc": "한국전자통신연구원(ETRI)이 차세대 개인형 인공지능(AI) 인터페이스로 주목받는 AI 글라스 기술과 산업을 잇는 국내 협력 생태계 구축에 본격 나섰다.ETRI는 지난 15일 서울 명동 로얄호텔 그랜드볼룸에서 'AI-인글라스 포럼 2026'을 개최했다. 포럼은 과...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41957",
       "source": "AI Times"
     }
   ]
