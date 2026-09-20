@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T01:02:33.452Z",
+  "lastUpdated": "2026-09-20T00:51:23.900Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "앤트로픽-액센추어, AI 안전성 평가에 5년간 각각 10억 달러 투자",
+      "desc": "앤트로픽(Anthropic)이 글로벌 컨설팅·기술 서비스 기업 액센추어(Accenture)와 협력해 최첨단 인공지능(AI) 모델의 안전성을 독립적으로 평가하는 체계를 구축한다.이는 외부 평가자가 AI 기업 내부에 상주하며 모델 개발과 배포 과정을 직접 검증하는 방...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42007",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
+      "title": "구글, AI로 패션위크 무대·스타일링 혁신…디자이너 맞춤 도구 공동 개발",
+      "desc": "구글이 인공지능(AI)을 활용해 패션 디자이너의 의상 스타일링부터 런웨이 무대 설계까지 지원하는 맞춤형 창작 도구를 개발했다. 뉴욕 패션위크를 앞두고 디자이너들과 협력해 실제 패션 제작·쇼 준비 과정에 AI를 적용한 사례다.구글은 18일(현지시간) 구글 인비저닝 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42006",
+      "source": "AI Times"
+    },
+    {
+      "number": "08",
       "title": "현대차 정몽구 재단, 아시아 임팩트 투자 포럼에서 공익재단의 촉매자본적 역할 제시",
       "desc": "현대차 정몽구 재단(이사장 정무성)은 지난 16일부터 18일까지 사흘간 일본 고베에서 열린 ‘2026 Asia Impact Nights(AIN 2026)’에 메인 세션을 개최하며 아시아 임팩트 투자 생태계의 주요 리더들과 지속가능한 사회혁신을 위한 자본의 역할과 ...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42005",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "09",
       "title": "'고객센터 AI' 넘어 공급망·채용까지…아마존 '커넥트’, 에이전틱 AI 플랫폼으로 확장",
       "desc": "아마존웹서비스(AWS)가 인공지능(AI) 고객센터 솔루션으로 출발한 ‘아마존 커넥트(Amazon Connect)’를 공급망, 채용, 고객경험, 헬스케어 등 기업의 핵심 업무를 수행하는 에이전틱 AI 솔루션군으로 확대한다.아마존은 17일(현지시간) 기존 아마존 커넥...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42003",
       "source": "AI Times"
     },
     {
-      "number": "08",
+      "number": "10",
       "title": "서울 ODA 국제회의, AI 시대 개발협력...\"함께 가는 해법을 찾다\"",
       "desc": "외교부와 코이카(KOICA·한국국제협력단)가 공동 주최한 ‘제19회 서울 ODA 국제회의’가 18일 여의도 콘래드 서울 호텔에서 개최됐다.공적개발원조(Official Development Assistance, ODA) 관련 국내 최대 규모의 연례 회의로 올해는 ‘...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42002",
-      "source": "AI Times"
-    },
-    {
-      "number": "09",
-      "title": "AI 에이전트 ‘블랙박스’ 없앤다…알리바바, 코드 수정 없이 실행 과정 추적",
-      "desc": "AI 에이전트가 스스로 코드를 만들고 실행하거나 브라우저와 각종 도구를 호출하는 등 실제 행동을 수행하는 단계로 발전하면서, 에이전트가 안전하게 실행되는 것뿐 아니라 내부에서 무엇을 하고 있는지를 확인하는 ‘관측성’이 새로운 과제로 떠오르고 있다.알리바바 클라우드...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42001",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "앤트로픽, 생명과학 AI 빗장 푼다…‘고위험 연구’까지 허용",
-      "desc": "앤트로픽(Anthropic)이 생명과학 분야에서 인공지능(AI) 모델의 활용 범위를 대폭 넓힌다. 신약 개발과 연구 생물학, 임상 개발, 제조 등 기존 일반 공개 모델에서 차단되던 생물학 관련 작업을 검증된 연구기관과 기업이 수행할 수 있도록 별도의 접근 프로그램...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42000",
       "source": "AI Times"
     }
   ]
