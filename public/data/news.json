@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T00:51:23.900Z",
+  "lastUpdated": "2026-09-21T00:56:16.643Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "앤트로픽-액센추어, AI 안전성 평가에 5년간 각각 10억 달러 투자",
-      "desc": "앤트로픽(Anthropic)이 글로벌 컨설팅·기술 서비스 기업 액센추어(Accenture)와 협력해 최첨단 인공지능(AI) 모델의 안전성을 독립적으로 평가하는 체계를 구축한다.이는 외부 평가자가 AI 기업 내부에 상주하며 모델 개발과 배포 과정을 직접 검증하는 방...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42007",
+      "title": "30년간 분자를 쫓았다…이근우 오리엔텀 부사장, \"이제 양자컴퓨터로 금융 난제 푼다\"",
+      "desc": "이근우 오리엔텀(ORIENTOM) 부사장이 오랫동안 계산해온 대상은 원자와 분자였다. 약물이 단백질에 어떻게 결합하는지, 물질의 구조가 바뀌면 어떤 반응이 일어나는지를 연구해왔다. 그러나 지금 오리엔텀에서 그가 주력하는 분야는 금융이다. 옵션 등 파생상품의 가격을...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42014",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "구글, AI로 패션위크 무대·스타일링 혁신…디자이너 맞춤 도구 공동 개발",
-      "desc": "구글이 인공지능(AI)을 활용해 패션 디자이너의 의상 스타일링부터 런웨이 무대 설계까지 지원하는 맞춤형 창작 도구를 개발했다. 뉴욕 패션위크를 앞두고 디자이너들과 협력해 실제 패션 제작·쇼 준비 과정에 AI를 적용한 사례다.구글은 18일(현지시간) 구글 인비저닝 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42006",
+      "title": "‘무인 자율 주행부터 AI 기반 관제 운영까지’... HD건설기계,  대학생이 그린 건설기계의 미래",
+      "desc": "HD건설기계가 대한민국 공대생들의 창의적인 아이디어를 발굴하고, 산업의 미래를 함께 그리기 위한 대학생 공모전을 성황리에 마무리했다.HD건설기계는 지난 18일 판교 HD현대 글로벌R&D센터에서 ‘제1회 HD 퓨처 건설기계 챌린지’ 시상식을 개최했다고 20일 밝혔다...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42011",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "현대차 정몽구 재단, 아시아 임팩트 투자 포럼에서 공익재단의 촉매자본적 역할 제시",
-      "desc": "현대차 정몽구 재단(이사장 정무성)은 지난 16일부터 18일까지 사흘간 일본 고베에서 열린 ‘2026 Asia Impact Nights(AIN 2026)’에 메인 세션을 개최하며 아시아 임팩트 투자 생태계의 주요 리더들과 지속가능한 사회혁신을 위한 자본의 역할과 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42005",
+      "title": "LG전자, AI 데이터센터 최적화 공랭식 터보 칠러 출시...냉각 성능 높이고, 가동 유지 시간 늘리고",
+      "desc": "LG전자(대표이사 류재철)가 인공지능 데이터센터(AIDC)에 최적화된 맞춤형 터보 칠러 신제품을 선보이며 폭발적으로 성장하고 있는 글로벌 AIDC 시장 공략을 강화한다.LG전자는 20일 ‘공랭식 무급유 인버터 터보 칠러(이하 터보 칠러)’ 신제품을 출시했다. LG...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42010",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "'고객센터 AI' 넘어 공급망·채용까지…아마존 '커넥트’, 에이전틱 AI 플랫폼으로 확장",
-      "desc": "아마존웹서비스(AWS)가 인공지능(AI) 고객센터 솔루션으로 출발한 ‘아마존 커넥트(Amazon Connect)’를 공급망, 채용, 고객경험, 헬스케어 등 기업의 핵심 업무를 수행하는 에이전틱 AI 솔루션군으로 확대한다.아마존은 17일(현지시간) 기존 아마존 커넥...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42003",
+      "title": "삼성전자, 미국 실리콘밸리서 '2026 테크 포럼'개최… AI비전과 사업전략 공유",
+      "desc": "삼성전자가 지난 18일(현지시간) 미국 실리콘밸리에서 기술 인재들을 초청해 주요 사업 방향과 연구 분야를 소개하고 최신 기술 트렌드를 논의하는 '2026 테크 포럼'을 개최했다.올해로 8회째를 맞이하는 이번 행사는 실리콘밸리 마운틴뷰에 위치한 삼성 리서치 아메리카...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42009",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "서울 ODA 국제회의, AI 시대 개발협력...\"함께 가는 해법을 찾다\"",
-      "desc": "외교부와 코이카(KOICA·한국국제협력단)가 공동 주최한 ‘제19회 서울 ODA 국제회의’가 18일 여의도 콘래드 서울 호텔에서 개최됐다.공적개발원조(Official Development Assistance, ODA) 관련 국내 최대 규모의 연례 회의로 올해는 ‘...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42002",
+      "title": "LG, 청소년부터 청년까지 AI 인재 키운다…맞춤형 교육 체계 구축",
+      "desc": "LG가 청소년부터 청년, 임직원에 이르기까지 대상별 맞춤형 인공지능(AI) 교육 프로그램을 확대하며 미래 AI 인재 육성에 나섰다. AI 기술 자체의 발전을 넘어 실제 산업 현장의 문제를 해결할 수 있는 실전형 인재를 양성하고, 교육부터 취업까지 이어지는 인재 육...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42008",
       "source": "AI Times"
     }
   ]
