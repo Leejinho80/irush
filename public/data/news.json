@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-09-22T01:30:52.700Z",
+  "lastUpdated": "2026-09-23T01:20:31.964Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "구글 제미나이의 무단 침투와 7주간의 침묵",
+      "desc": "구글이 월요일, 자사의 제미나이 AI 에이전트가 5월 기업 3곳에 침투했다고 확인했다. 에이전트는 한 곳의 접속 자격증명을 추측해 내부에 접근했으며, 나머지 두 곳의 자격증명은 공개 저장소에서 발견했다.\n\n\n\n그러나 금요일 월스트리트저널이 처음 보도한 사건의 배경...",
+      "link": "https://www.itworld.co.kr/article/4225312/%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%ec%9d%98-%eb%ac%b4%eb%8b%a8-%ec%b9%a8%ed%88%ac%ec%99%80-7%ec%a3%bc%ea%b0%84%ec%9d%98-%ec%b9%a8%eb%ac%b5.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "“에이전트AI 시대, 기업 인프라도 ‘분산형’으로” 아카마이, 보안·성능 통합 전략 제시",
+      "desc": "AI 도입 자체에서 벗어나 AI를 중심으로 기술과 비즈니스 전략을 재설계하는 단계로 진입했다. 시범(POC) 단계에서 실제 프로덕션 환경으로의 이동이 가속화하면서, 이를 뒷받침하는 인프라의 전략적 중요성이 높아지고 있다. 특히 AI가 단순한 업무 보조 도구를 넘어...",
+      "link": "https://www.itworld.co.kr/article/4224635/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85-%ec%9d%b8%ed%94%84%eb%9d%bc%eb%8f%84-%eb%b6%84%ec%82%b0%ed%98%95%ec%9c%bc%eb%a1%9c-%ec%95%84%ec%b9%b4%eb%a7%88.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "세일즈포스 대규모 장애가 드러낸 클라우드 의존성의 맹점",
+      "desc": "세일즈포스의 플래그십 드림포스 행사가 수요일 한창 진행되는 동안, 세일즈포스는 약 7시간 30분에 걸친 서비스 장애를 수습해야 했다. 장애로 사용자 접속이 차단됐고, “심각한 지연”과 간헐적 오류가 발생했다. 일부 고객은 새로운 지원 케이스를 접수하지 못하기도 했...",
+      "link": "https://www.itworld.co.kr/article/4224645/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%eb%8c%80%ea%b7%9c%eb%aa%a8-%ec%9e%a5%ec%95%a0%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%9d%98%ec%a1%b4%ec%84%b1.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "수십억 달러 투자에도 드러난 오픈AI 사이버 보안의 허점",
+      "desc": "두 연구팀이 각각 오픈AI 시스템의 보안 결함을 보고하면서, 자체 AI 기반 사이버 보안 테스트 툴 개발에 수십억 달러를 투자한 기업조차 취약점에 노출될 수 있다는 사실이 드러났다.\n\n\n\n한 사건에서는 연구진이 경쟁 AI 개발사의 툴을 활용해 오픈AI 시스템을 침...",
+      "link": "https://www.itworld.co.kr/article/4224601/%ec%88%98%ec%8b%ad%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ed%88%ac%ec%9e%90%ec%97%90%eb%8f%84-%eb%93%9c%eb%9f%ac%eb%82%9c-%ec%98%a4%ed%94%88ai-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b4%ec%95%88%ec%9d%98-%ed%97%88.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "‘안전’ 뒤에 감춰진 AI 업계의 속도 조절 이유",
       "desc": "프런티어 AI 개발이 테스트·모니터링·거버넌스·통제 능력을 앞서는 속도로 발전하고 있다는 주장이 나오고 있다. 그러나 과연 그럴까? 안전은 AI 기업의 주된 동기와는 거리가 멀다.\n\n\n\nAI 리더의 상투적인 말잔치를 듣고 있었다. AI는 훌륭하다! AI가 암을 치...",
       "link": "https://www.itworld.co.kr/article/4224149/%ec%95%88%ec%a0%84-%eb%92%a4%ec%97%90-%ea%b0%90%ec%b6%b0%ec%a7%84-ai-%ec%97%85%ea%b3%84%ec%9d%98-%ec%86%8d%eb%8f%84-%ec%a1%b0%ec%a0%88-%ec%9d%b4%ec%9c%a0.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "빅테크의 AI 안전 노선 갈등과 공급 리스크의 현실화",
-      "desc": "선도적인 AI 기업 사이에서 점점 강력해지는 모델의 안전 관리 방식을 둘러싼 견해 차이가 커지면서, 기업 IT에도 도전 과제로 이어지기 시작했다. 기업이 AI 시스템에 접근하고, 도입하고, 거버넌스를 수립하는 방식에도 파급효과가 미칠 전망이다.\n\n\n\n최근 갈등의 ...",
-      "link": "https://www.itworld.co.kr/article/4224135/%eb%b9%85%ed%85%8c%ed%81%ac%ec%9d%98-ai-%ec%95%88%ec%a0%84-%eb%85%b8%ec%84%a0-%ea%b0%88%eb%93%b1%ea%b3%bc-%ea%b3%b5%ea%b8%89-%eb%a6%ac%ec%8a%a4%ed%81%ac%ec%9d%98-%ed%98%84%ec%8b%a4%ed%99%94.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "AI가 고쳤다는 테스트, 올바른 대상을 가리킬까 “AI 테스트 자동화의 맹점”",
-      "desc": "AI가 방금 그 실패한 테스트를 ‘수정’했다. 하지만 정말 올바른 문제를 고친 것일까, 아니면 단순히 빨간불을 초록불로 바꾸는 방법을 찾아낸 것일까?\n\n\n\n초록 대시보드는 소프트웨어 엔지니어링에서 가장 안심이 되는 지표다. 빌드가 통과됐고, 테스트가 통과됐으며, ...",
-      "link": "https://www.itworld.co.kr/article/4224133/ai%ea%b0%80-%ea%b3%a0%ec%b3%a4%eb%8b%a4%eb%8a%94-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%98%ac%eb%b0%94%eb%a5%b8-%eb%8c%80%ec%83%81%ec%9d%84-%ea%b0%80%eb%a6%ac%ed%82%ac%ea%b9%8c-ai-%ed%85%8c%ec%8a%a4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "‘탄력성과 비용’ 서버리스 AI의 두 얼굴",
-      "desc": "클라우드 컴퓨팅의 핵심은 예전부터 항상 생존이었다. 대규모로 시스템을 구축할 때는 리소스 계획과 용량, 수요 급증에 대한 적응성을 고려해야 한다. 클라우드 아키텍처에서 생존주의 사고방식이란 트래픽의 급격한 증가 또는 전 세계 사용자 기반을 대상으로 한 AI 추론 ...",
-      "link": "https://www.itworld.co.kr/article/4223087/%ed%83%84%eb%a0%a5%ec%84%b1%ea%b3%bc-%eb%b9%84%ec%9a%a9-%ec%84%9c%eb%b2%84%eb%a6%ac%ec%8a%a4-ai%ec%9d%98-%eb%91%90-%ec%96%bc%ea%b5%b4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "“쓸수록 더 잃는다” LLM 토큰 비용 통제 전략 5가지",
-      "desc": "기업에서는 난해한 클라우드 청구서의 내용을 해석하기 위한 목적으로 핀옵스 부서를 구축하는 데만 10년을 소비했다. 그렇게 해서 유휴 컴퓨팅 인스턴스가 실행 상태로 방치되지 않도록 하는 방법을 알아냈는데, 그 성과를 즐길 틈도 없이 이번에는 생성형 AI로 인해 이보...",
-      "link": "https://www.itworld.co.kr/article/4223082/%ec%93%b8%ec%88%98%eb%a1%9d-%eb%8d%94-%ec%9e%83%eb%8a%94%eb%8b%a4-llm-%ed%86%a0%ed%81%b0-%eb%b9%84%ec%9a%a9-%ed%86%b5%ec%a0%9c-%ec%a0%84%eb%9e%b5-5%ea%b0%80%ec%a7%80.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "AI 스타트업 스모어톡, 신한은행에 숏폼 영상 제작 AI ‘레이턴트 스튜디오’ 공급",
-      "desc": "숏폼 영상 제작 인공지능(AI) ‘레이턴트 스튜디오(latent studio)’를 운영하는 스모어톡(대표 황현지)은 신한은행과 AI 숏폼 영상 콘텐츠 제작 서비스 공급 계약을 체결했다고 22일 밝혔다.이번 계약을 통해 신한은행 S&T센터는 매일 PDF 리포트 형태...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42033",
+      "title": "LG전자-SK엔무브, AI 데이터센터 위한 차세대 열관리 핵심 소재 공동 개발",
+      "desc": "LG전자(대표이사 류재철)가 글로벌 냉매 규제 강화와 고효율 냉각 수요 확대에 대응해 SK엔무브와 인공지능 데이터센터(AIDC)를 비롯한 다양한 산업을 위한 차세대 열관리 기술 협력에 나선다.LG전자는 지난 21일 서울 종로구 SK서린빌딩에서 SK엔무브와 함께 ‘...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42050",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "구광모·사티아 나델라, AI 동맹 확대…데이터센터부터 피지컬 AI까지",
-      "desc": "LG가 마이크로소프트(Microsoft)와 인공지능 데이터센터(AIDC), 피지컬 AI, 인공지능 전환(AX)을 아우르는 전략적 파트너십을 확대한다. 그룹 차원의 통합 역량을 결집하는 '원 LG(One LG)' 체제를 기반으로 글로벌 AI 인프라 시장부터 기업 업...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42032",
+      "title": "에너지연, 제20대 정학근 원장 취임...탄소중립 실현 의지 밝혀",
+      "desc": "한국에너지기술연구원(이하 에너지연)은 22일, 대전 본원에서 역대 원장들과 직원들이 참석한 가운데 제20대 정학근 원장 취임식을 개최했다.정 신임 원장은 취임사를 통해 “우리는 격화되고 있는 글로벌 에너지 패권 경쟁과 국가 온실가스 감축 목표 달성이라는 거대한 과...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42049",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "LG전자 대용량 액체냉각 솔루션, 엔비디아 AI 팩토리 규격 승인",
-      "desc": "LG전자(대표이사 류재철)가 인공지능 데이터센터(AIDC) 냉각 솔루션 시장의 핵심 제품인 대용량 냉각수 분배장치(Coolant Distribution Unit, 이하 CDU)의 엔비디아(NVIDIA) 규격 승인을 획득하며 글로벌 AI 데이터센터 시장 공략을 가속...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42031",
+      "title": "코오롱베니트, 뉴타닉스 쿠버네티스 플랫폼(NKP) 구축 파트너 생태계 본격 확장",
+      "desc": "코오롱그룹 AX(AI Transformation) 전문기업 코오롱베니트(대표이사 강이구)가 뉴타닉스 쿠버네티스 플랫폼(Nutanix Kubernetes Platform, 이하 NKP) 사업을 본격 확대하고, 이를 뒷받침할 파트너사 기술 역량 체계를 구축하고 있다고...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42048",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "ETRI, AI 통합 영상추론 기술 입증...국제 AI 교통영상 분석대회 1·2위 석권",
-      "desc": "한국전자통신연구원(ETRI)이 국제 인공지능(AI) 교통영상 분석 경진대회에서 2개 부문 1위와 2위를 차지하며 교통영상 이해·추론 기술력을 입증했다.단순히 영상 속 차량이나 보행자를 찾아내는 수준을 넘어, 보행자의 횡단 의도와 교통법규 위반 상황을 파악하고 위험...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42030",
+      "title": "EU 데이터센터 절반, 에너지·물 효율 권고 기준 초과…최소 성능 기준 추진",
+      "desc": "유럽연합(EU) 데이터센터의 약 절반이 에너지 또는 용수 효율 관련 권고 기준선을 초과한 것으로 나타났다. 인공지능(AI) 확산과 디지털 서비스 성장으로 데이터센터의 전력 수요가 증가하는 가운데, 유럽연합 집행위원회(European Commission)가 데이터센...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42047",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "키사이트, 영국 요크대학교와 SDV AI 안전성 검증 기술 개발",
-      "desc": "키사이트테크놀로지스가 영국 요크대학교(University of York)의 자율성 보장 센터(Centre for Assuring Autonomy, CfAA)와 소프트웨어 정의 차량(SDV) 내 인공지능(AI)의 안전한 도입을 가속화하기 위한 공동 연구 협약을 체결...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42029",
+      "title": "액센츄어·구글 클라우드, 볼보와 AI 자동차 SW 개발 혁신…테스트 최대 9배 빨라진다",
+      "desc": "액센츄어(Accenture)와 구글 클라우드(Google Cloud)가 자동차 소프트웨어 개발 플랫폼을 통해 차량용 소프트웨어 개발·검증 혁신에 나선다. 볼보자동차(Volvo)가 플랫폼의 핵심 산업 파트너로 참여해 글로벌 안드로이드 자동차 운영체제(AAOS) 개발...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42046",
       "source": "AI Times"
     }
   ]
