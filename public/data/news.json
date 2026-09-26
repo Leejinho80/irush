@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T01:17:30.073Z",
+  "lastUpdated": "2026-09-26T01:19:48.241Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "‘제미나이 3.8 라이브’ 라이브 아바타 탑재…실시간 대화형 영상 AI 에이전트 시대 연다",
+      "desc": "구글이 실시간 음성 대화형 인공지능(AI)에 시각적 아바타와 실시간 영상 이해 기능을 결합한 기업용 AI 에이전트를 정식 출시했다.구글 클라우드는 25일(현지시간) ‘제미나이 3.8 라이브(Gemini 3.8 Live)’의 ‘라이브 아바타(Live Avatar)’...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42070",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
       "title": "트럼프 “AI는 슈퍼 인텔리전스, 추가 가드레일 원하지 않아”…시진핑 “미·중, 경쟁보다 협력할 이유 더 많아”",
       "desc": "도널드 트럼프(Donald Trump) 美대통령이 인공지능(AI)을 ‘슈퍼 인텔리전스(Super Intelligence)’로 규정하며 추가적인 AI 가드레일 구축에 부정적인 입장을 밝힌 가운데, 시진핑 中국가주석은 AI 위험과 혜택에 대한 대화를 지속하고 오남용 ...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42069",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "08",
       "title": "퀄컴, “에이전틱 AI 시대 , 스냅드래곤이 개인 AI 생태계 이끈다”",
       "desc": "인공지능(AI)이 사용자의 질문에 답하는 도구에서 벗어나 사용자의 의도를 이해하고 필요한 작업을 수행하는 '에이전틱 AI(Agentic AI)' 시대로 접어들고 있다는 전망이 나왔다.퀄컴(Qualcomm)은 지난 23일(현지시간) 스냅드래곤 서밋 2026에서 '에...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42066",
       "source": "AI Times"
     },
     {
-      "number": "08",
+      "number": "09",
       "title": "퀄컴, AI 웨어러블 시대 연다…스냅드래곤 사운드 엘리트 2세대 공개",
       "desc": "퀄컴이 고음질 오디오와 온디바이스 인공지능(AI), 저전력 연결성을 결합한 차세대 오디오 웨어러블 플랫폼을 공개했다. 음악 감상과 통화 중심이던 이어버드와 헤드폰을 넘어, 사용자의 음성과 주변 환경을 이해하고 AI 에이전트와 실시간으로 상호작용하는 개인형 AI 기...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42065",
       "source": "AI Times"
     },
     {
-      "number": "09",
+      "number": "10",
       "title": "메타, AI 에이전트 '뮤즈'에 음성·실시간 영상 탑재…AI 안경으로 확장",
       "desc": "메타(Meta)가 개인형 인공지능(AI) 에이전트 '뮤즈(Muse)'에 음성 대화와 실시간 영상 기능을 추가하고, AI 안경으로 서비스 영역을 확대한다. 사용자가 AI와 대화하는 동안에도 에이전트가 백그라운드에서 작업을 수행하는 방식으로, 일상생활 속에서 AI를 ...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42064",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "AI가 도시를 꿰뚫어 본다…MIT, 시각 AI로 스마트시티의 새 지평 열어",
-      "desc": "인공지능(AI)이 도시를 관찰하고 분석하는 새로운 도구로 부상하고 있다. 교통카메라 영상으로 차량별 배출량을 추정하고, 거리와 공원의 이용 패턴을 분석하며, 시민이 일상에서 경험하는 녹지 환경까지 파악하는 방식으로 도시 곳곳에서 생성되는 시각 데이터를 AI로 분석...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42063",
       "source": "AI Times"
     }
   ]
