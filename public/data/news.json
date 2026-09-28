@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T01:13:34.393Z",
+  "lastUpdated": "2026-09-28T01:28:33.224Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "‘제미나이 3.8 라이브’ 라이브 아바타 탑재…실시간 대화형 영상 AI 에이전트 시대 연다",
-      "desc": "구글이 실시간 음성 대화형 인공지능(AI)에 시각적 아바타와 실시간 영상 이해 기능을 결합한 기업용 AI 에이전트를 정식 출시했다.구글 클라우드는 25일(현지시간) ‘제미나이 3.8 라이브(Gemini 3.8 Live)’의 ‘라이브 아바타(Live Avatar)’...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42070",
+      "title": "“AI 아바타가 인력 공백 채운다”...딥브레인AI, 중소기업용 ‘고객 응대 AI 아바타’ 도입 추진",
+      "desc": "생성형 인공지능(AI) 전문 기업 딥브레인AI(대표 장세영)는 국내 주요 은행에 공급해 온 대화형 AI 아바타 기술을 기반으로 중소기업의 고객 응대 효율화를 지원하는 서비스 개발에 착수했다고 28일 밝혔다.이번 서비스는 고객 문의가 집중되거나 상시 응대 인력을 확...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42082",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "트럼프 “AI는 슈퍼 인텔리전스, 추가 가드레일 원하지 않아”…시진핑 “미·중, 경쟁보다 협력할 이유 더 많아”",
-      "desc": "도널드 트럼프(Donald Trump) 美대통령이 인공지능(AI)을 ‘슈퍼 인텔리전스(Super Intelligence)’로 규정하며 추가적인 AI 가드레일 구축에 부정적인 입장을 밝힌 가운데, 시진핑 中국가주석은 AI 위험과 혜택에 대한 대화를 지속하고 오남용 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42069",
+      "title": "Arm, 클라우드·엣지·피지컬 AI 아우르는 ‘AI 포털’ 공개",
+      "desc": "Arm이 클라우드부터 엣지, 피지컬 AI에 이르는 Arm 컴퓨팅 플랫폼 전반에서 최적화된 인공지능(AI) 모델과 개발 리소스를 탐색하고 배포할 수 있는 ‘Arm AI 포털(Arm AI Portal)’​을 공개했다.이 포털은 AI 에이전트가 클라우드를 넘어 스마트폰...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42081",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "퀄컴, “에이전틱 AI 시대 , 스냅드래곤이 개인 AI 생태계 이끈다”",
-      "desc": "인공지능(AI)이 사용자의 질문에 답하는 도구에서 벗어나 사용자의 의도를 이해하고 필요한 작업을 수행하는 '에이전틱 AI(Agentic AI)' 시대로 접어들고 있다는 전망이 나왔다.퀄컴(Qualcomm)은 지난 23일(현지시간) 스냅드래곤 서밋 2026에서 '에...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42066",
+      "title": "마이크로소프트 '글로벌 AI 확산 보고서', 한국 AI 사용률 40.6%…세계 12위",
+      "desc": "마이크로소프트의 싱크탱크인 인공지능 이코노미 인스티튜트(AI Economy Institute)가 ‘AI 확산 보고서: 2026년 2분기 트렌드와 인사이트(Global AI Diffusion: Q2 2026 Trends and Insights)’를 발표하고, 전 세...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42080",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "퀄컴, AI 웨어러블 시대 연다…스냅드래곤 사운드 엘리트 2세대 공개",
-      "desc": "퀄컴이 고음질 오디오와 온디바이스 인공지능(AI), 저전력 연결성을 결합한 차세대 오디오 웨어러블 플랫폼을 공개했다. 음악 감상과 통화 중심이던 이어버드와 헤드폰을 넘어, 사용자의 음성과 주변 환경을 이해하고 AI 에이전트와 실시간으로 상호작용하는 개인형 AI 기...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42065",
+      "title": "스캐터랩, AI 엔터테인먼트 플랫폼 ‘제타’에 ‘비주얼 노벨 모드’ 출시",
+      "desc": "생성형 인공지능(AI) 스타트업 스캐터랩(대표 김종윤, 박세웅)이 인공지능(AI) 인터랙티브 엔터테인먼트 플랫폼 ‘제타(zeta)’에 새로운 플레이 모드인 ‘비주얼 노벨 모드’를 28일 공식 출시했다.2024년 4월 출시된 제타는 사용자가 캐릭터와 세계관을 직접 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42078",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "메타, AI 에이전트 '뮤즈'에 음성·실시간 영상 탑재…AI 안경으로 확장",
-      "desc": "메타(Meta)가 개인형 인공지능(AI) 에이전트 '뮤즈(Muse)'에 음성 대화와 실시간 영상 기능을 추가하고, AI 안경으로 서비스 영역을 확대한다. 사용자가 AI와 대화하는 동안에도 에이전트가 백그라운드에서 작업을 수행하는 방식으로, 일상생활 속에서 AI를 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42064",
+      "title": "마키나락스, 군 ‘전장망 최초’ AI 운영환경 적용...2026 UFS 통해 첫 실증",
+      "desc": "피지컬 AI 기업 마키나락스(대표 윤성호)가 합동참모본부와 함께 자사 인공지능 운영체제(AI OS) ’런웨이(Runway)’를 한국군합동지휘통제체계(Korea Joint Command and Control System, KJCCS)에 적용하고, 2026 을지 자유...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42077",
       "source": "AI Times"
     }
   ]
