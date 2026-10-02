@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-10-01T01:54:41.768Z",
+  "lastUpdated": "2026-10-02T02:04:16.380Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "‘수랭 없이는 다음 세대 GPU도 없다’ 엠키스코어로 시작하는 AI 인프라 구축 전략",
+      "desc": "2019년 설립된 AI 팩토리(Factory) 전문 기업 엠키스코어는 대규모 GPU 클러스터의 설계·구축·최적화 경험과 AI 풀스택(Full Stack)지원 역량을 바탕으로 국내 AI 인프라 시장에서 입지를 다져왔다. 특히 최근 데이터센터 업계의 최대 화두로 떠오...",
+      "link": "https://www.itworld.co.kr/article/4220957/%ec%88%98%eb%9e%ad-%ec%97%86%ec%9d%b4%eb%8a%94-%eb%8b%a4%ec%9d%8c-%ec%84%b8%eb%8c%80-gpu%eb%8f%84-%ec%97%86%eb%8b%a4-%ec%97%a0%ed%82%a4%ec%8a%a4%ec%bd%94%ec%96%b4%eb%a1%9c-%ec%8b%9c%ec%9e%91.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "앤트로픽 IPO 서류가 드러낸 매출 편중 “기업에는 협상 적기”",
+      "desc": "앤트로픽의 지난해 매출 중 약 1/4이 단 두 고객사에서 발생했으며, 대형 고객 다수가 장기 계약을 체결하지 않은 것으로 확인됐다. 두 가지 사실 모두 기업 CIO의 협상력을 한층 높이는 요인이 될 수 있다.\n\n\n\n로이터의 상세 분석에 따르면, 앤트로픽의 기밀 공...",
+      "link": "https://www.itworld.co.kr/article/4229303/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ipo-%ec%84%9c%eb%a5%98%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%eb%a7%a4%ec%b6%9c-%ed%8e%b8%ec%a4%91-%ea%b8%b0%ec%97%85%ec%97%90%eb%8a%94-%ed%98%91%ec%83%81.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
       "title": "이름만 바꾸고 규제는 없나 — 트럼프의 ‘슈퍼 인텔리전스’ 시대 선언",
       "desc": "미국 도널드 트럼프 대통령이 연방 정부에 AI를 ‘슈퍼 인텔리전스’로 지칭하도록 지시했다. 기술의 법적 정의는 유지하면서, 활용 규칙 설정은 업계 자율에 맡기는 방식이다.\n\n\n\n미국 백악관은 행정명령을 통해, 현대 시스템이 “‘AI’이라는 용어가 처음 등장했을 당...",
       "link": "https://www.itworld.co.kr/article/4229291/%ec%9d%b4%eb%a6%84%eb%a7%8c-%eb%b0%94%ea%be%b8%ea%b3%a0-%ea%b7%9c%ec%a0%9c%eb%8a%94-%ec%97%86%eb%82%98-%ed%8a%b8%eb%9f%bc%ed%94%84%ec%9d%98-%ec%8a%88%ed%8d%bc-%ec%9d%b8%ed%85%94%eb%a6%ac.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "04",
       "title": "속도·실험·군살 빼기…터너스가 바꾸는 애플",
       "desc": "애플 신임 CEO가 인력을 줄이면서 더 많은 제품을 더 빠른 속도로 출시하라고 요구하고 있다는 보도가 나왔다.\n\n\n\n긍정적인 소식은 실제로 더 많은 제품을 출시하려는 노력이 이루어지고 있다는 점이다. 애플 CEO 존 터너스의 취임 첫 해에 신제품이 쏟아질 것이라는...",
       "link": "https://www.itworld.co.kr/article/4229287/%ec%86%8d%eb%8f%84%c2%b7%ec%8b%a4%ed%97%98%c2%b7%ea%b5%b0%ec%82%b4-%eb%b9%bc%ea%b8%b0%ed%84%b0%eb%84%88%ec%8a%a4%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-%ec%95%a0%ed%94%8c.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "05",
       "title": "패스키가 비밀번호보다 안전한 이유",
       "desc": "비밀번호는 이제 과거의 유물이 됐다. 패스키로 전환했더라도 보안 설정을 제대로 마쳤다고 보기 어렵다.\n\n\n\n대다수 사용자는 스마트폰, 패스워드 관리자, PC 중 하나에 패스키를 저장한다. 각각 장점이 있지만 보안 방법도 저장 방식에 따라 조금씩 달라야 한다. 기기...",
       "link": "https://www.itworld.co.kr/article/4229267/%ed%8c%a8%ec%8a%a4%ed%82%a4%ea%b0%80-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8%eb%b3%b4%eb%8b%a4-%ec%95%88%ec%a0%84%ed%95%9c-%ec%9d%b4%ec%9c%a0.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
-      "title": "“모든 낡은 시스템이 부채는 아니다” 기술 부채라는 이름의 함정",
-      "desc": "몇 년 전부터 다양한 관계자가 “기술 부채”라는 용어를 오용하는 사례를 꾸준히 목격해왔다. 업데이트가 필요한 거의 모든 것에 이 말을 갖다 붙이는 것이다.\n\n\n\n셰익스피어는 이름의 중요성을 가볍게 봤을지 모르지만(“CIO라는 이름이 뭐든 어차피 무시당하기는 마찬가...",
-      "link": "https://www.itworld.co.kr/article/4228575/%eb%aa%a8%eb%93%a0-%eb%82%a1%ec%9d%80-%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%9d%b4-%eb%b6%80%ec%b1%84%eb%8a%94-%ec%95%84%eb%8b%88%eb%8b%a4-%ea%b8%b0%ec%88%a0-%eb%b6%80%ec%b1%84%eb%9d%bc%eb%8a%94-%ec%9d%b4.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "AI 코딩의 속도 향상이 부른 엔지니어링 부담",
-      "desc": "AI가 개발자의 생산성을 높일 수 있는지를 계속 묻고 있지만, 그 질문 자체가 잘못됐다. 정작 물어야 할 것은 생산성이 실제로 높아졌을 때 어떤 일이 벌어지는가다. 생산성 향상은 물론 긍정적인 결과를 낳을 수 있지만, 부정적인 결과로 이어질 수도 있다.\n\n\n\n사이...",
-      "link": "https://www.itworld.co.kr/article/4228563/ai-%ec%bd%94%eb%94%a9%ec%9d%98-%ec%86%8d%eb%8f%84-%ed%96%a5%ec%83%81%ec%9d%b4-%eb%b6%80%eb%a5%b8-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a7%81-%eb%b6%80%eb%8b%b4.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "UNIST 유재준 교수팀, 고양이에 코끼리 피부 입혀 시각 AI 평가하는 표준 방식의 허점 찾아",
-      "desc": "국내 연구진이 학계에서 인공지능 사물 인식 방식을 평가해 온 ‘표준 시험’의 허점을 밝혀내고, 새로운 평가 기준을 제시했다. UNIST 인공지능대학원 유재준 교수팀은 기존 AI 평가법인 ‘큐 컨플릭트(Cue-conflict)’의 구조적 문제점을 규명하고, 새로운 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42141",
+      "title": "포티투닷, 실리콘밸리 글로벌 인재 3명 영입…AI·SDV·자율주행 기술 경쟁력 강화",
+      "desc": "현대자동차그룹의 글로벌 소프트웨어센터 포티투닷(42dot)이 분산 컴퓨팅, 음성 인공지능(AI), 자율주행 VLA 분야의 글로벌 기술 리더 3명을 잇달아 영입하며 소프트웨어 중심 자동차(SDV) 기술 경쟁력 강화에 나선다.포티투닷은 2일, 미국 실리콘밸리 오피스를...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42166",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "몽고DB, AI 에이전트 프로덕션 전환 위한 ‘아틀라스 에이전트 엔진’ 출시",
-      "desc": "통합 인공지능(AI) 데이터 플랫폼 기업 몽고DB(MongoDB)가 AI 에이전트를 실제 기업 업무 환경에 배포하고 운영할 수 있도록 실행 환경과 메모리, 검색, 거버넌스를 하나의 플랫폼으로 통합한 ‘아틀라스 에이전트 엔진(Atlas Agent Engine)’을 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42140",
+      "title": "Arm, 에이전틱 AI 인프라 핵심으로 부상…실행부터 보안까지 컴퓨팅 아키텍처 확장",
+      "desc": "에이전틱 AI 시대가 본격화되면서 인공지능(AI) 인프라에도 변화가 일고 있다. AI 에이전트를 실행하는 컴퓨팅뿐 아니라 에이전트의 행동을 독립적으로 관찰하고 통제·보호하는 컴퓨팅까지 요구되면서, AI 인프라의 역할이 실행을 넘어 보안과 통제로 확장되고 있다.Ar...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42165",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "누구나 AI증강되도록…SK AX, ‘부트캠프 바이브’로 업무혁신 생태계 조성",
-      "desc": "코딩 지식 없는 일반인들도 인공지능 에이전트를 만들어 업무 혁신과 AI증강을 가능케하는 교육 프로그램이 나왔다. 기업 입장에서는 전사적 AI활용 능력을 균질하게 끌어올려 업무 생산성을 획기적으로 제고할 수 있게 됐다. SK AX(사장 김완종)는 바이브코딩(Vibe...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42139",
+      "title": "‘과정은 짧게, 결과는 확실하게’...구글, ‘더 강력해진 제미나이’ 만나는 ‘구글 AI 프로’ 캠페인 진행",
+      "desc": "구글이 고도화된 인공지능(AI) 역량을 바탕으로 실제 업무 생산성과 완성도를 끌어올리는데 중점을 둔 ‘구글 AI 프로(Google AI Pro)’ 캠페인을 오는 31일까지 진행한다. 이와 동시에, 국내 이용자들만을 위한 연간 구독권 40% 특별 할인 프로모션도 선...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42164",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "트럼프·글로벌 AI 6대 기업, ‘슈퍼 인텔리전스’ 공동 안전협약 서명…내부통제·외부감사·이사회 감독 강화",
-      "desc": "도널드 트럼프 미국 대통령과 글로벌 인공지능 기업 수장들이 차세대 인공지능을 일컫는 ‘슈퍼 인텔리전스(Super Intelligence)’의 안전한 개발과 배치를 위한 공동 협약에 지난 9월 29일(현지시간) 서명했다.구글의 순다르 피차이(Sundar Pichai...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42138",
+      "title": "“위험한 철판 작업, AI 로봇이 대신한다”…DGIST 엠에프알, 포스코 무인화 사업 수주",
+      "desc": "DGIST(총장 이건우) 연구원 창업기업인 엠에프알(MFR, 대표 이승열)이 포스코(POSCO) 제철소 출하장에 투입될 ‘무인 자동화 로봇’ 공급 사업을 최종 수주했다. 작업자 안전을 위협하던 고위험 철강 현장이 지능형 로봇을 통해 안전하게 자동화될 전망이다.이번...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42163",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "구글, ‘1백만 토큰’ 제미나이 4 아르곤 공개…장기·복합 업무 AI로 진화",
-      "desc": "구글이 복잡한 장기 업무를 수행할 수 있도록 추론 능력을 강화한 차세대 프론티어 AI 모델 ‘제미나이 4 아르곤(Gemini 4 Argon)’을 지난 30일 발표하고, 우선 ‘페어윈드 프로그램(Fairwind Program)’을 통해 신뢰할 수 있는 사이버 방어 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42137",
+      "title": "AI가 답하는 시대, 영재교육은 ‘정답’보다 ‘질문’이다…AI 시대 영재교육 모델 제시",
+      "desc": "인공지능이 질문에 대한 답을 넘어 지식과 정보를 실시간으로 만들어내는 시대에 영재교육의 핵심도 ‘무엇을 아는가’에서 ‘무엇을 질문하고 어떻게 탐구하는가’​로 이동해야 한다는 교육 해법이 제시됐다.광주과학기술원(GIST·지스트, 총장 임기철)이 2029년 개교를 목...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42162",
       "source": "AI Times"
     }
   ]
