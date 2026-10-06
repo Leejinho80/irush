@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T01:45:21.641Z",
+  "lastUpdated": "2026-10-06T02:47:34.308Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "소프트뱅크, 3,000m 상공서 ‘공중 통신망’ 구축…대형 무인기로 지상 직경 5km 통신권 확보",
-      "desc": "일본 소프트뱅크가 대형 무인항공기를 활용해 지상 통신망이 끊긴 재난 현장에 상공에서 이동통신 서비스를 제공하는 기술을 실증했다.소프트뱅크는 2일 일본 고치현 구로시오초 연안 상공에서 대형 무인항공시스템(RPAS)에 자체 제작한 재난통신 장치 포드인 DRU 포드(D...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42176",
+      "title": "대동, AI트랙터 시승 행사 진행…전국 고객 접점 확대 나섰다",
+      "desc": "미래농업 리딩 기업 대동(공동대표 김준식·원유현)은 농업인이 인공지능 트랙터(HX1400 AI, HX1200 AI)의 자율작업 기술을 직접 경험하고 자신의 영농 환경에 적용 가능성을 확인할 수 있도록 전국 29개 대리점을 중심으로 고객 시승 프로그램을 운영한다고 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42194",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "[AI 리뷰] “AI도 뇌처럼 연산한다”…중국과학원, 400만 토큰서 100배 가속한 ‘스파이킹브레인’",
-      "desc": "중국 연구진이 인간 뇌의 신경세포가 필요한 순간에만 신호를 발생시키는 방식에서 영감을 얻어, 대형언어모델(LLM)의 연산 구조를 바꾼 새로운 인공지능(AI) 모델을 공개했다.중국과학원 자동화연구소(Institute of Automation, Chinese Acad...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42175",
+      "title": "AI가 유방암 치료의 ‘골든타임’ 바꾼다…촬영부터 치료 결정까지 전 과정 혁신",
+      "desc": "유방암 진단과 치료 과정에서 발생하는 의료 공백을 인공지능(AI)으로 줄이려는 기술 개발이 본격화되고 있다. 영상 촬영과 판독에서부터 암 발생 위험 평가, 치료 반응 예측과 수술 계획에 이르기까지 유방암 진료 전 과정에 AI가 적용되면서 의료진의 부담을 낮추고 환...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42193",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "러시아군, 정찰장비에 AI 탑재…소형 드론 자동 탐지·식별 추진",
-      "desc": "러시아군이 정찰 장비에 인공지능(AI)과 머신비전 기술을 통합해 소형 무인기(UAV)를 포함한 표적을 자동으로 탐지·식별하는 시스템 개발을 추진하고 있다.러시아 국영 타스통신 1일(현지시간) 보도에 따르면 러시아 지상군 총사령관 안드레이 모르드비체프(Andrey ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42173",
+      "title": "“조직 사진에선 안 보이는 차이, 유전자 정보와 함께 찾는다”...GIST 이현주 교수팀, 유전자 발현 예측하고, 조직 영역 구분하는 AI 개발",
+      "desc": "광주과학기술원(GIST·지스트, 총장 임기철)은 AI학과 이현주 교수 연구팀이 사람의 장기와 신체 부위를 이루는 조직의 이미지와 유전자 활동 정보를 함께 활용해, 겉으로 보이는 형태만으로는 알기 어려운 조직 내 영역별 차이를 분석하는 인공지능(AI) 프레임워크 ‘...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42192",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "英 바클레이스, 전사에 클로드 확대…\"운영 효율성 향상 및 고객 경험 개선\"",
-      "desc": "영국계 글로벌 금융그룹 바클레이스(Barclays)가 앤트로픽(Anthropic)의 생성형 인공지능(AI) 모델 클로드(Claude)를 전사 업무로 확대한다. 소프트웨어 개발과 레거시 시스템 현대화부터 고객 지원, 글로벌 마켓의 이메일 처리까지 AI 적용 범위를 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42171",
+      "title": "난치성 간암의 새 바이오마커 규명… 서울아산병원, AI 진단 및 치료법 첫 제시",
+      "desc": "치료가 어렵고 생존율이 낮은 난치성 간암 환자들을 위해 인공지능(AI)을 활용한 신속한 병리 진단과 맞춤형 표적 치료 전략이 최근 새롭게 제시됐다.서울아산병원 소화기내과 심주현·병리과 성창옥 교수, 마카오대학교 심중섭 교수, 포항공과대학교 박상현 교수, 한양대학교...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42191",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "행안부, 6대 핵심가치 담은 ‘공공부문 AI 윤리기준’ 최종 확정...공공분야 인공지능 신뢰성 확보한다",
-      "desc": "행정안전부(장관 윤호중)는 공공부문의 인공지능(AI) 도입 확대에 발맞춰, 신뢰할 수 있는 AI 활용을 위한 ‘공공부문 인공지능 윤리기준’을 최종 확정했다고 2일 밝혔다.이번에 확정된 윤리기준은 국정과제인 ‘세계 최고 AI 민주정부 실현’을 위한 핵심 실천과제의 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42170",
+      "title": "레드햇, AI 트레이닝·인증 프로그램으로 기업 AI 역량 강화 지원",
+      "desc": "글로벌 오픈소스 솔루션 선도기업 레드햇(Red Hat)이 기업의 인공지능 역량 강화를 지원하는 레드햇 트레이닝·인증(Red Hat Training and Certification) 프로그램을 확대 운영한다고 발표했다. 이번 프로그램은 인공지능(AI) 애플리케이션의...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42190",
       "source": "AI Times"
     }
   ]
