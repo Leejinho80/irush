@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-10-07T02:10:44.817Z",
+  "lastUpdated": "2026-10-08T02:36:26.301Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "“정답 없이도 결함 잡는다” 프로퍼티 기반 테스팅으로 AI 모델·에이전트를 검증하는 법",
+      "desc": "결정론적 시스템 테스팅은 비교적 간단하다. 시스템이 통과해야 하는 어서션(Assertion)을 만들고, 일련의 입력-출력 데이터 패턴에 대해 자동으로 검증한다. 새로운 테스트 패턴이 필요할 때는 관찰 가능성 소스를 활용해 실제 사용 데이터에서 추출하거나 합성 테스...",
+      "link": "https://www.itworld.co.kr/article/4232226/%ec%a0%95%eb%8b%b5-%ec%97%86%ec%9d%b4%eb%8f%84-%ea%b2%b0%ed%95%a8-%ec%9e%a1%eb%8a%94%eb%8b%a4-%ed%94%84%eb%a1%9c%ed%8d%bc%ed%8b%b0-%ea%b8%b0%eb%b0%98-%ed%85%8c%ec%8a%a4%ed%8c%85%ec%9c%bc%eb%a1%9c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "챗GPT, 협업 문서 편집기 ‘페이지스’ 공개…AI 어시스턴트, 오피스 영역 진출 선언",
+      "desc": "오픈AI가 화요일 오랫동안 예고됐던 생산성 소프트웨어 제품군을 공개하며, 챗GPT용 협업 문서 편집기인 ‘페이지스(Pages)’를 출시했다. 회사 측은 데브데이 행사에서 슬라이드 기능도 곧 출시될 예정이라고 밝혔다.\n\n\n\n페이지스 기능은 새로운 ‘스페이스(Spac...",
+      "link": "https://www.itworld.co.kr/article/4232222/%ec%b1%97gpt-%ed%98%91%ec%97%85-%eb%ac%b8%ec%84%9c-%ed%8e%b8%ec%a7%91%ea%b8%b0-%ed%8e%98%ec%9d%b4%ec%a7%80%ec%8a%a4-%ea%b3%b5%ea%b0%9cai-%ec%96%b4%ec%8b%9c%ec%8a%a4%ed%84%b4%ed%8a%b8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
       "title": "“파일럿엔 목표·기한·결정 모두 필요”…실패해도 안전한 IT 문화 구축 전략",
       "desc": "실험 실패가 성과 평가에 불이익을 줄 수 있다고 생각하면 IT 직원은 새로운 도구 시도를 꺼릴 수 있다. 또한 어떤 도구와 데이터를 써도 되는지, 보안 문제를 야기하거나 업무를 방해하지 않으면서 새로운 기술을 어떻게 테스트해야 하는지 명확히 알지 못하는 경우도 있...",
       "link": "https://www.itworld.co.kr/article/4231560/%ed%8c%8c%ec%9d%bc%eb%9f%bf%ec%97%94-%eb%aa%a9%ed%91%9c%c2%b7%ea%b8%b0%ed%95%9c%c2%b7%ea%b2%b0%ec%a0%95-%eb%aa%a8%eb%91%90-%ed%95%84%ec%9a%94%ec%8b%a4%ed%8c%a8%ed%95%b4%eb%8f%84-%ec%95%88.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "04",
       "title": "마이크론 “2027~2028년 메모리 공급난 더 심화”",
       "desc": "메모리 제조사 마이크론 테크놀로지가 2026년까지 서버, 스토리지, PC 비용을 끌어올린 글로벌 메모리 공급난이 2027년과 2028년에는 더욱 악화될 것이라고 밝혔다.\n\n\n\n마이크론 CEO 산제이 메로트라는 회사의 회계연도 4분기 실적 발표 컨퍼런스콜 준비 발언...",
       "link": "https://www.itworld.co.kr/article/4231547/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%a0-20272028%eb%85%84-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ea%b3%b5%ea%b8%89%eb%82%9c-%eb%8d%94-%ec%8b%ac%ed%99%94.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "05",
       "title": "AI 에이전트 시대의 최적 전략을 쥔 메타, 그래서 더 위험하다",
       "desc": "AI 활용 방식의 혁명이 코앞에 와 있다.\n\n\n\n오늘날 사람들은 주로 PC 브라우저와 모바일 앱을 통해 비(非)에이전트적이고, 비개인화된, 비능동적인 AI 도구를 사용하고 있다.\n\n\n\n필자의 예측으로는, 머지않아 대부분의 AI 사용이 안경, 시계, 이어버드와 같은...",
       "link": "https://www.itworld.co.kr/article/4230988/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%b5%9c%ec%a0%81-%ec%a0%84%eb%9e%b5%ec%9d%84-%ec%a5%94-%eb%a9%94%ed%83%80-%ea%b7%b8%eb%9e%98%ec%84%9c-%eb%8d%94-%ec%9c%84.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
-      "title": "AI 투자 수익률 측정 패러다임 전환…재무·비재무 성과 연계가 핵심",
-      "desc": "대다수 기업이 AI에서 재무적 수익을 측정하지 못하고 있지만, ROI를 산정하는 새로운 방식이 부상하고 있다고 밝혔다.\n\n\n\n맥킨지(McKinsey) 시니어 펠로우 마이클 추이는 “기술 개발, 심지어 기술 투자와 기업이 실질적으로 가치를 거두는 시점 사이에는 시간...",
-      "link": "https://www.itworld.co.kr/article/4230976/ai-%ed%88%ac%ec%9e%90-%ec%88%98%ec%9d%b5%eb%a5%a0-%ec%b8%a1%ec%a0%95-%ed%8c%a8%eb%9f%ac%eb%8b%a4%ec%9e%84-%ec%a0%84%ed%99%98%ec%9e%ac%eb%ac%b4%c2%b7%eb%b9%84%ec%9e%ac%eb%ac%b4-%ec%84%b1.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "AI가 짓는 집, 설계도는 누가 그리나…AI 코드 시대의 거버넌스 설계",
-      "desc": "필자가 데브옵스 기업에 가장 먼저 묻는 질문은 개발 및 운영 표준에 관한 것이다. 타협할 수 없는 데브옵스 관행은 무엇인가? 데이터 거버넌스의 제1원칙은 무엇인가? 어떤 관찰가능성 표준이 적용되는가? 보안이 어떻게 데브옵스에 내장되는가? 이런 질문을 출발점으로 해...",
-      "link": "https://www.itworld.co.kr/article/4229883/ai%ea%b0%80-%ec%a7%93%eb%8a%94-%ec%a7%91-%ec%84%a4%ea%b3%84%eb%8f%84%eb%8a%94-%eb%88%84%ea%b0%80-%ea%b7%b8%eb%a6%ac%eb%82%98-ai-%ec%bd%94%eb%93%9c-%ec%8b%9c%eb%8c%80%ec%9d%98-%ea%b1%b0%eb%b2%84.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "콴델라·한국생명공학연구원, 광양자컴퓨팅 활용 첨단바이오·신약개발 협력",
-      "desc": "한국생명공학연구원(KRIBB)과 프랑스 광양자컴퓨팅 기업 콴델라(Quandela)가 첨단바이오와 신약개발 분야에서 공동연구에 나선다. 양 기관은 광양자컴퓨팅을 활용한 연구 협력을 추진한다고 밝혔다.공동연구는 한국생명공학연구원 연구진이 콴델라 플랫폼에서 도출한 초기...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42205",
+      "title": "LG전자, 세계 185개국 청소년들에게 로봇 기술과 혁신 비전 전한다",
+      "desc": "LG전자(대표이사 류재철)가 로봇 공학으로 미래를 혁신할 글로벌 청소년들과 함께 ‘더 나은 삶을 위한 혁신(Innovation for a better life)’의 가치를 나눈다. LG전자는 이달 7일부터 10일까지 나흘간 인천시 송도컨벤시아에서 열리는 국제 청소...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42224",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "ARTEX 실제 공격 시도 포착…에버스핀, 에버세이프 웹으로 AI 공격 탐지",
-      "desc": "금융권에서 잇따른 개인정보 유출과 인공지능(AI)을 활용한 자동화 공격 우려가 커지는 가운데, 에버스핀(대표 하영빈)이 AI 자율형 침투테스트 도구 '아르텍스(ARTEX)'의 특징이 확인된 공격 시도를 자사 고객사 서비스에서 탐지했다고 7일 밝혔다.에버스핀에 따르...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42204",
+      "title": "해경, '바다 위의 스마트한 눈'... AI 항공 채증영상 분석 시스템으로  해양 감시 체계 혁신",
+      "desc": "해양경찰청은 첨단 인공지능 기술을 통해 해양 안전을 강화하고 해양 감시 업무의 효율성을 극대화하기 위한 ‘인공지능 기반 항공 채증영상 분석 시스템’[프로젝트명: 디프 블루 아이(Deep Blue Eye)] 개발 사업이 차질 없이 추진되고 있다고 8일 밝혔다.이번 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42223",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "레드햇·IBM, 기존에 알려지지 않은 오픈소스 취약점 400건 이상 수정 조치",
-      "desc": "글로벌 오픈소스 솔루션 선도기업 레드햇(Red Hat)과 IBM이 라이트웰(Lightwell)을 통해 자바 라이브러리에서 기존에 알려지지 않았던 취약점 400건 이상을 발견하고 수정 조치했다. 양사는 기업 고객이 특정 오픈소스 소프트웨어 종속성에 대한 우선 검토 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42203",
+      "title": "AI가 주도하던 구도 연출, 이제는 창작자 손으로…모픽, 영상 구도·카메라 연출 직접 다루는 ‘3D 씬’ 업계 최초 출시",
+      "desc": "인공지능 영상도 영화처럼 3D 공간에서 직접 구도를 잡고 연출하는 시대가 열렸다. 글로벌 AI 영상 제작 플랫폼 모픽(Morphic)은 기존 AI 영상의 주요 한계로 꼽히는 연출 무작위성과 구도 붕괴 문제를 해결하는 3D 장면 연출 에디터 '3D 씬(3D Scen...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42222",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "한글날 100주년 SKT·국립국어원·국립한글박물관 공동 캠페인...A.X K2로 이은 '말모이' 정신, 글꼴과 책으로 ‘새 빛’",
-      "desc": "윤슬, 숫눈, 볼우물. 지금은 낯선 이 낱말들에는 우리말을 지키려 한 선조들의 마음이 남아 있다. 100여 년 전 한 자 한 자 모은 우리말을 인공지능이 이어받아 오늘 누구나 쓰는 글꼴과 말로 되살린다.SK텔레콤(대표이사 CEO 정재헌)은 국립국어원 ·국립한글박물...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42202",
+      "title": "AI가 바꾸는 임플란트 진료의 미래...디오, 국내 최초 AI 기반 AX 플랫폼 공개",
+      "desc": "디지털 덴티스트리 전문기업 디오임플란트(대표 김종원, 이하 디오)가 120만 건 이상의 임상 데이터와 인공지능(AI) 기술을 결합해 임플란트 진료 전 과정을 하나의 워크플로로 연결하는 인공지능 전환(AX)에 나선다.디오는 오는 10일부터 11일까지 서울 코엑스 오...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42221",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "리플렉션AI, 5010억 파라미터 오픈웨이트 모델 ‘빔’ 공개…‘더 오래 생각하는 AI’가 아니라 ‘효율적으로 생각하는 AI’",
-      "desc": "인공지능 기업 리플렉션 AI(Reflection AI)가 총 5010억 개의 파라미터를 탑재하면서도 실제 추론 과정에서는 230억 개의 파라미터만 활성화하는 최초의 오픈웨이트 인공지능(AI) 모델 '빔(Beam)'을 공개했다.빔은 코딩과 추론, 에이전트 작업에 특...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42201",
+      "title": "삼성전자, 3분기 영업익 107조원 ‘사상 최대’…AI 반도체 슈퍼사이클 올라탔다",
+      "desc": "삼성전자가 2026년 3분기 영업이익 107조4000억원을 기록하며 한국 기업 최초로 분기 영업이익 100조원 시대를 열었다.매출도 195조원으로 사상 최대 수준을 기록했다. 특히 영업이익은 전년 동기 대비 782.5% 폭증하면서 1년 만에 약 8.8배로 확대됐다...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42220",
       "source": "AI Times"
     }
   ]
