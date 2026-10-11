@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T02:11:38.861Z",
+  "lastUpdated": "2026-10-11T01:43:15.303Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "AWS, ‘피지컬 AI 툴체인’ 오픈소스로 공개…로봇 학습부터 현장 배포까지 통합",
+      "desc": "아마존웹서비스(AWS)가 엔비디아(NVIDIA)의 피지컬 인공지능(AI) 기술 스택과 아마존의 로봇 운영 경험을 결합한 오픈소스 개발 체계를 8일(현지시간) 공개했다. 데이터 생성과 모델 학습, 가상환경 검증부터 실제 로봇 배포와 운영 데이터 기반의 재학습까지 연...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42251",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
       "title": "애플, 英 국왕 재단과 손잡고 청년 창작자 육성…AI·디지털 창의교육 확대",
       "desc": "애플(Apple)이 영국의 청년 지원 자선단체 킹스 트러스트(The King’s Trust)와 함께 창작 산업 진출을 희망하는 청년을 위한 실무형 교육 프로그램을 시작한다. 음악과 디지털 창작 분야의 전문가 멘토링부터 애플 기술을 활용한 실습까지 제공해 청년들의 ...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42250",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "08",
       "title": "영국·일본, AI·첨단컴퓨팅 협력 강화…AI 안전성 평가·연구자 교류·컴퓨팅 인프라 공동 활용 추진",
       "desc": "영국과 일본이 인공지능(AI)과 첨단컴퓨팅, 양자기술, 사이버보안 등 전략 과학기술 분야의 협력을 강화한다. 양국은 AI 모델 안전성 평가와 공동연구, 연구자 교류를 확대하고, 고성능컴퓨팅(HPC)과 AI 인프라를 활용한 과학 연구 협력을 추진하기로 했다.영국과 ...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42249",
       "source": "AI Times"
     },
     {
-      "number": "08",
+      "number": "09",
       "title": "한컴이노스트림, ‘SLW 2026 시민혁신상’ 수상…시민 8,300명 평가 참여",
       "desc": "한컴의 자회사 한컴이노스트림이 서울 코엑스에서 열린 ‘스마트라이프위크(Smart Life Week, 이하 SLW) 2026’에서 시민혁신상을 수상했다.SLW 시민혁신상은 전시 참가기업의 혁신성과 기술력을 시민과 국내외 바이어가 직접 평가해 선정하는 서울시장상이다....",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42248",
       "source": "AI Times"
     },
     {
-      "number": "09",
+      "number": "10",
       "title": "트럼프, 머스크·젠슨 황·리사 수 등 6명에 美 최고 과학기술 훈장 수여…‘과학 황금기’ 선언",
       "desc": "도널드 트럼프(Donald J. Trump) 美대통령이 일론 머스크(Elon Musk), 세르게이 브린(Sergey Brin), 젠슨 황(Jensen Huang), 리사 수(Lisa Su), 마이클 델(Michael Dell), 사티아 나델라(Satya Nadel...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42247",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "최태원 회장, “광주 반도체공장 최대한 빠른 속도로 건설”...조성 준비상황 점검",
-      "desc": "전남광주통합특별시가 SK그룹과 긴밀한 협력으로 호남권 반도체클러스터 조성에 속도를 높인다. 전남광주통합특별시는 9일 최태원 SK그룹 회장이 광주 군공항과 탄약고 이전 예정지를 방문해 호남권 반도체클러스터 조성 준비상황을 점검했다고 밝혔다.이날 현장 방문에는 민형배...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42245",
       "source": "AI Times"
     }
   ]
