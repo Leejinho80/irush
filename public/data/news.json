@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-10-11T01:43:15.303Z",
+  "lastUpdated": "2026-10-12T02:10:58.841Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "“IT 팀에 실패를 허하라” 규율 있는 실패 허용 문화 구축법",
+      "desc": "기업은 AI와 자동화, 개발자 도구 등 새로운 기술에 지속적으로 투자하고 있다. 그러나 IT 업계 종사자가 새로운 기술을 익힐 시간과 자원, 자유가 없다면 기대한 성과를 얻지 못할 수 있다.\n\n\n\nIT 업계 종사자는 실험 실패가 성과 평가에 영향을 줄 수 있다는 ...",
+      "link": "https://www.itworld.co.kr/article/4233531/it-%ed%8c%80%ec%97%90-%ec%8b%a4%ed%8c%a8%eb%a5%bc-%ed%97%88%ed%95%98%eb%9d%bc-%ea%b7%9c%ec%9c%a8-%ec%9e%88%eb%8a%94-%ec%8b%a4%ed%8c%a8-%ed%97%88%ec%9a%a9-%eb%ac%b8%ed%99%94-%ea%b5%ac%ec%b6%95.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "모델 선택권 앞세운 승부수…구글, 기업용 AI 에이전트 생태계 ‘관문’ 선점 시동",
+      "desc": "구글이 또 하나의 화려한 신규 에이전트 출시에 그치지 않고, AI 인프라 계층 전체를 장악하려는 전략적 행보를 보이고 있다.\n\n\n\n구글은 지난주 열린 제미나이 앳 워크 2026 행사에서 간단한 프롬프트 입력만으로 실행할 수 있는 ‘단일 범용 에이전트’와 제미나이 ...",
+      "link": "https://www.itworld.co.kr/article/4233525/%eb%aa%a8%eb%8d%b8-%ec%84%a0%ed%83%9d%ea%b6%8c-%ec%95%9e%ec%84%b8%ec%9a%b4-%ec%8a%b9%eb%b6%80%ec%88%98-%ea%b5%ac%ea%b8%80-%ea%b8%b0%ec%97%85%ec%9a%a9-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "마이크로소프트, 코파일럿에 윈도우 PC 로컬 파일 조작 권한 부여…하이브리드 AI 전략 본격화",
+      "desc": "마이크로소프트가 ‘하이브리드 인텔리전스’ 행사에서 코파일럿의 기능을 대폭 확장했다. 윈도우 PC 로컬 파일을 직접 정리·수정하고, 온디바이스 AI 모델로 특정 작업을 처리하는 기능이 새롭게 추가된다.\n\n\n\n마이크로소프트의 ‘하이브리드 인텔리전스(Hybrid Int...",
+      "link": "https://www.itworld.co.kr/article/4233519/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf%ec%97%90-%ec%9c%88%eb%8f%84%ec%9a%b0-pc-%eb%a1%9c%ec%bb%ac-%ed%8c%8c%ec%9d%bc-%ec%a1%b0%ec%9e%91.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "LLM 비용 폭탄 막는 법…아키텍처 최적화 5대 전략",
       "desc": "기업은 지난 10년간 클라우드 청구서를 해독하기 위해 핀옵스 부서 전체를 구축하는 데 힘을 쏟았다. 유휴 컴퓨팅 인스턴스를 종료하는 방법을 막 터득하자마자, 생성형 AI가 훨씬 불투명하고 빠르게 변하는 새로운 지출 계층을 도입했다.\n\n\n\nAI 청구 충격이 느리게 ...",
       "link": "https://www.itworld.co.kr/article/4232294/llm-%eb%b9%84%ec%9a%a9-%ed%8f%ad%ed%83%84-%eb%a7%89%eb%8a%94-%eb%b2%95-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98-%ec%b5%9c%ec%a0%81%ed%99%94-5%eb%8c%80-%ec%a0%84%eb%9e%b5.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "“정답 없이도 결함 잡는다” 프로퍼티 기반 테스팅으로 AI 모델·에이전트를 검증하는 법",
       "desc": "결정론적 시스템 테스팅은 비교적 간단하다. 시스템이 통과해야 하는 어서션(Assertion)을 만들고, 일련의 입력-출력 데이터 패턴에 대해 자동으로 검증한다. 새로운 테스트 패턴이 필요할 때는 관찰 가능성 소스를 활용해 실제 사용 데이터에서 추출하거나 합성 테스...",
       "link": "https://www.itworld.co.kr/article/4232226/%ec%a0%95%eb%8b%b5-%ec%97%86%ec%9d%b4%eb%8f%84-%ea%b2%b0%ed%95%a8-%ec%9e%a1%eb%8a%94%eb%8b%a4-%ed%94%84%eb%a1%9c%ed%8d%bc%ed%8b%b0-%ea%b8%b0%eb%b0%98-%ed%85%8c%ec%8a%a4%ed%8c%85%ec%9c%bc%eb%a1%9c.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "챗GPT, 협업 문서 편집기 ‘페이지스’ 공개…AI 어시스턴트, 오피스 영역 진출 선언",
-      "desc": "오픈AI가 화요일 오랫동안 예고됐던 생산성 소프트웨어 제품군을 공개하며, 챗GPT용 협업 문서 편집기인 ‘페이지스(Pages)’를 출시했다. 회사 측은 데브데이 행사에서 슬라이드 기능도 곧 출시될 예정이라고 밝혔다.\n\n\n\n페이지스 기능은 새로운 ‘스페이스(Spac...",
-      "link": "https://www.itworld.co.kr/article/4232222/%ec%b1%97gpt-%ed%98%91%ec%97%85-%eb%ac%b8%ec%84%9c-%ed%8e%b8%ec%a7%91%ea%b8%b0-%ed%8e%98%ec%9d%b4%ec%a7%80%ec%8a%a4-%ea%b3%b5%ea%b0%9cai-%ec%96%b4%ec%8b%9c%ec%8a%a4%ed%84%b4%ed%8a%b8.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "“파일럿엔 목표·기한·결정 모두 필요”…실패해도 안전한 IT 문화 구축 전략",
-      "desc": "실험 실패가 성과 평가에 불이익을 줄 수 있다고 생각하면 IT 직원은 새로운 도구 시도를 꺼릴 수 있다. 또한 어떤 도구와 데이터를 써도 되는지, 보안 문제를 야기하거나 업무를 방해하지 않으면서 새로운 기술을 어떻게 테스트해야 하는지 명확히 알지 못하는 경우도 있...",
-      "link": "https://www.itworld.co.kr/article/4231560/%ed%8c%8c%ec%9d%bc%eb%9f%bf%ec%97%94-%eb%aa%a9%ed%91%9c%c2%b7%ea%b8%b0%ed%95%9c%c2%b7%ea%b2%b0%ec%a0%95-%eb%aa%a8%eb%91%90-%ed%95%84%ec%9a%94%ec%8b%a4%ed%8c%a8%ed%95%b4%eb%8f%84-%ec%95%88.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "마이크론 “2027~2028년 메모리 공급난 더 심화”",
-      "desc": "메모리 제조사 마이크론 테크놀로지가 2026년까지 서버, 스토리지, PC 비용을 끌어올린 글로벌 메모리 공급난이 2027년과 2028년에는 더욱 악화될 것이라고 밝혔다.\n\n\n\n마이크론 CEO 산제이 메로트라는 회사의 회계연도 4분기 실적 발표 컨퍼런스콜 준비 발언...",
-      "link": "https://www.itworld.co.kr/article/4231547/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%a0-20272028%eb%85%84-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ea%b3%b5%ea%b8%89%eb%82%9c-%eb%8d%94-%ec%8b%ac%ed%99%94.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "AWS, ‘피지컬 AI 툴체인’ 오픈소스로 공개…로봇 학습부터 현장 배포까지 통합",
-      "desc": "아마존웹서비스(AWS)가 엔비디아(NVIDIA)의 피지컬 인공지능(AI) 기술 스택과 아마존의 로봇 운영 경험을 결합한 오픈소스 개발 체계를 8일(현지시간) 공개했다. 데이터 생성과 모델 학습, 가상환경 검증부터 실제 로봇 배포와 운영 데이터 기반의 재학습까지 연...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42251",
+      "title": "스캐터랩, ‘제타’ 청소년 이용자 보호 강화… 청소년 과몰입 방지 위해 기본 이용시간 · 결제 한도 설정",
+      "desc": "생성형 인공지능(AI) 스타트업 스캐터랩(대표 김종윤, 박세웅)이 AI 인터랙티브 엔터테인먼트 플랫폼 ‘제타(zeta)’의 청소년 이용자 보호를 위해 기본 이용시간과 결제 한도를 연내 도입한다.이에 따라 제타 청소년 이용자의 기본 이용시간은 하루 3시간, 기본 결...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42260",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "애플, 英 국왕 재단과 손잡고 청년 창작자 육성…AI·디지털 창의교육 확대",
-      "desc": "애플(Apple)이 영국의 청년 지원 자선단체 킹스 트러스트(The King’s Trust)와 함께 창작 산업 진출을 희망하는 청년을 위한 실무형 교육 프로그램을 시작한다. 음악과 디지털 창작 분야의 전문가 멘토링부터 애플 기술을 활용한 실습까지 제공해 청년들의 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42250",
+      "title": "김동선 미래전략총괄 사장 ‘공개매수’ 단행...“주주 목소리 적극 반영한 책임경영 일환”",
+      "desc": "김동선 한화머시너리앤서비스홀딩스(이하 한화M&S) 미래전략총괄 사장이 한화M&S 보통주 공개매수를 단행한다.김 사장은 10월12일부터 11월2일까지 22일간 한화M&S 보통주 1606만주를 기존 주주들로부터 공개매수하겠다는 입장을 밝혔다.매수가는 주당 8000원으...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42259",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "영국·일본, AI·첨단컴퓨팅 협력 강화…AI 안전성 평가·연구자 교류·컴퓨팅 인프라 공동 활용 추진",
-      "desc": "영국과 일본이 인공지능(AI)과 첨단컴퓨팅, 양자기술, 사이버보안 등 전략 과학기술 분야의 협력을 강화한다. 양국은 AI 모델 안전성 평가와 공동연구, 연구자 교류를 확대하고, 고성능컴퓨팅(HPC)과 AI 인프라를 활용한 과학 연구 협력을 추진하기로 했다.영국과 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42249",
+      "title": "인물 도용 판별·유해 입력 차단·딥페이크 판별 통합…딥브레인AI ‘AI 가드’, 생성 과정 전반 안전 관리",
+      "desc": "생성형 인공지능(AI) 전문 기업 딥브레인AI(대표 장세영)는 인물 도용 판별, 유해 입력 차단, 딥페이크 판별까지 생성형 AI의 악의적 활용 위험을 통합 관리하는 안전 엔진 ‘AI 가드’ 개발을 완료했다고 12일 밝혔다.AI 가드는 이미지·영상 속 인물이 보호 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42258",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "한컴이노스트림, ‘SLW 2026 시민혁신상’ 수상…시민 8,300명 평가 참여",
-      "desc": "한컴의 자회사 한컴이노스트림이 서울 코엑스에서 열린 ‘스마트라이프위크(Smart Life Week, 이하 SLW) 2026’에서 시민혁신상을 수상했다.SLW 시민혁신상은 전시 참가기업의 혁신성과 기술력을 시민과 국내외 바이어가 직접 평가해 선정하는 서울시장상이다....",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42248",
+      "title": "네이버클라우드, 베트남 최대 IT 기업과 AI 팩토리 사업 추진...아태 AI 시장 공략 나선다",
+      "desc": "네이버클라우드(대표 김유원)가 베트남 대표 IT 기업 FPT와 인공지능(AI) 팩토리 사업을 공동 추진하고 한국과 일본, 베트남 등 아시아태평양(APAC) 시장에서의 GPUaaS 사업 확대를 위해 힘을 합친다.양사는 최근 네이버 1784에서 업무협약(MOU)을 체...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42257",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "트럼프, 머스크·젠슨 황·리사 수 등 6명에 美 최고 과학기술 훈장 수여…‘과학 황금기’ 선언",
-      "desc": "도널드 트럼프(Donald J. Trump) 美대통령이 일론 머스크(Elon Musk), 세르게이 브린(Sergey Brin), 젠슨 황(Jensen Huang), 리사 수(Lisa Su), 마이클 델(Michael Dell), 사티아 나델라(Satya Nadel...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42247",
+      "title": "사람아닌 'AI를 위한 차세대 미디어' 기술 개발...ETRI, 대규모 영상 처리의 판을 바꾼다",
+      "desc": "국내 연구진이 사람이 아닌 인공지능(AI)의 영상 이해와 분석에 최적화된 차세대 영상 압축 기술을 선보인다. 자율주행차와 로봇, 드론, 지능형 CCTV 등 AI가 영상을 직접 분석하는 시대를 맞아 대규모 영상 데이터를 보다 적은 용량으로 효율적으로 전달할 수 있는...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42256",
       "source": "AI Times"
     }
   ]
