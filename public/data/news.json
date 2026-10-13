@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T02:10:58.841Z",
+  "lastUpdated": "2026-10-13T03:25:27.732Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "스캐터랩, ‘제타’ 청소년 이용자 보호 강화… 청소년 과몰입 방지 위해 기본 이용시간 · 결제 한도 설정",
-      "desc": "생성형 인공지능(AI) 스타트업 스캐터랩(대표 김종윤, 박세웅)이 AI 인터랙티브 엔터테인먼트 플랫폼 ‘제타(zeta)’의 청소년 이용자 보호를 위해 기본 이용시간과 결제 한도를 연내 도입한다.이에 따라 제타 청소년 이용자의 기본 이용시간은 하루 3시간, 기본 결...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42260",
+      "title": "현대차·기아, AI 데이터 인프라 기업 바스트 데이터에 전략적 투자…자율주행·로보틱스 데이터 병목 뚫는다",
+      "desc": "현대자동차와 기아가 글로벌 AI 데이터 인프라 기업 바스트 데이터(VAST Data)에 전략적 투자를 단행했다. 자율주행과 로보틱스 등 피지컬 AI(Physical AI) 개발에 필요한 대규모 데이터를 더 빠르고 효율적으로 처리하고, AI 모델 개발부터 검증까지 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42275",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "김동선 미래전략총괄 사장 ‘공개매수’ 단행...“주주 목소리 적극 반영한 책임경영 일환”",
-      "desc": "김동선 한화머시너리앤서비스홀딩스(이하 한화M&S) 미래전략총괄 사장이 한화M&S 보통주 공개매수를 단행한다.김 사장은 10월12일부터 11월2일까지 22일간 한화M&S 보통주 1606만주를 기존 주주들로부터 공개매수하겠다는 입장을 밝혔다.매수가는 주당 8000원으...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42259",
+      "title": "몽고DB, AI 에이전트 트래픽 폭증 정조준…컴퓨트·스토리지 분리로 확장성 혁신",
+      "desc": "몽고DB(MongoDB)가 데이터베이스 엔진의 성능과 보안을 강화한 ‘몽고DB 9.0(MongoDB 9.0)’과 인공지능(AI) 에이전트 시대의 급격한 데이터 및 트래픽 증가에 대응하기 위한 클라우드 데이터베이스 아키텍처 ‘아틀라스 인피니트(Atlas Infini...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42274",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "인물 도용 판별·유해 입력 차단·딥페이크 판별 통합…딥브레인AI ‘AI 가드’, 생성 과정 전반 안전 관리",
-      "desc": "생성형 인공지능(AI) 전문 기업 딥브레인AI(대표 장세영)는 인물 도용 판별, 유해 입력 차단, 딥페이크 판별까지 생성형 AI의 악의적 활용 위험을 통합 관리하는 안전 엔진 ‘AI 가드’ 개발을 완료했다고 12일 밝혔다.AI 가드는 이미지·영상 속 인물이 보호 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42258",
+      "title": "마이크로소프트, 자체 AI 칩 ‘마이아’ 멀티기가와트급 확대…2027년 추론 인프라 주력으로",
+      "desc": "마이크로소프트(Microsoft)가 자체 설계 인공지능(AI) 가속기 ‘애저 마이아(Azure Maia)’를 멀티기가와트급 데이터센터 인프라로 확대한다. 현재 마이아 200을 마이크로소프트 코파일럿 등 실제 서비스에 투입한 데 이어, 2027년에는 차세대 칩 마이...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42273",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "네이버클라우드, 베트남 최대 IT 기업과 AI 팩토리 사업 추진...아태 AI 시장 공략 나선다",
-      "desc": "네이버클라우드(대표 김유원)가 베트남 대표 IT 기업 FPT와 인공지능(AI) 팩토리 사업을 공동 추진하고 한국과 일본, 베트남 등 아시아태평양(APAC) 시장에서의 GPUaaS 사업 확대를 위해 힘을 합친다.양사는 최근 네이버 1784에서 업무협약(MOU)을 체...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42257",
+      "title": "메타, 차세대 AI 에이전트 '뮤즈 원더·뮤즈 원더 풀' 공개…장기 기억·지속 추론으로 복잡한 업무 수행",
+      "desc": "메타(Meta)가 개인과 기업의 복잡한 업무를 장시간 수행하도록 설계한 차세대 인공지능(AI) 모델 ‘뮤즈 원더(Muse Wonder)’와 ‘뮤즈 원더 풀(Muse Wonder Full)’을 12일(현지시간) 공개했다. 여러 대화에 걸쳐 사용자에게 중요한 정보를 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42272",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "사람아닌 'AI를 위한 차세대 미디어' 기술 개발...ETRI, 대규모 영상 처리의 판을 바꾼다",
-      "desc": "국내 연구진이 사람이 아닌 인공지능(AI)의 영상 이해와 분석에 최적화된 차세대 영상 압축 기술을 선보인다. 자율주행차와 로봇, 드론, 지능형 CCTV 등 AI가 영상을 직접 분석하는 시대를 맞아 대규모 영상 데이터를 보다 적은 용량으로 효율적으로 전달할 수 있는...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42256",
+      "title": "델, IBK기업은행에 사이버 복원력 인프라 구축…백업 데이터 3중 보호 체계 완성",
+      "desc": "델 테크놀로지스(Dell Technologies)가 IBK기업은행의 하남데이터센터 이전에 맞춰 전사 데이터를 보호하는 차세대 백업 인프라를 구축했다. 운영 데이터와 백업 데이터를 분리하고, 네트워크 격리와 데이터 변경 방지 기술을 적용해 랜섬웨어 등 사이버 공격과...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42271",
       "source": "AI Times"
     }
   ]
