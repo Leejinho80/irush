@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-10-15T01:18:07.301Z",
+  "lastUpdated": "2026-10-16T01:03:59.150Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "파일럿 다음의 AI ROI : 프로덕션에서 성과 측정하기",
+      "desc": "생성형 AI 이니셔티브의 ROI는 워크플로우를 측정하고 예산 내에서 시스템을 운영할 때 명확해진다. 이 기사에서는 파일럿 단계를 넘어서기 위한 계획에 대해 다룬다.\n\n\n\n생성형 AI 파일럿은 얼핏 성공적으로 보이는 경우가 많다. 긍정적인 피드백이 들어오고 직원은 ...",
+      "link": "https://www.itworld.co.kr/article/4235586/%ec%8b%9c%eb%b2%94-%ec%9a%b4%ec%98%81%ec%9d%84-%eb%84%98%ec%96%b4%ec%84%a0-ai-roi-%eb%b3%b8-%ec%9a%b4%ec%98%81-%eb%8b%a8%ea%b3%84%ec%97%90%ec%84%9c%ec%9d%98-%ec%84%b1%ea%b3%bc-%ec%b8%a1%ec%a0%95.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "소프트웨어 가치 ‘0달러’ 시대 온다…AI 모델이 복제하는 것들",
+      "desc": "한 업체가 찾아와 인프라 리스크를 획기적으로 낮출 수 있다고 설명하는 상황을 가정해보자. 마치 마법처럼 과거의 모든 문제를 탐지해주는 새로운 소프트웨어 제품이나 서비스형 소프트웨어를 보유하고 있다고 한다. 물론 마법은 아니다. 업체는 작동 원리를 정확히 설명한다....",
+      "link": "https://www.itworld.co.kr/article/4235573/%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ea%b0%80%ec%b9%98-0%eb%8b%ac%eb%9f%ac-%ec%8b%9c%eb%8c%80-%ec%98%a8%eb%8b%a4ai-%eb%aa%a8%eb%8d%b8%ec%9d%b4-%eb%b3%b5%ec%a0%9c%ed%95%98%eb%8a%94-%ea%b2%83.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
       "title": "AI 에이전트 기반 스크린캐스트 자동화의 현재",
       "desc": "과거 소프트웨어 실행 화면을 내레이션과 함께 담은 동영상에 매료됐다. 당시 그런 방식의 스토리텔링을 구현할 도구는 존재했지만, 스크린캐스팅이라 불리게 된 이 매체의 설명력은 아직 널리 인정받지 못했다. 스크린캐스팅은 이후 소프트웨어 시연의 표준 방식으로 자리 잡았...",
       "link": "https://www.itworld.co.kr/article/4234980/ai-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%8a%a4%ed%81%ac%eb%a6%b0%ec%ba%90%ec%8a%a4%ed%8c%85.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "04",
       "title": "“분절된 AI 데이터 환경을 하나로” 넷앱, 멀티클라우드 통합 플랫폼 공개",
       "desc": "AI의 속도로 나아가려는 기업이 마주한 현실은 역설적이다. GPU는 충분하지만 데이터를 제때 공급하지 못하면 GPU 활용률이 30% 미만까지 떨어진다는 사실이다. 에이전틱 AI 도입 확산 속에서 대규모 AI 인프라를 효율적으로 운영할 수 있는 데이터 스토리지 아키...",
       "link": "https://www.itworld.co.kr/article/4234954/%eb%b6%84%ec%a0%88%eb%90%9c-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%99%98%ea%b2%bd%ec%9d%84-%ed%95%98%eb%82%98%eb%a1%9c-%eb%84%b7%ec%95%b1-%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "05",
       "title": "“네오클라우드, 기업에 말을 걸어라”…성장의 함정에 빠진 네오클라우드",
       "desc": "지난 2년간 네오클라우드의 부상을 추적해 보면, 먼저 수치가 실로 놀라운 수준임을 인정할 수밖에 없다. 시장조사 업체 시너지 리서치 그룹(Synergy Research Group)에 따르면 네오클라우드 매출은 2025년 4분기에만 90억 달러에 달해 전년 동기 대...",
       "link": "https://www.itworld.co.kr/article/4234889/%eb%84%a4%ec%98%a4%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%99%80-%ec%9d%b4%eb%a5%bc-%ed%95%84%ec%9a%94%eb%a1%9c-%ed%95%98%eb%8a%94-%ea%b8%b0%ec%97%85%eb%93%a4.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
-      "title": "“선택의 자유가 경쟁력” 뉴타닉스, 통합 플랫폼으로 AI 시대 기업의 운영 부담을 덜다",
-      "desc": "기업 환경의 복잡성이 갈수록 심화되고 있다. 온프레미스와 퍼블릭 클라우드, 쿠버네티스, 에이전틱 AI 등 다양한 기술이 혼재되면서 기업들은 통합 운영의 어려움을 겪고 있다.\n\n\n\n뉴타닉스는 ‘.NEXT On Tour Seoul 2026’을 10월 13일 그랜드 인...",
-      "link": "https://www.itworld.co.kr/article/4234087/%ec%84%a0%ed%83%9d%ec%9d%98-%ec%9e%90%ec%9c%a0%ea%b0%80-%ea%b2%bd%ec%9f%81%eb%a0%a5-%eb%89%b4%ed%83%80%eb%8b%89%ec%8a%a4-%ed%86%b5%ed%95%a9-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9c%bc%eb%a1%9c-ai.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "AI 에이전트 스택에 의사결정 전문 레이어가 뜬다",
-      "desc": "AWS와 오픈AI, 클라우드플레어가 경계가 명확한 의사결정을 처리하도록 설계된 새로운 클래스의 모델을 도입하면서, 거버넌스와 캘리브레이션, 운영 부담에 대한 논의가 본격화되고 있다.\n\n\n\n기업이 AI 예산과 에이전틱 애플리케이션 확장 요구 사이에서 균형을 잡는 데...",
-      "link": "https://www.itworld.co.kr/article/4234067/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-%eb%b0%9c%ec%a0%84%ed%95%a8%ec%97%90-%eb%94%b0%eb%9d%bc-%ea%b3%b5%ea%b8%89%ec%97%85%ec%b2%b4%eb%93%a4%ec%9d%80-%ec%9d%98%ec%82%ac%ea%b2%b0%ec%a0%95.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "델, 기업 데이터에 ‘의미와 관계’ 입힌다…AI 에이전트 신뢰성 높이는 플랫폼 확장",
-      "desc": "델 테크놀로지스(Dell Technologies)가 기업 내부에 분산된 데이터에 의미와 관계를 부여해 인공지능(AI) 에이전트가 신뢰할 수 있는 정보를 활용하도록 지원하는 데이터 플랫폼을 강화한다. AI 모델의 성능을 높이는 데 집중하던 기업 AI 전략을 넘어, ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42309",
+      "title": "재즈 무대에 AI가 끼어들었다…사람 연주 듣고 즉석에서 ‘맞불 연주’",
+      "desc": "한국과학기술원(KAIST) 연구진이 사람의 연주를 실시간으로 듣고 흐름에 맞춰 연주를 이어받거나 즉흥 반주를 생성하는 ‘재즈 인공지능 아티스트’를 실제 공연 무대에서 선보였다. 정해진 음악을 재생하는 수준을 넘어 연주자의 속도와 리듬, 표현 변화에 반응하며 음악을...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42322",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "인공지능이 장면 전환이 불러온 인물 추적 오류 잡았다…UNIST 백승렬 교수팀, 3D 복원 AI 개발",
-      "desc": "영화나 스포츠 중계처럼 카메라 앵글과 화면이 수시로 바뀌는 영상에서도 여러 인물의 움직임을 일관되게 추적해 3차원으로 복원하는 인공지능(AI) 기술이 개발됐다.UNIST 인공지능대학원 백승렬 교수 연구팀은 여러 사람의 3차원 인체 형상과 움직임을 영상 전반에 걸쳐...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42308",
+      "title": "정현철 노르마 대표, AI 신경망 경량화 겨냥…‘QC4AI’ 사업 전략 제시",
+      "desc": "“양자컴퓨팅은 그 자체로 목적이 아니라, 인공지능(AI) 산업이 지금 맞닥뜨린 병목을 풀어낼 도구가 될 수 있다.”정현철 노르마(Norma) 대표는 ‘인공지능을 위한 양자컴퓨팅(Quantum Computing for AI·QC4AI)’을 회사의 사업 전략으로 내세...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42318",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "삼성전자, 동남아 AI 가전·공조 시장 공략…식재료 인식부터 건물 통합 제어까지",
-      "desc": "삼성전자가 인공지능(AI) 기반 가전과 통합 냉난방공조(HVAC) 솔루션을 앞세워 동남아 시장 공략을 강화한다. 냉장고 카메라로 식재료를 인식하고 소비 패턴을 분석하는 AI 기능부터 사용자의 위치와 활동을 감지해 냉방 방향을 조절하는 에어컨, 여러 사업장의 설비와...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42307",
+      "title": "앤트로픽, 싱가포르에 아태 5번째 거점 개설…정부와 AI 안전·평가 협력",
+      "desc": "앤트로픽(Anthropic)이 싱가포르에 아시아태평양 지역 다섯 번째 사무소를 개설하고 싱가포르 정부와 인공지능(AI) 안전성, 보안, 모델 평가를 위한 협력 체계를 구축한다. 기업과 공공기관의 AI 도입이 빠르게 확대되는 가운데, 현지 거점을 기반으로 기술 지원...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42321",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "SKT, AI-RAN으로 일반 차량 무인 이송 구현…글로벌 5G 혁신상 수상",
-      "desc": "SK텔레콤(SKT)이 인공지능(AI)과 통신망을 결합한 차세대 네트워크 기술로 일반 차량의 무인 이송을 구현해 글로벌 통신 기술 무대에서 혁신성을 인정받았다. 기지국이 현장의 센서 데이터를 실시간으로 처리하고 차량의 이동 경로와 주행 명령을 제어하는 방식으로, A...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42306",
+      "title": "화웨이, AI 시대 통신망 보안·복원력 강화 강조…차세대 IP 네트워크 구축 본격화",
+      "desc": "인공지능(AI)이 네트워크 운영을 넘어 통신사업자의 새로운 수익 창출 수단으로 부상하면서, 차세대 통신 인프라의 핵심 요건으로 보안과 복원력이 강조되고 있다. AI를 활용한 공격이 규모와 속도 면에서 기존 방어 체계를 위협하는 가운데, 네트워크 설계 단계부터 보안...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42320",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "조 차이 알리바바 회장, “오픈소스가 유럽 AI 주권의 기회”…승부처는 컴퓨팅 인프라",
-      "desc": "차이충신(조 차이-Joe Tsai) 알리바바그룹 회장이 오픈소스 인공지능(AI)을 유럽의 기술 주권 확보를 위한 핵심 기회로 제시했다. 유럽 기업들이 공개된 모델을 자체 인프라에서 운영하고 산업 현장의 독점 데이터를 결합하면, 외부 AI 사업자에 대한 의존도를 낮...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42305",
+      "title": "카카오, 자율 AI 에이전트 윤리 체계 구축…‘SPIRIT·NORMA’로 전 주기 위험 관리",
+      "desc": "카카오가 스스로 계획하고 행동하는 자율형 인공지능(AI) 에이전트 시대에 대응해 AI 서비스의 기획부터 운영까지 적용할 윤리 원칙과 실행 가이드를 마련했다. 안전과 프라이버시 등 6대 핵심 가치를 제시하고, AI의 자율적 행동 과정에서 발생할 수 있는 위험을 5개...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42319",
       "source": "AI Times"
     }
   ]
