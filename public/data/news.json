@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-10-16T01:03:59.150Z",
+  "lastUpdated": "2026-10-17T01:10:53.215Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "CVSS 점수의 한계와 올바른 취약점 우선순위 판단법",
+      "desc": "취약점 스캐너는 잘못된 신호를 기준으로 취약점을 정렬하고 있다. CVSS, EPSS, 로컬 컨텍스트를 사용해서 개발 시점에 수정 작업의 우선순위를 정하는 방법을 알아보자.\n\n\n\n공통 취약점 평가 시스템(CVSS)에서 심각도는 취약점의 잠재적 심각성을 알려주는 지표...",
+      "link": "https://www.itworld.co.kr/article/4236164/%ec%96%b4%eb%96%a4-%ec%b7%a8%ec%95%bd%ec%a0%90%ec%9d%84-%eb%a8%bc%ec%a0%80-%ed%95%b4%ea%b2%b0%ed%95%b4%ec%95%bc-%ed%95%a0%ec%a7%80-%ed%8c%8c%ec%95%85%ed%95%98%ea%b8%b0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "“AI 프레임워크부터 시작하면 실수”…AI 아키텍처 설계, 요구사항이 출발점",
+      "desc": "많은 전문 서비스 기업이 그럴듯한 마케팅 스토리를 앞세워 사전 구축된 생성형 AI와 에이전틱 AI의 청사진을 제공한다. 그러나 이를 선택하는 것은 가장 값비싼 실수다. \n\n\n\n모든 주요 컨설팅 기업은 저마다 생성형 AI와 에이전틱 AI를 위한 사전 구축된 아키텍처...",
+      "link": "https://www.itworld.co.kr/article/4235707/ai-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac%eb%b6%80%ed%84%b0-%ec%8b%9c%ec%9e%91%ed%95%98%eb%a9%b4-%ec%8b%a4%ec%88%98ai-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98-%ec%84%a4%ea%b3%84-%ec%9a%94%ea%b5%ac.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "“클래식이 중요한 이유” 소프트웨어 개발을 주도하는 뜻밖의 9가지 트렌드",
+      "desc": "마크 트웨인은 “곤경에 빠지는 건 뭔가를 몰라서가 아니라 틀린 사실을 맞다고 확신하는 착각 때문”이라는 말을 남겼는데, 마치 소프트웨어 개발을 염두에 두고 이 문구를 썼던 것 같다.\n\n\n\n소프트웨어는 다양한 방식으로 발전한다. 주로 무언가를 개선하기 위해 의도적으...",
+      "link": "https://www.itworld.co.kr/article/4235698/%ed%81%b4%eb%9e%98%ec%8b%9d%ec%9d%b4-%ec%a4%91%ec%9a%94%ed%95%9c-%ec%9d%b4%ec%9c%a0-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ea%b0%9c%eb%b0%9c%ec%9d%84-%ec%a3%bc%eb%8f%84%ed%95%98%eb%8a%94.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "파일럿 다음의 AI ROI : 프로덕션에서 성과 측정하기",
       "desc": "생성형 AI 이니셔티브의 ROI는 워크플로우를 측정하고 예산 내에서 시스템을 운영할 때 명확해진다. 이 기사에서는 파일럿 단계를 넘어서기 위한 계획에 대해 다룬다.\n\n\n\n생성형 AI 파일럿은 얼핏 성공적으로 보이는 경우가 많다. 긍정적인 피드백이 들어오고 직원은 ...",
       "link": "https://www.itworld.co.kr/article/4235586/%ec%8b%9c%eb%b2%94-%ec%9a%b4%ec%98%81%ec%9d%84-%eb%84%98%ec%96%b4%ec%84%a0-ai-roi-%eb%b3%b8-%ec%9a%b4%ec%98%81-%eb%8b%a8%ea%b3%84%ec%97%90%ec%84%9c%ec%9d%98-%ec%84%b1%ea%b3%bc-%ec%b8%a1%ec%a0%95.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "소프트웨어 가치 ‘0달러’ 시대 온다…AI 모델이 복제하는 것들",
       "desc": "한 업체가 찾아와 인프라 리스크를 획기적으로 낮출 수 있다고 설명하는 상황을 가정해보자. 마치 마법처럼 과거의 모든 문제를 탐지해주는 새로운 소프트웨어 제품이나 서비스형 소프트웨어를 보유하고 있다고 한다. 물론 마법은 아니다. 업체는 작동 원리를 정확히 설명한다....",
       "link": "https://www.itworld.co.kr/article/4235573/%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ea%b0%80%ec%b9%98-0%eb%8b%ac%eb%9f%ac-%ec%8b%9c%eb%8c%80-%ec%98%a8%eb%8b%a4ai-%eb%aa%a8%eb%8d%b8%ec%9d%b4-%eb%b3%b5%ec%a0%9c%ed%95%98%eb%8a%94-%ea%b2%83.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "AI 에이전트 기반 스크린캐스트 자동화의 현재",
-      "desc": "과거 소프트웨어 실행 화면을 내레이션과 함께 담은 동영상에 매료됐다. 당시 그런 방식의 스토리텔링을 구현할 도구는 존재했지만, 스크린캐스팅이라 불리게 된 이 매체의 설명력은 아직 널리 인정받지 못했다. 스크린캐스팅은 이후 소프트웨어 시연의 표준 방식으로 자리 잡았...",
-      "link": "https://www.itworld.co.kr/article/4234980/ai-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%8a%a4%ed%81%ac%eb%a6%b0%ec%ba%90%ec%8a%a4%ed%8c%85.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "“분절된 AI 데이터 환경을 하나로” 넷앱, 멀티클라우드 통합 플랫폼 공개",
-      "desc": "AI의 속도로 나아가려는 기업이 마주한 현실은 역설적이다. GPU는 충분하지만 데이터를 제때 공급하지 못하면 GPU 활용률이 30% 미만까지 떨어진다는 사실이다. 에이전틱 AI 도입 확산 속에서 대규모 AI 인프라를 효율적으로 운영할 수 있는 데이터 스토리지 아키...",
-      "link": "https://www.itworld.co.kr/article/4234954/%eb%b6%84%ec%a0%88%eb%90%9c-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%99%98%ea%b2%bd%ec%9d%84-%ed%95%98%eb%82%98%eb%a1%9c-%eb%84%b7%ec%95%b1-%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "“네오클라우드, 기업에 말을 걸어라”…성장의 함정에 빠진 네오클라우드",
-      "desc": "지난 2년간 네오클라우드의 부상을 추적해 보면, 먼저 수치가 실로 놀라운 수준임을 인정할 수밖에 없다. 시장조사 업체 시너지 리서치 그룹(Synergy Research Group)에 따르면 네오클라우드 매출은 2025년 4분기에만 90억 달러에 달해 전년 동기 대...",
-      "link": "https://www.itworld.co.kr/article/4234889/%eb%84%a4%ec%98%a4%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%99%80-%ec%9d%b4%eb%a5%bc-%ed%95%84%ec%9a%94%eb%a1%9c-%ed%95%98%eb%8a%94-%ea%b8%b0%ec%97%85%eb%93%a4.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "재즈 무대에 AI가 끼어들었다…사람 연주 듣고 즉석에서 ‘맞불 연주’",
-      "desc": "한국과학기술원(KAIST) 연구진이 사람의 연주를 실시간으로 듣고 흐름에 맞춰 연주를 이어받거나 즉흥 반주를 생성하는 ‘재즈 인공지능 아티스트’를 실제 공연 무대에서 선보였다. 정해진 음악을 재생하는 수준을 넘어 연주자의 속도와 리듬, 표현 변화에 반응하며 음악을...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42322",
+      "title": "엔젤로보틱스, 창업자 공경철 대표 복귀...웨어러블 로봇 넘어 피지컬 AI 승부수",
+      "desc": "엔젤로보틱스가 창업자 공경철 대표 체제로 전환하고 피지컬 인공지능(AI)을 중심으로 사업 전략을 강화한다.웨어러블 로봇 개발과 의료 현장 검증을 통해 축적한 기술을 로봇 구동기와 제어 플랫폼, 인체 동작 파운데이션 모델로 확장해 하드웨어 중심의 사업 구조를 넘어 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42326",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "정현철 노르마 대표, AI 신경망 경량화 겨냥…‘QC4AI’ 사업 전략 제시",
-      "desc": "“양자컴퓨팅은 그 자체로 목적이 아니라, 인공지능(AI) 산업이 지금 맞닥뜨린 병목을 풀어낼 도구가 될 수 있다.”정현철 노르마(Norma) 대표는 ‘인공지능을 위한 양자컴퓨팅(Quantum Computing for AI·QC4AI)’을 회사의 사업 전략으로 내세...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42318",
+      "title": "구글 퀀텀 AI, 양자컴퓨팅 최대 병목 뚫었다…매직 상태 오류 40배 줄여",
+      "desc": "구글이 인공지능(AI) 시대를 넘어, 양자컴퓨터의 실용화를 가로막아 온 핵심 기술적 병목을 해결할 돌파구를 마련했다. 양자 연산에 필수적인 고품질 ‘매직 상태’를 효율적으로 생성하는 기술을 실제 양자 하드웨어에서 처음으로 입증하고, 기존 방식보다 오류를 약 40배...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42325",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "앤트로픽, 싱가포르에 아태 5번째 거점 개설…정부와 AI 안전·평가 협력",
-      "desc": "앤트로픽(Anthropic)이 싱가포르에 아시아태평양 지역 다섯 번째 사무소를 개설하고 싱가포르 정부와 인공지능(AI) 안전성, 보안, 모델 평가를 위한 협력 체계를 구축한다. 기업과 공공기관의 AI 도입이 빠르게 확대되는 가운데, 현지 거점을 기반으로 기술 지원...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42321",
+      "title": "Bunzee AI, 경쟁사 분석부터 기획서·클론 코드까지…SF34, ‘번지 AI’ 클론 기능 출시",
+      "desc": "에스에프삼십사(SF34)가 인공지능(AI) 제품 기획 플랫폼 ‘번지 AI(Bunzee AI)’에 웹사이트나 앱 주소만 입력하면 서비스 구조를 분석하고 정보구조(IA), 클론 코드, 와이어프레임 등을 자동 생성하는 기능을 추가했다고 16일 밝혔다.이번 기능은 경쟁 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42324",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "화웨이, AI 시대 통신망 보안·복원력 강화 강조…차세대 IP 네트워크 구축 본격화",
-      "desc": "인공지능(AI)이 네트워크 운영을 넘어 통신사업자의 새로운 수익 창출 수단으로 부상하면서, 차세대 통신 인프라의 핵심 요건으로 보안과 복원력이 강조되고 있다. AI를 활용한 공격이 규모와 속도 면에서 기존 방어 체계를 위협하는 가운데, 네트워크 설계 단계부터 보안...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42320",
+      "title": "“美 역대 최강, AI 오픈 웨이트 모델”…메타, 8160억 매개변수 ‘뮤즈 스파크 오픈’ 공개",
+      "desc": "메타(Meta)가 총 8160억 개 매개변수를 갖춘 대규모 인공지능(AI) 모델 ‘뮤즈 스파크 오픈(Muse Spark Open)’을 15일(현지시간) 공개했다. 또한 이 모델은 현재까지 미국에서 공개된 가장 강력한 오픈 웨이트 모델이라고 밝혔다.'뮤즈 스파크 오...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42323",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "카카오, 자율 AI 에이전트 윤리 체계 구축…‘SPIRIT·NORMA’로 전 주기 위험 관리",
-      "desc": "카카오가 스스로 계획하고 행동하는 자율형 인공지능(AI) 에이전트 시대에 대응해 AI 서비스의 기획부터 운영까지 적용할 윤리 원칙과 실행 가이드를 마련했다. 안전과 프라이버시 등 6대 핵심 가치를 제시하고, AI의 자율적 행동 과정에서 발생할 수 있는 위험을 5개...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42319",
+      "title": "재즈 무대에 AI가 끼어들었다…사람 연주 듣고 즉석에서 ‘맞불 연주’",
+      "desc": "한국과학기술원(KAIST) 연구진이 사람의 연주를 실시간으로 듣고 흐름에 맞춰 연주를 이어받거나 즉흥 반주를 생성하는 ‘재즈 인공지능 아티스트’를 실제 공연 무대에서 선보였다. 정해진 음악을 재생하는 수준을 넘어 연주자의 속도와 리듬, 표현 변화에 반응하며 음악을...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42322",
       "source": "AI Times"
     }
   ]
