@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-10-19T00:58:07.906Z",
+  "lastUpdated": "2026-10-20T01:38:55.373Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
-      "title": "AI 인프라 열풍의 역설, 투자금 회수는 멀었다",
-      "desc": "가트너가 투자와 수익 간 불일치를 전망하며 베인의 최근 보고서와 같은 결론을 내렸다.\n\n\n\n가트너에 따르면, 투자자들은 2030년까지 회수하기 어려운 규모로 AI 데이터센터 인프라에 자금을 쏟아붓고 있다.\n\n\n\n가트너 수석 디렉터 애널리스트 윌 서머는 “같은 기간...",
-      "link": "https://www.itworld.co.kr/article/4236850/2030%eb%85%84%ea%b9%8c%ec%a7%80-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0%ec%9d%98-%ec%9e%90%eb%b3%b8%ec%a7%80%ec%b6%9c%ec%9d%80-%ec%98%88%ec%83%81-%eb%a7%a4%ec%b6%9c%ec%9d%84-%ed%9b%a8.html",
+      "title": "서피스 랩톱 울트라 리뷰 : 몬스터급 AI 성능에 몬스터급 가격",
+      "desc": "마이크로소프트의 서피스 랩톱 울트라와 새로운 엔비디아의 RTX 스파크 칩은 많은 이가 새로운 생산성의 축이라 부르는 AI를 구현한다. 그와 함께 오래된 익숙한 감정이 되살아난다. 뒤처짐에 대한 두려움, 이른바 FOMO다.\n\n\n\n수십 년간 방정식은 단순했다. 빠른 ...",
+      "link": "https://www.itworld.co.kr/article/4236871/%ec%84%9c%ed%94%bc%ec%8a%a4-%eb%9e%a9%ed%86%b1-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%eb%a6%ac%eb%b7%b0-%eb%aa%ac%ec%8a%a4%ed%84%b0%ea%b8%89-ai-%ec%84%b1%eb%8a%a5%ec%97%90-%eb%aa%ac%ec%8a%a4%ed%84%b0%ea%b8%89.html",
       "source": "ITWorld"
     },
     {
       "number": "02",
-      "title": "엔비디아 DLSS, 최고급 그래픽 카드의 존재 이유를 스스로 허물다",
-      "desc": "지포스 RTX 5090은 압도적인 성능을 자랑하는 그래픽카드다.\n\n\n\n그러나 게이밍 용도로 구매를 정당화하기가 갈수록 어려워지고 있다. 아이러니하게도, 원인은 엔비디아 자체 기술인 DLSS다.\n\n\n\nRTX 5090이 출시됐을 약 2년 전, 엔비디아는 새로운 최상위...",
-      "link": "https://www.itworld.co.kr/article/4236830/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-dlss-%ec%b5%9c%ea%b3%a0%ea%b8%89-%ea%b7%b8%eb%9e%98%ed%94%bd-%ec%b9%b4%eb%93%9c%ec%9d%98-%ec%a1%b4%ec%9e%ac-%ec%9d%b4%ec%9c%a0%eb%a5%bc-%ec%8a%a4%ec%8a%a4.html",
+      "title": "섀도 AI에 4중 방어선을 쳐라…기업 보안을 뚫는 것은 ‘미승인 AI’",
+      "desc": "옛날이라 할 만한 작년만 해도, 승인받지 않은 AI 도구를 쓰는 직원이 민감한 데이터를 복사해 붙여넣으면 AI 기업의 학습 데이터 세트에 흘러 들어갈 수 있는 정도였다.\n\n\n\n오늘날에는 승인받지 않은 AI가 직원이 명시적으로 요청하지 않았는데도 직원을 대신해 다른...",
+      "link": "https://www.itworld.co.kr/article/4237372/%ec%84%80%eb%8f%84-ai%ec%97%90-4%ec%a4%91-%eb%b0%a9%ec%96%b4%ec%84%a0%ec%9d%84-%ec%b3%90%eb%9d%bc-%ea%b8%b0%ec%97%85-%eb%b3%b4%ec%95%88%ec%9d%84-%eb%9a%ab%eb%8a%94-%ea%b2%83%ec%9d%80-%eb%af%b8.html",
       "source": "ITWorld"
     },
     {
       "number": "03",
-      "title": "CVSS 점수의 한계와 올바른 취약점 우선순위 판단법",
-      "desc": "취약점 스캐너는 잘못된 신호를 기준으로 취약점을 정렬하고 있다. CVSS, EPSS, 로컬 컨텍스트를 사용해서 개발 시점에 수정 작업의 우선순위를 정하는 방법을 알아보자.\n\n\n\n공통 취약점 평가 시스템(CVSS)에서 심각도는 취약점의 잠재적 심각성을 알려주는 지표...",
-      "link": "https://www.itworld.co.kr/article/4236164/%ec%96%b4%eb%96%a4-%ec%b7%a8%ec%95%bd%ec%a0%90%ec%9d%84-%eb%a8%bc%ec%a0%80-%ed%95%b4%ea%b2%b0%ed%95%b4%ec%95%bc-%ed%95%a0%ec%a7%80-%ed%8c%8c%ec%95%85%ed%95%98%ea%b8%b0.html",
+      "title": "떠난 직원의 에이전트는 누구 몫인가…책임은 시스템에 있다",
+      "desc": "엔터프라이즈 소프트웨어의 역사 대부분에서 책임 소재는 비교적 이해하기 쉬웠다. 사람이 로그인하고, 사람에게 일련의 권한이 있으며, 사람이 행동을 실행하는 구조였다. 문제가 생기면 대개 그 지점부터 거꾸로 추적하면 됐다.\n\n\n\n에이전틱 AI가 상황을 바꾸고 있다. ...",
+      "link": "https://www.itworld.co.kr/article/4237360/%eb%96%a0%eb%82%9c-%ec%a7%81%ec%9b%90%ec%9d%98-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%8a%94-%eb%88%84%ea%b5%ac-%eb%aa%ab%ec%9d%b8%ea%b0%80%ec%b1%85%ec%9e%84%ec%9d%80-%ec%8b%9c%ec%8a%a4.html",
       "source": "ITWorld"
     },
     {
       "number": "04",
-      "title": "“AI 프레임워크부터 시작하면 실수”…AI 아키텍처 설계, 요구사항이 출발점",
-      "desc": "많은 전문 서비스 기업이 그럴듯한 마케팅 스토리를 앞세워 사전 구축된 생성형 AI와 에이전틱 AI의 청사진을 제공한다. 그러나 이를 선택하는 것은 가장 값비싼 실수다. \n\n\n\n모든 주요 컨설팅 기업은 저마다 생성형 AI와 에이전틱 AI를 위한 사전 구축된 아키텍처...",
-      "link": "https://www.itworld.co.kr/article/4235707/ai-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac%eb%b6%80%ed%84%b0-%ec%8b%9c%ec%9e%91%ed%95%98%eb%a9%b4-%ec%8b%a4%ec%88%98ai-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98-%ec%84%a4%ea%b3%84-%ec%9a%94%ea%b5%ac.html",
+      "title": "AI 웜이 우리 집 오븐까지 장악할까?…IoT 봇넷, 위협 수준 진단",
+      "desc": "스마트 오븐, 세탁기, TV 박스의 스마트 기능을 깊이 생각해 본 사용자는 많지 않을 것이다. 하지만 앤트로픽은 이런 사물인터넷 기기가 AI의 악용에 취약하다고 판단했다.\n\n\n\n그 방법은 스스로 복제하는 ‘AI 웜’이다.\n\n\n\n앤트로픽은 지난주 AI가 저사양 스마...",
+      "link": "https://www.itworld.co.kr/article/4237349/ai-%ec%9b%9c%ec%9d%b4-%ec%9a%b0%eb%a6%ac-%ec%a7%91-%ec%98%a4%eb%b8%90%ea%b9%8c%ec%a7%80-%ec%9e%a5%ec%95%85%ed%95%a0%ea%b9%8c-iot-%eb%b4%87%eb%84%b7-%ec%9c%84%ed%98%91-%ec%88%98%ec%a4%80-%ec%a7%84.html",
       "source": "ITWorld"
     },
     {
       "number": "05",
-      "title": "“클래식이 중요한 이유” 소프트웨어 개발을 주도하는 뜻밖의 9가지 트렌드",
-      "desc": "마크 트웨인은 “곤경에 빠지는 건 뭔가를 몰라서가 아니라 틀린 사실을 맞다고 확신하는 착각 때문”이라는 말을 남겼는데, 마치 소프트웨어 개발을 염두에 두고 이 문구를 썼던 것 같다.\n\n\n\n소프트웨어는 다양한 방식으로 발전한다. 주로 무언가를 개선하기 위해 의도적으...",
-      "link": "https://www.itworld.co.kr/article/4235698/%ed%81%b4%eb%9e%98%ec%8b%9d%ec%9d%b4-%ec%a4%91%ec%9a%94%ed%95%9c-%ec%9d%b4%ec%9c%a0-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ea%b0%9c%eb%b0%9c%ec%9d%84-%ec%a3%bc%eb%8f%84%ed%95%98%eb%8a%94.html",
+      "title": "“알면서도 훔쳤다” 저작권 위에 세워진 빅테크 AI",
+      "desc": "오픈AI의 챗GPT 챗봇과, 마이크로소프트가 챗GPT를 기반으로 선보인 코파일럿이 출시된 이후로, 비평가들은 두 제품을 포함한 모든 생성형 AI 도구가 수십억 달러 규모의 지식재산권(IP)을 무단으로 탈취해 구축됐다고 지적해 왔다.\n\n\n\nAI 모델 훈련에는 방대한...",
+      "link": "https://www.itworld.co.kr/article/4236861/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8%eb%8a%94-ai-%ed%9b%88%eb%a0%a8%ec%9d%84-%ec%9c%84%ed%95%b4-%ea%b2%8c%ec%9e%84-%ea%b0%9c%eb%b0%9c%ec%82%ac%eb%93%a4%ec%9d%84-%ec%b0%a9.html",
       "source": "ITWorld"
     },
     {
       "number": "06",
-      "title": "딥브레인AI, ‘AI 비디오 에이전트’ 개발 본격화...중기부, 2028년까지 총 15억원 투입",
-      "desc": "생성형 인공지능(AI) 전문 기업 딥브레인AI(대표 장세영)가 중소벤처기업부의 ‘중소기업기술혁신개발사업 글로벌선도기술개발’ 과제 단독 주관기관으로 선정돼, 영상 기획부터 생성과 수정·편집까지 자동화하는 ‘AI 비디오 에이전트’ 개발에 나선다.딥브레인AI는 ‘비디오...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42337",
+      "title": "메디컬아이피, 3D 해부학 교육에 체험형 콘텐츠 강화…메딥박스 고도화, 인체 여행·골학 학습 모드 선보여",
+      "desc": "인공지능(AI) 기반 디지털 트윈 솔루션 기업 메디컬아이피(대표 박상준)가 3D 디지털 해부학 교육에 체험형 콘텐츠를 강화하고 의료영상 연계 학습 기능을 확대한다. 인체 구조를 입체적으로 탐색하는 데 그치지 않고, 인체 내부를 여행하듯 학습하거나 뼈의 형태와 구조...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42354",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "학습하지 않은 신약 후보도 반응 예측… GIST 이현주 교수팀, AI 모델로 선별 정확도 높였다",
-      "desc": "광주과학기술원(GIST) 연구팀이 인공지능(AI)이 학습하지 않은 새로운 약물은 물론, 기존 학습 약물과 핵심 화학구조가 다른 후보물질의 반응까지 정확하게 예측하는 기술을 개발했다.약물의 다양한 화학적 특징 중 예측에 유용한 정보를 선별하고 암세포의 유전자 발현 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42336",
+      "title": "아마존, 파이토치 개발자에 트레이니엄 AI 칩 개방…코드 재작성 없이 바로 실행",
+      "desc": "아마존웹서비스(AWS)가 기존 인공지능(AI) 코드의 재작성 없이 자체 AI 가속기에서 실행할 수 있는 소프트웨어 기술을 공개한다. 파이토치(PyTorch) 기반으로 개발한 AI 모델을 아마존의 자체 칩인 트레이니엄(Trainium)에서 거의 수정 없이 실행할 수...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42353",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "앤트로픽, 기업 가치 커질수록 공익 지분 확대…주식 최대 7% 추가 배정 추진",
-      "desc": "앤트로픽(Anthropic)이 기업 성장에 따라 공익 목적에 배정하는 지분을 확대하는 새로운 기금을 설립한다. 우선 전체 주식의 5%를 ‘앤트로픽 공익기금(Anthropic Public Benefit Fund)’에 배정하고, 기업 가치가 기준선보다 50% 상승할 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42335",
+      "title": "런던은 엠파이어 드레스, 도쿄·파리는 발레 플랫…AI가 바꾸는 패션 트렌드와 쇼핑",
+      "desc": "세계 패션 도시마다 서로 다른 스타일이 주목받는 가운데, 검색 데이터로 유행을 읽고 인공지능(AI)으로 직접 착용 모습을 확인하는 새로운 패션 소비 방식이 부상하고 있다. 구글이 공개한 세계 주요 패션 도시의 검색 트렌드는 지역별 스타일의 차이를 보여주며, 구글의...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42352",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "“AI가 코드를 작성한다, 개발자는 무엇을 해야 할까?”…카네기멜런대·마이크로소프트, AI 시대 엔지니어 육성 나서",
-      "desc": "인공지능(AI)이 코드를 빠르게 생성하는 시대에도 소프트웨어 엔지니어의 역할은 사라지지 않는다. 오히려 AI가 작성한 코드의 품질과 안전성을 검증하고, 시스템 구조를 설계하며, 무엇을 개발할지 판단하는 역량이 중요해지고 있는 가운데 카네기멜런대학교(Carnegie...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42334",
+      "title": "AI가 위성영상 빈틈 메운다...KAIST, 전 세계 위성영상·설명 1000만 쌍 학습한 ‘지오코어-9B’ 개발",
+      "desc": "구름에 가려 보이지 않는 지상을 복원하고, 레이더로 촬영한 위성영상을 일반 사진처럼 변환하는 인공지능(AI)이 개발됐다. 한국과학기술원(KAIST) 연구진이 전 세계 위성영상과 설명 문장 1000만 쌍을 학습한 지구관측 특화 AI 모델을 개발했다.이 모델은 영상 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42351",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "구글 딥마인드, AI 에이전트로 미지의 단백질 탐색…새 항균 펩타이드 후보 발굴",
-      "desc": "항생제 내성 확산에 대응하기 위해 새로운 항균 물질 발굴이 시급한 가운데, 구글 딥마인드(Google DeepMind)가 인공지능(AI) 에이전트를 활용해 수백만 개의 단백질 데이터에서 새로운 항균 펩타이드 후보를 찾아내는 연구 사례를 공개했다.AI 에이전트 기반...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42333",
+      "title": "AI가 기후변화 ‘돌이킬 수 없는 순간’ 예측한다…칼텍, 재귀 신경 연산자로 비가역적 변화 예측 임계점 2년 앞서 포착",
+      "desc": "인공지능(AI)이 기후변화와 항공역학 시스템에서 발생하는 ‘티핑 포인트(Tipping Point)’, 즉 시스템이 임계점을 넘어 급격하고 돌이킬 수 없는 변화를 겪는 시점을 사전에 예측할 수 있다는 연구 결과가 나왔다.미국 캘리포니아공과대학교(Caltech) 연구...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42350",
       "source": "AI Times"
     }
   ]
