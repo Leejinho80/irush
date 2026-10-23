@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-10-22T01:21:58.220Z",
+  "lastUpdated": "2026-10-23T01:20:37.002Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "이제 오래된 코드를 모두 다시 써야 할 때",
+      "desc": "규모가 어느정도 되는 필자의 첫 소프트웨어 프로젝트는(적어도 그때는 규모가 크다고 생각했음) 1970년대 중반, 오래된 신문에 소개된 텍스트 기반의 유명한 스타트렉 게임을 “어쨌든 휴대가 가능한” IBM 5100 컴퓨터로 이식하는 작업이었다. 심장 전문의였던 필자...",
+      "link": "https://www.itworld.co.kr/article/4239373/%ec%9d%b4%ec%a0%9c-%ec%98%a4%eb%9e%98%eb%90%9c-%ec%bd%94%eb%93%9c%eb%a5%bc-%eb%aa%a8%eb%91%90-%eb%8b%a4%ec%8b%9c-%ec%8d%a8%ec%95%bc-%ed%95%a0-%eb%95%8c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "몸값 높이려면 AI부터…2026년 IT 채용의 새로운 기준",
+      "desc": "기업이 IT 이력서를 보는 눈이 까다로워지고 있지만, 적합한 역량을 둘러싼 경쟁은 여전히 치열하다. 기업은 경력과 고급 AI 역량에 프리미엄을 지불할 방침이다.\n\n\n\n글로벌 인력 서비스 기업 맨파워그룹(ManpowerGroup)의 북미 지역 총괄 사장 게르 도일은...",
+      "link": "https://www.itworld.co.kr/article/4238852/%eb%aa%b8%ea%b0%92-%eb%86%92%ec%9d%b4%eb%a0%a4%eb%a9%b4-ai%eb%b6%80%ed%84%b0-2026%eb%85%84-it-%ec%b1%84%ec%9a%a9%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ea%b8%b0%ec%a4%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "의료 기기의 암호는 누가 바꾸나?…양자내성 암호 전환의 발목 잡는 OT 기기",
+      "desc": "양자내성암호(PQC)는 보안 리더에게 다양한 과제를 안기지만, 사물인터넷과 OT 기기에 의존하는 업종의 CISO는 양자 대비 과정에서 특히 험난한 길을 걸을 수 있으며, 수년간 기밀로 유지해야 하는 민감 정보가 기기를 거쳐 전송된다면 더욱 그렇다.\n\n\n\n사이버 보...",
+      "link": "https://www.itworld.co.kr/article/4238842/%ec%9d%98%eb%a3%8c-%ea%b8%b0%ea%b8%b0%ec%9d%98-%ec%95%94%ed%98%b8%eb%8a%94-%eb%88%84%ea%b0%80-%eb%b0%94%ea%be%b8%eb%82%98-%ec%96%91%ec%9e%90%eb%82%b4%ec%84%b1-%ec%95%94%ed%98%b8-%ec%a0%84%ed%99%98.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "AI가 먼저 찾아낸 PHP의 허점 “패치를 미루지 마라”",
+      "desc": "전 세계 기업이 인터넷 상당 부분을 구동하는 널리 쓰이는 코드에서 치명적 취약점 2건이 공개된 뒤 대응에 분주하다. PHP 스크립트 언어에서 발견된 두 결함은 공격자가 인증 없이 원격 코드 실행(RCE)을 수행하도록 허용할 수 있다.\n\n\n\nPHP 재단(PHP Fo...",
+      "link": "https://www.itworld.co.kr/article/4238838/%eb%91%90-%ea%b0%80%ec%a7%80-%ec%a4%91%eb%8c%80%ed%95%9c-php-%ec%b7%a8%ec%95%bd%ec%a0%90%ec%9c%bc%eb%a1%9c-%ec%9d%b8%ed%95%b4-%ec%9b%b9-%ec%97%85%ea%b3%84%ea%b0%80-%ea%b2%bd%ea%b3%84-%ed%83%9c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "AI가 틀려도 책임은 사용자가…메타의 새 약관, AI 오류 책임은 기업 고객 몫",
       "desc": "10월 30일 시행 예정인 메타 상업 약관 개정안에 따라, 메타는 자사 AI 모델이 일으키는 모든 오류의 책임을 기업 고객에게 넘기게 된다. 새 조항은 또한 파트너나 계약업체가 벌이는 모든 행위의 책임까지 IT 임원에게 지운다.\n\n\n\n이번 개정은 메타가 메타 계정...",
       "link": "https://www.itworld.co.kr/article/4238166/ai%ea%b0%80-%ed%8b%80%eb%a0%a4%eb%8f%84-%ec%b1%85%ec%9e%84%ec%9d%80-%ec%82%ac%ec%9a%a9%ec%9e%90%ea%b0%80-%eb%a9%94%ed%83%80%ec%9d%98-%ec%83%88-%ec%95%bd%ea%b4%80-ai-%ec%98%a4%eb%a5%98-%ec%b1%85.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "“멀웨어의 진화 방향을 꿰뚫어라” 떠오르는 악성코드 동향 9가지",
-      "desc": "멀웨어는 AI 발전과 컴퓨팅 인프라의 변화에 힘입어 빠르게 진화하고 있다. 보안 전문가는 날로 정교해지는 위협에 대응하려면 관련 트렌드를 지속적으로 익혀야 한다.\n\n\n\n보안 공격자와 방어자 사이의 전통적인 쫓고 쫓기는 공방은 새로운 기법이 등장하고 효과가 떨어진 ...",
-      "link": "https://www.itworld.co.kr/article/4238157/%eb%a9%80%ec%9b%a8%ec%96%b4%ec%9d%98-%ec%a7%84%ed%99%94-%eb%b0%a9%ed%96%a5%ec%9d%84-%ea%bf%b0%eb%9a%ab%ec%96%b4%eb%9d%bc-%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%85%ec%84%b1%ec%bd%94%eb%93%9c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "서피스 랩톱 울트라 리뷰 : 몬스터급 AI 성능에 몬스터급 가격",
-      "desc": "마이크로소프트의 서피스 랩톱 울트라와 새로운 엔비디아의 RTX 스파크 칩은 많은 이가 새로운 생산성의 축이라 부르는 AI를 구현한다. 그와 함께 오래된 익숙한 감정이 되살아난다. 뒤처짐에 대한 두려움, 이른바 FOMO다.\n\n\n\n수십 년간 방정식은 단순했다. 빠른 ...",
-      "link": "https://www.itworld.co.kr/article/4236871/%ec%84%9c%ed%94%bc%ec%8a%a4-%eb%9e%a9%ed%86%b1-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%eb%a6%ac%eb%b7%b0-%eb%aa%ac%ec%8a%a4%ed%84%b0%ea%b8%89-ai-%ec%84%b1%eb%8a%a5%ec%97%90-%eb%aa%ac%ec%8a%a4%ed%84%b0%ea%b8%89.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "섀도 AI에 4중 방어선을 쳐라…기업 보안을 뚫는 것은 ‘미승인 AI’",
-      "desc": "옛날이라 할 만한 작년만 해도, 승인받지 않은 AI 도구를 쓰는 직원이 민감한 데이터를 복사해 붙여넣으면 AI 기업의 학습 데이터 세트에 흘러 들어갈 수 있는 정도였다.\n\n\n\n오늘날에는 승인받지 않은 AI가 직원이 명시적으로 요청하지 않았는데도 직원을 대신해 다른...",
-      "link": "https://www.itworld.co.kr/article/4237372/%ec%84%80%eb%8f%84-ai%ec%97%90-4%ec%a4%91-%eb%b0%a9%ec%96%b4%ec%84%a0%ec%9d%84-%ec%b3%90%eb%9d%bc-%ea%b8%b0%ec%97%85-%eb%b3%b4%ec%95%88%ec%9d%84-%eb%9a%ab%eb%8a%94-%ea%b2%83%ec%9d%80-%eb%af%b8.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "떠난 직원의 에이전트는 누구 몫인가…책임은 시스템에 있다",
-      "desc": "엔터프라이즈 소프트웨어의 역사 대부분에서 책임 소재는 비교적 이해하기 쉬웠다. 사람이 로그인하고, 사람에게 일련의 권한이 있으며, 사람이 행동을 실행하는 구조였다. 문제가 생기면 대개 그 지점부터 거꾸로 추적하면 됐다.\n\n\n\n에이전틱 AI가 상황을 바꾸고 있다. ...",
-      "link": "https://www.itworld.co.kr/article/4237360/%eb%96%a0%eb%82%9c-%ec%a7%81%ec%9b%90%ec%9d%98-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%8a%94-%eb%88%84%ea%b5%ac-%eb%aa%ab%ec%9d%b8%ea%b0%80%ec%b1%85%ec%9e%84%ec%9d%80-%ec%8b%9c%ec%8a%a4.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "엔비디아, 휴머노이드·AI 학습 기술 확대...범용 로봇 개발 위한 아이작 플랫폼 고도화",
-      "desc": "엔비디아(NVIDIA)가 범용 로봇 개발 플랫폼을 확장하고 휴머노이드 학습부터 시뮬레이션, 실제 환경 배포까지 지원하는 기술 체계를 강화한다. 로봇 하드웨어와 인공지능(AI) 모델, 학습 데이터, 안전 기술을 연결해 개발 복잡성을 낮추고 산업 현장의 피지컬 AI(...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42386",
+      "title": "뇌세포 하나가 '초소형 컴퓨터'처럼 작동한다…중국 연구진, AI 학습 원리 뒤집을 단서 발견",
+      "desc": "인간의 뇌를 구성하는 신경세포 하나가 단순히 신호를 전달하는 역할을 넘어, 학습한 규칙과 외부 감각정보를 비교하고 의사결정에 필요한 계산까지 수행한다는 사실이 실험적으로 확인됐다.수많은 신경세포의 연결을 중심으로 설명해 온 기존 뇌 정보처리 모델에 새로운 관점을 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42404",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "델 테크놀로지스·엔비디아, 데스크톱부터 데이터센터까지 에이전틱 AI 인프라 확대",
-      "desc": "델 테크놀로지스(Dell Technologies)가 엔비디아(NVIDIA)와 협력해 기업용 에이전틱 AI 인프라를 데스크사이드부터 데이터센터까지 확대한다. 기업이 자체적으로 관리하는 인프라에서 AI 에이전트를 개발하고 운영할 수 있도록 하드웨어와 소프트웨어, 보안...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42385",
+      "title": "앤트로픽, AI로 생명과학 난제 해결 나선다…전 세계 연구진에 '클로드 공동연구' 제안",
+      "desc": "앤트로픽(Anthropic)이 생명과학 분야의 미해결 문제를 인공지능(AI)으로 풀기 위해 전 세계 연구자들과 직접 협력하는 공동연구 프로그램을 시작한다. 단순히 AI 모델을 제공하는 것을 넘어 자사 연구진이 생명과학자들과 함께 연구 문제를 정의하고 실험적 분석과...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42403",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "동남아 디지털 경제, 올해 487조원 돌파…AI 이용자 2억4300만명",
-      "desc": "동남아시아 디지털 경제가 생성형 인공지능(AI)의 일상화와 산업 전반의 도입 확대에 힘입어 2026년 3680억달러(약 487조원) 규모로 성장할 전망이다. 생성형 AI를 일상적으로 활용하는 동남아시아인은 2억4300만명에 달하며, 소비자가 AI 에이전트에 상품 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42384",
+      "title": "\"AI가 스스로 더 강력한 AI를 만드는 세상\"…'재귀적 자기 개선', 초지능 경쟁의 새로운 분기점",
+      "desc": "인공지능(AI) 기술 경쟁의 초점이 더 큰 모델과 더 많은 데이터, 강력한 컴퓨팅 자원을 확보하는 것에서 AI가 스스로 자신의 성능을 개선하는 능력으로 이동하고 있다. 인간 연구자가 모델 구조를 설계하고 실험 결과를 분석하며 다음 세대 AI를 개발하던 방식에서 벗...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42402",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "英보건경제연구소, 의료 AI·컴퓨터 시뮬레이션 투자 효과 분석…5년간 건강수명 3만7282년 늘리고 보건서비스 2조원 절감",
-      "desc": "인공지능(AI)과 컴퓨터 시뮬레이션을 활용해 의약품과 의료기기의 안전성과 효과를 검증하는 기술이 의료 혁신과 경제 성장의 새로운 동력으로 주목받고 있다. 영국이 관련 연구와 규제 체계에 대한 투자를 확대하면 향후 5년간 약 24억 파운드(약 4조6000억원)의 건...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42383",
+      "title": "\"비밀번호 없이 서버 뚫린다\"…PHP 해킹 초비상, 그 해결책은?",
+      "desc": "국내 기업과 공공기관, 온라인 쇼핑몰 등에서 널리 사용되는 웹 개발 언어 PHP에서 인증 절차 없이 서버 명령을 실행할 수 있는 심각한 보안 취약점 2건이 공개되면서 대규모 사이버 공격 가능성에 대한 경고가 나왔다.공격자가 관리자 계정이나 비밀번호를 확보하지 않고...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42401",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "코넬대, 전공 불문 ‘일상 속 AI’ 수업 개설…2027년 봄학기 시작",
-      "desc": "인공지능(AI)이 공부와 업무는 물론 일상적인 의사결정까지 바꾸는 가운데, 미국 코넬대학교(Cornell University)가 전공과 기술 배경에 관계없이 누구나 AI를 효과적으로 활용하는 방법을 배울 수 있는 교과목을 개설한다.AI 기술 자체를 개발하는 전문 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42382",
+      "title": "인간·AI 협연으로 음악의 새 지평...MIT, 연주자와 실시간 소통하는 '라이브 AI' 교향곡 첫 공개",
+      "desc": "인공지능(AI)이 오케스트라 연주자의 소리를 실시간으로 분석하고 새로운 음악적 표현을 만들어내며 인간 연주자와 상호작용하는 교향곡이 세계 최초로 공개된다. 미리 정해진 악보를 연주하는 전통적인 오케스트라에 AI의 실시간 반응과 창의적 변주를 결합해 인간과 기계가 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42400",
       "source": "AI Times"
     }
   ]
