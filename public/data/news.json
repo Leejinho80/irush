@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-10-25T00:55:31.885Z",
+  "lastUpdated": "2026-10-26T01:03:25.400Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "유럽 공공 부문서 힘 받는 매트릭스 프로토콜, 팀즈 대체는 또 다른 문제",
+      "desc": "매트릭스 기반 메시징 도구가 민감한 통신 데이터에 대한 통제력을 높이고 미국 기술 공급업체 의존도를 줄이려는 유럽 각국 정부 사이에서 주목받고 있다.\n\n\n\n관심이 커지는 배경에는 지정학적 불확실성 속에서 유럽 전반에 번진 오픈소스 애플리케이션 도입 움직임이 있다....",
+      "link": "https://www.itworld.co.kr/article/4240062/%ec%9c%a0%eb%9f%bd-%ea%b3%b5%ea%b3%b5-%eb%b6%80%eb%ac%b8%ec%84%9c-%ed%9e%98-%eb%b0%9b%eb%8a%94-%eb%a7%a4%ed%8a%b8%eb%a6%ad%ec%8a%a4-%ed%94%84%eb%a1%9c%ed%86%a0%ec%bd%9c-%ed%8c%80%ec%a6%88-%eb%8c%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "구글, 절전에 돈을 건다…데이터센터 전력난 푸는 가상 발전소 전략",
+      "desc": "구글이 데이터센터 건설로 불거진 전력 공급 문제 일부에 해법을 내놓았다. 에너지 공급업체 볼터스(Voltus)와 1기가와트 규모 가상 발전소를 구축하는 계약을 체결했으며, 올해 앞서 맺은 100메가와트 규모 계약을 확대한 것이다.\n\n\n\n이 발전소는 전기를 직접 생...",
+      "link": "https://www.itworld.co.kr/article/4240042/%ea%b5%ac%ea%b8%80%ec%9d%80-%ec%9e%90%ec%82%ac-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%84%bc%ed%84%b0%ea%b0%80-%ec%a0%84%eb%a0%a5%ec%9d%84-%eb%8d%94-%eb%a7%8e%ec%9d%b4-%ec%82%ac%ec%9a%a9%ed%95%a0-%ec%88%98.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "오픈클로 창시자 “지난달 AI 토큰에 1000만 달러 썼다”",
+      "desc": "AI 디지털 비서 오픈클로는 사용자에게 필수 도구로 자리 잡으려 하지만, 창시자인 피터 스타인버거만큼 토큰을 아낌없이 쓴다면 사용자는 막대한 사용 요금을 감당해야 할 수도 있다.\n\n\n\n현재 오픈AI에서 일하는 스타인버거는 샌프란시스코에서 열린 클라우드플레어 커넥트...",
+      "link": "https://www.itworld.co.kr/article/4240034/%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c-%ec%b0%bd%ec%8b%9c%ec%9e%90-%ec%a7%80%eb%82%9c%eb%8b%ac-ai-%ed%86%a0%ed%81%b0%ec%97%90-1000%eb%a7%8c-%eb%8b%ac%eb%9f%ac-%ec%8d%bc%eb%8b%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "AI 사용자의 비판적 사고를 장려하는 7가지 방법",
       "desc": "기업에서 대규모 언어 모델(LLM)과 AI 에이전트를 업무에 사용하는 직원들이 늘어나고 있다. 에이전트를 통해 업무를 완료하고 LLM을 사용해 콘텐츠를 생성하고 바이브 코딩 툴로 애플리케이션을 개발하고 에이전트 오케스트레이션 플랫폼으로 워크플로우를 자동화한다.\n\n...",
       "link": "https://www.itworld.co.kr/article/4237514/ai-%ec%82%ac%ec%9a%a9%ec%9e%90%ec%9d%98-%eb%b9%84%ed%8c%90%ec%a0%81-%ec%82%ac%ea%b3%a0%eb%a5%bc-%ec%9e%a5%eb%a0%a4%ed%95%98%eb%8a%94-7%ea%b0%80%ec%a7%80-%eb%b0%a9%eb%b2%95.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "인터넷 절반이 쓰는 PHP서 치명적 취약점 2건 발견…AI가 공격 속도 앞당겼다",
       "desc": "어느 정도 나이가 있는 독자라면 PHP라는 이름에서 1990년대 초기 웹 개발의 기억이 떠오를 것이다. 이후 수십 년간 이 스크립트 언어는 워드프레스 같은 인기 플랫폼에서 사용되며 웹 사이트 전면이 아닌 무대 뒤에서 묵묵히 돌아갔다. 그런데 이번 주 ‘치명적’ 등...",
       "link": "https://www.itworld.co.kr/article/4239388/%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%a0%88%eb%b0%98%ec%9d%b4-%ec%93%b0%eb%8a%94-php%ec%84%9c-%ec%b9%98%eb%aa%85%ec%a0%81-%ec%b7%a8%ec%95%bd%ec%a0%90-2%ea%b1%b4-%eb%b0%9c%ea%b2%acai%ea%b0%80.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "이제 오래된 코드를 모두 다시 써야 할 때",
-      "desc": "규모가 어느정도 되는 필자의 첫 소프트웨어 프로젝트는(적어도 그때는 규모가 크다고 생각했음) 1970년대 중반, 오래된 신문에 소개된 텍스트 기반의 유명한 스타트렉 게임을 “어쨌든 휴대가 가능한” IBM 5100 컴퓨터로 이식하는 작업이었다. 심장 전문의였던 필자...",
-      "link": "https://www.itworld.co.kr/article/4239373/%ec%9d%b4%ec%a0%9c-%ec%98%a4%eb%9e%98%eb%90%9c-%ec%bd%94%eb%93%9c%eb%a5%bc-%eb%aa%a8%eb%91%90-%eb%8b%a4%ec%8b%9c-%ec%8d%a8%ec%95%bc-%ed%95%a0-%eb%95%8c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "몸값 높이려면 AI부터…2026년 IT 채용의 새로운 기준",
-      "desc": "기업이 IT 이력서를 보는 눈이 까다로워지고 있지만, 적합한 역량을 둘러싼 경쟁은 여전히 치열하다. 기업은 경력과 고급 AI 역량에 프리미엄을 지불할 방침이다.\n\n\n\n글로벌 인력 서비스 기업 맨파워그룹(ManpowerGroup)의 북미 지역 총괄 사장 게르 도일은...",
-      "link": "https://www.itworld.co.kr/article/4238852/%eb%aa%b8%ea%b0%92-%eb%86%92%ec%9d%b4%eb%a0%a4%eb%a9%b4-ai%eb%b6%80%ed%84%b0-2026%eb%85%84-it-%ec%b1%84%ec%9a%a9%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ea%b8%b0%ec%a4%80.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "의료 기기의 암호는 누가 바꾸나?…양자내성 암호 전환의 발목 잡는 OT 기기",
-      "desc": "양자내성암호(PQC)는 보안 리더에게 다양한 과제를 안기지만, 사물인터넷과 OT 기기에 의존하는 업종의 CISO는 양자 대비 과정에서 특히 험난한 길을 걸을 수 있으며, 수년간 기밀로 유지해야 하는 민감 정보가 기기를 거쳐 전송된다면 더욱 그렇다.\n\n\n\n사이버 보...",
-      "link": "https://www.itworld.co.kr/article/4238842/%ec%9d%98%eb%a3%8c-%ea%b8%b0%ea%b8%b0%ec%9d%98-%ec%95%94%ed%98%b8%eb%8a%94-%eb%88%84%ea%b0%80-%eb%b0%94%ea%be%b8%eb%82%98-%ec%96%91%ec%9e%90%eb%82%b4%ec%84%b1-%ec%95%94%ed%98%b8-%ec%a0%84%ed%99%98.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "오픈AI, “AI 안전성, 기업 혼자서는 확보 못 한다”…폴란드와 공동 검증체계 구축",
-      "desc": "인공지능(AI)이 고도화되면서 AI 안전성 확보가 개별 기업의 내부 검증을 넘어 국가 연구기관과의 공동 검증체계로 확대되고 있다. 특히 AI 에이전트의 자율성이 높아지고 사이버보안 위험이 복잡해지는 가운데, 첨단 AI 개발기업과 공공 연구기관의 협력이 새로운 안전...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42418",
+      "title": "뇌성마비 아동, AI로 집에서 손 재활했더니 기능 개선…임상서 효과 확인",
+      "desc": "인공지능(AI)이 아동의 손 움직임을 실시간으로 인식하고 게임을 통해 반복 훈련을 유도하는 가정용 디지털 재활 기술이 뇌성마비 아동의 손 기능 개선에 도움이 될 수 있다는 임상 연구 결과가 나왔다.별도의 동작 인식 센서 없이 카메라만으로 재활 훈련을 진행하면서도 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42426",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "서울시설공단, 1만1천여 건 공사감독 경험 AI로 구현…건설현장 안전관리 지원",
-      "desc": "서울시설공단이 26년간 축적한 1만1,835건의 공사감독 경험을 인공지능(AI) 기반 업무지원 플랫폼으로 구현했다. 공사 진행 단계별 행정절차와 안전관리 기준을 안내하고 서류 오류를 사전에 점검해, 전문인력이 부족한 소규모 건설현장의 업무 부담을 줄이는 것이 핵심...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42417",
+      "title": "중국 AI 반도체 플랫폼 '쿤룬신', 미니맥스 신모델 ‘M3.1 플래시’ 즉시 구동 성공",
+      "desc": "바이두(Baidu)의 인공지능(AI) 반도체 및 아키텍처 부문을 기반으로 하는 중국 AI 반도체 기업 쿤룬신(Kunlunxin)이 자국 AI 기업 미니맥스(MiniMax)의 최신 대형언어모델(LLM)을 공개 당일 자사 AI 가속기 플랫폼에서 구동하는 데 성공했다....",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42425",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "캐나다, AI 산업화에 7억 달러 투입…의료·에너지·농업·로봇 등 5대 산업 집중 육성",
-      "desc": "캐나다 정부가 인공지능(AI) 기술의 산업 현장 도입과 자국 AI 기업의 상용화를 촉진하기 위해 총 7억 캐나다달러(CAD. 약 6600억원) 규모의 지원사업을 확대한다. 특히 의료·생명과학, 에너지·천연자원, 교통, 농업, 제조·로봇 등 5대 전략 산업을 중심으...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42416",
+      "title": "\"AI, 지하 4km 광산에서도 45초 만에 결핵 선별한다\"...구글, 의료 AI로 글로벌 진단 격차 줄여",
+      "desc": "전문의가 부족한 아프리카 오지와 지하 4km 광산에서도 인공지능(AI)이 수십 초 만에 흉부 엑스레이 영상을 분석해 결핵 의심 환자를 찾아내는 시대가 열리고 있다. 구글이 의료영상 AI를 실제 진료현장에 적용하는 데 성공한 데 이어, 오픈소스 기반 의료 파운데이션...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42424",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "일본, 국가 차원 'AI 대전환' 본격화…2030년 미래 청사진 연내 수립",
-      "desc": "일본 정부가 인공지능(AI)을 국가 성장전략의 핵심 동력으로 삼고, 행정과 산업, 국민 생활 전반을 혁신하는 대규모 인공지능 전환(AX)에 본격적으로 착수했다.특히 피지컬 AI(Physical AI)와 AI 로봇, 자율주행을 전략 분야로 육성하고, 2030년까지 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42415",
+      "title": "오픈AI, 데이터 분석도 AI에 맡긴다…보고서 작성부터 이상 징후 탐지까지 자동화",
+      "desc": "오픈AI(OpenAI)가 기업 데이터 분석팀을 대상으로 인공지능(AI)을 활용해 데이터 검증부터 보고서 작성, 업무 공유, 반복 작업까지 수행하는 실무 교육 콘텐츠를 공개했다. AI를 단순한 질문·답변 도구가 아닌 기업의 데이터 분석 업무를 수행하는 실행형 도구로...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42423",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "휴리엇로보틱스·한국호쿠쇼, 물류자동화 협력…이동로봇과 물류설비 통합 추진",
-      "desc": "물류센터와 제조현장에서 고정식 자동화 설비와 자율이동로봇을 연계하는 통합 물류자동화 사업이 추진된다. 화물의 이송과 보관, 분류 공정을 하나의 시스템으로 연결해 현장별 자동화 수요에 대응한다는 구상이다.풀스택 로봇 플랫폼 기업 휴리엇로보틱스(대표 노규찬)는 일본 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42414",
+      "title": "의료 AI는 누구의 가치관을 따르나…AI 모델마다 다른 윤리적 판단 주목",
+      "desc": "의료 인공지능(AI)이 의사와 환자의 의사결정을 지원하는 시대에 접어들면서, AI가 어떤 윤리적 가치관을 바탕으로 판단하는지 확인해야 한다는 문제가 제기됐다. 같은 의료 상황에서도 AI 모델마다 환자의 자율성과 치료 효과, 공정성 등에 부여하는 중요도가 달라 서로...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42421",
       "source": "AI Times"
     }
   ]
