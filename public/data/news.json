@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-10-29T02:13:58.897Z",
+  "lastUpdated": "2026-10-30T02:27:28.047Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "회복탄력성을 갖춘 AI 오케스트레이션 플랫폼의 6가지 조건",
+      "desc": "다수의 기업이 AI 에이전트 도입 초기 단계에 있지만, 향후 1년 안에 더 많은 기업이 에이전트와 어시스턴트 규모를 확대할 것이라는 조사 결과가 나왔다. 2026년 8월 발표된 보고서에 따르면 기업의 66%가 향후 12개월 내 디지털 워커에 투자할 가능성이 높다....",
+      "link": "https://www.itworld.co.kr/article/4242324/%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1%ec%9d%84-%ea%b0%96%ec%b6%98-ai-%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ec%85%98-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9d%98-6%ea%b0%80%ec%a7%80.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "AI 에이전트에 필요한 것은 기억이 아닌 ‘신뢰할 수 있는 상태’",
+      "desc": "대부분의 경우 AI 에이전트를 구축하는 팀이 주력하는 요소는 더 우수한 메모리(기억력), 더 긴 컨텍스트 윈도우, 대화 요약, 그리고 에이전트가 과거에 본 모든 정보를 불러오는 검색 시스템 구축이다. 이러한 요소는 물론 유용하다. 그러나 어떤 작업이 실제로 완료됐...",
+      "link": "https://www.itworld.co.kr/article/4240052/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%97%90-%ed%95%84%ec%9a%94%ed%95%9c-%ea%b2%83%ec%9d%80-%ea%b8%b0%ec%96%b5%ec%9d%b4-%ec%95%84%eb%8b%8c-%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "모델 라우팅으로 추론 비용 줄인다…데이터브릭스·MS·엔비디아·스노우플레이크 앞다퉈 도입",
+      "desc": "코딩을 비롯한 여러 작업에 프론티어 모델을 사용하면 비용이 많이 발생할 수 있지만 경우에 따라서는 그만큼 매우 효과적이기도 하다. 프론티어 모델보다 더 저렴한, 비교적 작은 모델이나 오래된 모델을 사용하고 싶은 생각이 들지만 이런 모델은 값이 싼 만큼 프론티어 모...",
+      "link": "https://www.itworld.co.kr/article/4242263/%eb%aa%a8%eb%8d%b8-%eb%9d%bc%ec%9a%b0%ed%8c%85%ec%9c%bc%eb%a1%9c-%ec%b6%94%eb%a1%a0-%eb%b9%84%ec%9a%a9-%ec%a4%84%ec%9d%b8%eb%8b%a4%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b8%8c%eb%a6%ad%ec%8a%a4%c2%b7.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "안티그래비티 2 사용기 : IDE 없는 간편한 에이전트 채팅",
+      "desc": "안티그래비티 첫 버전은 기본적으로 구글의 생성형 AI 모델과 통합된 IDE였다. 안티그래비티 2에서 구글은 에이전트를 위한 “독립형 데스크톱 명령 센터“라는 개념으로 제품을 새롭게 개편했다.\n\n\n\n안티그래비티 2는 종합적인 IDE보다는 LM 스튜디오(LM Stud...",
+      "link": "https://www.itworld.co.kr/article/4242257/%ec%95%88%ed%8b%b0%ea%b7%b8%eb%9e%98%eb%b9%84%ed%8b%b0-2-%ec%82%ac%ec%9a%a9%ea%b8%b0-ide-%ec%97%86%eb%8a%94-%ea%b0%84%ed%8e%b8%ed%95%9c-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%b1%84%ed%8c%85.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "퇴직 제안으로 속도를 내는 마이크로소프트의 인력 감축…AI 개발 팀까지 포함",
       "desc": "마이크로소프트가 AI 투자 재원을 마련할 방안을 모색하는 가운데, 코파일럿을 비롯한 AI 제품 개발 팀 직원을 포함해 전체 인력의 약 27%인 약 6만 명에게 자발적 퇴직 보상안을 제시했다.\n\n\n\n마이크로소프트 수석 부사장 겸 최고 인사 책임자 에이미 콜먼은 월요...",
       "link": "https://www.itworld.co.kr/article/4241438/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%eb%b0%8f-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-%ed%8c%80-%ec%a7%81%ec%9b%90%ec%9d%84-%ed%8f%ac%ed%95%a8%ed%95%9c-%ec%88%98%ec%b2%9c.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "클라우드 토큰 비용 부담에 PC로 옮겨가는 AI 작업",
-      "desc": "AI 비용이 불어나면서 기업이 토큰 비용 절감에 나서고 있다. 해법은 더 많은 AI 작업을 PC로 옮기는 것이다.\n\n\n\nPC가 클라우드를 대체하지는 못한다. 초기 단계의 AI 작업은 PC에서 처리하고, 현재 PC로는 감당하기 어려운 고난도 작업은 클라우드로 넘기는...",
-      "link": "https://www.itworld.co.kr/article/4241424/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ed%86%a0%ed%81%b0-%eb%b9%84%ec%9a%a9-%eb%b6%80%eb%8b%b4%ec%97%90-pc%eb%a1%9c-%ec%98%ae%ea%b2%a8%ea%b0%80%eb%8a%94-ai-%ec%9e%91%ec%97%85.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "28개 시장 출시 앞두고 시험대 오른 애플의 폴더블 대응",
-      "desc": "애플이 일반적인 사용 중 아이폰 듀오 디스플레이가 손상됐다는 최근 제보에 입장을 내놨다. 애플은 문제를 인지하고 있으며, 소수의 사용자 중 문제를 겪은 경우 애플케어에 연락해 교체를 받으라고 안내했다.\n\n\n\n애플, 문제를 인정하다\n\n\n\n소셜미디어의 검증되지 않은 ...",
-      "link": "https://www.itworld.co.kr/article/4241417/28%ea%b0%9c-%ec%8b%9c%ec%9e%a5-%ec%b6%9c%ec%8b%9c-%ec%95%9e%eb%91%90%ea%b3%a0-%ec%8b%9c%ed%97%98%eb%8c%80-%ec%98%a4%eb%a5%b8-%ec%95%a0%ed%94%8c%ec%9d%98-%ed%8f%b4%eb%8d%94%eb%b8%94-%eb%8c%80%ec%9d%91.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "“AI 시대 보안은 속도 싸움” 쿤텍, 가시화·탐지·대응 시간 단축 전략 공개",
-      "desc": "AI 에이전트가 기업 업무 깊숙이 들어오면서 보안의 초점이 ‘악성코드 차단’에서 ‘AI의 행동 통제’로 옮겨가고 있다. 정상적인 계정과 권한, API(응용프로그램 인터페이스)를 쓰면서도 의도하지 않은 행동을 하는 AI 에이전트는 기존 보안 체계의 사각지대로 지적된...",
-      "link": "https://www.itworld.co.kr/article/4240701/ai-%ec%8b%9c%eb%8c%80-%eb%b3%b4%ec%95%88%ec%9d%80-%ec%86%8d%eb%8f%84-%ec%8b%b8%ec%9b%80-%ec%bf%a4%ed%85%8d-%ea%b0%80%ec%8b%9c%ed%99%94%c2%b7%ed%83%90%ec%a7%80%c2%b7%eb%8c%80.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "“게임은 라이선스가 아닌 소유물” 사용자 권리 회복을 겨냥한 입법 시도",
-      "desc": "뉴욕 15선거구 출신 미국 하원의원 리치 토레스가 이번 달 사용자가 구매한 게임의 소유권을 보장하는 법안을 제안해 화제를 모으고 있다. 현재는 언제든 회수될 수 있는 게임 플레이 라이선스를 판매하는 관행이 일반적이다.\n\n\n\n토레스는 파워 투 더 플레이어스 법안(P...",
-      "link": "https://www.itworld.co.kr/article/4240113/%ea%b2%8c%ec%9e%84%ec%9d%80-%eb%9d%bc%ec%9d%b4%ec%84%a0%ec%8a%a4%ea%b0%80-%ec%95%84%eb%8b%8c-%ec%86%8c%ec%9c%a0%eb%ac%bc-%ec%82%ac%ec%9a%a9%ec%9e%90-%ea%b6%8c%eb%a6%ac-%ed%9a%8c%eb%b3%b5%ec%9d%84.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "“구글 미쳤다”…2주 만에 또 최강 AI 공개, 지능지수 59점 세계 1위 '제미나이 4 카본' 출시",
-      "desc": "글로벌 인공지능(AI) 경쟁이 모델의 추론 성능을 넘어 소프트웨어 개발과 사이버보안, 장시간 자율적으로 업무를 수행하는 에이전틱 AI 영역으로 확대되고 있다. 특히 AI가 복잡한 소프트웨어의 취약점을 스스로 찾아내고, 실제 악용 가능성을 검증한 뒤 수정 코드까지 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42480",
+      "title": "중국 애지봇, 로봇의 실제 노동량 측정하는 새 지표 제안…피지컬 AI 모델·하드웨어 공개",
+      "desc": "중국 휴머노이드 로봇 기업 애지봇(AGIBOT)이 로봇의 생산 대수나 보급 규모가 아닌 실제 산업 현장에서 수행한 작업량을 측정하는 새로운 생산성 지표를 제안했다. 피지컬 AI(Physical AI)의 경쟁력을 로봇의 성능이나 판매량보다 자율 작업시간과 실제 생산...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42502",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "대동기어, 中 휴머노이드 관절 모듈 1위 이유와 합작법인 추진…2027년 액추에이터 출시·2029년 국내 양산",
-      "desc": "대동기어가 중국 휴머노이드 로봇 관절 모듈 시장의 선도기업과 협력해 로봇 핵심부품인 액추에이터 사업을 확대한다. 중국에서 제품 개발과 초기 양산 기술을 확보하고, 이를 2029년 국내 생산으로 연결해 기존 정밀 기어 제조사업을 로봇 구동부품 분야로 확장한다는 전략...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42479",
+      "title": "美 맥시모, 자율 AI 로봇 ‘맥스 4.0’ 태양광 건설 현장 30만건 작업 돌파…인력 생산성 2.5배 높였다",
+      "desc": "피지컬 인공지능(Physical AI) 기술이 대규모 태양광 발전소 건설 현장에서 상용화 성과를 확대하고 있다. 자율 로봇이 무거운 태양광 패널을 정밀하게 설치하고, 작업자와 협력해 생산성을 높이면서 건설 산업의 인력 부족과 작업 효율 문제를 해결할 새로운 수단으...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42501",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "AI가 연 삼성전자의 새 역사…글로벌 테크 기업 최초 분기 영업이익 100조원 돌파",
-      "desc": "글로벌 인공지능(AI) 인프라 투자가 확대되고 에이전틱 AI(Agentic AI) 도입이 가속화하면서 고대역폭메모리(HBM)와 서버용 반도체 수요가 급증하고 있다. AI 모델의 학습뿐 아니라 추론과 자율적인 업무 수행을 위한 컴퓨팅 인프라가 확대되면서 고성능 메모...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42478",
+      "title": "英 기업 AI 도입률 1년 만에 두 배, 32%가 활용하지만 업무 혁신 이룬 기업은 소수",
+      "desc": "영국 기업의 인공지능 도입률이 1년 만에 두 배로 증가하며 AI 활용이 산업 전반으로 빠르게 확산되고 있다. 그러나 실제 생산성 개선과 비용 절감 효과는 제한적이며, AI를 핵심 업무에 깊이 통합한 기업은 극히 일부에 불과한 것으로 나타났다. AI 도입 속도와 실...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42499",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "“말로 지시하면 로봇이 움직인다”…휴리엇로보틱스·다이퀘스트, 음성 AI 결합한 제조 현장 구축",
-      "desc": "제조 현장에서 작업자가 음성으로 업무를 지시하면 인공지능(AI)이 명령을 이해하고 로봇이 실제 작업을 수행하는 피지컬 AI(Physical AI) 기반 제조 환경 구축이 추진된다. 로봇을 개별적으로 조작하는 방식에서 벗어나 자연어로 작업을 지시하고 현장 상황에 대...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42477",
+      "title": "캐나다, 국가 AI 주권 확보에 승부수...코히어에 최대 1.5조원 지분 투자",
+      "desc": "캐나다 정부가 국가 차원의 인공지능(AI) 기술 개발 역량을 확보하고 데이터·컴퓨팅 인프라에 대한 통제권을 강화하기 위해 자국 AI 기업 코히어(Cohere)에 최대 16억 캐나다달러(CAD, 약 1.5조원) 규모의 지분 투자를 추진한다고 29일(현지시간) 발표했...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42498",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "SK AX, AI로 1800명 면접 평가 6시간 만에 완료…채용도 실무역량 중심으로 바꾼다",
-      "desc": "SK AX가 인공지능(AI)을 활용해 1800여 명의 지원자 역량을 단 6시간 만에 평가하는 채용 솔루션을 선보였다. 지원자의 답변 결과뿐 아니라 AI를 활용해 문제를 해결하는 과정까지 분석해 기업의 인재 선발을 지원하는 것이 핵심이다.SK AX(사장 김완종)는 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42476",
+      "title": "AI 의료기기 국제표준 선점 나선다…한국AI의료헬스케어연구원, 기업 주도 표준 개발 확대",
+      "desc": "인공지능 의료기기와 자율형 의료로봇의 기술 발전에 대응해 국내 기업이 국제표준 개발에 직접 참여할 수 있도록 지원하는 협력체계가 확대된다. 특히 AI 의료기기의 신뢰성과 의료로봇의 자율성 수준, 의료기기 소프트웨어의 안전성 확보가 국제표준화의 주요 과제로 부상하고...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42497",
       "source": "AI Times"
     }
   ]
