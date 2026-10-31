@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T02:27:28.047Z",
+  "lastUpdated": "2026-10-31T02:08:37.150Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "중국 애지봇, 로봇의 실제 노동량 측정하는 새 지표 제안…피지컬 AI 모델·하드웨어 공개",
-      "desc": "중국 휴머노이드 로봇 기업 애지봇(AGIBOT)이 로봇의 생산 대수나 보급 규모가 아닌 실제 산업 현장에서 수행한 작업량을 측정하는 새로운 생산성 지표를 제안했다. 피지컬 AI(Physical AI)의 경쟁력을 로봇의 성능이나 판매량보다 자율 작업시간과 실제 생산...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42502",
+      "title": "문어처럼 색 바꾸는 AI 위장 기술, 사람 눈·AI 탐지기 동시 교란…칭화대, 0.4초 환경 적응 구현",
+      "desc": "중국 칭화대학교(Tsinghua University) 연구진이 문어와 오징어의 위장 능력을 모방해 사람의 눈과 인공지능(AI) 객체 탐지 시스템의 인식을 동시에 어렵게 만드는 동적 위장 기술을 개발했다. 주변 환경을 카메라로 분석하고 AI가 위장 패턴을 생성한 뒤...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42516",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "美 맥시모, 자율 AI 로봇 ‘맥스 4.0’ 태양광 건설 현장 30만건 작업 돌파…인력 생산성 2.5배 높였다",
-      "desc": "피지컬 인공지능(Physical AI) 기술이 대규모 태양광 발전소 건설 현장에서 상용화 성과를 확대하고 있다. 자율 로봇이 무거운 태양광 패널을 정밀하게 설치하고, 작업자와 협력해 생산성을 높이면서 건설 산업의 인력 부족과 작업 효율 문제를 해결할 새로운 수단으...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42501",
+      "title": "오픈AI, AI 행동 원칙 전면 개편…지시 따르는 AI 넘어 인간 의도 이해하는 AI로",
+      "desc": "오픈AI(OpenAI)가 인공지능(AI) 모델의 행동 기준을 규정하는 '모델 스펙(Model Spec)'을 전면 개편했다. AI가 사용자의 지시를 문자 그대로 수행하는 수준을 넘어 인간의 의도와 가치, 대화 맥락을 이해하고 예상하지 못한 상황에서도 적절하게 판단하...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42515",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "英 기업 AI 도입률 1년 만에 두 배, 32%가 활용하지만 업무 혁신 이룬 기업은 소수",
-      "desc": "영국 기업의 인공지능 도입률이 1년 만에 두 배로 증가하며 AI 활용이 산업 전반으로 빠르게 확산되고 있다. 그러나 실제 생산성 개선과 비용 절감 효과는 제한적이며, AI를 핵심 업무에 깊이 통합한 기업은 극히 일부에 불과한 것으로 나타났다. AI 도입 속도와 실...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42499",
+      "title": "WHO 유럽 53개국, 의료 AI 공동 로드맵 만장일치 채택…2033년까지 안전한 의료 AI 도입 추진",
+      "desc": "세계보건기구(WHO) 유럽지역 53개 회원국이 의료 분야 인공지능(AI)의 안전한 도입과 활용을 위한 첫 공동 행동 로드맵을 만장일치로 채택했다. 2033년까지 의료 AI의 안전성과 윤리, 데이터 관리, 의료진 역량 강화에 관한 공동 정책 방향을 마련하고 국가별 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42513",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "캐나다, 국가 AI 주권 확보에 승부수...코히어에 최대 1.5조원 지분 투자",
-      "desc": "캐나다 정부가 국가 차원의 인공지능(AI) 기술 개발 역량을 확보하고 데이터·컴퓨팅 인프라에 대한 통제권을 강화하기 위해 자국 AI 기업 코히어(Cohere)에 최대 16억 캐나다달러(CAD, 약 1.5조원) 규모의 지분 투자를 추진한다고 29일(현지시간) 발표했...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42498",
+      "title": "레딧 허프먼 CEO, “구글 AI 검색은 방문자를 보내지 않는다”…검색 유입 감소에 공개 비판",
+      "desc": "구글의 인공지능(AI) 검색이 이용자에게 직접 답변을 제공하면서 외부 웹사이트로 연결되는 방문자 유입이 감소하고 있다는 비판이 글로벌 콘텐츠 플랫폼 최고경영자(CEO)에게서 제기됐다. 검색엔진이 인터넷 콘텐츠로 이용자를 안내하는 기존 역할에서 벗어나 정보를 직접 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42512",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "AI 의료기기 국제표준 선점 나선다…한국AI의료헬스케어연구원, 기업 주도 표준 개발 확대",
-      "desc": "인공지능 의료기기와 자율형 의료로봇의 기술 발전에 대응해 국내 기업이 국제표준 개발에 직접 참여할 수 있도록 지원하는 협력체계가 확대된다. 특히 AI 의료기기의 신뢰성과 의료로봇의 자율성 수준, 의료기기 소프트웨어의 안전성 확보가 국제표준화의 주요 과제로 부상하고...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42497",
+      "title": "아마존 앤디 재시 CEO, “AWS, 향후 2년간 40% 이상 성장”…AI 인프라 투자 성과 본격화",
+      "desc": "아마존의 클라우드 사업이 인공지능 인프라 수요 확대에 힘입어 최근 5년 사이 가장 빠른 성장세를 기록했다. 앤디 재시(Andy Jassy) 아마존 CEO는 아마존웹서비스(Amazon Web Services, AWS)의 매출 성장률이 2027년과 2028년에도 각각...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42511",
       "source": "AI Times"
     }
   ]
