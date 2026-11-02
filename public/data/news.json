@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-11-01T01:59:42.295Z",
+  "lastUpdated": "2026-11-02T02:12:13.575Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "같은 질문인데 요금은 몇 배…AI 모델의 언어별 비용 격차",
+      "desc": "언어 평등 AI 연구 연합(Coalition for Language Equity in AI Research)이 발표한 새 연구에 따르면, AI 모델이 특정 언어를 처리할 때 다른 언어보다 훨씬 많은 토큰이 필요한 것으로 나타났다. 레스트 오브 월드(Rest of ...",
+      "link": "https://www.itworld.co.kr/article/4243015/%eb%8d%9c-%ed%9d%94%ed%95%9c-%ec%96%b8%ec%96%b4%ec%9d%98-%ea%b2%bd%ec%9a%b0-ai-%eb%aa%a8%eb%8d%b8-%eb%b9%84%ec%9a%a9%ec%9d%b4-%ed%9b%a8%ec%94%ac-%eb%8d%94-%eb%b9%84%ec%8b%b8%eb%8b%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "애플, 프로LED XDR 디스플레이 탑재 맥북 프로 공개…터치스크린·탠덤 OLED로 고급형 라인 확대",
+      "desc": "애플이 지난주 수요일, 맥북 라인업 최상위에 새로 추가되는 고급 모델인 프로LED XDR 디스플레이 탑재 맥북 프로를 발표했다. 14인치와 16인치 두 가지 모델로 출시되며, 기본 가격은 각각 479만원, 559만원부터 시작한다. OLED가 아닌 동급 모델보다 더...",
+      "link": "https://www.itworld.co.kr/article/4242999/%ec%95%a0%ed%94%8c-%ed%94%84%eb%a1%9cled-xdr-%eb%94%94%ec%8a%a4%ed%94%8c%eb%a0%88%ec%9d%b4-%ed%83%91%ec%9e%ac-%eb%a7%a5%eb%b6%81-%ed%94%84%eb%a1%9c-%ea%b3%b5%ea%b0%9c%ed%84%b0%ec%b9%98.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
       "title": "회복탄력성을 갖춘 AI 오케스트레이션 플랫폼의 6가지 조건",
       "desc": "다수의 기업이 AI 에이전트 도입 초기 단계에 있지만, 향후 1년 안에 더 많은 기업이 에이전트와 어시스턴트 규모를 확대할 것이라는 조사 결과가 나왔다. 2026년 8월 발표된 보고서에 따르면 기업의 66%가 향후 12개월 내 디지털 워커에 투자할 가능성이 높다....",
       "link": "https://www.itworld.co.kr/article/4242324/%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1%ec%9d%84-%ea%b0%96%ec%b6%98-ai-%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ec%85%98-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9d%98-6%ea%b0%80%ec%a7%80.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "04",
       "title": "AI 에이전트에 필요한 것은 기억이 아닌 ‘신뢰할 수 있는 상태’",
       "desc": "대부분의 경우 AI 에이전트를 구축하는 팀이 주력하는 요소는 더 우수한 메모리(기억력), 더 긴 컨텍스트 윈도우, 대화 요약, 그리고 에이전트가 과거에 본 모든 정보를 불러오는 검색 시스템 구축이다. 이러한 요소는 물론 유용하다. 그러나 어떤 작업이 실제로 완료됐...",
       "link": "https://www.itworld.co.kr/article/4240052/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%97%90-%ed%95%84%ec%9a%94%ed%95%9c-%ea%b2%83%ec%9d%80-%ea%b8%b0%ec%96%b5%ec%9d%b4-%ec%95%84%eb%8b%8c-%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "05",
       "title": "모델 라우팅으로 추론 비용 줄인다…데이터브릭스·MS·엔비디아·스노우플레이크 앞다퉈 도입",
       "desc": "코딩을 비롯한 여러 작업에 프론티어 모델을 사용하면 비용이 많이 발생할 수 있지만 경우에 따라서는 그만큼 매우 효과적이기도 하다. 프론티어 모델보다 더 저렴한, 비교적 작은 모델이나 오래된 모델을 사용하고 싶은 생각이 들지만 이런 모델은 값이 싼 만큼 프론티어 모...",
       "link": "https://www.itworld.co.kr/article/4242263/%eb%aa%a8%eb%8d%b8-%eb%9d%bc%ec%9a%b0%ed%8c%85%ec%9c%bc%eb%a1%9c-%ec%b6%94%eb%a1%a0-%eb%b9%84%ec%9a%a9-%ec%a4%84%ec%9d%b8%eb%8b%a4%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b8%8c%eb%a6%ad%ec%8a%a4%c2%b7.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
-      "title": "안티그래비티 2 사용기 : IDE 없는 간편한 에이전트 채팅",
-      "desc": "안티그래비티 첫 버전은 기본적으로 구글의 생성형 AI 모델과 통합된 IDE였다. 안티그래비티 2에서 구글은 에이전트를 위한 “독립형 데스크톱 명령 센터“라는 개념으로 제품을 새롭게 개편했다.\n\n\n\n안티그래비티 2는 종합적인 IDE보다는 LM 스튜디오(LM Stud...",
-      "link": "https://www.itworld.co.kr/article/4242257/%ec%95%88%ed%8b%b0%ea%b7%b8%eb%9e%98%eb%b9%84%ed%8b%b0-2-%ec%82%ac%ec%9a%a9%ea%b8%b0-ide-%ec%97%86%eb%8a%94-%ea%b0%84%ed%8e%b8%ed%95%9c-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%b1%84%ed%8c%85.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "퇴직 제안으로 속도를 내는 마이크로소프트의 인력 감축…AI 개발 팀까지 포함",
-      "desc": "마이크로소프트가 AI 투자 재원을 마련할 방안을 모색하는 가운데, 코파일럿을 비롯한 AI 제품 개발 팀 직원을 포함해 전체 인력의 약 27%인 약 6만 명에게 자발적 퇴직 보상안을 제시했다.\n\n\n\n마이크로소프트 수석 부사장 겸 최고 인사 책임자 에이미 콜먼은 월요...",
-      "link": "https://www.itworld.co.kr/article/4241438/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%eb%b0%8f-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-%ed%8c%80-%ec%a7%81%ec%9b%90%ec%9d%84-%ed%8f%ac%ed%95%a8%ed%95%9c-%ec%88%98%ec%b2%9c.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "변호사, AI 활용률 55%로 급증했지만 “AI 때문에 업무 늘었다”",
-      "desc": "인공지능이 법률 업무에 빠르게 확산되고 있지만, 실제 업무 부담을 줄이거나 고객의 법률서비스 비용을 낮추는 효과는 기대에 미치지 못하고 있다는 조사 결과가 나왔다. 변호사들의 AI 활용률은 1년 만에 크게 높아진 반면, 고객이 AI로 생성한 부정확한 정보와 문서를...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42524",
+      "title": "에이수스, AI 에이전트 실행까지 처리하는 베라 기반 AI 서버 공개",
+      "desc": "인공지능(AI)이 질문에 답하는 단계를 넘어 코드를 실행하고 데이터를 처리하며 복잡한 작업을 수행하는 에이전틱 AI(Agentic AI)로 발전하면서, 이를 뒷받침하는 서버 인프라도 변화하고 있다. AI 모델의 추론 성능뿐 아니라 에이전트가 실제 작업을 수행하는 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42537",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "“AI 에이전트가 저지른 잘못도 기업 책임이다”…영국 규제기관 4곳, 자율 AI 법적 책임 명확화",
-      "desc": "AI 에이전트가 사람을 대신해 상품을 구매하고 금융서비스를 이용하는 시대가 다가오면서, AI의 자율적인 판단과 행동에 대한 기업의 법적 책임이 주요 규제 쟁점으로 떠오르고 있다. 영국의 4개 핵심 규제기관은 AI 에이전트가 스스로 결정을 내리고 업무를 수행하더라도...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42523",
+      "title": "네이버 최수연 대표, “산업 AI의 진짜 승부는 중소기업 확산”…지멘스와 피지컬 AI 협력 모색",
+      "desc": "산업용 인공지능(AI)의 경쟁력이 개별 대기업의 기술 도입을 넘어 중소기업과 협력사까지 얼마나 폭넓게 확산되느냐에 따라 결정될 것이라는 전망이 나왔다. 제조·에너지·모빌리티 등 물리적 산업 현장으로 AI 활용이 확대되는 가운데, 기술의 성능뿐 아니라 실제 업무 생...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42536",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "“AI 로봇에 후각까지 장착한다”…에이노스, 화학 데이터 30억 건 확보 '피지컬 AI 감각' 확장",
-      "desc": "AI가 카메라로 사물을 보고 마이크로 소리를 듣는 수준을 넘어, 공기 중 화학 성분과 냄새까지 감지하고 해석하는 기술로 진화하고 있다. 미국의 인공지능 센서 전문기업 에이노스(Ainos)가 실제 산업현장에서 수집한 화학 데이터 30억 건을 확보하면서, 피지컬 AI...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42522",
+      "title": "마이크로소프트 AI 최고책임자 술레이만, “의식 가진 초지능 만들지 말라”…의식 나타나면 AI 개발 중단 촉구",
+      "desc": "마이크로소프트(Microsoft)의 AI 부문 최고경영자 무스타파 술레이만(Mustafa Suleyman)이 의식을 가진 초지능 AI를 개발해서는 안 되며, AI 학습 과정에서 의식의 징후가 나타날 경우 이를 제거할 수 있을 때까지 개발을 중단해야 한다고 주장했다...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42535",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "“휴머노이드도 나스닥 간다”…애질리티 로보틱스, 4억6500만달러 조달 전망하며 상장 초읽기",
-      "desc": "미국 인공지능(AI) 휴머노이드 로봇 기업 애질리티 로보틱스(Agility Robotics)가 약 4억6500만달러 규모의 자금 조달을 예상하며 나스닥 상장을 눈앞에 두고 있다. 산업현장에서 실제 운영 실적을 확보한 휴머노이드 기업이 공개 자본시장에 진입을 추진하...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42521",
+      "title": "“자동차가 운전자와 대화한다”…중국 체리, LLM 기반 AI 비서·46.3인치 디지털 콕핏 공개",
+      "desc": "중국 자동차 제조업체 체리그룹(Chery Group)이 대형언어모델(LLM)을 기반으로 운전자와 자연스럽게 대화하고 차량 정보를 이해하는 인공지능(AI) 음성 비서를 공개했다. 약 1.2m에 달하는 초대형 디지털 디스플레이와 AI 기반 차량 인터페이스를 결합해 자...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42534",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "샘 올트먼, 삼성 사장단 50여 명과 전격 회동…AI가 바꿀 10년, 미래 경영 전략 논의",
-      "desc": "오픈AI(OpenAI)의 샘 올트먼(Sam Altman) 최고경영자(CEO)가 삼성전자를 비롯한 삼성 주요 관계사 사장단 50여 명과 만나 인공지능(AI)이 바꿀 산업 환경과 향후 10년의 경영 전략을 논의했다. 글로벌 AI 산업을 이끄는 오픈AI의 최고경영자와 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42520",
+      "title": "공무원 업무망에 AI 웹검색·보고서 작성 도입…정부, 행정업무 AI 전환 본격화",
+      "desc": "정부가 공무원의 자료 조사부터 보고서 작성까지 인공지능(AI)을 활용하는 행정업무 환경 구축에 속도를 낸다. 외부 인터넷망으로 이동하지 않고도 최신 정보를 검색할 수 있도록 업무망에 AI 웹검색 기능을 도입한 데 이어, 오는 12월에는 기존 행정자료를 활용해 한글...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42533",
       "source": "AI Times"
     }
   ]
