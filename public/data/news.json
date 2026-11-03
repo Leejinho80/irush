@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-11-02T02:12:13.575Z",
+  "lastUpdated": "2026-11-03T03:52:23.594Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "2027년을 견디는 보안 전략의 조건",
+      "desc": "올해 AI의 발전은 CISO에게 사이버 전략을 재고하라는 경종이 됐다. 보안 리더가 다가올 과제에 대응하기 위해 프로그램을 어떻게 발전시킬 계획인지 직접 밝혔다.\n\n\n\n신용정보 업체 에퀴팩스(Equifax)의 CISO 제러미 코펜은 대다수 보안 책임자가 직면한 역...",
+      "link": "https://www.itworld.co.kr/article/4243611/2027%eb%85%84%ea%b9%8c%ec%a7%80-%ec%a7%80%ec%86%8d%eb%90%a0-%eb%b3%b4%ec%95%88-%ec%a0%84%eb%9e%b5%ec%9d%80-%ec%96%b4%eb%96%a4-%eb%aa%a8%ec%8a%b5%ec%9d%bc%ea%b9%8c.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "AI 챗봇에 털어놓은 비밀의 행방",
+      "desc": "많은 사람이 챗봇과 나누는 대화가 비공개인 것처럼 이야기한다. 하지만 정말 그럴까?\n\n\n\n프라이버시 중심 검색 업체 덕덕고가 의뢰해 8월에 발표한 설문조사는 미국 성인 1,944명에게 챗봇 프라이버시에 대해 질문했다. 응답자의 절반 이상(53%)이 자신의 대화가 ...",
+      "link": "https://www.itworld.co.kr/article/4243596/ai-%ec%b1%97%eb%b4%87%ec%97%90-%ed%84%b8%ec%96%b4%eb%86%93%ec%9d%80-%eb%b9%84%eb%b0%80%ec%9d%98-%ed%96%89%eb%b0%a9.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "위험한 AI를 누가 멈출 것인가, 앤트로픽과 오픈AI의 서로 다른 해법",
+      "desc": "오픈AI와 앤트로픽이 프런티어 AI 시스템에 더 강한 감독이 필요하다는 데 의견을 같이했지만, 심각한 위험을 일으키는 모델을 멈추는 방식에서는 확연히 다른 접근법을 내놨다. 앤트로픽은 법원이 위험한 시스템을 중단시킬 수 있도록 하자는 입장이고, 오픈AI는 개발사가...",
+      "link": "https://www.itworld.co.kr/article/4243085/%ec%95%88%ed%8a%b8%eb%a1%9c%ed%94%bd%ea%b3%bc-%ec%98%a4%ed%94%88ai%eb%8a%94-%ec%9c%84%ed%97%98%ed%95%9c-ai%ec%9d%98-%ea%b0%80%eb%8f%99%ec%9d%84-%ec%a4%91%eb%8b%a8%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%a3%bc.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "앤트로픽 사칭한 피싱 초대장, 구글·마이크로소프트 계정 노린다",
+      "desc": "모두가 앤트로픽의 행보를 궁금해하는 상황을 해커들이 신나게 악용하고 있다.\n\n\n\n사이버보안 기업 코펜스(Cofense)의 신규 연구에 따르면, 한 피싱 캠페인이 앤트로픽의 초청 전용 비공개 프리뷰에 초대받았다고 믿게 만들어 성급한 기업 사용자를 끌어들이고 있다.\n...",
+      "link": "https://www.itworld.co.kr/article/4243058/%ea%b0%80%ec%a7%9c-%ec%95%88%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%eb%af%b8%eb%a6%ac%eb%b3%b4%ea%b8%b0%ea%b0%80-%ec%a7%80%eb%82%98%ec%b9%98%ea%b2%8c-%ec%97%b4%ec%84%b1%ec%a0%81%ec%9d%b8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "같은 질문인데 요금은 몇 배…AI 모델의 언어별 비용 격차",
       "desc": "언어 평등 AI 연구 연합(Coalition for Language Equity in AI Research)이 발표한 새 연구에 따르면, AI 모델이 특정 언어를 처리할 때 다른 언어보다 훨씬 많은 토큰이 필요한 것으로 나타났다. 레스트 오브 월드(Rest of ...",
       "link": "https://www.itworld.co.kr/article/4243015/%eb%8d%9c-%ed%9d%94%ed%95%9c-%ec%96%b8%ec%96%b4%ec%9d%98-%ea%b2%bd%ec%9a%b0-ai-%eb%aa%a8%eb%8d%b8-%eb%b9%84%ec%9a%a9%ec%9d%b4-%ed%9b%a8%ec%94%ac-%eb%8d%94-%eb%b9%84%ec%8b%b8%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "애플, 프로LED XDR 디스플레이 탑재 맥북 프로 공개…터치스크린·탠덤 OLED로 고급형 라인 확대",
-      "desc": "애플이 지난주 수요일, 맥북 라인업 최상위에 새로 추가되는 고급 모델인 프로LED XDR 디스플레이 탑재 맥북 프로를 발표했다. 14인치와 16인치 두 가지 모델로 출시되며, 기본 가격은 각각 479만원, 559만원부터 시작한다. OLED가 아닌 동급 모델보다 더...",
-      "link": "https://www.itworld.co.kr/article/4242999/%ec%95%a0%ed%94%8c-%ed%94%84%eb%a1%9cled-xdr-%eb%94%94%ec%8a%a4%ed%94%8c%eb%a0%88%ec%9d%b4-%ed%83%91%ec%9e%ac-%eb%a7%a5%eb%b6%81-%ed%94%84%eb%a1%9c-%ea%b3%b5%ea%b0%9c%ed%84%b0%ec%b9%98.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "회복탄력성을 갖춘 AI 오케스트레이션 플랫폼의 6가지 조건",
-      "desc": "다수의 기업이 AI 에이전트 도입 초기 단계에 있지만, 향후 1년 안에 더 많은 기업이 에이전트와 어시스턴트 규모를 확대할 것이라는 조사 결과가 나왔다. 2026년 8월 발표된 보고서에 따르면 기업의 66%가 향후 12개월 내 디지털 워커에 투자할 가능성이 높다....",
-      "link": "https://www.itworld.co.kr/article/4242324/%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1%ec%9d%84-%ea%b0%96%ec%b6%98-ai-%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ec%85%98-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9d%98-6%ea%b0%80%ec%a7%80.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "AI 에이전트에 필요한 것은 기억이 아닌 ‘신뢰할 수 있는 상태’",
-      "desc": "대부분의 경우 AI 에이전트를 구축하는 팀이 주력하는 요소는 더 우수한 메모리(기억력), 더 긴 컨텍스트 윈도우, 대화 요약, 그리고 에이전트가 과거에 본 모든 정보를 불러오는 검색 시스템 구축이다. 이러한 요소는 물론 유용하다. 그러나 어떤 작업이 실제로 완료됐...",
-      "link": "https://www.itworld.co.kr/article/4240052/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%97%90-%ed%95%84%ec%9a%94%ed%95%9c-%ea%b2%83%ec%9d%80-%ea%b8%b0%ec%96%b5%ec%9d%b4-%ec%95%84%eb%8b%8c-%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "모델 라우팅으로 추론 비용 줄인다…데이터브릭스·MS·엔비디아·스노우플레이크 앞다퉈 도입",
-      "desc": "코딩을 비롯한 여러 작업에 프론티어 모델을 사용하면 비용이 많이 발생할 수 있지만 경우에 따라서는 그만큼 매우 효과적이기도 하다. 프론티어 모델보다 더 저렴한, 비교적 작은 모델이나 오래된 모델을 사용하고 싶은 생각이 들지만 이런 모델은 값이 싼 만큼 프론티어 모...",
-      "link": "https://www.itworld.co.kr/article/4242263/%eb%aa%a8%eb%8d%b8-%eb%9d%bc%ec%9a%b0%ed%8c%85%ec%9c%bc%eb%a1%9c-%ec%b6%94%eb%a1%a0-%eb%b9%84%ec%9a%a9-%ec%a4%84%ec%9d%b8%eb%8b%a4%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b8%8c%eb%a6%ad%ec%8a%a4%c2%b7.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "에이수스, AI 에이전트 실행까지 처리하는 베라 기반 AI 서버 공개",
-      "desc": "인공지능(AI)이 질문에 답하는 단계를 넘어 코드를 실행하고 데이터를 처리하며 복잡한 작업을 수행하는 에이전틱 AI(Agentic AI)로 발전하면서, 이를 뒷받침하는 서버 인프라도 변화하고 있다. AI 모델의 추론 성능뿐 아니라 에이전트가 실제 작업을 수행하는 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42537",
+      "title": "앤트로픽, AI 인프라 지출 약정 8954억달러 공개…매출 12배 성장에도 비용 부담 급증",
+      "desc": "인공지능 기업 앤트로픽(Anthropic)이 약 8,954억달러(약 1,199조원)에 달하는 컴퓨팅 및 인프라 관련 계약상 지출 약정을 공개했다. AI 모델 ‘클로드(Claude)’의 기업 고객이 빠르게 증가하면서 분기 매출이 1년 만에 12배 이상 성장했지만, ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42561",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "네이버 최수연 대표, “산업 AI의 진짜 승부는 중소기업 확산”…지멘스와 피지컬 AI 협력 모색",
-      "desc": "산업용 인공지능(AI)의 경쟁력이 개별 대기업의 기술 도입을 넘어 중소기업과 협력사까지 얼마나 폭넓게 확산되느냐에 따라 결정될 것이라는 전망이 나왔다. 제조·에너지·모빌리티 등 물리적 산업 현장으로 AI 활용이 확대되는 가운데, 기술의 성능뿐 아니라 실제 업무 생...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42536",
+      "title": "샘 올트먼 CEO, “AI 성장 최대 걸림돌은 전력이며, AI는 인간을 위해 존재해야”",
+      "desc": "오픈AI(OpenAI)의 샘 올트먼(Sam Altman) 최고경영자(CEO)가 인공지능(AI) 산업의 지속적인 성장을 가로막는 핵심 제약으로 에너지 공급 문제를 지목했다.AI 모델의 성능과 효율성이 빠르게 개선되고 있지만, 폭발적으로 증가하는 AI 수요를 감당하기...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42560",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "마이크로소프트 AI 최고책임자 술레이만, “의식 가진 초지능 만들지 말라”…의식 나타나면 AI 개발 중단 촉구",
-      "desc": "마이크로소프트(Microsoft)의 AI 부문 최고경영자 무스타파 술레이만(Mustafa Suleyman)이 의식을 가진 초지능 AI를 개발해서는 안 되며, AI 학습 과정에서 의식의 징후가 나타날 경우 이를 제거할 수 있을 때까지 개발을 중단해야 한다고 주장했다...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42535",
+      "title": "“유전 개발계획 수개월에서 수시간으로”…아드녹, 오픈AI·G42와 에너지 산업 AI 혁신 착수",
+      "desc": "아랍에미리트(UAE) 국영 에너지 기업 아드녹(ADNOC)이 오픈AI(OpenAI), G42와 손잡고 인공지능(AI)을 활용한 에너지 산업 운영체계 혁신에 나선다. 수천 개의 유정과 저류층, 생산시설에서 발생하는 데이터를 AI 에이전트로 통합 분석해 기존 수개월이...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42559",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "“자동차가 운전자와 대화한다”…중국 체리, LLM 기반 AI 비서·46.3인치 디지털 콕핏 공개",
-      "desc": "중국 자동차 제조업체 체리그룹(Chery Group)이 대형언어모델(LLM)을 기반으로 운전자와 자연스럽게 대화하고 차량 정보를 이해하는 인공지능(AI) 음성 비서를 공개했다. 약 1.2m에 달하는 초대형 디지털 디스플레이와 AI 기반 차량 인터페이스를 결합해 자...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42534",
+      "title": "\"소변 한 방울의 10분의 1만으로 '방광질환' 구별\"...국내 연구진, AI 진단 정확도 92% 달성",
+      "desc": "증상이 비슷해 구별하기 어려운 간질성 방광염과 과민성 방광을 극소량의 소변만으로 분류하는 인공지능(AI) 분석 기술이 국내 연구진에 의해 개발됐다. 소변에 포함된 미세한 분자 신호를 고감도로 검출하고 머신러닝으로 분석해 최대 92%의 분류 정확도를 확보한 것이 핵...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42558",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "공무원 업무망에 AI 웹검색·보고서 작성 도입…정부, 행정업무 AI 전환 본격화",
-      "desc": "정부가 공무원의 자료 조사부터 보고서 작성까지 인공지능(AI)을 활용하는 행정업무 환경 구축에 속도를 낸다. 외부 인터넷망으로 이동하지 않고도 최신 정보를 검색할 수 있도록 업무망에 AI 웹검색 기능을 도입한 데 이어, 오는 12월에는 기존 행정자료를 활용해 한글...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42533",
+      "title": "레드햇, “AI가 취약점 찾아도 신뢰는 사람이 지켜야”…책임 있는 보안 공개 강조",
+      "desc": "글로벌 오픈소스 기업 레드햇(Red Hat)이 인공지능(AI) 기술로 보안 취약점 발견 속도가 빨라지는 상황에서도 책임 있는 취약점 공개와 인간 중심의 협력체계를 유지해야 한다고 강조했다.AI가 취약점을 빠르게 찾아내더라도 이를 검증하고 수정하며 안전하게 공개하는...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42557",
       "source": "AI Times"
     }
   ]
