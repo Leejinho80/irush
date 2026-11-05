@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-11-04T02:57:06.869Z",
+  "lastUpdated": "2026-11-05T03:19:46.769Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "AI 도입과 직원 근무 시간, 엇갈리는 두 데이터",
+      "desc": "직원 생산성 추적 소프트웨어 업체 액티브트랙(ActivTrak)의 최신 연구에서 AI를 가장 많이 쓰는 직원이 더 오래 일하고 앱도 더 자주 전환하는 것으로 나타나, 생산성 향상을 확인한 앞선 결과와 엇갈리면서 AI가 업무에 미치는 실제 영향을 측정하기 어렵다는 ...",
+      "link": "https://www.itworld.co.kr/article/4244936/ai-%eb%8f%84%ec%9e%85%ea%b3%bc-%ec%a7%81%ec%9b%90-%ea%b7%bc%eb%ac%b4-%ec%8b%9c%ea%b0%84-%ec%97%87%ea%b0%88%eb%a6%ac%eb%8a%94-%eb%91%90-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "요금 폭탄 뒤에 숨은 LLM 접근 권한 탈취 공격",
+      "desc": "운영 환경에 대규모 언어 모델(LLM)을 배치한 기업이 알지 못하는 사이 타인의 AI 사업 비용을 대신 내고 있을 수 있다. 구글 위협 인텔리전스 그룹(Google Threat Intelligence Group, GTIG)은 사이버 범죄 기업이 기업의 클라우드와 ...",
+      "link": "https://www.itworld.co.kr/article/4244927/%ea%b8%b0%ec%97%85%eb%93%a4%ec%9d%80-%ec%a3%bc%eb%ac%b8%ed%95%9c-%ec%a0%81%eb%8f%84-%ec%97%86%eb%8a%94-ai%ec%97%90-%ed%95%98%eb%a3%a8-10%eb%a7%8c-%eb%8b%ac%eb%9f%ac%eb%a5%bc-%ec%a7%80%eb%b6%88.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "6,200시간을 되찾아 준 데이터 인프라 조기 정비",
+      "desc": "필자가 아는 성장 단계 기업의 CTO 거의 모두가 애써 외면하는 인프라 문제를 하나씩 안고 있다. 시스템이 돌아가는 동안에는 문제가 눈에 띄지 않다가, 무언가가 문제를 수면 위로 끌어올리는 순간 모습을 드러낸다.\n\n\n\n우리의 경우 그 ‘무언가’는 영국의 대형 은행...",
+      "link": "https://www.itworld.co.kr/article/4244898/6200%ec%8b%9c%ea%b0%84%ec%9d%84-%eb%90%98%ec%b0%be%ec%95%84-%ec%a4%80-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%a1%b0%ea%b8%b0-%ec%a0%95%eb%b9%84.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
       "title": "애플 4분기 실적…기업, 클라우드 대신 맥으로 로컬 AI 돌린다",
       "desc": "애플이 4분기 사상 최대 매출을 달성했다. 다만 실적에는 메모리 가격 상승으로 불어난 330억 달러의 비용도 포함돼 있었다. AI 데이터센터 투자 거품이 커지면서 치르게 된 실질적인 대가다.\n\n\n\n실적은 같은 데이터센터 투자를 위협할 만한 변화도 함께 보여줬다. ...",
       "link": "https://www.itworld.co.kr/article/4244303/%ec%95%a0%ed%94%8c-4%eb%b6%84%ea%b8%b0-%ec%8b%a4%ec%a0%81%ea%b8%b0%ec%97%85-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%eb%8c%80%ec%8b%a0-%eb%a7%a5%ec%9c%bc%eb%a1%9c-%eb%a1%9c%ec%bb%ac-ai.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "05",
       "title": "보안 리더 67%, “비즈니스 요구 따라가기 버겁다”",
       "desc": "AI, 아이덴티티 기반 공격, 디지털 운영 확대가 이미 인력이 빠듯한 사이버 보안팀을 압박하고 있다.\n\n\n\n보안 업체 바라쿠다(Barracuda)의 사이버 보안 역량 격차 보고서에서도 보안팀이 확대되는 업무를 따라가지 못하는 것으로 나타났다. 조사 대상인 IT 및...",
       "link": "https://www.itworld.co.kr/article/4244290/%eb%b3%b4%ec%95%88-%eb%a6%ac%eb%8d%94-67-%eb%b9%84%ec%a6%88%eb%8b%88%ec%8a%a4-%ec%9a%94%ea%b5%ac-%eb%94%b0%eb%9d%bc%ea%b0%80%ea%b8%b0-%eb%b2%84%ea%b2%81%eb%8b%a4.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
-      "title": "데브옵스 엔지니어 노트북 침해로 시작된 바이낸스 63억 달러 유출 사고",
-      "desc": "대형 암호화폐 거래소인 바이낸스가 금요일 공개한 업데이트에서 사용자 자산 보호 기금(SAFU)과 회사 자금으로 모든 손실을 보전한다고 밝혔다. 또한 사용자 자금은 안전하며, 사고 조사 과정에서 지갑 개인 키가 유출된 증거는 발견하지 못했다고 설명했다. 바이낸스는 ...",
-      "link": "https://www.itworld.co.kr/article/4244283/%eb%b3%b4%ec%95%88-%ec%b9%a8%ed%95%b4%eb%a5%bc-%eb%8b%b9%ed%95%9c-%eb%8d%b0%eb%b8%8c%ec%98%b5%ec%8a%a4devops%ec%9a%a9-%eb%85%b8%ed%8a%b8%eb%b6%81%ec%9d%b4-63%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ea%b7%9c-2.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "2027년을 견디는 보안 전략의 조건",
-      "desc": "올해 AI의 발전은 CISO에게 사이버 전략을 재고하라는 경종이 됐다. 보안 리더가 다가올 과제에 대응하기 위해 프로그램을 어떻게 발전시킬 계획인지 직접 밝혔다.\n\n\n\n신용정보 업체 에퀴팩스(Equifax)의 CISO 제러미 코펜은 대다수 보안 책임자가 직면한 역...",
-      "link": "https://www.itworld.co.kr/article/4243611/2027%eb%85%84%ea%b9%8c%ec%a7%80-%ec%a7%80%ec%86%8d%eb%90%a0-%eb%b3%b4%ec%95%88-%ec%a0%84%eb%9e%b5%ec%9d%80-%ec%96%b4%eb%96%a4-%eb%aa%a8%ec%8a%b5%ec%9d%bc%ea%b9%8c.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "AI 챗봇에 털어놓은 비밀의 행방",
-      "desc": "많은 사람이 챗봇과 나누는 대화가 비공개인 것처럼 이야기한다. 하지만 정말 그럴까?\n\n\n\n프라이버시 중심 검색 업체 덕덕고가 의뢰해 8월에 발표한 설문조사는 미국 성인 1,944명에게 챗봇 프라이버시에 대해 질문했다. 응답자의 절반 이상(53%)이 자신의 대화가 ...",
-      "link": "https://www.itworld.co.kr/article/4243596/ai-%ec%b1%97%eb%b4%87%ec%97%90-%ed%84%b8%ec%96%b4%eb%86%93%ec%9d%80-%eb%b9%84%eb%b0%80%ec%9d%98-%ed%96%89%eb%b0%a9.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "\"AI로 아마존 산림파괴 막는다\"... 유네스코·ITU·브라질, 글로벌 AI 기후연구소 설립",
-      "desc": "아마존 열대우림을 인공지능(AI)을 활용해 산림파괴를 감시하고 기상이변을 예측하는 국제협력체계가 출범한다. 기후변화 대응에 AI를 활용하는 동시에 AI 데이터센터의 전력과 용수 소비를 줄이는 기술 개발도 추진한다. 기후위기 해결을 위한 AI 활용과 AI 자체의 환...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42582",
+      "title": "AI가 광고 성과 진단하고 개선까지 제안…네이버, ‘네이버애즈’로 광고 플랫폼 전면 개편",
+      "desc": "네이버가 인공지능이 광고 캠페인의 문제점을 먼저 진단하고 성과 개선 방안까지 제안하는 AI 에이전트 기반 광고 플랫폼을 선보였다. 광고주가 직접 캠페인을 점검하고 운영 방안을 찾아야 했던 기존 방식에서 벗어나, AI가 광고 운영 과정에 선제적으로 개입하는 구조로 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42601",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "의사는 13분, AI는 3초…UCL, 심장 MRI 분석해 사망 위험 예측력까지 높였다",
-      "desc": "인공지능이 심장 자기공명영상(MRI)을 단 2~3초 만에 분석하고, 숙련된 의료진보다 환자의 장기 사망 위험을 더 정확하게 구분할 수 있다는 연구 결과가 나왔다. 특히 2만7000명 이상의 환자를 평균 5년 이상 추적한 실제 임상 데이터를 통해 AI가 측정한 심장...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42581",
+      "title": "AI, 의학논문 5562편 뒤져 황반변성 새 치료 표적 찾아냈다",
+      "desc": "인공지능을 활용해 5500편이 넘는 의학논문에 흩어진 생의학적 지식을 연결하고, 실명 위험이 있는 황반변성 등 망막질환의 새로운 치료 표적 후보를 찾아낸 연구 결과가 나왔다. 기존 치료에 충분히 반응하지 않는 환자를 위한 새로운 치료 전략을 탐색할 수 있다는 점에...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42600",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "딥핑소스, 자동차 팝업 행사에 AI 영상분석 적용",
-      "desc": "인공지능(AI) 공간분석 전문기업 딥핑소스(Deeping Source, 대표 김태훈)가 자동차 브랜드 팝업 행사에 AI 영상분석 기술을 적용해 방문객 규모와 고객 특성, 공간별 관심도를 측정했다. 단순 방문객 집계를 넘어 브랜드 체험 공간에서 나타나는 고객의 이동...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42580",
+      "title": "AI가 도시를 운영하는 시대…유엔, 시민 중심 스마트시티 국제 지침 첫 공개",
+      "desc": "유엔이 인공지능(AI)을 활용한 도시 운영에서 시민의 권리와 공공서비스의 형평성, 투명성과 책임성을 확보하기 위한 국제 지침을 제시했다. AI 기술을 얼마나 많이 도입했는지가 아니라 시민의 삶의 질을 얼마나 개선하고 공공적 가치를 창출하는지를 중심으로 스마트시티 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42599",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "[AI 리뷰] AI 에이전트에 기능 많이 붙인다고 똑똑해지지 않는다",
-      "desc": "인공지능(AI) 에이전트에 새로운 기능과 작업 지침을 추가한다고 해서 반드시 성능이 향상되는 것은 아니다. 오히려 불필요한 기능이 늘어나면 AI가 잘못된 도구를 호출하거나 서로 충돌하는 지침을 따를 수 있으며, 처리해야 할 정보가 증가해 토큰 사용량과 운영 비용이...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42579",
+      "title": "퀄컴, 스마트폰 넘어 AI 인프라 시장 본격 공략...AI 데이터센터 매출 50억달러 정조준",
+      "desc": "글로벌 모바일 반도체 기업 퀄컴(Qualcomm)이 2027회계연도 인공지능 데이터센터(AIDC) 사업에서 50억달러(약 6.7조원)의 매출을 달성하겠다는 목표를 제시했다.이는 스마트폰용 반도체 중심의 사업구조에서 벗어나 AI 서버와 데이터센터 인프라를 새로운 성...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42598",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "구글, 최첨단 AI 14종 실제 공학 설계 시험했더니…최고점 48.3%, 필수 검사 통과 41.3%",
-      "desc": "최첨단 인공지능(AI) 모델들이 실제 산업현장의 공학 설계 문제를 얼마나 정확하고 안전하게 해결할 수 있는지를 평가한 결과, 최고 성능의 모델조차 평균 점수가 50%에 미치지 못한 것으로 나타났다. 개별 설계 조건을 상당 부분 충족하더라도 안전성과 실현 가능성에 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42578",
+      "title": "Arm, AI 데이터센터 CPU 시장 정조준…르네 하스 CEO, “자체 칩 매출 최대 20억달러 전망”",
+      "desc": "인공지능 인프라 경쟁이 그래픽처리장치(GPU)를 넘어 중앙처리장치(CPU)와 전력 효율 중심으로 확대되는 가운데, 영국 반도체 설계기업 Arm이 자체 개발한 데이터센터용 CPU 사업에서 최대 20억달러의 매출을 달성할 수 있다는 전망을 제시했다.특히 AI 에이전트...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42597",
       "source": "AI Times"
     }
   ]
