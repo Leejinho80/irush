@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-11-05T03:19:46.769Z",
+  "lastUpdated": "2026-11-06T03:17:42.093Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "애플 부사장 톰 보저가 밝힌 신형 맥북 프로의 경량화·디자인·발광 로고 이야기",
+      "desc": "기술 업계 종사자 대부분은 이미 PROLED XDR 디스플레이를 탑재한 애플의 신형 맥북 프로를 알고 있다. 가볍고 밝고 얇은 이 프로용 맥 노트북은 기준급 터치 반응 디스플레이로 맥에 아이패드의 감각을 더했다. 최소한 애플의 프로용 노트북 분야에서는 이미 미래로...",
+      "link": "https://www.itworld.co.kr/article/4245435/%ec%95%a0%ed%94%8c%ec%9d%98-%ed%86%b0-%eb%b3%b4%ea%b1%b0-%eb%b6%80%ec%82%ac%ec%9e%a5%ec%9d%b4-%eb%a7%a5%eb%b6%81-%ed%94%84%eb%a1%9c%ec%9d%98-%eb%ac%b4%ea%b2%8c-%eb%94%94%ec%9e%90%ec%9d%b8-%ea%b7%b8.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "현미경으로 들여다본 아이폰 듀오 나노텍스처 화면…”단순 무광 화면 아냐”",
+      "desc": "지난달 출시된 아이폰 듀오는 엇갈린 평가를 받았지만, 다양한 기술적 성취와 혁신을 담고 있다. 이 가운데 하나가 내부 화면에 적용된 나노텍스처 처리다. 유광 외부 화면과 대비되는 이 화면은 초기 폴더블폰 다수와 최근 제품 일부의 약점이었던 화면 접힘 자국을 가려준...",
+      "link": "https://www.itworld.co.kr/article/4245433/%ed%98%84%eb%af%b8%ea%b2%bd%ec%9c%bc%eb%a1%9c-%eb%93%a4%ec%97%ac%eb%8b%a4%eb%b3%b8-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4-%eb%82%98%eb%85%b8%ed%85%8d%ec%8a%a4%ec%b2%98-%ed%99%94%eb%a9%b4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
+      "title": "아이폰 듀오 리뷰 : 329만원짜리 폴더블 아이폰 듀오 “펼치면 최고 접으면 최악”",
+      "desc": "아이폰 듀오라는 이름은 화면이 2개, 후면 카메라가 2개, 전면 카메라가 2개이고 모양이 대문자 ‘D’를 닮았다는 이유만으로 붙은 것이 아니다.\n\n\n\n이 폰은 양면성의 집합체다. 경험의 모든 측면이 감탄과 설렘을 안기는 동시에 답답하고 퇴보한 구석을 함께 드러낸다...",
+      "link": "https://www.itworld.co.kr/article/4244946/%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4-%eb%a6%ac%eb%b7%b0-329%eb%a7%8c%ec%9b%90%ec%a7%9c%eb%a6%ac-%ed%8f%b4%eb%8d%94%eb%b8%94-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4-%ed%8e%bc.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "04",
+      "title": "“랙당 600kW 시대, 전력이 AI 인프라의 관건” 인피니언, 그리드에서 코어까지 반도체로 푼다",
+      "desc": "AI 연산 수요가 커지면서 데이터센터의 전력 확보가 인프라 확장의 가장 큰 변수로 떠오르고 있다. GPU 성능이 높아질수록 서버랙이 감당해야 할 전력도 급증해, 전력망에서 칩에 이르는 전 구간의 설계를 다시 짜야 한다는 목소리가 커지는 추세다.\n\n\n\n인피니언 테크...",
+      "link": "https://www.itworld.co.kr/article/4245426/%eb%9e%99%eb%8b%b9-600kw-%ec%8b%9c%eb%8c%80-%ec%a0%84%eb%a0%a5%ec%9d%b4-ai-%ec%9d%b8%ed%94%84%eb%9d%bc%ec%9d%98-%ea%b4%80%ea%b1%b4-%ec%9d%b8%ed%94%bc%eb%8b%88%ec%96%b8-%ea%b7%b8%eb%a6%ac.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "05",
       "title": "AI 도입과 직원 근무 시간, 엇갈리는 두 데이터",
       "desc": "직원 생산성 추적 소프트웨어 업체 액티브트랙(ActivTrak)의 최신 연구에서 AI를 가장 많이 쓰는 직원이 더 오래 일하고 앱도 더 자주 전환하는 것으로 나타나, 생산성 향상을 확인한 앞선 결과와 엇갈리면서 AI가 업무에 미치는 실제 영향을 측정하기 어렵다는 ...",
       "link": "https://www.itworld.co.kr/article/4244936/ai-%eb%8f%84%ec%9e%85%ea%b3%bc-%ec%a7%81%ec%9b%90-%ea%b7%bc%eb%ac%b4-%ec%8b%9c%ea%b0%84-%ec%97%87%ea%b0%88%eb%a6%ac%eb%8a%94-%eb%91%90-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
-      "title": "요금 폭탄 뒤에 숨은 LLM 접근 권한 탈취 공격",
-      "desc": "운영 환경에 대규모 언어 모델(LLM)을 배치한 기업이 알지 못하는 사이 타인의 AI 사업 비용을 대신 내고 있을 수 있다. 구글 위협 인텔리전스 그룹(Google Threat Intelligence Group, GTIG)은 사이버 범죄 기업이 기업의 클라우드와 ...",
-      "link": "https://www.itworld.co.kr/article/4244927/%ea%b8%b0%ec%97%85%eb%93%a4%ec%9d%80-%ec%a3%bc%eb%ac%b8%ed%95%9c-%ec%a0%81%eb%8f%84-%ec%97%86%eb%8a%94-ai%ec%97%90-%ed%95%98%eb%a3%a8-10%eb%a7%8c-%eb%8b%ac%eb%9f%ac%eb%a5%bc-%ec%a7%80%eb%b6%88.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "03",
-      "title": "6,200시간을 되찾아 준 데이터 인프라 조기 정비",
-      "desc": "필자가 아는 성장 단계 기업의 CTO 거의 모두가 애써 외면하는 인프라 문제를 하나씩 안고 있다. 시스템이 돌아가는 동안에는 문제가 눈에 띄지 않다가, 무언가가 문제를 수면 위로 끌어올리는 순간 모습을 드러낸다.\n\n\n\n우리의 경우 그 ‘무언가’는 영국의 대형 은행...",
-      "link": "https://www.itworld.co.kr/article/4244898/6200%ec%8b%9c%ea%b0%84%ec%9d%84-%eb%90%98%ec%b0%be%ec%95%84-%ec%a4%80-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%a1%b0%ea%b8%b0-%ec%a0%95%eb%b9%84.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "04",
-      "title": "애플 4분기 실적…기업, 클라우드 대신 맥으로 로컬 AI 돌린다",
-      "desc": "애플이 4분기 사상 최대 매출을 달성했다. 다만 실적에는 메모리 가격 상승으로 불어난 330억 달러의 비용도 포함돼 있었다. AI 데이터센터 투자 거품이 커지면서 치르게 된 실질적인 대가다.\n\n\n\n실적은 같은 데이터센터 투자를 위협할 만한 변화도 함께 보여줬다. ...",
-      "link": "https://www.itworld.co.kr/article/4244303/%ec%95%a0%ed%94%8c-4%eb%b6%84%ea%b8%b0-%ec%8b%a4%ec%a0%81%ea%b8%b0%ec%97%85-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%eb%8c%80%ec%8b%a0-%eb%a7%a5%ec%9c%bc%eb%a1%9c-%eb%a1%9c%ec%bb%ac-ai.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "보안 리더 67%, “비즈니스 요구 따라가기 버겁다”",
-      "desc": "AI, 아이덴티티 기반 공격, 디지털 운영 확대가 이미 인력이 빠듯한 사이버 보안팀을 압박하고 있다.\n\n\n\n보안 업체 바라쿠다(Barracuda)의 사이버 보안 역량 격차 보고서에서도 보안팀이 확대되는 업무를 따라가지 못하는 것으로 나타났다. 조사 대상인 IT 및...",
-      "link": "https://www.itworld.co.kr/article/4244290/%eb%b3%b4%ec%95%88-%eb%a6%ac%eb%8d%94-67-%eb%b9%84%ec%a6%88%eb%8b%88%ec%8a%a4-%ec%9a%94%ea%b5%ac-%eb%94%b0%eb%9d%bc%ea%b0%80%ea%b8%b0-%eb%b2%84%ea%b2%81%eb%8b%a4.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "AI가 광고 성과 진단하고 개선까지 제안…네이버, ‘네이버애즈’로 광고 플랫폼 전면 개편",
-      "desc": "네이버가 인공지능이 광고 캠페인의 문제점을 먼저 진단하고 성과 개선 방안까지 제안하는 AI 에이전트 기반 광고 플랫폼을 선보였다. 광고주가 직접 캠페인을 점검하고 운영 방안을 찾아야 했던 기존 방식에서 벗어나, AI가 광고 운영 과정에 선제적으로 개입하는 구조로 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42601",
+      "title": "\"로봇도 잘못된 기억 스스로 고친다\"…MIT, AI 기억의 불확실성 92% 해소한다",
+      "desc": "로봇이 주변 사물을 잘못 인식해 기억하더라도 스스로 오류를 찾아 수정할 수 있는 인공지능(AI) 기술이 개발됐다. 로봇이 이동하면서 같은 사물을 여러 각도에서 관찰하고, 기존 기억의 불확실성을 분석해 정보를 갱신하는 방식이다. 실험에서는 모호한 사물 설명의 약 9...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42620",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "AI, 의학논문 5562편 뒤져 황반변성 새 치료 표적 찾아냈다",
-      "desc": "인공지능을 활용해 5500편이 넘는 의학논문에 흩어진 생의학적 지식을 연결하고, 실명 위험이 있는 황반변성 등 망막질환의 새로운 치료 표적 후보를 찾아낸 연구 결과가 나왔다. 기존 치료에 충분히 반응하지 않는 환자를 위한 새로운 치료 전략을 탐색할 수 있다는 점에...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42600",
+      "title": "오픈AI, “AI 데이터센터 전력 비용, 주민에 떠넘겨선 안 돼”…지역사회 책임 기준 제시",
+      "desc": "오픈AI(OpenAI)가 인공지능 데이터센터(AIDC) 건설과 운영에 따른 전력 비용을 지역 주민에게 전가하지 않고 개발기업이 직접 부담해야 한다는 원칙을 제시했다. 대규모 AI 인프라 확충으로 전력망 부담과 환경 문제가 커지는 가운데 주민들에게 사업계획 참여 기...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42619",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "AI가 도시를 운영하는 시대…유엔, 시민 중심 스마트시티 국제 지침 첫 공개",
-      "desc": "유엔이 인공지능(AI)을 활용한 도시 운영에서 시민의 권리와 공공서비스의 형평성, 투명성과 책임성을 확보하기 위한 국제 지침을 제시했다. AI 기술을 얼마나 많이 도입했는지가 아니라 시민의 삶의 질을 얼마나 개선하고 공공적 가치를 창출하는지를 중심으로 스마트시티 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42599",
+      "title": "과학자들의 AI 활용 20만7000건 분석했더니…데이터 분석·논문 작성에 집중, 실험 연구는 한계",
+      "desc": "인공지능이 과학 연구 현장에 빠르게 확산되고 있지만, 실제 활용은 데이터 분석과 논문 작성 등 디지털 작업에 집중된 것으로 나타났다. 반면 새로운 연구 가설을 만들거나 실험 데이터를 직접 수집하는 업무에서는 활용도가 상대적으로 낮았다.AI가 과학자의 연구를 지원하...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42618",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "퀄컴, 스마트폰 넘어 AI 인프라 시장 본격 공략...AI 데이터센터 매출 50억달러 정조준",
-      "desc": "글로벌 모바일 반도체 기업 퀄컴(Qualcomm)이 2027회계연도 인공지능 데이터센터(AIDC) 사업에서 50억달러(약 6.7조원)의 매출을 달성하겠다는 목표를 제시했다.이는 스마트폰용 반도체 중심의 사업구조에서 벗어나 AI 서버와 데이터센터 인프라를 새로운 성...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42598",
+      "title": "AI 에이전트 실행 밀도 10배 높인다…구글, 자율형 AI 인프라 3종 오픈소스로 공개",
+      "desc": "구글이 자율형 인공지능(AI) 에이전트를 대규모로 운영하면서 컴퓨팅 자원 낭비를 줄이고 보안성을 높일 수 있는 새로운 오픈소스 인프라를 공개했다. 기존 컨테이너 방식보다 최대 10배 높은 실행 환경 밀도를 구현하고, 사용하지 않는 에이전트의 상태를 저장했다가 0....",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42617",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "Arm, AI 데이터센터 CPU 시장 정조준…르네 하스 CEO, “자체 칩 매출 최대 20억달러 전망”",
-      "desc": "인공지능 인프라 경쟁이 그래픽처리장치(GPU)를 넘어 중앙처리장치(CPU)와 전력 효율 중심으로 확대되는 가운데, 영국 반도체 설계기업 Arm이 자체 개발한 데이터센터용 CPU 사업에서 최대 20억달러의 매출을 달성할 수 있다는 전망을 제시했다.특히 AI 에이전트...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42597",
+      "title": "메타, AI 챗봇에 목소리와 표정 입힌다…‘뮤즈’에 실시간 음성 대화·아바타 도입",
+      "desc": "메타(Meta)가 인공지능(AI) 서비스 ‘뮤즈(Muse)’에 실시간 음성 대화와 표정·몸짓으로 반응하는 디지털 아바타 기능을 도입한다. 사용자가 AI와 자연스럽게 대화를 주고받는 것은 물론, AI가 말하는 내용과 대화 분위기에 맞춰 얼굴 표정과 제스처를 표현하도...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42616",
       "source": "AI Times"
     }
   ]
