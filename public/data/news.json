@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T02:37:48.512Z",
+  "lastUpdated": "2026-11-08T02:09:58.013Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "EU, 틱톡 AI 추천 알고리즘에 제동…정신건강 위협하는 반복 추천에 디지털서비스법 위반 예비 판단",
+      "desc": "유럽연합(EU)이 틱톡(TikTok)의 개인화 추천 알고리즘이 이용자를 특정 콘텐츠에 반복적으로 노출해 정신건강에 부정적인 영향을 미칠 수 있다며 디지털서비스법(DSA) 위반에 대한 예비 판단을 내렸다. \"불법 콘텐츠 자체가 아니라 이용자의 행동을 분석해 유사한 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42631",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
       "title": "AI 신약 개발 모델, 270개 이상 경쟁팀 제치고 1위…인덕티브 바이오, 약물 상호작용 위험 예측",
       "desc": "인공지능을 활용해 신약 후보물질의 약물 상호작용 위험을 예측하는 기술이 국제 블라인드 평가에서 경쟁력을 입증했다.美 AI 신약 개발기업 인덕티브 바이오(Inductive Bio)의 AI 모델이 270개 이상의 참가팀이 경쟁한 약물 대사효소 억제 예측 평가에서 1위...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42630",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "08",
       "title": "예진, 한국어 특화 8B급 파운데이션 모델 독자 개발…1,384억 토큰 학습·GPU 1장으로 구동",
       "desc": "국내 인공지능(AI) 기업 예진(대표 고종현)이 해외 공개 모델의 가중치를 활용하지 않고 처음부터 자체 학습한 한국어 특화 80억 매개변수(8B)급 파운데이션 모델을 개발했다. 약 1,384억 토큰을 학습하고 24GB급 그래픽처리장치(GPU) 한 장으로 구동할 수...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42629",
       "source": "AI Times"
     },
     {
-      "number": "08",
+      "number": "09",
       "title": "AI 데이터센터 투자에 경고등…ING, 5억 달러 대출채권 매각 추진·오라클 스타게이트 전력 공급 차질",
       "desc": "미국 인공지능(AI) 데이터센터 투자 시장에 금융 불안 신호가 나타나고 있다. 네덜란드 대형 은행 ING가 약 5억 달러(약 6700억원) 규모의 데이터센터 대출채권을 한꺼번에 매각하기로 하면서, 막대한 차입금에 의존해 추진되는 AI 인프라 사업의 자금조달 위험이...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42628",
       "source": "AI Times"
     },
     {
-      "number": "09",
+      "number": "10",
       "title": "美 공군, 15개 핵심 임무에 AI 도입…핵작전·정보·우주 분야 AI 전환 본격화",
       "desc": "美 공군부(Department of the Air Force, DAF)가 핵작전과 정보, 인사 등 15개 핵심 임무 영역에 초지능(Super Intelligence, SI) 역량을 도입하기 위한 전사적 현대화 전략을 공개했다. 인공지능(AI)을 실험적 기술 검증 ...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42627",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "UNIST, 해군·해병대와 국방·해양 AI 기술 개발 본격화…부산 AX거점 개소",
-      "desc": "울산과학기술원(UNIST)이 해군·해병대와 손잡고 국방·해양 분야의 인공지능 전환(AX)을 본격 추진한다. 군의 작전 환경과 해양 분야 특성을 반영한 AI 원천기술을 개발하고, 이를 실제 국방 현장에 적용하기 위한 연구·교육·실증 체계를 구축하는 것이 핵심이다.U...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42626",
       "source": "AI Times"
     }
   ]
