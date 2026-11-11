@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-11-10T04:31:24.624Z",
+  "lastUpdated": "2026-11-11T02:37:34.776Z",
   "totalCount": 10,
   "news": [
     {
       "number": "01",
+      "title": "미국 중간선거가 바꾼 AI 판도, IT 리더는 비용과 규제 준수 대비해야",
+      "desc": "미국 민주당이 의회를 장악하면서 AI는 더 큰 저항과 감시를 받고, AI가 소비하는 자원을 정당화하라는 요구도 더 거세질 전망이다.\n\n\n\n애널리스트는 미국 중간선거 이후 AI와 데이터센터가 더 많은 감시를 받게 되므로 IT 리더가 IT 전략을 신속히 조정해야 한다...",
+      "link": "https://www.itworld.co.kr/article/4247108/%ec%a4%91%ea%b0%84-%ec%8b%a4%ec%a0%81-%eb%b0%9c%ed%91%9c%eb%a1%9c-%ec%9d%b8%ed%95%b4-it-%eb%a6%ac%eb%8d%94%eb%93%a4%ec%9d%80-ai-%eb%b9%84%ec%9a%a9-%eb%b0%8f-%ea%b7%9c%ec%a0%95-%ec%a4%80%ec%88%98.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "02",
+      "title": "깃허브가 보여준 중립의 힘, AI 에이전트 시대에도 유효하다",
+      "desc": "금광을 운영하는 일은 수익성이 있지만, 다음 금광을 찾아 채굴하는 일은 비용이 많이 든다. 애널리스트 베네딕트 에번스는 앤트로픽의 사업도 같은 과제를 안고 있다고 분석했다. 3분기 매출의 80% 이상이 직전 6개월 이내에 출시된 모델에서 나왔기 때문이다. 기업은 ...",
+      "link": "https://www.itworld.co.kr/article/4247111/anthropic%ea%b3%bc-openai%ea%b0%80-%ea%b0%9c%eb%b0%9c-%ec%9b%8c%ed%81%ac%ed%94%8c%eb%a1%9c%ec%9a%b0%eb%a5%bc-%ea%b2%a8%eb%83%a5%ed%95%98%ea%b3%a0-%ec%9e%88%eb%8b%a4.html",
+      "source": "ITWorld"
+    },
+    {
+      "number": "03",
       "title": "정적 방어에서 동적 회복탄력성으로 나아가는 방어 민첩성 확보 7대 전략",
       "desc": "방어적 보안 민첩성은 핵심 업무를 방해하지 않으면서 진화하는 사이버 위협과 취약점을 신속하게 탐지하고, 적응하며, 대응하는 기업의 잠재력을 의미한다. 정적이고 경직된 방어 아키텍처에서 벗어나, 민첩한 방어 계획은 지속적인 반복 개선과 자동화, 부서 간 유연성을 중...",
       "link": "https://www.itworld.co.kr/article/4246594/%ec%a0%95%ec%a0%81-%eb%b0%a9%ec%96%b4%ec%97%90%ec%84%9c-%eb%8f%99%ec%a0%81-%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1%ec%9c%bc%eb%a1%9c-%eb%82%98%ec%95%84%ea%b0%80%eb%8a%94-%eb%b0%a9%ec%96%b4.html",
       "source": "ITWorld"
     },
     {
-      "number": "02",
+      "number": "04",
       "title": "설치는 무사통과지만 호출하는 순간…npm 공급망 방어의 사각지대",
       "desc": "설치 스크립트를 차단하면 악성 npm 패키지가 유입될 수 있는 경로 하나가 막힌다. 악성 indexed-btree 패키지 사례는 애플리케이션 코드에 자체적인 신뢰 경계가 필요한 이유를 보여준다.\n\n\n\n의심스러운 npm 패키지를 접하면 우선 그 패키지가 pre-in...",
       "link": "https://www.itworld.co.kr/article/4246571/%ec%84%a4%ec%b9%98%eb%8a%94-%eb%ac%b4%ec%82%ac%ed%86%b5%ea%b3%bc%ec%a7%80%eb%a7%8c-%ed%98%b8%ec%b6%9c%ed%95%98%eb%8a%94-%ec%88%9c%ea%b0%84npm-%ea%b3%b5%ea%b8%89%eb%a7%9d-%eb%b0%a9%ec%96%b4.html",
       "source": "ITWorld"
     },
     {
-      "number": "03",
+      "number": "05",
       "title": "모델만 옮기고 작업은 못 옮기면?…AI 에이전트 구입 전 출구 테스트 해야",
       "desc": "최근 작업 환경을 한 코딩 에이전트에서 다른 코딩 에이전트로 옮겨 보았다. 작업에는 약 10분이 걸렸고, 순조롭게 끝났다고 생각했다.\n\n\n\n첫 번째 에이전트에는 짊어진 짐이 많았다. 현재 전역 지침 파일 1개, 스킬 폴더 114개(대부분 설치한 것이고 일부는 필자...",
       "link": "https://www.itworld.co.kr/article/4246138/%eb%aa%a8%eb%8d%b8%eb%a7%8c-%ec%98%ae%ea%b8%b0%ea%b3%a0-%ec%9e%91%ec%97%85%ec%9d%80-%eb%aa%bb-%ec%98%ae%ea%b8%b0%eb%a9%b4ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ea%b5%ac%ec%9e%85-%ec%a0%84.html",
       "source": "ITWorld"
     },
     {
-      "number": "04",
-      "title": "8GB RAM PC도 쾌적하게…윈도우 11 멀티태스킹 최대 40% 개선",
-      "desc": "마이크로소프트가 RAM이 8GB에 불과한 PC에서도 윈도우 11이 훨씬 빠르게 동작하도록 여러 최적화를 적용했다. 자체 테스트 결과, 반응 속도는 이미 최대 20% 개선됐고 멀티태스킹은 최대 40% 빨라졌다.\n\n\n\n마이크로소프트가 밝힌 40% 단축 수치는 실험실 ...",
-      "link": "https://www.itworld.co.kr/article/4246132/8gb-ram-pc%eb%8f%84-%ec%be%8c%ec%a0%81%ed%95%98%ea%b2%8c%ec%9c%88%eb%8f%84%ec%9a%b0-11-%eb%a9%80%ed%8b%b0%ed%83%9c%ec%8a%a4%ed%82%b9-%ec%b5%9c%eb%8c%80-40-%ea%b0%9c%ec%84%a0.html",
-      "source": "ITWorld"
-    },
-    {
-      "number": "05",
-      "title": "AI로 날개 달 줄 알았던 구글, AI에 발목 잡혔다",
-      "desc": "구글의 모토가 “악해지지 말자”였던 시절을 기억하는가? 참으로 까마득한 옛날 일이다. 10년 넘게 지난 2015년, 구글은 모토를 “옳은 일을 하라”로 바꿨다. 새 모토 역시 세월이 흐르며 빛이 바랬다.\n\n\n\n길을 잃은 구글의 행보가 이제는 이름값마저 예전만 못한...",
-      "link": "https://www.itworld.co.kr/article/4246120/ai%eb%a1%9c-%eb%82%a0%ea%b0%9c-%eb%8b%ac-%ec%a4%84-%ec%95%8c%ec%95%98%eb%8d%98-%ea%b5%ac%ea%b8%80-ai%ec%97%90-%eb%b0%9c%eb%aa%a9-%ec%9e%a1%ed%98%94%eb%8b%a4.html",
-      "source": "ITWorld"
-    },
-    {
       "number": "06",
-      "title": "\"정부 AI 활용, 아직 81%가 실험 단계\"…OECD, 알고리즘 시대 정부 소통체계 전면 개혁 촉구",
-      "desc": "인공지능과 디지털 플랫폼의 추천 알고리즘이 시민의 정보 소비 방식을 빠르게 바꾸고 있지만, 각국 정부기관의 AI 활용은 여전히 초기 실험 단계에 머물러 있다는 경제협력개발기구(OECD)의 분석이 나왔다.정부 소통 담당자의 46%는 소속 조직의 AI 활용이 탐색 단...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42672",
+      "title": "현대제철, AI로 원료 배합·물류 최적화…제조·업무 혁신 사례 198건 발굴",
+      "desc": "현대제철이 인공지능(AI)을 활용한 원료 배합과 물류 운영 최적화, 판매 전략 수립, 소재 수급 자동화 등 제조·업무 혁신 사례 198건을 발굴하며 전사적인 인공지능 전환(AX)을 확대하고 있다.현대제철은 최근 당진제철소 연구소에서 ‘2026 AX 성과공유회’를 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42685",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "AI 코딩 도입했더니 같은 인력으로 소프트웨어 출시량 20배…오픈AI, 코드래빗 사례 공개",
-      "desc": "인공지능(AI) 코딩 에이전트를 도입한 기업이 개발 인력을 늘리지 않고도 소프트웨어 출시량을 약 20배 확대한 사례가 공개됐다. AI가 코드 작성부터 검토, 오류 수정, 배포까지 개발 과정 전반에 참여하면서 소프트웨어 개발 조직의 생산성 구조가 변화하고 있음을 보...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42671",
+      "title": "AMD, AI 인프라 경쟁 확대...6세대 에픽 서버 CPU 출시, 엔비디아 베라 대비 최대 3.7배↑",
+      "desc": "AMD가 인공지능(AI) 에이전트 실행과 대규모 데이터센터 운영에 최적화한 6세대 서버용 CPU ‘에픽(EPYC)’을 10일(미국 현지시간) 출시하고 엔비디아의 서버 CPU ‘베라(Vera)’ 대비 특정 범용 연산 평가에서 최대 3.7배의 성능을 제공하고, AI ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42684",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "메타, AI로 청소년 실제 나이 추정해 보호 기능 자동 적용…전 세계 수백만명 추가 보호",
-      "desc": "메타(Meta)가 인공지능(AI)을 활용해 소셜미디어 이용자의 실제 연령을 추정하고, 청소년으로 판단되면 계정에 보호 기능을 자동 적용하는 기술을 전 세계로 확대한다. 이용자가 계정을 만들 때 성인이라고 입력했더라도 AI가 청소년으로 추정하면 연령에 맞는 보호 조...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42670",
+      "title": "휴머노이드 로봇에 ‘제미나이 로보틱스 2.5’ 탑재…구글, 벤츠 생산라인서 작업 성공률 96% 달성",
+      "desc": "구글 딥마인드(Google DeepMind)가 휴머노이드 로봇의 정교한 물체 조작 능력과 실제 산업현장에서의 작업 신뢰성을 높인 새로운 피지컬 AI 모델 ‘제미나이 로보틱스 2.5(Gemini Robotics 2.5)’를 10일(현지시간) 공개했다.이는 자사가 개...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42683",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "블랙홀 난제 풀고 로봇도 움직인다…앤트로픽, 나스닥 상장 앞두고 차세대 AI '클로드 페이블 5.2·미토스 5.2' 공개",
-      "desc": "미국 나스닥 상장을 앞둔 앤트로픽(Anthropic)이 블랙홀 물리학의 미해결 문제를 풀고 로봇을 제어하는 차세대 인공지능(AI) 모델을 공개하며 프론티어 AI 기술 경쟁에 속도를 내고 있다.특히 과학 연구 에이전트 평가에서 최대 75.3%, 로봇 시뮬레이션 평가...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42669",
+      "title": "구글, 최강 프론티어 AI ‘제미나이 4 카본’ 공개…복잡한 장기 작업 수행하는 에이전틱 AI 강화",
+      "desc": "구글이 복잡한 문제를 여러 단계에 걸쳐 해결하고 장시간 작업을 수행하는 데 특화된 새로운 프론티어 AI 모델 ‘제미나이 4 카본(Gemini 4 Carbon)’을 공개했다. 소프트웨어 개발과 사이버보안, 과학 연구 등 전문적인 업무에서 추론과 검증을 반복하는 에이...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42682",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "레드햇, ‘오픈시프트 5’ 출시...에이전틱 AI로 클라우드 장애 분석·해결 자동화",
-      "desc": "레드햇(Red Hat)이 인공지능(AI) 에이전트를 활용해 클라우드 시스템의 장애 원인을 분석하고 문제 해결을 지원하는 차세대 하이브리드 클라우드 운영 기술을 선보였다. 운영자가 직접 로그를 분석하고 장애 원인을 찾아야 했던 기존 관리 방식에서 벗어나, AI가 시...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42668",
+      "title": "ETRI, \"AI·6G 미래기술 전략 강화\"…KAIST 정송·최성현 교수 특임고문 위촉",
+      "desc": "한국전자통신연구원(ETRI)이 인공지능(AI)과 차세대 통신기술 분야의 연구개발 전략을 강화하기 위해 한국과학기술원(KAIST)의 AI·통신 전문가 2명을 특임고문으로 영입했다. AI가 단순한 정보 생성에서 실제 행동과 문제 해결로 발전하고, 통신망이 피지컬 AI...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42681",
       "source": "AI Times"
     }
   ]
