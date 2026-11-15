@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T02:57:11.576Z",
+  "lastUpdated": "2026-11-15T02:28:34.352Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
+      "title": "최태원 SK 회장, “AI 반도체 넘어 서비스·토큰 이코노미까지”…‘AI 플라이휠’ 성장 전략 제시",
+      "desc": "SK그룹이 인공지능(AI) 반도체와 인프라, 에너지를 중심으로 구축한 사업 경쟁력을 AI 모델과 애플리케이션 등 서비스 영역까지 확대한다.개별 사업의 성장이 다른 사업의 수요와 투자를 촉진하는 'AI 플라이휠(AI Flywheel)' 전략을 통해 그룹 차원의 성장...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42733",
+      "source": "AI Times"
+    },
+    {
+      "number": "07",
+      "title": "\"사람의 움직임, 휴머노이드 로봇에 이식한다\"…엔비디아, 피지컬 AI 동작 변환 기술 오픈소스 공개",
+      "desc": "엔비디아(NVIDIA)가 사람의 움직임을 휴머노이드 로봇의 신체 구조에 맞게 변환하는 오픈소스 기술을 공개했다. 인간과 로봇 사이의 관절 구조, 신체 비율, 가동 범위 차이를 보정해 사람의 동작 데이터를 로봇 제어 정책 학습에 활용할 수 있도록 지원하는 기술이다....",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42732",
+      "source": "AI Times"
+    },
+    {
+      "number": "08",
+      "title": "오픈AI, AI 에이전트가 구매·결제하는 ‘챗GPT 월렛’ 공개…실제 카드번호 노출 없이 결제 수행",
+      "desc": "오픈AI가 인공지능 에이전트가 사용자를 대신해 온라인 상품을 구매하고 결제할 수 있는 전용 디지털 지갑 '챗GPT 월렛(ChatGPT Wallet)'을 13일(미국 현지시간) 공개했다.AI 에이전트가 사용자의 실제 카드번호에 접근하지 않고도 결제를 수행할 수 있도...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42731",
+      "source": "AI Times"
+    },
+    {
+      "number": "09",
       "title": "이모션웨이브, AI 기반 공간 미디어 플랫폼 공개…日, XR·로보틱스 시장 진출 추진",
       "desc": "AI 인프라 전문기업 이모션웨이브(대표 장순철)가 일본에서 확장현실(XR) 기반 공간 미디어 플랫폼을 선보이고, 자체 인공지능(AI) 인프라 기술을 활용한 해외 사업 확대에 나섰다. 콘텐츠 제작과 처리, 서비스 운영을 연결하는 인공지능 인프라를 XR과 로보틱스 분...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42730",
       "source": "AI Times"
     },
     {
-      "number": "07",
+      "number": "10",
       "title": "구글, 한국 정밀지도 국외반출 보안조건 이행…정부, 좌표표시 제거·군사시설 영상처리 확인",
       "desc": "구글이 한국의 1:5000 축척 정밀지도 국외반출 허가에 따라 부과된 보안조건을 이행한 것으로 확인됐다. 구글 맵스(Google Maps)와 구글 어스(Google Earth)에서 대한민국 영토의 경·위도 좌표 표시를 제거하고, 군사·보안시설의 영상 노출을 제한하...",
       "link": "https://www.aitimes.kr/news/articleView.html?idxno=42729",
-      "source": "AI Times"
-    },
-    {
-      "number": "08",
-      "title": "구글 박사 펠로우십, 세계 38개국 AI 연구자 148명에 1,300만달러 지원…한국, KAIST·서울대·POSTECH 연구자 3명 선정",
-      "desc": "구글이 전 세계 38개국의 인공지능(AI) 및 컴퓨터과학 분야 박사과정 연구자 148명을 새롭게 선정하고, 총 1,300만달러(약 174억원) 규모의 연구 지원에 나선다.AI 기초이론과 차세대 컴퓨팅 기술뿐 아니라 의료, 기후변화, 식량 안보, 정보 접근성 등 사...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42728",
-      "source": "AI Times"
-    },
-    {
-      "number": "09",
-      "title": "KAIST, 입모양만 보고 대화 읽는 AI 정확도 높였다…단어 오류율 19.4% 달성",
-      "desc": "국내 연구진이 소리 없이 입술의 움직임만으로 상대방의 말을 읽어내는 인공지능(AI)의 정확도를 높이는 기술을 개발했다.문장을 처음부터 순서대로 해석하는 기존 방식에서 벗어나, 입모양이 명확한 단어부터 인식하고 모호한 부분은 앞뒤 문맥을 활용해 해독하는 새로운 접근...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42726",
-      "source": "AI Times"
-    },
-    {
-      "number": "10",
-      "title": "한일경제연대, AI·반도체 공동개발부터 경제공동체까지…2045년 목표 3단계 로드맵 제시",
-      "desc": "한국과 일본이 인공지능(AI)과 반도체, 핵심광물 등 첨단산업 협력을 확대하고 2045년까지 단계적으로 경제연대를 제도화하는 중장기 로드맵을 제시했다. 양국의 기술적 강점을 결합해 글로벌 공급망 경쟁에 대응하고, 피지컬 AI와 디지털 무역 등 새로운 산업 분야에서...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42725",
       "source": "AI Times"
     }
   ]
