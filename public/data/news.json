@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T04:04:28.404Z",
+  "lastUpdated": "2026-11-19T04:00:56.150Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "영국, 경찰 실시간 얼굴인식 법제화 추진…AI 감시 확대와 기본권 보호 충돌",
-      "desc": "영국 정부가 경찰의 실시간 얼굴인식 기술을 비롯한 생체인식 감시 기술의 활용을 법률로 규율하는 방안을 추진하고 있다. 인공지능(AI) 기반 얼굴인식 기술이 범죄 예방과 치안 활동에 활용되는 가운데 시민의 이동과 표현, 집회, 사생활의 자유를 침해할 수 있다는 우려...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42784",
+      "title": "앤트로픽, 기업공개 공모가 11만원 확정…108조원 규모 초대형 상장",
+      "desc": "앤트로픽(Anthropic)은 18일(현지시간) 기업공개(IPO) 공모가를 당초 제시한 희망 공모가격인 주당 70~78달러를 웃도는 83달러(약 11만원)로 확정하고, 공모주식 수도 확대해 총 9억8000만주, 약 813억4000만달러(약 108조원) 규모의 초대...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42797",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "하사비스의 AI 신약 개발에 6조6천억원  몰렸다…아이소모픽 랩스, 신약 설계 넘어 임상 개발 가속",
-      "desc": "구글 딥마인드(Google DeepMind)에서 출범한 인공지능(AI) 신약 개발 기업 아이소모픽 랩스(Isomorphic Labs)가 50억 달러(약 6.6조원) 규모의 시리즈 C 투자 유치에 성공했다. AI 기반 신약 설계 기술을 고도화하는 동시에 자체 신약 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42783",
+      "title": "엔비디아, 오픈소스 기반 피지컬 AI 데이터 제작 자동화…학습 데이터 생성 최대 60배 가속",
+      "desc": "엔비디아(NVIDIA)가 오픈소스 기술과 에이전틱 AI를 결합해 피지컬 AI(Physical AI) 학습 데이터 제작 시간을 최대 60배 단축하고, 자율주행용 희귀 상황 데이터 생성 비용을 기존 방식의 약 45분의 1로 낮춘 성능 평가 결과를 18일(현지시간) 공...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42796",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "사티아 나델라, “AI 블랙박스 용납 못 해”…AI 에이전트 행동 독립 검증·통제 표준 추진",
-      "desc": "마이크로소프트의 사티아 나델라(Satya Nadella) 회장 겸 최고경영자(CEO)가 인공지능(AI) 모델의 내부 작동과 판단 과정을 확인하기 어려운 ‘블랙박스’ 문제를 강하게 비판하며, AI 에이전트의 행동을 독립적으로 검증하고 통제할 수 있는 새로운 기술 표...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42782",
+      "title": "오픈AI, AI가 보안망 뚫자 훈련 중단…인터넷 격리·35초 긴급 정지 체계 공개",
+      "desc": "오픈AI(OpenAI)는 내부 인공지능(AI) 연구 모델이 보안 취약점을 이용해 외부 인터넷에 접근한 사실을 확인한 뒤 고성능 AI 모델의 훈련과 평가를 약 12일간 중단한 사례를 18일(현지시간) 공개하고, 연구·훈련부터 내부 배포와 외부 서비스 제공에 이르는 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42795",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "구글, 나를 닮은 AI 영상 아바타 무료 제공…개인 영상 제작 문턱 낮춘다",
-      "desc": "구글이 자신의 외모와 목소리를 반영한 인공지능 아바타를 만들어 영상에 활용할 수 있는 기능을 개인 이용자에게 무료로 개방했다. 별도의 촬영 장비나 복잡한 영상 제작 과정 없이 디지털 아바타를 활용해 콘텐츠를 제작할 수 있도록 지원하면서 생성형 AI 기반 영상 제작...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42781",
+      "title": "이스트소프트, AI 더빙으로 K-콘텐츠 중남미 5개국 진출…2년간 300시간 현지화",
+      "desc": "이스트소프트가 인공지능(AI) 더빙 기술을 활용해 한국 방송 콘텐츠의 중남미 시장 진출을 확대하고 있다. 2년간 300시간 분량의 콘텐츠를 현지화하고, 중남미 5개국에 한국 콘텐츠를 제공하는 FAST 채널 2개를 개설했다.AI 서비스 기업 이스트소프트(대표 정상원...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42794",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "초장문 AI 추론 병목 줄이는 ‘희소 어텐션’ 설계법 공개…엔비디아, GPU 연산 효율 최적화",
-      "desc": "엔비디아(NVIDIA)가 수십만 토큰의 장문 데이터를 처리하는 대형언어모델(LLM)의 추론 효율을 높이기 위한 ‘희소 어텐션(Sparse Attention)’ 설계 지침을 공개했다. 기존 어텐션 연산에서 발생하는 막대한 계산량을 줄이는 동시에 그래픽처리장치(GPU...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42780",
+      "title": "ETRI, 서버 메모리 한계 넘는 공유 기술 개발…448GB 서버로 1.8TB 유전체 분석 성공",
+      "desc": "인공지능 확산으로 데이터센터의 메모리 확보 비용이 증가하는 가운데, 국내 연구진이 여러 서버에 분산된 유휴 메모리를 공유해 개별 서버의 물리적 메모리 한계를 극복하는 기술을 미국 대규모 고성능컴퓨팅(HPC) 환경에 적용했다. 서버에 메모리를 추가 장착하지 않고도 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42793",
       "source": "AI Times"
     }
   ]
