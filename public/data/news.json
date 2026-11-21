@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T03:54:12.319Z",
+  "lastUpdated": "2026-11-21T03:50:51.305Z",
   "totalCount": 10,
   "news": [
     {
@@ -39,37 +39,37 @@
     },
     {
       "number": "06",
-      "title": "정부, AI 데이터센터 전력 규제 완화…비수도권 50MW 이하 영향평가 면제",
-      "desc": "정부가 AI 산업의 핵심 인프라인 인공지능 데이터센터(AIDC)의 구축 속도를 높이기 위해 전력계통영향평가 제도를 개선한다.비수도권에 들어서는 계약전력 50메가와트(MW) 이하 AI 데이터센터는 평가 대상에서 제외하고, AIDC 특구 내 시설에는 전력계통의 기술적...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42823",
+      "title": "\"AI 예측은 물리적 한계를 벗어나지 않는다\"…MIT, 혼돈계에서도 안정성 보장하는 머신러닝 기술 오픈소스로",
+      "desc": "매사추세츠공과대학교(MIT) 연구진이 기상과 기후, 난류처럼 예측하기 어려운 복잡한 물리 시스템에서 인공지능(AI)의 예측값이 비현실적으로 무한히 커지는 현상을 방지하는 머신러닝 기술을 개발하고, 새로운 프레임워크를 20일(현지시간) 공개했다.이 프레임워크는 신경...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42835",
       "source": "AI Times"
     },
     {
       "number": "07",
-      "title": "加 베이글 랩스, 로봇 제어 오픈 웨이트 AI 모델 세계 3위…GPT-6 아스트라 평가 점수 앞서",
-      "desc": "캐나다의 피지컬 AI 연구기업 베이글 랩스(Bagel Labs)가 19일(현지시간) 범용 로봇 제어 오픈 웨이트 AI 모델 '베이글 로보틱스 1(Bagel-Robotics-1)'을 허깅페이스(다운)를 통해 공개하고, 로보도조(RoboDojo) 시뮬레이션 벤치마크의...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42822",
+      "title": "英 보건사회복지부·교육부, 아동·성인 돌봄에 AI 활용 지침 첫 발표…사회복지 행정업무 시간 63% 단축",
+      "desc": "영국 정부가 아동과 성인 사회복지 서비스에 인공지능(AI)을 안전하게 활용하기 위한 첫 범부문 지침을 20일(현지시간) 발표했다. 지방정부 시범사업에서는 AI 도입으로 사회복지사의 행정업무 시간이 63% 감소한 것으로 나타났다. 영국은 사례 기록과 정보 검색, 번...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42834",
       "source": "AI Times"
     },
     {
       "number": "08",
-      "title": "구글, 월드모델 '지니 4' API 공개…720p 가상세계 실시간 생성하고 자연어로 조작",
-      "desc": "구글이 인공지능(AI)으로 가상세계를 생성하고 실시간으로 탐색·조작할 수 있는 월드모델 '지니 4(Genie 4)'를 개발자용 응용프로그램 인터페이스(API)로 공개했다.구글은 18일(현지시간) 지니 4 모델을 발표한 데 이어 19일 제미나이 API(Gemini ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42821",
+      "title": "휴민랩스, 피지컬 AI에 4,700만달러 투자 유치…한국에 로봇 실증 인프라 구축",
+      "desc": "인간의 작업 경험을 로봇 학습 데이터로 전환하는 피지컬 AI(Physical AI) 스타트업 휴민랩스(Humyn Labs)가 벤처캐피털 액셀(Accel)이 주도한 4,700만달러(약 633억원) 규모의 시리즈 A 투자를 유치하고 한국을 포함한 글로벌 로봇 실증 인...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42833",
       "source": "AI Times"
     },
     {
       "number": "09",
-      "title": "제미나이, 맥 컴퓨터 직접 조작한다…파일·앱·웹 넘나드는 자율 AI 에이전트",
-      "desc": "구글의 AI 모델 제미나이에 애플의 맥(Mac) 컴퓨터의 애플리케이션과 웹사이트를 직접 조작하는 '컴퓨터 사용(Computer Use)' 기능을 도입했다. 사용자가 자연어로 업무를 지시하면 AI 에이전트가 로컬 파일과 데스크톱 프로그램, 웹사이트를 넘나들며 클릭과...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42820",
+      "title": "메타, 뇌 연구 데이터 2만5천시간으로 확대…원자 수준 신약·효소 시뮬레이션 연구 강화",
+      "desc": "메타(Meta)가 인간의 뇌를 연구하기 위한 데이터 확보 목표를 2만5,000시간으로 확대하고, 인공지능(AI)을 활용한 신약 개발과 원자 수준의 분자 시뮬레이션 연구를 강화한다. 뇌과학부터 화학, 재료과학, 수학에 이르는 과학 연구에 오픈소스 AI 모델과 데이터...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42832",
       "source": "AI Times"
     },
     {
       "number": "10",
-      "title": "AMD, 언슬로스 데스크톱용 세계 최초 NPU 구현…100개 이상 AI 에이전트 온디바이스 실행 지원",
-      "desc": "AMD가 인공지능(AI) 모델 실행 플랫폼인 언슬로스(Unsloth)와 협력해 PC에 내장된 신경망처리장치(NPU)에서 100개 이상의 AI 에이전트 애플리케이션과 워크플로가 로컬 AI 추론 기능을 이용할 수 있도록 지원한다. 클라우드 서버에 의존하지 않고 개인용...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42819",
+      "title": "오픈AI, AI 내부 추론 탈취 공격 성공률 54%에서 0.2%로…모델 무단 복제 방어 강화",
+      "desc": "오픈AI(OpenAI)가 인공지능(AI) 모델의 비공개 추론 정보를 탈취하는 공격에 대한 방어 체계를 강화해 내부 평가에서 공격 성공률을 54.0%에서 0.2%로 낮췄다. AI가 정답을 도출하는 과정에서 생성하는 추론 기록을 보호하고, 해당 정보를 이용해 고성능 ...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=42831",
       "source": "AI Times"
     }
   ]
